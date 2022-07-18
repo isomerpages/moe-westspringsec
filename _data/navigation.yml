@@ -22,7 +22,7 @@ links:
       - title: Terms of Use
         url: /permalink
       - title: Report Vulnerability
-        url: /permalink
+        url: https://www.tech.gov.sg/report_vulnerability
   - title: Programmes
     url: /permalink
     sublinks:
