@@ -16,7 +16,7 @@ Thank you for visiting **westspringsec.moe.edu.sg**. By accessing and using thi
 
 **Privacy Policy**
 
-5.  Click here to review this [Web Site Privacy Statement](https://westspringsec.moe.edu.sg/privacy-statement/).
+5.  Click here to review this [Web Site Privacy Statement](/Privacy-Statement)
 
 **Restrictions on Use of Materials**
 
