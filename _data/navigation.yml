@@ -1,6 +1,13 @@
 logo: /images/Homepage/Main-WestSpring-Logo-e1487732270379.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About us
+    url: /permalink
+    sublinks:
+      - title: School Vision, Mission, Motto
+        url: /permalink
+      - title: School History
+        url: /permalink
+      - title: School Crest and School Song
+        url: /permalink
+      - title: Principal’s Foreword
+        url: /permalink
