@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Co Curriculum/International Schools Immersion.md
       - Co Curriculum/Sports Safety.md
       - Co Curriculum/.keep
       - Academic.md
