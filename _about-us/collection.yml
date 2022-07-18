@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - WSSS Publications.md
       - Terms of Use.md
