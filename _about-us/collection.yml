@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Crest and School Song.md
       - Principal’s Foreword.md
       - School Leaders and Key Personnel.md
       - 2022 Subject Teachers.md
