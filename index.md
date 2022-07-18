@@ -23,4 +23,6 @@ sections:
       url: /permalink
       image: /images/Homepage/IMG-20220518-WA0124.png
       alt: Image alt text
+  - resources:
+      title: Featured Posts
 ---
