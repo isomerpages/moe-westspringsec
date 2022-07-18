@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Co Curriculum/Co Curriculum Activities (CCA).md
       - Co Curriculum/ICT Programme.md
       - Co Curriculum/International Schools Immersion.md
       - Co Curriculum/Sports Safety.md
