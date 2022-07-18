@@ -1,4 +1,5 @@
 collections:
   wsss-alumni:
     output: true
-    order: []
+    order:
+      - 2022.md
