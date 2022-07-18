@@ -4,25 +4,16 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: We welcome you to be part of our West Spring Family
 sections:
   - hero:
-      background: /images/hero-banner.png
-      url: /contact-us/
+      background: /images/Homepage/DSC_8378-Copy-1.png
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Announcements
+          description: Click here
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Bronze Award
+      description: North West Outstanding School Partner Award 2022
+      image: /images/Homepage/Bronze-Banner-2-WSSS-Partner-with-NWCDC-1-1-scaled.png
 ---
