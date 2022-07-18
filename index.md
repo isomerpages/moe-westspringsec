@@ -16,6 +16,7 @@ sections:
       title: Bronze Award
       description: North West Outstanding School Partner Award 2022
       image: /images/Homepage/Bronze-Banner-2-WSSS-Partner-with-NWCDC-1-1-scaled.png
+      alt: image alt text
   - infopic:
       title: SEA Games 2021 Gold
       description: Congratulations, Ms Teh Xiu Hong!
