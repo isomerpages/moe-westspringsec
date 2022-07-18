@@ -24,3 +24,5 @@ description: ""
 | 2019 	| The school was selected as one of the 28 pilot schools to embark on Full-Subject Based Banding. The school introduced its Student Leadership Development “TLC” (Take Charge, Lead by Example, Communicate) Approach to motivate all students to be effective leaders. 	|
 | 2020 	| The school celebrated its 20th Anniversary but was disrupted by COVID19. Nevertheless, the school managed to open its Heritage Wall, organise its School Excellence Ceremony as well as mount a 20km Anniversary Hike around Bukit Panjang Estate. 	|
 | 2021 	| As part of the Full-Subject Based Banding initiative, Secondary 1 classes were made up of students from the three courses; Mixed-Form Classes. This was to fulfil MOE’s key initiative of removing streaming at secondary level. Secondary 1 to 3 Students received their Personal Learning Device (PLD) to allow for effective use of ICT, and promoting the joy of learning. 	|
+
+![](/images/About%20us/School%20History/photo_6244632829635965408_y.png)
