@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Co Curriculum/Sports Safety.md
       - Co Curriculum/.keep
       - Academic.md
