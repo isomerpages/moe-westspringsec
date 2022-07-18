@@ -44,3 +44,5 @@ description: ""
 | Operations Manager 	| Mr Sukhmindar Singh 	| sukhmindar_singh@moe.edu.sg 	|
 | School Counsellor 	| Mdm Grace Pang 	| pang_nien_cherh_grace@moe.edu.sg 	|
 | Learning and Behavioural Support Officer 	| Mdm Kavita Padmanathan 	| kavitha_padmanathan@moe.edu.sg 	|
+
+For more information, please email us at [westspringss.moe.edu.sg](http://westspringss.moe.edu.sg/).
