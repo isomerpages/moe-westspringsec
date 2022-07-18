@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Success Stories/.keep
       - WSSS Publications.md
       - Terms of Use.md
