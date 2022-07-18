@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Co Curriculum/Direct Schools Admission.md
       - Co Curriculum/Learning for Life Programme.md
       - Co Curriculum/Co Curriculum Activities (CCA).md
       - Co Curriculum/ICT Programme.md
