@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Character and Citizenship Ed/.keep
       - Co Curriculum/Applied Learning Programme.md
       - Co Curriculum/Direct Schools Admission.md
       - Co Curriculum/Learning for Life Programme.md
