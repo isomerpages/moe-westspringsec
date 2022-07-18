@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Character and Citizenship Ed/Sexuality Education.md
       - Character and Citizenship Ed/Special Needs Programme.md
       - Character and Citizenship Ed/.keep
       - Co Curriculum/Applied Learning Programme.md
