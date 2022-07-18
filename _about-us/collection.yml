@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Success Stories/CCA Achievements.md
       - Success Stories/WSSS Alumni.md
       - Success Stories/.keep
       - WSSS Publications.md
