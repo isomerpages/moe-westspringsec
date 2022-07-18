@@ -49,3 +49,16 @@ links:
         url: /permalink
       - title: Cyber Wellness For Parents
         url: /permalink
+  - title: Students
+    url: /permalink
+    sublinks:
+      - title: Student Learning Space (SLS)
+        url: /permalink
+      - title: Google Classroom
+        url: /permalink
+      - title: Homebased Learning (HBL)
+        url: /permalink
+      - title: Teachers' Google Sites
+        url: /permalink
+      - title: School Library
+        url: /permalink
