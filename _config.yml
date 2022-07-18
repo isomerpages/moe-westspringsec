@@ -1,9 +1,9 @@
 title: Title
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/Homepage/WEST-SPRING-SEC-transparent-bg.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#d02302"
+  secondary-color: "#f56d23"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -52,3 +52,8 @@ plugins:
 staging: https://moe-westspringsec-staging.netlify.app
 prod: https://moe-westspringsec-prod.netlify.app
 resources_name: resource
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
