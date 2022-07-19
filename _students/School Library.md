@@ -26,3 +26,5 @@ a.     Search for ‘MySchoolLibrary’ in the App Store/Play Store.
 b.     Alternatively, scan the QR code indicated below to access the App Store/ Play Store and install the ‘MySchoolLibrary’ application.
 
 c.     Upon installing the mobile application, select your school library and log in with your OPAC borrower ID and password.
+
+![](/images/Students/School%20Library/photo_6249136429263336269_w.png)
