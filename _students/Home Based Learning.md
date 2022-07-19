@@ -6,8 +6,7 @@ description: ""
 ##### **Announcements for HBL 2022**
 
 1.  Please read these slides dated 13 Jan 2022. (Blended Learning consists of both HBL and SIL)  
-    [WSSS Blended Learning Slides for Students 2022](https://westspringsec.moe.edu.sg/wp-content/uploads/2022/01/WSSS-Blended-Learning-Slides-for-Students-2022.pdf)
-
+  [WSSS Blended Learning Slides for Students 2022](/files/Students/HBL/WSSS-Blended-Learning-Slides-for-Students-2022.pdf)
 **Learning Portals**
 
 Student Learning Space (SLS) : [learning.moe.edu.sg](http://learning.moe.edu.sg/)
