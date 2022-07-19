@@ -7,7 +7,7 @@ description: ""
 ---
 Resources from CCA briefing on 8 January will be posted on this webpage,
 
-[/co-curriculum-programme/co-curriculum-activities-cca/](https://westspringsec.moe.edu.sg/co-curriculum-programme/co-curriculum-activities-cca/)
+[/co-curriculum-programme/co-curriculum-activities-cca/](/programmes/Co-Curriculum/Co-Curriculum-Activities-CCA)
 
 Thank you.
 
