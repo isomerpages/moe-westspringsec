@@ -5,3 +5,10 @@ date: 2022-02-03
 layout: post
 description: ""
 ---
+Dear Sec 1 parents,
+
+Thank you for attending the Principal’s dialogue webinar last Saturday.
+
+This is the consolidated list of Q&A from the webinar.
+
+[2022 Sec 1 Principal’s Dialogue Q&A](https://westspringsec.moe.edu.sg/wp-content/uploads/2022/01/2022-Sec-1-Principals-Dialogue-QA-1.pdf)
