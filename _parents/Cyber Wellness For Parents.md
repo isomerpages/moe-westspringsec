@@ -36,8 +36,8 @@ To be updated in 2020
 
 Helping your child be discerning about online information
 
-[2019 T2 Parents Tip Sheet – Helping Your Child Be Discerning About Online Information](https://westspringsec.moe.edu.sg/wp-content/uploads/2019/05/2019-T2-Parents-Tip-Sheet-Helping-Your-Child-Be-Discerning-About-Online-Information.pdf)
+[2019 T2 Parents Tip Sheet – Helping Your Child Be Discerning About Online Information](/files/Parents/2019-T2-Parents-Tip-Sheet-Helping-Your-Child-Be-Discerning-About-Online-Information.pdf)
 
 Helping your child with appropriate online expression
 
-[2019 T1 Parents Tip Sheet – Helping Your Child With Appropriate Online Expression](https://westspringsec.moe.edu.sg/wp-content/uploads/2019/05/2019-T1-Parents-Tip-Sheet-Helping-Your-Child-With-Appropriate-Online-Expression.pdf)
+[2019 T1 Parents Tip Sheet – Helping Your Child With Appropriate Online Expression](/files/Parents/2019-T1-Parents-Tip-Sheet-Helping-Your-Child-With-Appropriate-Online-Expression.pdf)
