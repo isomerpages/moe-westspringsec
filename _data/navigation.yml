@@ -66,3 +66,5 @@ links:
     url: /permalink
   - title: Download Forms
     url: /permalink
+  - title: Parents' Information
+    resource_room: true
