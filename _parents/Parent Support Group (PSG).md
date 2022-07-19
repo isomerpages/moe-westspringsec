@@ -58,11 +58,30 @@ This was a great opportunity for our parents and students to do their part for t
 
 Parents and students showed grit, resilience and conquered their fear of heights in scaling up and abseiling down a 25-metre high Rock Wall. They also took part in the Canopy Sky Walker obstacle challenge where participants tackled a cargo net trail, broken bridge, island walk and flying fox challenge! 
 
-<img style="width:50%;height:50%" src="/images/Parents/Parent%20Support%20Group/Safra-Yishun-1.png">
-Safra Yishun 1
+
+
+
+
+<figure>
+
+<img  style="width:50%;height:50%" src="/images/Parents/Parent%20Support%20Group/Safra-Yishun-1.png">
+<figcaption>
+	<strong> Safra Yishun 1</strong>
+	
+</figcaption>
+
+</figure>
+
+
+<figure>
 
 <img style="width:50%;height:50%" src="/images/Parents/Parent%20Support%20Group/Safra-Yishun-2.png">
-Safra Yishun 2
+
+<figcaption> <strong> Safra Yishun 2</strong> </figcaption>
+
+</figure>
+
+
   
 
 ##### **ESCAPE ROOM HUNT**
