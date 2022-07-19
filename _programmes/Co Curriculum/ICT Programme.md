@@ -21,3 +21,27 @@ Related Information:
 <img style="width:50%;height:50%" src="/images/Co%20Curriculum/Laptop-225x300.png">
  
 <img style="width:50%;height:50%" src="/images/Co%20Curriculum/IMG_0568-300x225.png">
+
+
+#### **Lower Secondary ICT Programme**
+
+
+Deeper ICT Integration in Curriculum, Assessment & Pedagogy
+
+Our ICT Programme aims to:
+
+*   Integrate ICT as part of the learning environment.
+*   Incorporate ICT in assessment
+*   Address the need for acquisition of 21st century skills by getting teachers to embed new media literacies in their lessons .
+*   Integrate coding in curriculum, with the objectives of
+    *   Learning to code to spur the acquisition of 21st century skills such as creativity, computational thinking and problem solving skills which can be applied to many jobs.
+    *   Engaging our students and better prepare them for a future job market which is increasing filled with many computing jobs, especially girls who significantly show less interest in this area.
+
+2022 Code for Fun Programmes
+
+| Program 	| Level 	|
+|---	|---	|
+| CFF 28 Feb to 3 Mar 	| Sec 2 	|
+| Scratch Program in CPA 	| Sec 234 NT 	|
+
+For more information, please email us at [westspringss.moe.edu.sg](http://westspringss.moe.edu.sg/).
