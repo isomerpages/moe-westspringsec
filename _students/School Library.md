@@ -3,7 +3,7 @@ title: School Library
 permalink: /students/School-Library
 description: ""
 ---
-**School Library OPAC:** [https://schoolibrary.moe.edu.sg/westspringsec](https://schoolibrary.moe.edu.sg/westspringsec)   
+**School Library OPAC:**  [https://schoolibrary.moe.edu.sg/westspringsec](https://schoolibrary.moe.edu.sg/westspringsec)   
 **School eResource Repository:**   [https://schoolibrary.moe.edu.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME](https://schoolibrary.moe.edu.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 **New** ‘MySchoolLibrary’ Mobile App
 
