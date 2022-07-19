@@ -29,3 +29,12 @@ Our selection criteria, in general, are as follows:
 *   Interest and Passion: Applicants should demonstrate a keen interest in and passion for their respective talent areas
 *   Talent and Aptitude: Applicants should demonstrate evidence of talent and/or aptitude in their talent area
 *   Conduct and Attitude for Learning: Applicants should demonstrate evidence of good conduct in school, as well as a positive attitude for learning and demeanour
+
+![](/images/Co%20Curriculum/photo_6246884629449651082_w.png)
+![](/images/Co%20Curriculum/photo_6246884629449651085_w.png)
+![](/images/Co%20Curriculum/photo_6246884629449651087_w.png)
+![](/images/Co%20Curriculum/photo_6246884629449651088_w.png)
+![](/images/Co%20Curriculum/photo_6246884629449651089_w.png)
+![](/images/Co%20Curriculum/photo_6246884629449651090_w.png)
+
+For more information, please email us at [westspringss.moe.edu.sg](http://westspringss.moe.edu.sg/).
