@@ -13,7 +13,7 @@ The Singapore Student Learning Space (SLS) is accessible through the internet br
 
 Getting Started
 
-1.  Annex A: Read [Students’ Instructions and FAQs (updated 15 March 2018)](https://westspringsec.moe.edu.sg/wp-content/uploads/2018/03/Students-Instructions-and-FAQs-updated-15-March-2018.pdf)
+1.  Annex A: Read [Students’ Instructions and FAQs (updated 15 March 2018)](/files/Students/SLS/Students-Instructions-and-FAQs-updated-15-March-2018.pdf)
 2.  Annex B: Frequently Asked Questions (see below)
 
 **FREQUENTLY ASKED QUESTIONS**
