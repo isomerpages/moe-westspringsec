@@ -12,7 +12,7 @@ description: ""
 
 **Attachment:**
 
-[22.12.21\_Letter to S1 Parents\_Final3](https://westspringsec.moe.edu.sg/wp-content/uploads/2021/12/22.12.21_Letter-to-S1-Parents_Final3.pdf)
+[22.12.21\_Letter to S1 Parents\_Final3](/files/Parents'%20Information/Sec%201%202022%20Parents%20Consent/22%2012%2021_Letter-to-S1-Parents_Final3.pdf)
 
 Best regards
 
