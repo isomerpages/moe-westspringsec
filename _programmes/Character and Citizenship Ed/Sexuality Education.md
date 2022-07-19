@@ -17,8 +17,8 @@ MOE sexuality education covers the following areas:
 *   **Social**: Sexual norms and behaviour, and the legal, cultural and societal implications.
 *   **Ethical**: Values and moral systems related to sexuality.
 
-**Why have sexuality education?**
----------------------------------
+#### **Why have sexuality education?**
+
 
 Our children are growing up with a wide range of influences through the internet. Sexuality education aims to:
 
