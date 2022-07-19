@@ -76,3 +76,19 @@ Last update: 10 Mar 2022
 | 1 Sept 	| Teachers’ Day Celebration 	|
 
 ##### **Term 4**
+
+| Day / Date 	| Event / Activity 	|
+|---	|---	|
+| 12 – 15 Sept 	| GCE ‘O’ Level Preliminary Examination (Part 2) 	|
+| 12 – 22 Sept 	| GCE ‘N’ Level Examination (Part 1) 	|
+| 21 Sept 	| Sec 3Exp End-of-Year Examination EL Oral Day 1 	|
+| 23 Sept 	| Sec 3Exp End-of-Year Examination EL Oral Day 2 	|
+| 26 Sept 	| Sec 4/5 Valediction Ceremony 	|
+| 27 Sept 	| Sec 3Exp / 3NA OOS End-of-Year Examination MT Oral Day 1 	|
+| 30 Sept 	| Sec 3Exp / 3NA OOS End-of-Year Examination MT Oral Day 2 	|
+| 3 – 13 Oct 	| GCE ‘N’ Level Examination (Part 2) 	|
+| 27 Sept – 11 Nov 	| GCE ‘O Level Examination 	|
+| 3 -13 Oct 	| Sec 1 – 3 End of Year Examination 	|
+| 28 Oct 	| Sec 1 – 3 MTPS 	|
+
+Photo by Estée Janssens on Unsplash
