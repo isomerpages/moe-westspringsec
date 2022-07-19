@@ -9,3 +9,6 @@ In West Spring, we believe that every child has the potential to be a leader. Wi
 There are various leadership programmes and opportunities for our students to benefit from. At secondary 1, every student will be going through three leadership modules, each focusing on one of the three leadership principles in our leadership model. Secondary 2 students can look forward to undergo a student leadership training and a 2-day leadership day camp where they get to apply their leadership skills. Secondary 3 students will have the opportunity to take up leadership positions in the student council and CCAs to lead the rest of the student body.
 
 With ample leadership development programmes and opportunities, we believe that every West Spring student is a student leader!
+
+![](/images/CCE/photo_6246884629449651050_w.png)
+![](/images/CCE/photo_6246884629449651051_w.png)
