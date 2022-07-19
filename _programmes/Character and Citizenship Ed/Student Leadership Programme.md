@@ -12,3 +12,10 @@ With ample leadership development programmes and opportunities, we believe that 
 
 ![](/images/CCE/photo_6246884629449651050_w.png)
 ![](/images/CCE/photo_6246884629449651051_w.png)
+![](/images/CCE/photo_6246884629449651052_w.png)
+![](/images/CCE/photo_6246884629449651053_w.png)
+![](/images/CCE/photo_6246884629449651054_w.png)
+
+![](/images/CCE/photo_6246884629449651055_w.png)
+
+For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
