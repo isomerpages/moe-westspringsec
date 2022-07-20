@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Computer Applications Dpt/Computer Applications Department.md
       - Computer Applications Dpt/Elements of Business Skills Unit.md
       - Computer Applications Dpt/.keep
       - Craft and Tech Department/Craft and Tech Department.md
