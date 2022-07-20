@@ -21,7 +21,7 @@ sections:
       title: SEA Games 2021 Gold
       description: Congratulations, Ms Teh Xiu Hong!
       button: Read
-      url: /permalink
+      url: /wsss-alumni/2022
       image: /images/Homepage/IMG-20220518-WA0124.png
       alt: Image alt text
   - resources:
