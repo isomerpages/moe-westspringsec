@@ -19,7 +19,6 @@ School Values
 
 **Resilience, Respect,** **Responsibility****, Integrity, Care**
 
-* * *
 
 3 Strategic Thrusts
 
