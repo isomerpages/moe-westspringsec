@@ -9,8 +9,8 @@ Dear parents and students,
 
 Please refer to the attached documents for the Sec 1 to 3 Common Test 3 timetable and parent’s letter.
 
-[2020 S1 CT3 Timetable and Parent’s Letter](https://westspringsec.moe.edu.sg/wp-content/uploads/2020/07/2020-S1-CT3-Timetable-and-Parents-Letter.pdf)
+[2020 S1 CT3 Timetable and Parent’s Letter](/files/Parents'%20Information/Sec%201%20to%203%20Common%20Test%203%20TT%2020/2020-S1-CT3-Timetable-and-Parents-Letter.pdf)
 
-[2020 S2 CT3 Timetabe and Parent’s Letter](https://westspringsec.moe.edu.sg/wp-content/uploads/2020/07/2020-S2-CT3-Timetabe-and-Parents-Letter.pdf)
+[2020 S2 CT3 Timetable and Parent’s Letter](/files/Parents'%20Information/Sec%201%20to%203%20Common%20Test%203%20TT%2020/2020-S2-CT3-Timetabe-and-Parents-Letter.pdf)
 
-[2020 S3 CT3 Timetable and Parent’s Letter](https://westspringsec.moe.edu.sg/wp-content/uploads/2020/07/2020-S3-CT3-Timetable-and-Parents-Letter.pdf)
+[2020 S3 CT3 Timetable and Parent’s Letter](/files/Parents'%20Information/Sec%201%20to%203%20Common%20Test%203%20TT%2020/2020-S3-CT3-Timetable-and-Parents-Letter.pdf)
