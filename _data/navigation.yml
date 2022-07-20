@@ -35,10 +35,10 @@ links:
       - title: "Personal Learning Device "
         url: https://sites.google.com/moe.edu.sg/wssspdlp/home?authuser=0
   - title: Parents
-    url: /permalink
+    url: /resource/parents-information
     sublinks:
       - title: Parents’ Information
-        url: /permalink
+        url: /resource/parents-information
       - title: Parents App for Communication
         url: /permalink
       - title: Parent Support Group (PSG)
