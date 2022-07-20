@@ -4,7 +4,7 @@ permalink: /academic/Mother-Tongue-Chinese-Department
 description: ""
 ---
 |  	|  	|
-|---	|---	|
+| - | - |
 | Key Programmes 	| **(1) Enrichment Programmes**	|
 |  	| Chinese News Production and Journalism course for 1HCL students 	|
 |  	| News Reporting Programme for 2 HCL students 	|
