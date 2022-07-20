@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here
-          url: /privacy/
+          url: /resource/parents-information
   - infopic:
       title: Bronze Award
       description: North West Outstanding School Partner Award 2022
