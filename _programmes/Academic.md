@@ -20,3 +20,4 @@ For more information on our academic programmes, click on the following:
 9.  [Science Department](/academic/Science-Department)
 
 For more information, please email us at [westspringss.moe.edu.sg](http://westspringss.moe.edu.sg/).
+
