@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Mathematics Department/Mathematics Department.md
       - Mathematics Department/.keep
       - Mother Tongue (Chinese) Department.md
       - Mother Tongue (Malay) Department.md
