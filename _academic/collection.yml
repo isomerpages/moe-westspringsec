@@ -2,5 +2,6 @@ collections:
   academic:
     output: true
     order:
+      - Mother Tongue (Malay) Department.md
       - Physical Education Department.md
       - Science Department.md
