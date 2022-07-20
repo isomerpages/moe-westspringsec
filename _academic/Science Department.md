@@ -17,3 +17,5 @@ description: ""
 |  	| Achievement: 2 Gold medallist, 1 Silver medallist, 2 Honourable Mentions, 3 Merit participants 	|
 |  	| 2. University of New South Wales International Science REACH Assessment 2021 	|
 |  	| Achievement: 2 Exemplary (top 1% of all participants in Singapore), 11 Outstanding, 23 Commendable 	|
+
+For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
