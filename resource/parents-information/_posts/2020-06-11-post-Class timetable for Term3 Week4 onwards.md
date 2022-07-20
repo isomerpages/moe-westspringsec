@@ -11,7 +11,7 @@ The current timetable will run until 19 June.
 
 From 22 June onwards, please follow this new class timetable instead.
 
-[(Classes) 2020\_Timetable w.e.f 22 June (R3)](https://westspringsec.moe.edu.sg/wp-content/uploads/2020/06/Classes-2020_Timetable-w.e.f-22-June-R3.pdf)
+[(Classes) 2020\_Timetable w.e.f 22 June (R3)](/files/Parents'%20Information/Class%20TT%20for%20T3%20WK4%20onwards/Classes-2020_Timetable-wef-22-June-R3.pdf)
 
 **Note:**
 
