@@ -9,7 +9,7 @@ Dear Parents of Sec 1 students,
 
 Please click the link below for your child’s 2021 Class timetable.
 
-[Secondary 1 2021 Sem 1 Class TT](https://westspringsec.moe.edu.sg/wp-content/uploads/2020/12/Secondary-1-2021-Sem-1-Class-TT.pdf)
+[Secondary 1 2021 Sem 1 Class TT](/files/Parents'%20Information/2021%20Semester%201%20Class%20Time/Secondary-1-2021-Sem-1-Class-TT.pdf)
 
 Dear Sec 2 to 5 students,
 
