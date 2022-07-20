@@ -9,7 +9,7 @@ For more information on our academic programmes, click on the following:
     *   [Elemets of Business Skills Unit](/academic/Computer-Applications-Dpt/Elements-of-Business-Skills-Unit)
 2.  [Craft and Tech Department](/academic/Craft-and-Tech-Department/Craft-and-Tech-Department)
     *  [Art Unit](/academic/Craft-and-Tech-Department/Art-Unit)
-    *   [Nutrition & Food Science Unit](https://westspringsec.moe.edu.sg/academic-programme/1633-2/nutrition-and-food-science-unit/)
+    *   [Nutrition & Food Science Unit](/academic/Craft-and-Tech-Department/Nutrition-and-Food-Science-Unit)
 3.  [English Language & Literature Department](https://westspringsec.moe.edu.sg/academic/english-language-and-literature-department/)
 4.  [Humanities Department](https://westspringsec.moe.edu.sg/academic/humanities-department/)
 5.  [Mathematics Department](https://westspringsec.moe.edu.sg/academic/mathematics-department/)
