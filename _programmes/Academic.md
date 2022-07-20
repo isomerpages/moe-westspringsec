@@ -14,7 +14,7 @@ For more information on our academic programmes, click on the following:
 4. [Humanities Department](/academic/Humanities-Department)
 5. [Mathematics Department](/academic/Mathematics-Department/Mathematics-Department)
     *  [Principles of Accounts Unit](/academic/Mathematics-Department/Principles-of-Accounts-Unit)
-6.  [Mother Tongue (Chinese) Department](https://westspringsec.moe.edu.sg/academic/chinese-language-department/)
+6.  [Mother Tongue (Chinese) Department](/academic/Mother-Tongue-Chinese-Department)
 7.  [Mother Tongue (Malay) Department](https://westspringsec.moe.edu.sg/academic/malay-language-department/)
 8.  [Physical Education Department](https://westspringsec.moe.edu.sg/academic/physical-education-department/)
 9.  [Science Department](https://westspringsec.moe.edu.sg/academic/science-department/)
