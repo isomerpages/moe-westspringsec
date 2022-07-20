@@ -10,7 +10,7 @@ For more information on our academic programmes, click on the following:
 2.  [Craft and Tech Department](/academic/Craft-and-Tech-Department/Craft-and-Tech-Department)
     *  [Art Unit](/academic/Craft-and-Tech-Department/Art-Unit)
     *   [Nutrition & Food Science Unit](/academic/Craft-and-Tech-Department/Nutrition-and-Food-Science-Unit)
-3.  [English Language & Literature Department](https://westspringsec.moe.edu.sg/academic/english-language-and-literature-department/)
+3.  [English Language and Literature Department](/academic/English-Language-and-Literature-Department)
 4.  [Humanities Department](https://westspringsec.moe.edu.sg/academic/humanities-department/)
 5.  [Mathematics Department](https://westspringsec.moe.edu.sg/academic/mathematics-department/)
     *   [Principles of Accounts Unit](https://westspringsec.moe.edu.sg/academic-programme/mathematics-department/principles-of-accounts-unit/)
