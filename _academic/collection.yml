@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Craft and Tech Department/Nutrition & Food Science Unit.md
       - Craft and Tech Department/.keep
       - English Language & Literature Department.md
       - Humanities Department.md
