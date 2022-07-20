@@ -5,7 +5,7 @@ description: ""
 ---
 For more information on our academic programmes, click on the following:
 
-1.  [Computer Applications Department](https://westspringsec.moe.edu.sg/academic/computer-applications-department/)
+1.  [Computer Applications Department](/academic/Computer-Applications-Dpt/Computer-Applications-Department)
     *   [Elements of Business Skills Unit](https://westspringsec.moe.edu.sg/academic-programme/computer-applications-department/elements-of-business-skills-unit/)
 2.  [Craft and Tech Department](https://westspringsec.moe.edu.sg/academic-programme/1633-2/)
     *   [Art Unit](https://westspringsec.moe.edu.sg/academic-programme/1633-2/art-unit/)
