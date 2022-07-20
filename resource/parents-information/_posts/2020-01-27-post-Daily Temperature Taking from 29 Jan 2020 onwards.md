@@ -13,7 +13,7 @@ While teachers actively look out for students’ well-being, please ensure your 
 
 If your child has returned from mainland China on 15 Jan or later, he/she will be placed on Leave of Absence (LOA) for a period of **14 days**, starting from the first day after return. For example, if your child returns to Singapore on **28 Jan (Tue)**, the LOA would last from **29 Jan to 11 Feb**, with the date of return to school being **12 Feb (Wed)**.
 
-![Loa](https://westspringsec.moe.edu.sg/wp-content/uploads/2020/01/LOA-300x300.jpg)
+![](/images/Parents'%20Information/Daily%20Temp%20Taking%2029%20Jan%2020/LOA.png)
 
 Students on LOA will be supported by home-based learning assigned by the school.  If you have any queries on LOA, you can call the school office at 68920369.
 
