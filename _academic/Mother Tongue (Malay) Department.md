@@ -4,7 +4,7 @@ permalink: /academic/Mother-Tongue-Malay-Department
 description: ""
 ---
 |  	|  	|
-|---	|---	|
+| - | - |
 | Key Programmes 	| **Language & Cultural Immersion Programme** 	|
 |  	| Organised for Secondary 1 Malay language students, this programme provided a platform for the students to get to know their classmates in the same cohort whilst engaging in fun ‘kampung’ activities. Through activities such as ‘kampung’ games, an introduction to Malay traditional food and exposure to the arts such as batik painting, the programme aimed to enliven the Malay spirit in the hearts of West Spring ladies and gentlemen. 	|
 |  	| **Hari Raya Celebration** 	|
