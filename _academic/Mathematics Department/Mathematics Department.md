@@ -13,3 +13,5 @@ third_nav_title: Mathematics Department
 |  	| Individual Category – Naike Chan Tiao Yong (Sec 4F/2021) ranked 14th 	|
 |  	| All Singapore Secondary Mathematics Competition for Normal Course Students 2020 (Upper Secondary Normal Academic Team Category) 	|
 |  	| Certificate of Participation – Siow Mei Ting, Naike Chan Tiao Yong, Nigel Chen Yixuan (Sec 4F/2021) 	|
+
+For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
