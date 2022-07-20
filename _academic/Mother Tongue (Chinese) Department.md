@@ -24,3 +24,15 @@ description: ""
 | Achievements & highlights of 2021 	| Create your own Newspaper Competition (编采比赛)： 1 Upper Sec Group from Sec 3 HCL. Literature in Chinese Camp 	|
 |  	| Recital Competition (朗诵比赛): 1 Lower Sec individual category (Sec 1G) and 1 Lower Sec Group Category (Sec 1P) 	|
 |  	| 47th National Schools Translation Competition “CREATIVITY, NO BOUNDARIES!” NATIONAL CHILDREN’S STORY WRITING COMPETITION 	|
+
+![](/images/Academic/Chinese%20Language%20Department/photo_6248794326528275305_w.png)
+
+![](/images/Academic/Chinese%20Language%20Department/photo_6248794326528275306_w.png)
+
+![](/images/Academic/Chinese%20Language%20Department/photo_6248794326528275307_w.png)
+
+![](/images/Academic/Chinese%20Language%20Department/photo_6248794326528275308_w.png)
+
+![](/images/Academic/Chinese%20Language%20Department/photo_6248794326528275309_w.png)
+
+For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/)
