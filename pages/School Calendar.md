@@ -26,7 +26,8 @@ Last update: 10 Mar 2022
 | 25 Feb 	| SEA Ceremony (Part 1) 	|
 | 28 Feb 	| Sec 4NT Mid-Year Examination EL Oral 	|
 | 28 Feb 	| Sec 4NA Mid-Year Examination EL Oral 	|
-| 2 Mar 	| Sec 4E/5N Mid-Year Examination EL Oral Day 1 	|| 4 Mar 	| Sec 4E/5N Mid-Year Examination EL Oral Day 2 	| |
+| 2 Mar 	| Sec 4E/5N Mid-Year Examination EL Oral Day 1 	|  
+| 4 Mar 	| Sec 4E/5N Mid-Year Examination EL Oral Day 2 	| |
 | 7 Mar 	| Sec 2 & 4/5 HBL Day 5 	|
 | 11 Mar 	| SEA Ceremony (Part 2)  Sec 4 and 5 MTPS 	|
 | 14 Mar 	| Sec 3 NRIC Registration 	|
