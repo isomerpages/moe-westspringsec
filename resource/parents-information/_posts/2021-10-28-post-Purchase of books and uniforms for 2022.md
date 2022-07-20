@@ -17,20 +17,20 @@ You can also view the FAQs for online purchase here – [https://asencio.com.sg
 
 Soft copies of booklists:
 
-[WSSS Booklist 2022 (S1)](https://westspringsec.moe.edu.sg/wp-content/uploads/2021/10/West-Spring-Secondary-School-2022-S1.pdf)
+[WSSS Booklist 2022 (S1)](/files/Parents'%20Information/Purchase%20of%20B%20and%20U%20for%202022/West-Spring-Secondary-School-2022-S1.pdf)
 
-[WSSS Booklist 2022 (S2)](https://westspringsec.moe.edu.sg/wp-content/uploads/2021/10/West-Spring-Secondary-School-2022-S2.pdf)
+[WSSS Booklist 2022 (S2)](/files/Parents'%20Information/Purchase%20of%20B%20and%20U%20for%202022/West-Spring-Secondary-School-2022-S2.pdf)
 
-[WSSS Booklist 2022 (3E)](https://westspringsec.moe.edu.sg/wp-content/uploads/2021/10/West-Spring-Secondary-School-2022-3E.pdf)
+[WSSS Booklist 2022 (3E)](/files/Parents'%20Information/Purchase%20of%20B%20and%20U%20for%202022/West-Spring-Secondary-School-2022-3E.pdf)
 
-[WSSS Booklist 2022 (3NA)](https://westspringsec.moe.edu.sg/wp-content/uploads/2021/10/West-Spring-Secondary-School-2022-3NA.pdf)
+[WSSS Booklist 2022 (3NA)](/files/Parents'%20Information/Purchase%20of%20B%20and%20U%20for%202022/West-Spring-Secondary-School-2022-3NA.pdf)
 
-[WSSS Booklist 2022 (3NT)](https://westspringsec.moe.edu.sg/wp-content/uploads/2021/10/West-Spring-Secondary-School-2022-3NT.pdf)
+[WSSS Booklist 2022 (3NT)](/files/Parents'%20Information/Purchase%20of%20B%20and%20U%20for%202022/West-Spring-Secondary-School-2022-3NT.pdf)
 
-[WSSS Booklist 2022 (4E)](https://westspringsec.moe.edu.sg/wp-content/uploads/2021/10/West-Spring-Secondary-School-2022-4E.pdf)
+[WSSS Booklist 2022 (4E)](/files/Parents'%20Information/Purchase%20of%20B%20and%20U%20for%202022/West-Spring-Secondary-School-2022-4E.pdf)
 
-[WSSS Booklist 2022 (4NA)](https://westspringsec.moe.edu.sg/wp-content/uploads/2021/10/West-Spring-Secondary-School-2022-4NA.pdf)
+[WSSS Booklist 2022 (4NA)](/files/Parents'%20Information/Purchase%20of%20B%20and%20U%20for%202022/West-Spring-Secondary-School-2022-4NA.pdf)
 
-[WSSS Booklist 2022 (4NT)](https://westspringsec.moe.edu.sg/wp-content/uploads/2021/10/West-Spring-Secondary-School-2022-4NT.pdf)
+[WSSS Booklist 2022 (4NT)](/files/Parents'%20Information/Purchase%20of%20B%20and%20U%20for%202022/West-Spring-Secondary-School-2022-4NT.pdf)
 
-[WSSS Booklist 2022 (5NA)](https://westspringsec.moe.edu.sg/wp-content/uploads/2021/10/West-Spring-Secondary-School-2022-5NA.pdf)
+[WSSS Booklist 2022 (5NA)](/files/Parents'%20Information/Purchase%20of%20B%20and%20U%20for%202022/West-Spring-Secondary-School-2022-5NA.pdf)
