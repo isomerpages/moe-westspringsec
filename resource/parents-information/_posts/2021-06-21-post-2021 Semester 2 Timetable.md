@@ -9,7 +9,7 @@ Dear Parents and students,
 
 Please click the link below for 2021 Semester 2 Class timetable.
 
-[2021 Sem 2 Class Timetable](https://westspringsec.moe.edu.sg/wp-content/uploads/2021/06/2021-Sem-2-Class-Timetable.pdf)
+[2021 Sem 2 Class Timetable](/files/Parents'%20Information/2021%20Semester%202%20Timetable/2021-Sem-2-Class-Timetable.pdf)
 
 The timetable has also been emailed to the students’ GAFE accounts.
 
