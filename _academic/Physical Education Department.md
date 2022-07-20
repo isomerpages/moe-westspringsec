@@ -4,7 +4,7 @@ permalink: /academic/Physical-Education-Department
 description: ""
 ---
 |  	|  	|
-|---	|---	|
+| - | - |
 | **Dept Name** 	| **Physical Education** 	|
 | Key Programmes 	| Secondary One Resilience Camp @ Jalan Bahtera 	|
 |  	| Secondary Two Resilience Camp @ Sarimbun 	|
