@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Humanities Department.md
       - Mathematics Department/.keep
       - Mathematics Department/Mathematics Department.md
       - Mathematics Department/Principles of Accounts Unit.md
