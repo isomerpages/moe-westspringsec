@@ -10,6 +10,6 @@ presented by the Speak Good English Movement and The Straits Times.
 
 Thank you.
 
-![Inspiring Teachers Award](https://westspringsec.moe.edu.sg/wp-content/uploads/2020/02/Inspiring-Teachers-Award.jpg)
+![](/images/Parents'%20Information/Inspiring%20Teacher%20Eng%20Award%2020/Inspiring-Teachers-Award.png)
 
 Inspiring Teachers Award
