@@ -16,7 +16,7 @@ description: ""
 | Chinese Language 	| Mrs Doris Chong 	| teong_soh_cheow@moe.edu.sg 	|
 | Chinese Language 	| Dr Yee Wai Seng 	| yee_wai_seng@moe.edu.sg 	|
 | Chinese Language 	| Ms Tong Hui Min 	| tong_hui_min@moe.edu.sg 	|
-| Chinese Language 	| Mdm Yam Voon Chin 	| yam_voon_chin@moe.edu.sgchen_suzhen@moe.edu.sg 	|
+| Chinese Language 	| Mdm Yam Voon Chin 	| yam_voon_chin@moe.edu.sg 	|
 | Computer Applications 	| Mdm Sherry Liew 	| liew_geok_may_sherry@moe.edu.sg 	|
 | Design and Technology 	| Mr Robert Teoh 	| teoh_hock_huat@moe.edu.sg 	|
 | Design and Technology 	| Mr Wong Weng Heng 	| wong_weng_heng@moe.edu.sg 	||
