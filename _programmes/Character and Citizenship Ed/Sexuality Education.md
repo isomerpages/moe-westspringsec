@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /programmes/Character-and-Citizenship-Ed/Sexuality-Education
+permalink: /programmes/Character-and-Citizenship-Ed/Sexuality-Education/
 description: ""
 third_nav_title: Character and Citizenship Ed
 ---
@@ -39,7 +39,6 @@ The 6 guiding principles of sexuality education are:
 *   Students and teachers are to respect the different attitudes, values and beliefs that different communities may have.
 *   Relevant community resources that are aligned and approved by MOE may be used to supplement schools’ programme.
 
-You may [Click here](https://www.moe.gov.sg/page%20not%20found?item=%2feducation%2fprogrammes%2fsocial-and-emotional-learning%2fsexuality-education&user=extranet%5cAnonymous&site=moe-website) for more information on MOE Sexuality Education.
 
 _**eTeens (For Secondary 3 students only)**_
 
