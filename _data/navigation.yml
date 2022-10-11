@@ -1,13 +1,68 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Homepage/Main-WestSpring-Logo-e1487732270379.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About us
+    url: /about-us/School-Vision-Mission-Motto
+    sublinks:
+      - title: School Vision, Mission, Motto
+        url: /about-us/School-Vision-Mission-Motto
+      - title: School History
+        url: /about-us/School-History
+      - title: School Crest and School Song
+        url: /about-us/School-Crest-and-School-Song
+      - title: Principal’s Foreword
+        url: /about-us/Principal-Foreword
+      - title: School Leaders & Key Personnel
+        url: /about-us/School-Leaders-and-Key-Personnel
+      - title: 2022 Subject Teachers
+        url: /about-us/2022-Subject-Teachers
+      - title: Success Stories
+        url: /about-us/Success-Stories/CCA-Achievements
+      - title: WSSS Publications
+        url: /about-us/WSSS-Publications
+      - title: Terms of Use
+        url: /about-us/Terms-of-Use
+      - title: Report Vulnerability
+        url: https://www.tech.gov.sg/report_vulnerability
+  - title: Programmes
+    url: /programmes/Character-and-Citizenship-Ed/Character-and-Citizenship-Education
+    sublinks:
+      - title: Character & Citizenship Ed
+        url: /programmes/Character-and-Citizenship-Ed/Character-and-Citizenship-Education
+      - title: Co-Curriculum
+        url: /programmes/Co-Curriculum/Applied-Learning-Programme
+      - title: Academic
+        url: /programmes/Academic
+      - title: "Personal Learning Device "
+        url: https://sites.google.com/moe.edu.sg/wssspdlp/home?authuser=0
+  - title: Parents
+    url: /resource/parents-information
+    sublinks:
+      - title: Parents’ Information
+        url: /resource/parents-information
+      - title: Parents App for Communication
+        url: /parents/Parents-Gateway-App-for-Communication
+      - title: Parent Support Group (PSG)
+        url: /permalink/parents/Parent-Support-Group-PSG
+      - title: Personal Learning Device
+        url: https://sites.google.com/moe.edu.sg/wssspdlp/home?authuser=0
+      - title: Schoolbag.sg
+        url: https://www.schoolbag.sg/
+      - title: Cyber Wellness For Parents
+        url: //parents/Cyber-Wellness-For-Parents
+  - title: Students
+    url: /students/Student-Learning-Space-SLS
+    sublinks:
+      - title: Student Learning Space (SLS)
+        url: /students/Student-Learning-Space-SLS
+      - title: Google Classroom
+        url: https://classroom.google.com/u/0/
+      - title: Homebased Learning (HBL)
+        url: /students/Home-Based-Learning
+      - title: Teachers' Google Sites
+        url: https://sites.google.com/moe.edu.sg/wssshbl
+      - title: School Library
+        url: /students/School-Library
+  - title: School Calendar
+    url: /School-Calendar
+  - title: Download Forms
+    url: /Download-Forms

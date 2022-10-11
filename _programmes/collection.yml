@@ -1,0 +1,21 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Character and Citizenship Ed/Character and Citizenship Education.md
+      - Character and Citizenship Ed/Cyber Wellness Programme.md
+      - Character and Citizenship Ed/Education and Career Guidance Programme.md
+      - Character and Citizenship Ed/Student Development Programme.md
+      - Character and Citizenship Ed/Student Leadership Programme.md
+      - Character and Citizenship Ed/Sexuality Education.md
+      - Character and Citizenship Ed/Special Needs Programme.md
+      - Character and Citizenship Ed/.keep
+      - Co Curriculum/Applied Learning Programme.md
+      - Co Curriculum/Direct Schools Admission.md
+      - Co Curriculum/Learning for Life Programme.md
+      - Co Curriculum/Co Curriculum Activities (CCA).md
+      - Co Curriculum/ICT Programme.md
+      - Co Curriculum/International Schools Immersion.md
+      - Co Curriculum/Sports Safety.md
+      - Co Curriculum/.keep
+      - Academic.md

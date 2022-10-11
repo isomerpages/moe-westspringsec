@@ -1,0 +1,7 @@
+collections:
+  students:
+    output: true
+    order:
+      - Student Learning Space (SLS).md
+      - Home Based Learning.md
+      - School Library.md

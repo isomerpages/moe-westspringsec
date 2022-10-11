@@ -1,32 +1,29 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Title
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: We welcome you to be part of our West Spring Family
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Homepage/DSC_8378-Copy-1.png
+      key_highlights:
+        - title: Announcements
+          description: Click here
+          url: /resource/parents-information
+  - infopic:
+      title: Bronze Award
+      description: North West Outstanding School Partner Award 2022
+      image: /images/Homepage/Bronze-Banner-2-WSSS-Partner-with-NWCDC-1-1-scaled.png
+      alt: image alt text
+  - infopic:
+      title: SEA Games 2021 Gold
+      description: Congratulations, Ms Teh Xiu Hong!
+      button: Read
+      url: /wsss-alumni/2022
+      image: /images/Homepage/IMG-20220518-WA0124.png
+      alt: Image alt text
+  - resources:
+      title: Featured Posts
 ---
-
