@@ -23,7 +23,4 @@ There are 3 Cyber Wellness key messages that we hope to impart to our students:
 In January 2022, the Secondary One students attended a Cyber Wellness workshop, conducted by TOUCH Cyber Wellness. At this workshop, through games and case studies, our students learnt more about engaging the digital space, Internet and gaming addiction.
 
 During the March holiday, the Secondary Two and Three Peer Support Leaders (PSLs) came together, over two days, to prepare for a Cyber Wellness CCE lesson, which they would facilitate in their respective classes during Cyber Wellness Week in Term 2. Using resources that were given to them, our PSLs brainstormed for activities and games that they could carry out in class so as to provide an enriching Cyber Wellness lesson for their classmates. ICT tools such as Mentimeter and Kahoot were used to engage the students. Working together to facilitate a CCE lesson helped to improve the confidence of our PSLs and contribute to their leadership training.
-
-**Peer Support Leaders (PSLs) in action**
-
 ng)
