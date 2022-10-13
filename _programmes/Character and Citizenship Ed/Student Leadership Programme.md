@@ -10,12 +10,6 @@ There are various leadership programmes and opportunities for our students to be
 
 With ample leadership development programmes and opportunities, we believe that every West Spring student is a student leader!
 
-![](/images/CCE/photo_6246884629449651050_w.png)
-![](/images/CCE/photo_6246884629449651051_w.png)
-![](/images/CCE/photo_6246884629449651052_w.png)
-![](/images/CCE/photo_6246884629449651053_w.png)
-![](/images/CCE/photo_6246884629449651054_w.png)
-
-![](/images/CCE/photo_6246884629449651055_w.png)
+![](/images/CCE/SLC%20Table.jpg)
 
 For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
