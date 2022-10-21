@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: West Spring Secondary School
-description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+description: Official school website of West Spring Secondary School
+image: /images/WEST SPRING SEC - HiRes Sch Crest.jpg
 permalink: /
 notification: We welcome you to be part of our West Spring Family
 sections:
@@ -27,4 +27,5 @@ sections:
   - resources:
       title: Featured Posts
 ---
+
 
