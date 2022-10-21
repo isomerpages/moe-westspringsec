@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - English Language and Literature.md
       - Computer Applications Dpt/Computer Applications Department.md
       - Computer Applications Dpt/Elements of Business Skills Unit.md
       - Computer Applications Dpt/.keep
