@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: West Spring Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -27,3 +27,4 @@ sections:
   - resources:
       title: Featured Posts
 ---
+
