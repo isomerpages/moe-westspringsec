@@ -23,8 +23,9 @@ Here are some useful resources to help you as parents to reinforce Cyber Wellne
  Resources for parents include:
  
  1. Cyber Wellness for your child 
+ 
  [Cyber Wellness Parents Kit]()
-
+ 
 2. Helping your child be discerning about online information
 
 [Helping Your Child Be Discerning About Online Information](/files/Parents/2019-T2-Parents-Tip-Sheet-Helping-Your-Child-Be-Discerning-About-Online-Information.pdf)
@@ -32,3 +33,9 @@ Here are some useful resources to help you as parents to reinforce Cyber Wellne
 3. Helping your child with appropriate online expression
 
 [Helping Your Child With Appropriate Online Expression](/files/Parents/2019-T1-Parents-Tip-Sheet-Helping-Your-Child-With-Appropriate-Online-Expression.pdf)
+
+4. A parent's guide to to keeping children safe and smart online
+
+[Safe and Smart Online Parenting]()
+
+4.
