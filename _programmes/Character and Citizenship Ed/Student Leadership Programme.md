@@ -10,6 +10,6 @@ There are various leadership programmes and opportunities for our students to be
 
 With ample leadership development programmes and opportunities, we believe that every West Spring student is a student leader!
 
-[](/files/CCE/Student%20Leadership%20Structure_2023.pdf)
+[Student Leadership Structure 2023](/files/CCE/Student%20Leadership%20Structure_2023.pdf)
 
 For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
