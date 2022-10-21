@@ -4,7 +4,7 @@ title: West Spring Secondary School
 description: Official school website of West Spring Secondary School
 image: /images/WEST SPRING SEC - HiRes Sch Crest.jpg
 permalink: /
-notification: We welcome you to be part of our West Spring Family
+notification: Happy Deepavali to our Hindu friends!
 sections:
   - hero:
       background: /images/Homepage/DSC_8378-Copy-1.png
@@ -12,6 +12,7 @@ sections:
         - title: Announcements
           description: Click here
           url: /resource/parents-information
+      title: West Spring Secondary School
   - infopic:
       title: Bronze Award
       description: North West Outstanding School Partner Award 2022
@@ -27,5 +28,3 @@ sections:
   - resources:
       title: Featured Posts
 ---
-
-

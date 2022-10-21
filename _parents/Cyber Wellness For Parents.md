@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness For Parents
-permalink: /parents/Cyber-Wellness-For-Parents
+permalink: /parents/Cyber-Wellness-For-Parents/
 description: ""
 ---
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. Cyber Wellness also involves being a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.
@@ -22,22 +22,19 @@ Here are some useful resources to help you as parents to reinforce Cyber Wellne
 
  Resources for parents include:
  
- | Media Literacy Council 	|    Clique Click – Bringing Up Children in the Digital Age How to Be a Savvy Digital Parent   [http://www.medialiteracycouncil.sg/Resources/Pages/parents.aspx](http://www.medialiteracycouncil.sg/Resources/Pages/parents.aspx) 	|
-|---	|---	|
-|  C-Quest 	|  C-Quest is specially created mobile app game to facilitate meaningful parent-child conversations on online experiences. Together with your child, you will explore various cyber wellness issues and help your child to navigate cyber space skilfully and safely.  **Available for download from the App Store and Play Store** 	|
-|  notAnoobie 	| One stop app by Singtel and TOUCH Cyber Wellness to help parents understand about cyber issues.  [http://notanoobie.com.sg](http://notanoobie.com.sg)/  **Available for download from the App Store and Play Store** 	|
-|  ICT Connection 	| A MOE website that offers a list of guides, tips, resources and useful links to for access. [ https://ictconnection.moe.edu.sg/cyber-wellness/for-parents]( https://ictconnection.moe.edu.sg/cyber-wellness/for-parents) 	|
+ 1. Cyber Wellness for your child 
+ 
+ [Cyber Wellness Parents Kit]()
+ 
+2. Helping your child be discerning about online information
 
-**Latest Parents Tip Sheet**
+[Helping Your Child Be Discerning About Online Information](/files/Parents/2019-T2-Parents-Tip-Sheet-Helping-Your-Child-Be-Discerning-About-Online-Information.pdf)
 
-To be updated in 2020
+3. Helping your child with appropriate online expression
 
-**Past Parents Tip Sheet**
+[Helping Your Child With Appropriate Online Expression](/files/Parents/2019-T1-Parents-Tip-Sheet-Helping-Your-Child-With-Appropriate-Online-Expression.pdf)
 
-Helping your child be discerning about online information
+4. A parent's guide to to keeping children safe and smart online
 
-[2019 T2 Parents Tip Sheet – Helping Your Child Be Discerning About Online Information](/files/Parents/2019-T2-Parents-Tip-Sheet-Helping-Your-Child-Be-Discerning-About-Online-Information.pdf)
+[Safe and Smart Online Parenting]()
 
-Helping your child with appropriate online expression
-
-[2019 T1 Parents Tip Sheet – Helping Your Child With Appropriate Online Expression](/files/Parents/2019-T1-Parents-Tip-Sheet-Helping-Your-Child-With-Appropriate-Online-Expression.pdf)
