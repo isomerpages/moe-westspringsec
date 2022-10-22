@@ -6,15 +6,15 @@ colors:
   secondary-color: "#f5a623"
   media-colors:
     - title: media-color-one
-      color: "#f8e71c"
+      color: "#4a90e2"
     - title: media-color-two
-      color: "#8b572a"
+      color: "#4a4ee2"
     - title: media-color-three
-      color: "#d0021b"
+      color: "#2f02d0"
     - title: media-color-four
-      color: "#f57e23"
+      color: "#9013fe"
     - title: media-color-five
-      color: "#f57823"
+      color: "#bd10e0"
 description: Official school website of West Spring Secondary School
 permalink: none
 baseurl: ""
