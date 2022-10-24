@@ -1,6 +1,6 @@
 ---
 title: Co Curriculum Activities (CCA)
-permalink: /programmes/Co-Curriculum/Co-Curriculum-Activities-CCA
+permalink: /programmes/Co-Curriculum/Co-Curriculum-Activities-CCA/
 description: ""
 third_nav_title: Co Curriculum
 ---
@@ -12,13 +12,9 @@ _**2022 CCA Activity Schedule**_
 
 Please click [2022 CCA Activity Days](/files/Co%20Curriculum/2022-CCA-Activity-Days.pdf) for the schedule. Thank you.
 
-_**2022 CCA Trial for Secondary 1**_
-
-Please [click here for the registration form](https://form.gov.sg/#!/61cc17f66c60da0012adcbf0)
-
 _**Videos**_
 
-_**Click the links below to watch our special e-orientation CCA videos**_
+_Click the links below to watch our special e-orientation CCA videos_
 
 _**Performing Arts**_
 
