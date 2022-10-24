@@ -12,7 +12,7 @@ sections:
         - title: Parents' Information
           description: Click here
           url: /resource/parents-information
-      subtitle: West Spring Secondary School
+      title: West Spring Secondary School
   - infopic:
       title: Bronze Award
       description: North West Outstanding School Partner Award 2022
