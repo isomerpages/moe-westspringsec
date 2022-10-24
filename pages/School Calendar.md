@@ -1,6 +1,6 @@
 ---
 title: School Calendar
-permalink: /School-Calendar
+permalink: /School-Calendar/
 description: ""
 ---
 ##### **2022**
@@ -90,6 +90,4 @@ Last update: 10 Mar 2022
 | 3 – 13 Oct 	| GCE ‘N’ Level Examination (Part 2) 	|
 | 27 Sept – 11 Nov 	| GCE ‘O Level Examination 	|
 | 3 -13 Oct 	| Sec 1 – 3 End of Year Examination 	|
-| 28 Oct 	| Sec 1 – 3 MTPS 	|
-
-Photo by Estée Janssens on Unsplash
+| 28 Oct 	| Sec 1 – 3 MTPS 	| Last day of school

@@ -1,8 +1,9 @@
 ---
 title: Privacy Statement
-permalink: /Privacy-Statement
+permalink: /Privacy-Statement/
 description: ""
 ---
+
 **WEST SPRING SECONDARY SCHOOL PRIVACY STATEMENT**
 
 1.  This is a West Spring Secondary School website. Thank you for examining our privacy statement.

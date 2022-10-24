@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group (PSG)
-permalink: /parents/Parent-Support-Group-PSG
+permalink: /parents/Parent-Support-Group-PSG/
 description: ""
 ---
 ### **WELCOME TO WSSS PSG! [Click here to join us!](https://docs.google.com/forms/d/1rMwviyMa7disZRz_yHCfSYKPnVLT49Jd2poAKJfnDAo/edit?chromeless=1)**
