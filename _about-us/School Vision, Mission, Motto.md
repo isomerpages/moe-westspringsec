@@ -1,6 +1,6 @@
 ---
 title: School Vision, Mission, Motto
-permalink: /about-us/School-Vision-Mission-Motto
+permalink: /about-us/School-Vision-Mission-Motto/
 description: ""
 ---
 School Vision
@@ -24,12 +24,12 @@ School Values
 
 **ST1 Character Excellence**
 
-Key outcome: Responsible and confident leader who is willing to serve the community.
+Responsible and confident leaders who are willing to serve the community.
 
 **ST2 Learning Excellence**
 
-Key outcome: Resilient learners who are eligible to progress to the next phase of education.
+Resilient learners who are eligible to progress to the next phase of education.
 
 **ST3 Staff Excellence**
 
-Key outcome: Staff positively engaged and developed to effectively nurture their pupils into Ladies and Gentlemen in pursuit of Education.
+Staff who are positively engaged and developed to effectively nurture their pupils into Ladies and Gentlemen of Character and Learning.

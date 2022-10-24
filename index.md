@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: West Spring Secondary School
+title: West Spring Secondary School - Official School Website
 description: Official school website of West Spring Secondary School
 image: /images/WEST SPRING SEC - HiRes Sch Crest.jpg
 permalink: /
@@ -9,17 +9,17 @@ sections:
   - hero:
       background: /images/Homepage/DSC_8378-Copy-1.png
       key_highlights:
-        - title: Announcements
+        - title: Parents' Information
           description: Click here
           url: /resource/parents-information
-      title: West Spring Secondary School
+      subtitle: West Spring Secondary School
   - infopic:
       title: Bronze Award
       description: North West Outstanding School Partner Award 2022
       image: /images/Homepage/Bronze-Banner-2-WSSS-Partner-with-NWCDC-1-1-scaled.png
-      alt: image alt text
+      alt: School Partner Award Banner
   - infopic:
-      title: SEA Games 2021 Gold
+      title: SEA Games 2021 Gold!
       description: Congratulations, Ms Teh Xiu Hong!
       button: Read
       url: /wsss-alumni/2022

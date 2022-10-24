@@ -1,12 +1,11 @@
 ---
 title: WSSS Publications
-permalink: /about-us/WSSS-Publications
+permalink: /about-us/WSSS-Publications/
 description: ""
 ---
-#### **West Spring Yearbook**
+#### **West Spring Yearbooks**
 
-![](/images/About%20us/WSSS%20Publications/photo_6244632829635965433_w.png)
-| West Spring Yearbook 2021 	|[ WSSS 20th Anniversary Book 2020](/files/About%20Us/WSSS%20Publications/West-Spring-Secondary-20th-Anniversary-Book-2020.pdf) | WSSS Yearbook 2019 |
-
-##### **WESTories Publication 2021**
-[WESTories](https://drive.google.com/file/d/1y3D21ifz11XUJLz_P9XpZ7rzvh4difXb/view)
+[Yearbook 2021](https://anyflip.com/ufohq/xemo/)
+ | [20th Anniversary Yearbook 2020](https://anyflip.com/ufohq/jqiv/) | [Yearbook 2019](https://anyflip.com/ufohq/ohyk/) | [Yearbook 2018](https://anyflip.com/ufohq/lcaj/) | [Yearbook 2017](https://anyflip.com/ufohq/ntjh/)
+##### **WESTories Publication**
+[WESTories 2022](https://anyflip.com/ufohq/djfd/)
