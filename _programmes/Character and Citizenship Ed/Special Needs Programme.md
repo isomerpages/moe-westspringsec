@@ -1,6 +1,6 @@
 ---
 title: Special Needs Programme
-permalink: /programmes/Character-and-Citizenship-Ed/Special-Needs-Programme
+permalink: /programmes/Character-and-Citizenship-Ed/Special-Needs-Programme/
 description: ""
 third_nav_title: Character and Citizenship Ed
 ---
@@ -12,4 +12,8 @@ Our AED-LBS supports students with Special Educational Needs by employing the fo
 
 ![](/images/CCE/SEN-chart.png)
 
-TSNs are trained with deeper knowledge and skills to better support students with mild special educational needs in our school. TSNs of West Spring are able to plan instruction, adapt and differentiate the instructional strategies to meet the needs of diverse learners in our school. We also aim to build the capacity of our fellow teachers in our school on the strategies and resources to support students with special educational needs in their classes.
+TSNs are trained with deeper knowledge and skills to better support students with mild special educational needs in our school. TSNs of West Spring are able to plan instruction, adapt and differentiate the instructional strategies to meet the needs of diverse learners in our school. We also aim to build the capacity of our fellow teachers in our school on the strategies and resources to support students with special 
+educational needs.
+
+For more information, please email us at [westspringss@moe.edu.sg]
+
