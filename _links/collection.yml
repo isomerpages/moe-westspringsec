@@ -2,5 +2,6 @@ collections:
   links:
     output: true
     order:
+      - For Teachers.md
       - For Parents.md
       - For Students.md
