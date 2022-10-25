@@ -19,7 +19,6 @@ MOE sexuality education covers the following areas:
 
 #### **Why have sexuality education?**
 
-
 Our children are growing up with a wide range of influences through the internet. Sexuality education aims to:
 
 *   Support students in managing their physiological, social and emotional changes as they grow up and develop healthy relationships.
@@ -48,4 +47,6 @@ _eTeens_ for Secondary 3 students is developed by the Health Promotion Board in
 *   Abstinence, and how to avoid contracting STIs and HIV.
 *   Skills on making responsible decisions, being assertive and how to say “no” to sexual advances and resist peer pressure.
 
-You may [Click here](/files/CCE/eteens-programme-2017.pdf) for more information on _eTeens_ programme.
+You may [click here](/files/CCE/eteens-programme-2017.pdf) for more information.
+
+For more information, please email us at [westspringss@moe.edu.sg]on _eTeens_ programme.
