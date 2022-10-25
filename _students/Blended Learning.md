@@ -13,7 +13,9 @@ Student Learning Space (SLS) : [learning.moe.edu.sg](http://learning.moe.edu.sg
 
 Google Classroom: Access from your student iCON dashboard. (Please make sure that you are signed in to your Student iCON account.)
 
-Students’ HBL website: [https://sites.google.com/moe.edu.sg/wssshbl](https://sites.google.com/moe.edu.sg/wssshbl) (Please make sure that you are signed in to your Student iCON account to view the site.)
+Students’ HBL website: https://sites.google.com/moe.edu.sg/wsssbl/home
+
+(Please make sure that you are signed in to your Student iCON account to view the site.)
 
 **Student iCON**
 
