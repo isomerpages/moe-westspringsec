@@ -29,3 +29,5 @@ Here are some useful resources to help you as parents to reinforce Cyber Wellne
 2. A parent's guide to to keeping children safe and smart online
 
 [Safe and Smart Online Parenting]()
+
+For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
