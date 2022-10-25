@@ -2,8 +2,9 @@
 title: ICT Programme
 permalink: /programmes/Co-Curriculum/ICT-Programme/
 description: ""
-third_nav_title: Co Curricular
+third_nav_title: The Co Curriculum
 ---
+
 
 Technology and technological advancements have given rise to profound changes in society, transforming how we access and process information, how we communicate with others and how we work and solve problems. Here at West Spring, we leverage on the affordances of ICT (Information & Communication Technology) and focus on building our students’ experience by integrating technology in our lessons. At lower secondary, students gain exposure to coding and video production skills.
 

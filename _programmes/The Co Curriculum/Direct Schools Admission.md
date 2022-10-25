@@ -2,8 +2,9 @@
 title: Direct Schools Admission
 permalink: /programmes/Co-Curriculum/Direct-Schools-Admission/
 description: ""
-third_nav_title: Co Curricular
+third_nav_title: The Co Curriculum
 ---
+
 
 **Direct School Admission**
 

@@ -2,8 +2,9 @@
 title: Applied Learning Programme
 permalink: /programmes/Co-Curriculum/Applied-Learning-Programme/
 description: ""
-third_nav_title: Co Curricular
+third_nav_title: The Co Curriculum
 ---
+
 
 **ALP Objective: for students to be critical media consumers and competent media producers**
 

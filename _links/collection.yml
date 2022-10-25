@@ -1,0 +1,8 @@
+collections:
+  links:
+    output: true
+    order:
+      - For Parents.md
+      - For Students.md
+      - For Teachers.md
+      - Admission.md

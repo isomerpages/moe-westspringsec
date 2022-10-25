@@ -1,9 +1,9 @@
 ---
-title: Home Based Learning
-permalink: /students/Home-Based-Learning
+title: Blended Learning
+permalink: /students/Blended-Learning/
 description: ""
 ---
-##### **Announcements for HBL 2022**
+##### **Announcements for Blended Learning 2022**
 
 1.  Please read these slides dated 13 Jan 2022. (Blended Learning consists of both HBL and SIL)  
   [WSSS Blended Learning Slides for Students 2022](/files/Students/HBL/WSSS-Blended-Learning-Slides-for-Students-2022.pdf)
@@ -13,7 +13,9 @@ Student Learning Space (SLS) : [learning.moe.edu.sg](http://learning.moe.edu.sg
 
 Google Classroom: Access from your student iCON dashboard. (Please make sure that you are signed in to your Student iCON account.)
 
-Students’ HBL website: [https://sites.google.com/moe.edu.sg/wssshbl](https://sites.google.com/moe.edu.sg/wssshbl) (Please make sure that you are signed in to your Student iCON account to view the site.)
+Students’ HBL website: https://sites.google.com/moe.edu.sg/wsssbl/home
+
+(Please make sure that you are signed in to your Student iCON account to view the site.)
 
 **Student iCON**
 

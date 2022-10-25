@@ -2,8 +2,9 @@
 title: Co Curricular Activities (CCA)
 permalink: /programmes/Co-Curricular/Co-Curricular-Activities-CCA/
 description: ""
-third_nav_title: Co Curricular
+third_nav_title: The Co Curriculum
 ---
+
 
 
 

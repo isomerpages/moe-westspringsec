@@ -2,8 +2,9 @@
 title: Learning for Life Programme
 permalink: /programmes/Co-Curriculum/Learning-for-Life-Programme/
 description: ""
-third_nav_title: Co Curricular
+third_nav_title: The Co Curriculum
 ---
+
 
 ##### **Focus of West Spring LLP STAR**
 
