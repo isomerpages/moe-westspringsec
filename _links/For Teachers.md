@@ -3,21 +3,21 @@ title: For Teachers
 permalink: /links/for-teachers/
 description: ""
 ---
-[iCON](https://workspace.google.com/dashboard)
+<a href="https://workspace.google.com/dashboard" target="_blank">iCON Sign-in</a>
 
-[Student Learning Space ](https://www.learning.moe.edu.sg/sls/index.html)
+<a href="https://westspringsec.moe.edu.sg/programmes/co-curriculum/direct-schools-admission/" target="_blank">Student Learning Space (SLS)</a>
 
-[SC Mobile](https://scmobile.moe.edu.sg/login)
+<a href="https://scmobile.moe.edu.sg/login" target="_blank">SC Mobile</a>
 
-[School Cockpit](https://schoolcockpit.moe.gov.sg/)
+<a href="https://schoolcockpit.moe.gov.sg/" target="_blank">School Cockpit</a>
 
-[iExams](https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient)
+<a href="https://iexams.seab.gov.sg/sso/login?service=https%3A%2F%2Fiexams.seab.gov.sg%2Fsso%2Foauth2.0%2FcallbackAuthorize%3Fclient_id%3Diexams2-prod%26redirect_uri%3Dhttps%253A%252F%252Fiexams.seab.gov.sg%252Fiexams2%252Flogin%252Foauth2%252Fcode%252Fiexams2-prod%26response_type%3Dcode%26client_name%3DCasOAuthClient" target="_blank">iExams</a>
 
-[FIGI Booking System](http://w3067sadmw00772.schools.moe.edu.sg/figi/)
+<a href="http://w3067sadmw00772.schools.moe.edu.sg/figi/" target="_blank">FIGI Booking System</a>
 
-[Parents Gateway](https://pg.moe.edu.sg/)
+<a href="https://pg.moe.edu.sg/" target="_blank">Parents Gateway</a>
 
-[Forms SG](https://form.gov.sg/)
+<a href="https://form.gov.sg/" target="_blank">FormSG</a>
 
 [All Ears Form Builder](https://forms.moe.edu.sg/)
 
