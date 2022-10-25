@@ -2,7 +2,7 @@ collections:
   links:
     output: true
     order:
-      - Admission.md
       - For Parents.md
       - For Students.md
       - For Teachers.md
+      - Admission.md
