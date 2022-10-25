@@ -5,7 +5,7 @@ description: ""
 ---
 <a href="https://workspace.google.com/dashboard" target="_blank">iCON Sign-in</a>
 
-<a href="https://westspringsec.moe.edu.sg/programmes/co-curriculum/direct-schools-admission/" target="_blank">Student Learning Space (SLS)</a>
+<a href="https://www.learning.moe.edu.sg/sls/index.html" target="_blank">Student Learning Space (SLS)</a>
 
 <a href="https://scmobile.moe.edu.sg/login" target="_blank">SC Mobile</a>
 
@@ -32,5 +32,3 @@ description: ""
 <a href="https://www.myskillsfuture.gov.sg/content/portalg/en/index.html" target="_blank">My Skills Future Portal</a>
 
 <a href="https://www.hrp.gov.sg/hrp/#/" target="_blank">HRP Portal</a>
-
-
