@@ -1,9 +1,12 @@
 ---
-title: Co Curriculum Activities (CCA)
-permalink: /programmes/Co-Curriculum/Co-Curriculum-Activities-CCA
+title: Co Curricular Activities (CCA)
+permalink: /programmes/Co-Curricular/Co-Curricular-Activities-CCA/
 description: ""
-third_nav_title: Co Curriculum
+third_nav_title: Co Curricular
 ---
+
+
+
 _**LEAPS 2.0**_
 
 LEAPS 2.0 is a framework to recognise secondary school students’ holistic development. Students will be recognised with levels of attainment in four domains: Participation, Achievement, Leadership and Service. Refer to : [LEAPS 2.0 MOE Circular for parents](/files/Co%20Curriculum/LEAPS%202%200%20MOE%20Circular%20for%20parents.pdf)
@@ -12,13 +15,9 @@ _**2022 CCA Activity Schedule**_
 
 Please click [2022 CCA Activity Days](/files/Co%20Curriculum/2022-CCA-Activity-Days.pdf) for the schedule. Thank you.
 
-_**2022 CCA Trial for Secondary 1**_
-
-Please [click here for the registration form](https://form.gov.sg/#!/61cc17f66c60da0012adcbf0)
-
 _**Videos**_
 
-_**Click the links below to watch our special e-orientation CCA videos**_
+_Click the links below to watch our special e-orientation CCA videos_
 
 _**Performing Arts**_
 

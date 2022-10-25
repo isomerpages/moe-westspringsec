@@ -1,9 +1,10 @@
 ---
 title: ICT Programme
-permalink: /programmes/Co-Curriculum/ICT-Programme
+permalink: /programmes/Co-Curriculum/ICT-Programme/
 description: ""
-third_nav_title: Co Curriculum
+third_nav_title: Co Curricular
 ---
+
 Technology and technological advancements have given rise to profound changes in society, transforming how we access and process information, how we communicate with others and how we work and solve problems. Here at West Spring, we leverage on the affordances of ICT (Information & Communication Technology) and focus on building our students’ experience by integrating technology in our lessons. At lower secondary, students gain exposure to coding and video production skills.
 
 To equip students to face the rapidly changing demands of the 21st century, West Spring deploys the use of Google Apps for Education to create a real-world environment filled with opportunities for students’ collaboration and communication.

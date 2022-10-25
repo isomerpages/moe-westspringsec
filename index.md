@@ -14,18 +14,6 @@ sections:
           url: /resource/parents-information
       title: West Spring Secondary School
       subtitle: Shaping Character | Engaging Learners | Touching Lives
-  - infopic:
-      title: Bronze Award
-      description: North West Outstanding School Partner Award 2022
-      image: /images/Homepage/Bronze-Banner-2-WSSS-Partner-with-NWCDC-1-1-scaled.png
-      alt: School Partner Award Banner
-  - infopic:
-      title: SEA Games 2021 Gold!
-      description: Congratulations, Ms Teh Xiu Hong!
-      button: Read
-      url: /wsss-alumni/2022
-      image: /images/Homepage/IMG-20220518-WA0124.png
-      alt: Image alt text
   - resources:
       title: Featured Posts
 ---

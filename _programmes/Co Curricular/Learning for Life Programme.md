@@ -2,8 +2,9 @@
 title: Learning for Life Programme
 permalink: /programmes/Co-Curriculum/Learning-for-Life-Programme/
 description: ""
-third_nav_title: Co Curriculum
+third_nav_title: Co Curricular
 ---
+
 ##### **Focus of West Spring LLP STAR**
 
 To inculcate in our students the values of **S**portsmanship, **T**eamwork **A**nd **R**esilience (STAR) through sports and music
