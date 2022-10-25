@@ -62,9 +62,9 @@ links:
         url: https://sites.google.com/moe.edu.sg/wssshbl
       - title: School Library
         url: /students/School-Library
+  - title: Links
+    collection: links
   - title: School Calendar
     url: /School-Calendar
   - title: Download Forms
     url: /Download-Forms
-  - title: Links
-    collection: links
