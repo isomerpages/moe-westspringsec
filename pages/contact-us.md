@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: West Spring Secondary School
+agency_name: us
 locations:
   - address:
       - 61 Senja Road

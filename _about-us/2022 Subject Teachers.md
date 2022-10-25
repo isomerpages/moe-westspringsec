@@ -1,6 +1,6 @@
 ---
 title: 2022 Subject Teachers
-permalink: /about-us/2022-Subject-Teachers
+permalink: /about-us/2022-Subject-Teachers/
 description: ""
 ---
 | Department 	| Subject Teacher 	| Email 	|
@@ -84,7 +84,7 @@ description: ""
 | Physical Education, Elements of Business Skills 	| Mr Wang Wade 	| wang_wade_fengyin@moe.edu.sg 	|
 | Physical Education 	| Mdm Eve Tan 	| tan_poh_yun_evelyn@moe.edu.sg 	|
 | Principles of Accounts 	| Mdm Charlotte Chua 	| chua_soh_chin_charlotte@moe.edu.sg 	|
-| Principles of Accounts 	| Mrs Juliet Tan 	| juliet_tan@moe.edu.sg 	|
+| Principles of Accounts 	| Mrs Juliet Tan 	| juliet_chan@moe.edu.sg 	|
 | Science 	| Mdm Ho Soo Yin 	| ho_soo_yin@moe.edu.sg 	|
 | Science 	| Mdm Sharena Bte Mohamed 	| sharena_mohamed@moe.edu.sg 	|
 | Science 	| Mdm Siti Anisah 	| siti_anisah_abdul_rahim@moe.edu.sg 	|

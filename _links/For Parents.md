@@ -3,16 +3,8 @@ title: For Parents
 permalink: /links/for-parents/
 description: ""
 ---
-[Parent Support Group](https://westspringsec.moe.edu.sg/permalink/parents/Parent-Support-Group-PSG)
+<a href="https://www.msf.gov.sg/Pages/default.aspx" target="_blank">Ministry of Social and Family Development</a>
 
-[Ministry of Social and Family Development (MSF)](https://www.msf.gov.sg/Pages/default.aspx)
-
-[FamilyMatters!](https://www.msf.gov.sg/media-room/Pages/FamilyMatters-Factsheet.aspx)
+<a href="https://westspringsec.moe.edu.sg/programmes/co-curriculum/direct-schools-admission/" target="_blank">FamilyMatters!</a>
 
 [Sec 1 Principal's Dialogue Q&A](/files/2022-Sec-1-Principals-Dialogue-QA-1.pdf)
-
-
-
-
- 
-
