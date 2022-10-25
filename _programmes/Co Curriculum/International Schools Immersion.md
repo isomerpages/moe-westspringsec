@@ -8,5 +8,3 @@ At West Spring Secondary School, we believe in the value of overseas learning tr
 
 There are various opportunities for our students to participate in different types of overseas learning trips. Each trip has different and specific learning objectives, and seeks to provide our students a broad and holistic educational experience beyond the classroom.
 
-![](/images/Co%20Curriculum/photo_6246884629449651117_w.png)
-![](/images/Co%20Curriculum/photo_6246884629449651119_w.png)
