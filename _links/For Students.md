@@ -13,4 +13,4 @@ description: ""
 
 <a href="https://schoolibrary.moe.edu.sg/westspringsec" target="_blank">School Library OPAC</a>
 
-<a href="[https://tinyurl.com/pdlphelp](https://www.google.com/url?q=https%3A%2F%2Ftinyurl.com%2Fpdlphelp&sa=D&sntz=1&usg=AOvVaw3R4BbZNhpJhWrfBCq7UFFT)" target="_blank">ICT Helpdesk</a>
+<a href="https://tinyurl.com/pdlphelp" target="_blank">ICT Helpdesk</a>
