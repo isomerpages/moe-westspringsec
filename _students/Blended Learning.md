@@ -3,8 +3,7 @@ title: Blended Learning
 permalink: /students/Blended-Learning/
 description: ""
 ---
-
-##### **Announcements for HBL 2022**
+##### **Announcements for Blended Learning 2022**
 
 1.  Please read these slides dated 13 Jan 2022. (Blended Learning consists of both HBL and SIL)  
   [WSSS Blended Learning Slides for Students 2022](/files/Students/HBL/WSSS-Blended-Learning-Slides-for-Students-2022.pdf)
