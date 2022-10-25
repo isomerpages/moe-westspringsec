@@ -3,14 +3,14 @@ title: For Students
 permalink: /links/for-students/
 description: ""
 ---
-[West Spring Blended Learning](https://sites.google.com/moe.edu.sg/wsssbl/home)
+<a href="https://sites.google.com/moe.edu.sg/wsssbl/home" target="_blank">West Spring Blended Learning</a>
 
-[Student Learning Space (SLS)](https://www.learning.moe.edu.sg/sls/index.html)
+<a href="https://www.learning.moe.edu.sg/sls/index.html" target="_blank">Student Learning Space (SLS)</a>
 
-[Student iCON Sign-In](https://workspace.google.com/dashboard)
+<a href="https://workspace.google.com/dashboard" target="_blank">Student iCON Sign-in</a>
 
-[Google Classroom](https://classroom.google.com/)
+<a href="https://classroom.google.com/" target="_blank">Google Classroom</a>
 
-[School Library OPAC](https://schoolibrary.moe.edu.sg/westspringsec)
+<a href="https://schoolibrary.moe.edu.sg/westspringsec" target="_blank">School Library OPAC</a>
 
-[ICT Helpdesk](https://tinyurl.com/pdlphelp)
+<a href="[https://tinyurl.com/pdlphelp](https://www.google.com/url?q=https%3A%2F%2Ftinyurl.com%2Fpdlphelp&sa=D&sntz=1&usg=AOvVaw3R4BbZNhpJhWrfBCq7UFFT)" target="_blank">ICT Helpdesk</a>
