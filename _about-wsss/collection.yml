@@ -2,15 +2,15 @@ collections:
   about-wsss:
     output: true
     order:
-      - Our People/.keep
-      - Our People/School Management Committee.md
-      - Our People/School Staff.md
       - Vision, Mission, Values, Motto.md
       - School History.md
       - School Crest and School Song.md
       - Principal’s Foreword.md
-      - Success Stories/Staff Achievements.md
+      - Our People/.keep
+      - Our People/School Management Committee.md
+      - Our People/School Staff.md
       - Success Stories/.keep
+      - Success Stories/Staff Achievements.md
       - Success Stories/CCA Achievements.md
       - Success Stories/WSSS Alumni.md
       - WSSS Publications.md
