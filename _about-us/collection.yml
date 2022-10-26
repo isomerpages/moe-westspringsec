@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Our People/2022 Subject Teachers.md
-      - Our People/School Leaders and Key Personnel.md
       - Our People/.keep
+      - Our People/School Leaders and Key Personnel.md
+      - Our People/2022 Subject Teachers.md
       - Vision, Mission, Values, Motto.md
       - School History.md
       - School Crest and School Song.md
