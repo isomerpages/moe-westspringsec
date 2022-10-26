@@ -2,7 +2,6 @@ collections:
   about-wsss:
     output: true
     order:
-      - WSSS Code of Conduct.md
       - Vision, Mission, Values, Motto.md
       - School History.md
       - School Crest and School Song.md
@@ -14,6 +13,7 @@ collections:
       - Our Achievements/Staff Achievements.md
       - Our Achievements/CCA Achievements.md
       - Our Achievements/WSSS Alumni.md
+      - WSSS Code of Conduct.md
       - WSSS Publications.md
       - Privacy Statement.md
       - Terms of Use.md
