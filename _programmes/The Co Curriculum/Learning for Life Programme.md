@@ -4,8 +4,6 @@ permalink: /programmes/Co-Curriculum/Learning-for-Life-Programme/
 description: ""
 third_nav_title: The Co Curriculum
 ---
-
-
 ##### **Focus of West Spring LLP STAR**
 
 To inculcate in our students the values of **S**portsmanship, **T**eamwork **A**nd **R**esilience (STAR) through sports and music
@@ -31,3 +29,5 @@ To inculcate in our students the values of **S**portsmanship, **T**eamwork **
 *   For all West Spring Sports CCA Students
 *   Application of Workshop
 *   Differentiated approach for Lower and Upper Sec Athletes.
+
+For more information, please email us at [westspringss@moe.edu.sg]
