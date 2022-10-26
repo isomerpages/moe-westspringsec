@@ -37,4 +37,4 @@ Our selection criteria, in general, are as follows:
 ![](/images/Co%20Curriculum/photo_6246884629449651089_w.png)
 ![](/images/Co%20Curriculum/photo_6246884629449651090_w.png)
 
-For more information, please email us at [westspringss@moe.edu.sg]
+For more information, please email us at  westspringss@moe.edu.sg
