@@ -2,7 +2,6 @@ collections:
   about-wsss:
     output: true
     order:
-      - WSSS Social Media.md
       - Vision, Mission, Values, Motto.md
       - School History.md
       - School Crest and School Song.md
@@ -16,5 +15,6 @@ collections:
       - Our Achievements/WSSS Alumni.md
       - WSSS Code of Conduct.md
       - WSSS Publications.md
+      - WSSS Social Media.md
       - Privacy Statement.md
       - Terms of Use.md
