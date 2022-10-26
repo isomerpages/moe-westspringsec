@@ -30,4 +30,4 @@ To inculcate in our students the values of **S**portsmanship, **T**eamwork **
 *   Application of Workshop
 *   Differentiated approach for Lower and Upper Sec Athletes.
 
-For more information, please email us at [westspringss@moe.edu.sg]
+For more information, please email us at  westspringss@moe.edu.sg
