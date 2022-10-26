@@ -22,7 +22,7 @@ description: ""
 | YH Lower Secondary 	| Mr Fauroni Bin Sukhaimi 	| fauroni_sukhaimi@moe.edu.sg 	||
 | YH Upper Secondary 	| Mr Kok Yeong Haur 	| kok_yeong_haur@moe.edu.sg 	|
 | SH Aesthetics / Art 	| Ms Joyce Chia 	| chia_keh_ling@moe.edu.sg 	|
-| SH Literature 	| Mdm Veronica Aw 	| aw_qin_yi@moe.edu.sg 	|
+| SH English 	| Mdm Veronica Aw 	| aw_qin_yi@moe.edu.sg 	|
 | SH History 	| Mr Wu Zonglun 	| wu_zonglun@moe.edu.sg 	|
 | SH ICT 	| Mrs Shelia Wang 	| xie_shuxian_shelia@moe.edu.sg 	|
 | SH Malay Language 	| Ms Noor Faezah 	| noor_faezah_noor_aziz@moe.edu.sg 	|
