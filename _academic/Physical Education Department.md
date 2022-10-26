@@ -3,9 +3,8 @@ title: Physical Education Department
 permalink: /academic/Physical-Education-Department/
 description: ""
 ---
-|  	|  	|
+|  Dept Name	| Physical Education	|
 | - | - |
-| Dept Name	| **Physical Education** 	|
 | Key Programmes 	| **Secondary 3 Archery Programme**|
 ||At the start of the year, all the Sec 3 students went through a 2-hour programme on Archery with guidance from the experienced vendors. It was indeed a good platform for students to learn a new skill and share their learning experiences with their classmates and Form teacher. A fantastic start to the year indeed!|
 ||**Sec 3 Outward Bound School**|
