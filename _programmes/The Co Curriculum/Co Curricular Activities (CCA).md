@@ -4,10 +4,6 @@ permalink: /programmes/Co-Curricular/Co-Curricular-Activities-CCA/
 description: ""
 third_nav_title: The Co Curriculum
 ---
-
-
-
-
 _**LEAPS 2.0**_
 
 LEAPS 2.0 is a framework to recognise secondary school students’ holistic development. Students will be recognised with levels of attainment in four domains: Participation, Achievement, Leadership and Service. Refer to : [LEAPS 2.0 MOE Circular for parents](/files/Co%20Curriculum/LEAPS%202%200%20MOE%20Circular%20for%20parents.pdf)
@@ -53,3 +49,5 @@ _**Uniform Groups**_
 _**Clubs and Societies**_
 
 ![](/images/Co%20Curriculum/photo_6246884629449651071_w.png)
+
+For more information, please email us at  westspringss@moe.edu.sg
