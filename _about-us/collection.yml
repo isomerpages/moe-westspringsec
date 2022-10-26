@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Staff Achievements.md
       - Vision, Mission, Values, Motto.md
       - School History.md
       - School Crest and School Song.md
@@ -12,6 +11,7 @@ collections:
       - Success Stories/.keep
       - Success Stories/CCA Achievements.md
       - Success Stories/WSSS Alumni.md
+      - Staff Achievements.md
       - WSSS Publications.md
       - Privacy Statement.md
       - Terms of Use.md
