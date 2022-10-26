@@ -97,7 +97,6 @@ description: ""
 | Science 	| Mr Siow Gim Onn 	| siow_gim_onn@moe.edu.sg 	||
 | Science 	| Ms Ivy Liew 	| ivy_liew_wei_xin@moe.edu.sg 	|
 | Science 	| Ms Priscilla Yu 	| yu_mei_yi_priscilla@moe.edu.sg 	|
-| Science 	| Mr Jeffrey Ang 	| ang_jeffrey@moe.edu.sg 	|
 | Science, Computer Applications 	| Ms Koh Caihua 	| koh_caihua@moe.edu.sg 	|
 
 For more information, please email us at [westspringss@moe.edu.sg](mailto:westspringss@moe.edu.sg).
