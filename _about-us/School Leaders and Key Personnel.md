@@ -1,6 +1,6 @@
 ---
 title: School Leaders and Key Personnel
-permalink: /about-us/School-Leaders-and-Key-Personnel
+permalink: /about-us/School-Leaders-and-Key-Personnel/
 description: ""
 ---
 | Designation 	| Name 	| Email 	|
@@ -22,19 +22,19 @@ description: ""
 | YH Lower Secondary 	| Mr Fauroni Bin Sukhaimi 	| fauroni_sukhaimi@moe.edu.sg 	||
 | YH Upper Secondary 	| Mr Kok Yeong Haur 	| kok_yeong_haur@moe.edu.sg 	|
 | SH Aesthetics / Art 	| Ms Joyce Chia 	| chia_keh_ling@moe.edu.sg 	|
-| SH English 	| Mdm Veronica Aw 	| aw_qin_yi@moe.edu.sg 	|
+| SH Literature 	| Mdm Veronica Aw 	| aw_qin_yi@moe.edu.sg 	|
 | SH History 	| Mr Wu Zonglun 	| wu_zonglun@moe.edu.sg 	|
 | SH ICT 	| Mrs Shelia Wang 	| xie_shuxian_shelia@moe.edu.sg 	|
 | SH Malay Language 	| Ms Noor Faezah 	| noor_faezah_noor_aziz@moe.edu.sg 	|
 | SH Mathematics 	| Mdm Sharon Koh 	| koh_wei_xin@moe.edu.sg 	|
 | SH PE & CCA 	| Mr Kelvin Poon 	| kelvin_poon_weng_hong@moe.edu.sg 	|
-| LH Guidance 	| Ms Priscilla Yu 	| yu_mei_yi_priscilla@moe.edu.sg 	|
+| SH Science 	| Ms Priscilla Yu 	| yu_mei_yi_priscilla@moe.edu.sg 	|
 | Assistant Year Head (Sec 1) 	| Ms Nurhafizahtunnisa Haris 	| nurhafizahtunnisa_haris@moe.edu.sg 	|
 | Assistant Year Head (Sec 2) 	| Mr Fadzly Samsuri 	| mohamad_fadzly_samsuri@moe.edu.sg 	|
 | Level Coordinator (Sec 3) 	| Ms Tong Hui Min 	| tong_hui_min@moe.edu.sg 	|
 | Assistant Year Head (Sec 4 & 5) 	| Mdm Siti Anisah 	| siti_anisah_abdul_rahim@moe.edu.sg 	|
-| ST Biology 	| Mdm Ho Soo Yin 	| ho_soo_yin@moe.edu.sg 	|
-| ST Chinese 	| Mdm Tan Pin Yin 	| tan_pin_yin@moe.edu.sg 	||
+| LT Chinese	| Mdm Tan Pin Yin 	|tan_pin_yin@moe.edu.sg 	|
+| ST Biology 	| Mdm Ho Soo Yin	| ho_soo_yin@moe.edu.sg 	||
 | ST English 	| Mdm Fauzana Bte Ismail 	| fauzana_ismail@moe.edu.sg 	|
 | ST Food & Nutrition Science 	| Mdm Selena Binte Samat 	| selena_samat@moe.edu.sg 	|
 | ST Humanities 	| Mrs Cheryl Liew 	| cheryl_koh_ye_hsia@moe.edu.sg 	|
