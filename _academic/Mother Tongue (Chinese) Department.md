@@ -1,9 +1,9 @@
 ---
 title: Mother Tongue (Chinese) Department
-permalink: /academic/Mother-Tongue-Chinese-Department
+permalink: /academic/Mother-Tongue-Chinese-Department/
 description: ""
 ---
-|  	|  	|
+|  Dept Name	|  Mother Tongue (Chinese)	|
 | - | - |
 | Key Programmes 	| **(1) Enrichment Programmes**	|
 |  	| Chinese News Production and Journalism course for 1HCL students 	|
@@ -21,9 +21,9 @@ description: ""
 |  	| HCL students participated in an Escape Room Competition. 	|
 |  	| **(3) Virtual Collaboration with Taipei’s Chang’an Junior High School (台北市长安国民中学)** 	|
 |  	| 19 Higher-Chinese-Language students did a virtual collaboration on sustainability with Taipei’s Chang’an Junior High School (台北市长安国民中学). Students from both schools were grouped together to research, present and advocate on a specific sustainability issue. There were nine issues in three broad areas – Water, Greenery and Food. There was also an emphasis on bilingualism. The final presentation was done in two languages – English and Chinese. 	|
-| Achievements & highlights of 2021 	| Create your own Newspaper Competition (编采比赛)： 1 Upper Sec Group from Sec 3 HCL. Literature in Chinese Camp 	|
+| Achievements & highlights of 2022 	| Create your own Newspaper Competition (编采比赛)： 1 Upper Sec Group from Sec 3 HCL. Literature in Chinese Camp 	|
 |  	| Recital Competition (朗诵比赛): 1 Lower Sec individual category (Sec 1G) and 1 Lower Sec Group Category (Sec 1P) 	|
-|  	| 47th National Schools Translation Competition “CREATIVITY, NO BOUNDARIES!” NATIONAL CHILDREN’S STORY WRITING COMPETITION 	|
+|  	| National Chinese Challenge 2022 	|
 
 ![](/images/Academic/Chinese%20Language%20Department/photo_6248794326528275305_w.png)
 
