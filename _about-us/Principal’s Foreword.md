@@ -1,10 +1,8 @@
 ---
 title: Principal’s Foreword
-permalink: /about-us/Principal-Foreword
+permalink: /about-us/Principal-Foreword/
 description: ""
 ---
-
-
 <div>
 
 <div style="float: right">
@@ -32,4 +30,3 @@ West Spring Secondary School
 </div>
 
 </div>
-
