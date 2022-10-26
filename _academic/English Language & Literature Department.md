@@ -3,7 +3,7 @@ title: English Language & Literature Department
 permalink: /academic/English-Language-and-Literature-Department/
 description: ""
 ---
-|  	|  	|
+| Dept Name 	| English Language & Literature 	|
 | - | -	|
 | Key Programmes 	| **Applied Learning Programme infusion in Secondary 1 EL** 	|
 |  	| Secondary 1 students go through a 30-week programme in ALP (Media Literacy) where they advocate a cause they believe in. Students learn research, advocacy, digital media creation and presentation skills. 	|
