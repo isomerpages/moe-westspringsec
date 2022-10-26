@@ -23,7 +23,7 @@ description: ""
 | Design and Technology 	| Mr Chua Leng Huat 	| chua_leng_huat@moe.edu.sg 	|
 | English Language 	| Mdm Fauzana Ismail 	| fauzana_ismail@moe.edu.sg 	|
 | English Language 	| Mr Israel Tan 	| israel_tan_tuck_heng@moe.edu.sg 	|
-| English Language 	| Ms Chionh Yan Huay 	| chionh_yan_huay@moe.edu.sg 	|
+| English Language 	| Dr Chionh Yan Huay 	| chionh_yan_huay@moe.edu.sg 	|
 | English Language 	| Ms Victoria Chong 	| chong_soon_fei@moe.edu.sg 	|
 | English Language 	| Mdm Revathi D/O Rengasamy 	| revathi_rengasamy@moe.edu.sg 	|
 | English Language 	| Mrs Jasmine Foo 	| chuah_su_may_jasmine@moe.edu.sg 	|
@@ -54,7 +54,7 @@ description: ""
 | Humanities, English Literature 	| Ms Shobana D/O Nadaraja 	| shobana_nadaraja@moe.edu.sg 	|
 | Humanities, English Literature 	| Ms Sheralyn Koh 	| sheralyn_koh_jia_huey@moe.edu.sg 	|
 | Humanities, English Literature 	| Ms Jasmine Kao 	| kao_hui_ling@moe.edu.sg 	|
-| Malay Language 	| Ms Siti Nursyimah 	| siti_nursyimah_ismail@moe.edu.sg 	|
+| Malay Language 	| Ms Nuraisah Sman 	| nuraisah_sman@moe.edu.sg 	|
 | Malay Language 	| Ms Noor Faezah Binte Noor Aziz 	| noor_faezah_noor_aziz@moe.edu.sg 	|
 | Malay Language 	| Mdm Nur Alinah 	| nur_alinah_ali@moe.edu.sg 	|
 | Malay Language 	| Ms Nur Liyana Binte Osman 	| nur_liyana_osman@moe.edu.sg 	|
