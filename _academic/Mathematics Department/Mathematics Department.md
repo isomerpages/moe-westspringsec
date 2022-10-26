@@ -4,7 +4,7 @@ permalink: /academic/Mathematics-Department/Mathematics-Department/
 description: ""
 third_nav_title: Mathematics Department
 ---
-|  	|  	|
+|  Dept Name	| Mathematics	|
 | -	| -	|
 | Key Programmes 	| **Use of Questioning Techniques** 	|
 |  	| The Math/POA department pedagogy is Questioning Techniques. Questioning has a crucial role in the process of learning as it stimulates and maintains interest and encourages our students to think and focus on the content. Through planned questioning, we can steer our students’ thinking along a particular route to stimulate learning, to aid recall, and to challenge. 	|
@@ -28,5 +28,3 @@ third_nav_title: Mathematics Department
 | -------- | -------- | -------- |
 ||Yuzen Ong 3A | High Distinction|
 ||Tiow Zhi Xuan 3A | Distinction|
-
-
