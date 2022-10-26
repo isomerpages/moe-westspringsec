@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  about-wsss:
     output: true
     order:
       - Our People/.keep
