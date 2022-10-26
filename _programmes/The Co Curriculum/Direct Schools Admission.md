@@ -4,8 +4,6 @@ permalink: /programmes/Co-Curriculum/Direct-Schools-Admission/
 description: ""
 third_nav_title: The Co Curriculum
 ---
-
-
 **Direct School Admission**
 
 The DSA-Sec Exercise was first introduced in 2004 as part of MOE’s move towards a more flexible and broad-based education system. Under the DSA-Sec Exercise, schools will be able to select a percentage of their students for admission outside of the centralized posting system, via their own selection criteria. Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
@@ -38,3 +36,5 @@ Our selection criteria, in general, are as follows:
 ![](/images/Co%20Curriculum/photo_6246884629449651088_w.png)
 ![](/images/Co%20Curriculum/photo_6246884629449651089_w.png)
 ![](/images/Co%20Curriculum/photo_6246884629449651090_w.png)
+
+For more information, please email us at [westspringss@moe.edu.sg]
