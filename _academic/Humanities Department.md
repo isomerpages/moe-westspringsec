@@ -3,7 +3,7 @@ title: Humanities Department
 permalink: /academic/Humanities-Department/
 description: ""
 ---
-|  	|  	|
+| Dept Name 	| Humanities 	|
 | - | -	|
 | Key Programmes 	| **Geographical Investigation for Secondary 1 - 3 classes and Historical Investigation for Secondary 1 - 2 classes**	|
 |  	| A Geographical/ Historical/ Social Studies issue was introduced, and students must investigate based on the given topic.  Most of the learning takes place beyond the classroom and students learn through inquiry and investigative works. 	|
