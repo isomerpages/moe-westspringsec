@@ -3,7 +3,7 @@ title: Science Department
 permalink: /academic/Science-Department/
 description: ""
 ---
-| Dept Name 	| Science Department 	|
+| Dept Name 	| Science	|
 | - | -	|
 | Key Programmes| The department pedagogy of Inquiry Based Learning (IBL) allows for more co-creation of knowledge and learner-centred teaching where students’ queries are addressed. With the increase in student engagement in learning and transfer of ownership of learning to the students, we hope to inculcate the Joy of Learning and encourage more students to pursue higher education and career in Science, Technology, Engineering & Math (STEM). Problem based learning is one aspect where we actively instil IBL, to encourage more self-directed learning and active discussion of problem scenarios among students, hence instilling problem-solving skills.|
 ||*   Integrative Learning Activities for Lower Secondary Science on Diversity|
