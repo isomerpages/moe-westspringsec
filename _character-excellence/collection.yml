@@ -1,5 +1,5 @@
 collections:
-  programmes:
+  character-excellence:
     output: true
     order:
       - Character and Citizenship Ed/Character and Citizenship Education.md
