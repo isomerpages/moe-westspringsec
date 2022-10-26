@@ -40,7 +40,7 @@ description: ""
 | ST Humanities 	| Mrs Cheryl Liew 	| cheryl_koh_ye_hsia@moe.edu.sg 	|
 | ST Mathematics 	| Mr Muhammad Fahmy Babjee 	| muhammad_fahmy_babjee@moe.edu.sg 	|
 | ST POA 	| Mrs Juliet Tan 	| juliet_chan@moe.edu.sg 	|
-| Admin Manager 	| Mdm Teresa Kor 	| kor_sock_keow@schools.gov.sg 	|
+| Admin Manager 	| Mdm Lim Puay Lan 	| lim_puay_lan@schools.gov.sg 	|
 | Operations Manager 	| Mr Sukhmindar Singh 	| sukhmindar_singh@moe.edu.sg 	|
 | School Counsellor 	| Mdm Grace Pang 	| pang_nien_cherh_grace@moe.edu.sg 	|
 | Learning and Behavioural Support Officer 	| Mdm Kavita Padmanathan 	| kavitha_padmanathan@moe.edu.sg 	|
