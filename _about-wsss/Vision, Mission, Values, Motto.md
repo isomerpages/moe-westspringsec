@@ -3,7 +3,6 @@ title: Vision, Mission, Values, Motto
 permalink: /about-us/School-Vision-Values-Mission-Motto/
 description: ""
 ---
-
 School Vision
 
 **Ladies and Gentlemen of Character and Learning**
@@ -12,16 +11,15 @@ School Mission
 
 **Shaping Character, Engaging Learners, Touching Lives**
 
-School Motto
-
-**Thirst for Knowledge**
-
 School Values
 
 **Resilience, Respect,** **Responsibility****, Integrity, Care**
 
+School Motto
 
-3 Strategic Thrusts
+**Thirst for Knowledge**
+
+Our 3 Strategic Thrusts
 
 **ST1 Character Excellence**
 
