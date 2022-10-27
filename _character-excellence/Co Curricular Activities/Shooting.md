@@ -41,10 +41,3 @@ Physical Training (PT) is essential for shooters to be fitter and have the stren
 * Yap Si Yin Agnes (Sec 3D/2022) 
 
 Click [here](https://circle.myactivesg.com/watch/west-spring-secondary-schools-shooting-team) to view videos about our CCA:
-
-
-
-
-
-
-
