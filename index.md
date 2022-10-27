@@ -12,6 +12,7 @@ sections:
         - title: Information for Parents
           description: Find out more!
           url: /resource/parents-information
+      background: /images/Website Header Ideas (1200 × 630px) (1).png
   - resources:
       title: Featured Posts
 ---
