@@ -13,6 +13,7 @@ sections:
           url: /resource/parents-information
       title: West Spring Secondary School
       subtitle: Shaping Character | Engaging Learners | Touching Lives
+      background: /images/Website Header Ideas (1200 × 630px) (3).png
   - resources:
       title: Featured Posts
 ---
