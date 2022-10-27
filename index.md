@@ -11,7 +11,6 @@ sections:
         - title: Information for Parents
           description: Find out more!
           url: /resource/parents-information
-      background: /images/Website Header.png
       title: West Spring Secondary School
       subtitle: Shaping Character | Engaging Learners | Touching Lives
   - resources:
