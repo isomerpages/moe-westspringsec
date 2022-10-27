@@ -11,6 +11,7 @@ Our training takes place every Wednesday and Friday afternoon. This year, the Ne
 
 ##### Highlights for 2022
 
+
 * Participation in West Zone Inter-School Netball Championships (‘B’ and ‘C’ Division)
 * Participation in the Under-17 and Under-14 National School Development Squad Trials
 
