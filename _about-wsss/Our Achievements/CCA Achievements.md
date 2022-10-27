@@ -19,6 +19,7 @@ third_nav_title: Our Achievements
 || Pinnacle Award|
 
 
+
 | Sports | Achievement |
 | -------- | -------- | 
 |Shooting | B Div Boys (2nd)
@@ -28,9 +29,14 @@ third_nav_title: Our Achievements
 |Football | B Div (Zonal Quarterfinals)
 || C Div (Zonal 1st Runners-Up |
 
+
+
 | Performing Arts | Achievement | 
 | -------- | -------- | 
 | Band - Marching     | Certificate of Distinction | 
+
+
+
 
 | Clubs | Achievement |
 | -------- | -------- | 
@@ -40,16 +46,3 @@ third_nav_title: Our Achievements
 || 3D-Tronics Micro-Controller Challenge (Design Award)
 || StrITwise(R) Mythic Trials Competition (3rd)
 || StrITwise(R) Mythic Trials Competition (Social Media Prize)
-
-
-
-
-
-
-
-
-
-
-
-
-
