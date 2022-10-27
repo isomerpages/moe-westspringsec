@@ -13,5 +13,7 @@ Our members aided the school in capturing key school events through video and ph
 * Involved in editing videos, pre-recording and doing live feed for events such as School Excellence Awards Ceremony and National Day Celebration, Teachers’ Day Celebration and Aesthetic Week Performances
 * Photography Exhibition featured during Aesthetic Week
 
+Click [here](https://youtu.be/3iAN21r2vo0) to find out more about the CCA.
 
-For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
+For more information, please email us at westspringss@moe.edu.sg
+
