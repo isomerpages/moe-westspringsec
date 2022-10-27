@@ -13,6 +13,6 @@ The club plans, coordinates and provides audio-visual aid (AVA) for school event
 *   School Excellence Awards Ceremony 
     
 *   Student Leader Investiture
-    
-*   National Day Celebration 
-
+*   National Day Celebration
+   
+For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
