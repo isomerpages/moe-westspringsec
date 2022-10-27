@@ -10,7 +10,9 @@ This year, the volleyball team had a combination of in-person and e-CCA training
 
 ##### Highlights for 2022
 
-Our school participated in the 2022 ‘B’ and ‘C’ Division Boys, West Zone Games (round robin format).
+Our school participated in the 2022 ‘B’ and ‘C’ Division Boys, West Zone Games (round robin 
+format).
 
+For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
 
 
