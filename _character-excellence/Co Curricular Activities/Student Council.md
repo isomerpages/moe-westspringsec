@@ -13,4 +13,8 @@ There were two key events that involved the student councillors. In June, they h
 
 Besides that, the student councillors formed several School Improvement Teams (SITs) whereby they became the voice of the student population and spoke up for changes to improve the overall school experience.
 
-The student councillors also rallied the school population in an umbrella donation drive as part of the Share-An-Umbrella initiative in which the school partnered with Zhenghua Grassroots Group to provide umbrellas for residents and students to use during inclement weather.
+The student councillors also rallied the school population in an umbrella donation drive as part of the Share-An-Umbrella initiative in which the school partnered with Zhenghua Grassroots Group to provide umbrellas for residents and 
+students to use during inclement weather.
+
+For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
+
