@@ -28,7 +28,7 @@ third_nav_title: Our Achievements
 || Mdm. Tan Leng Leng
 | 25 years | Mdm. Teong Soh Cheow
 
-##### National Day Awards 2022
+##### National Day Awards 
 
 | Award | Recipient | 
 | -------- | -------- | 
@@ -37,15 +37,7 @@ third_nav_title: Our Achievements
 || Mr. Subhash s/o Nadesan 
 || Mdm. Ho Soo Yin
 | The Commendation Medal 2022 | Mdm. Tan Pin Yin
-
-
-
-
-
-
-
-
-
-
+| The Commendation Medal 2021 |Mdm. Ong Yee Ting Melissa
+| The Commendation Medal 2020 | Mdm. Ho Soo Yin
 
 
