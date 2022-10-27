@@ -12,7 +12,9 @@ sections:
         - title: Information for Parents
           description: Find out more!
           url: /resource/parents-information
-      background: /images/Website Header Ideas (1200 × 630px) (1).png
+      background: /images/Website Header.png
+      title: West Spring Secondary School
+      subtitle: Shaping Character | Engaging Learners | Touching Lives
   - resources:
       title: Featured Posts
 ---
