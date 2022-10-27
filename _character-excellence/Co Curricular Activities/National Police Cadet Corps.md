@@ -6,9 +6,11 @@ third_nav_title: Co Curricular Activities
 ---
 ##### Key Programmes 2022
 
-* Secondary 1: Completed Police Procedures, Crime Prevention and Anti-Corruption courses
-* Secondary 2: Completed Community Safe and Secure Programme, First Aid course, .22 Revolver Shoot and Non-Commissioned Officer Leadership Development Camp
-* Secondary 3: Completed Police Youth Ambassador programme, Homefront Security course
+Our cadets completed the following courses:
+
+* Secondary 1: Police Procedures, Crime Prevention and Anti-Corruption courses
+* Secondary 2: Community Safe and Secure Programme, First Aid course, .22 Revolver Shoot and Non-Commissioned Officer Leadership Development Camp
+* Secondary 3: Police Youth Ambassador programme, Homefront Security course
 
 ##### Highlights for 2022
 
