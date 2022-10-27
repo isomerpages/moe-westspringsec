@@ -27,7 +27,7 @@ Our Girl Guides participated in the following programmes this year:
 
 **Individual Achievements**
 
-* Tan Yi Ling (Sec 3C/2022) was awarded the Baden Powell Award 2022, the highest award given out by the Chief Commissioner to a Girl Guide.
+* Tan Yi Ling was awarded the Baden Powell Award 2022, the highest award given out by the Chief Commissioner to a Girl Guide.
 
 Click [here](https://youtu.be/dxufXYYR6Ac) to find out more about the CCA.
 
