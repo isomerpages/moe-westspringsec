@@ -27,7 +27,6 @@ Achieved Gold for Unit Overall Proficiency Award (UOPA) 2021
 * Staff Sergeant Josen Eng Guo Kai was awarded the Pinnacle Award (the highest achievement for NCDCC) in 2022. 
 * In the same year, Josen responded to 5 calls for help through the first responders app and helped to administer 4 CPR and put out a rubbish chute fire. 
 
-
 Click [here](https://youtu.be/0IxEb_OVmjA) to find out more about the CCA.
 
 For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
