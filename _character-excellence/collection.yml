@@ -2,7 +2,6 @@ collections:
   character-excellence:
     output: true
     order:
-      - Co Curricular Activities/.keep
       - Character and Citizenship Ed/.keep
       - Character and Citizenship Ed/Character and Citizenship Education.md
       - Character and Citizenship Ed/Cyber Wellness Programme.md
@@ -14,4 +13,5 @@ collections:
       - The Co Curriculum/Co Curricular Activities (CCA).md
       - The Co Curriculum/ICT Programme.md
       - The Co Curriculum/International Schools Immersion.md
+      - Co Curricular Activities/.keep
       - Learning for Life Programme.md
