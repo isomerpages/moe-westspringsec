@@ -8,7 +8,7 @@ notification: "Please be patient as we update our school website to serve you
   better. Thank you! "
 sections:
   - hero:
-      background: /images/Website Header Ideas (1).png
+      background: /images/website header.png
       key_highlights:
         - title: Information for Parents
           description: Find out more!
