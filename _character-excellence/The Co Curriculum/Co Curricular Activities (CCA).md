@@ -13,4 +13,4 @@ LEAPS 2.0 is a framework to recognise secondary school students’ holistic deve
 Please click [2022 CCA Activity Days](/files/Co%20Curriculum/2022-CCA-Activity-Days.pdf) for the schedule. Thank you.
 
 
-For more information, please email us at  westspringss@moe.edu.sg
+For more information, please email us at  [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
