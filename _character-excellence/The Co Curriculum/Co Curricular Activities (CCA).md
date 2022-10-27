@@ -24,7 +24,7 @@ _**Sports**_
 
 [Shooting](https://youtu.be/dEtqrp8DOC4) | [Badminton](https://youtu.be/ZLBCp-i1ESo) | [Football](https://youtu.be/njIFzMzQ9TQ) | [Netball](https://youtu.be/jzAVRmUU-H8) | [Volleyball](https://youtu.be/0tcFW8EahWM) |
 
-_**Uniform Groups**_
+_**Uniformed Groups**_
 
 [Girl Guides](https://youtu.be/dxufXYYR6Ac) |  [NCC (Land)](https://youtu.be/3KszzpxPN7M) | [NCDCC](https://youtu.be/0IxEb_OVmjA) | [NPCC](https://youtu.be/HoK5x2kffOI)
 
