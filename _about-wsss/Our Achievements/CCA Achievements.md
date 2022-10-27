@@ -16,7 +16,7 @@ third_nav_title: Our Achievements
 || SPF-NPCC Award |
 | NCDCC | UOPA (Gold)
 || SCDF-NCDCC |
-|| Pinnacle Award|
+|| Pinnacle Award||
 
 
 
@@ -27,14 +27,13 @@ third_nav_title: Our Achievements
 ||C Div Girls (1st)
 ||C Div Girls (Individual Champion)
 |Football | B Div (Zonal Quarterfinals)
-|| C Div (Zonal 1st Runners-Up |
+|| C Div (Zonal 1st Runners-Up ||
 
 
 
 | Performing Arts | Achievement | 
 | -------- | -------- | 
-| Band - Marching     | Certificate of Distinction | 
-
+| Band - Marching     | Certificate of Distinction || 
 
 
 
