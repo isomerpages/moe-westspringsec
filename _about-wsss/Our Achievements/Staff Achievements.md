@@ -36,9 +36,8 @@ third_nav_title: Our Achievements
 || Mdm. Teong Soh Cheow 
 || Mr. Subhash s/o Nadesan 
 || Mdm. Ho Soo Yin
-| The Commendation Medal 2022 | Mdm. Tan Pin Yin
-| The Commendation Medal 2021 |Mdm. Ong Yee Ting Melissa
-| The Commendation Medal 2020 | Mdm. Ho Soo Yin
+| The Commendation Medal 2022 * | Mdm. Tan Pin Yin
+| The Commendation Medal 2021 * |Mdm. Ong Yee Ting Melissa
+| The Commendation Medal 2020 * | Mdm. Ho Soo Yin
 
 *The Commendation Medal may be awarded to any public officer who has distinguished himself through commendable performance and conduct, or significant efficiency, competence and devotion to duty.
-
