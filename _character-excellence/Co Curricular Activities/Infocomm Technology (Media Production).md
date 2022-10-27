@@ -15,5 +15,4 @@ Our members aided the school in capturing key school events through video and ph
 
 Click [here](https://youtu.be/3iAN21r2vo0) to find out more about the CCA.
 
-For more information, please email us at westspringss@moe.edu.sg
-
+For more information, please email us at [westspringss@moe.edu.sg]
