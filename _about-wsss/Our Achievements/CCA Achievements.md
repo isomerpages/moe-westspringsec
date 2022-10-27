@@ -24,8 +24,7 @@ third_nav_title: Our Achievements
 |Football | B Div (Zonal Quarterfinals)
 || C Div (Zonal 1st Runners-Up) ||
 | Band - Marching     | Certificate of Distinction || 
-| Infocomm Technology (Media Production)     | Our School, Our Stories contest     |
-|Infocomm Technology (Computing) | StrITwise® Amazing Race (Outstanding Achievements)
+|Infocomm Technology (Computing) | StrITwise® Amazing Race (Outstanding Achievement)
 || 3D-Tronics Micro-Controller Challenge (Presentation Award)
 || 3D-Tronics Micro-Controller Challenge (Design Award)
 || StrITwise(R) Mythic Trials Competition (3rd)
