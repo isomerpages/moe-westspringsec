@@ -11,8 +11,6 @@ sections:
         - title: Information for Parents
           description: Find out more!
           url: /resource/parents-information
-      subtitle: West Spring Secondary School
-      background: /images/Website Header Ideas (1200 × 630px) (3).png
   - resources:
       title: Featured Posts
 ---
