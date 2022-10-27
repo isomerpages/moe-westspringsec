@@ -1,5 +1,5 @@
 collections:
-  academic:
+  academic-excellence:
     output: true
     order:
       - Computer Applications Dpt/Computer Applications Department.md
