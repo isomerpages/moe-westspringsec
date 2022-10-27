@@ -4,7 +4,6 @@ permalink: /Character-Excellence/Co-Curricular-Activities-CCA/
 description: ""
 third_nav_title: The Co Curriculum
 ---
-
 _**LEAPS 2.0**_
 
 LEAPS 2.0 is a framework to recognise secondary school students’ holistic development. Students will be recognised with levels of attainment in four domains: Participation, Achievement, Leadership and Service. Refer to : [LEAPS 2.0 MOE Circular for parents](/files/Co%20Curriculum/LEAPS%202%200%20MOE%20Circular%20for%20parents.pdf)
@@ -19,7 +18,7 @@ _Click the links below to watch our special e-orientation CCA videos_
 
 _**Performing Arts**_
 
-[Festive Drums](https://youtu.be/78tdSGXCGSw) | [Speech & Drama](https://youtu.be/1r1c7J8_ohU) | [Guitar](https://youtu.be/xj3Y4_YxSDw) |  [Guzheng](https://youtu.be/xvI44fyksL0) | [International Dance](https://youtu.be/5kDmVgVZPCA) | [Marching Band](https://youtu.be/xYXxu9Emu2g) |
+[Festive Drums](https://youtu.be/78tdSGXCGSw) | [Speech & Drama](https://youtu.be/1r1c7J8_ohU) | [Guitar Ensemble](https://youtu.be/xj3Y4_YxSDw) |  [Guzheng Ensemble](https://youtu.be/xvI44fyksL0) | [International Dance](https://youtu.be/5kDmVgVZPCA) | [Band - Marching](https://youtu.be/xYXxu9Emu2g) |
 
 _**Sports**_
 
@@ -27,11 +26,11 @@ _**Sports**_
 
 _**Uniform Groups**_
 
-[Girl Guides](https://youtu.be/dxufXYYR6Ac) |  [NCC](https://youtu.be/3KszzpxPN7M) | [NCDCC](https://youtu.be/0IxEb_OVmjA) | [NPCC](https://youtu.be/HoK5x2kffOI)
+[Girl Guides](https://youtu.be/dxufXYYR6Ac) |  [NCC (Land)](https://youtu.be/3KszzpxPN7M) | [NCDCC](https://youtu.be/0IxEb_OVmjA) | [NPCC](https://youtu.be/HoK5x2kffOI)
 
 _**Clubs and Societies**_
 
-[Infocomm](https://youtu.be/EmjpAHXfMMQ) | [Photography Digital Media](https://youtu.be/3iAN21r2vo0) |
+[Infocomm Technology (Computing)](https://youtu.be/EmjpAHXfMMQ) | [Infocomm Technology (Media Production)](https://youtu.be/3iAN21r2vo0) |
 
 **Photo Gallery**
 
