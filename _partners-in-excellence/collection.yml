@@ -1,4 +1,5 @@
 collections:
   partners-in-excellence:
     output: true
-    order: []
+    order:
+      - School Advisory Committee.md
