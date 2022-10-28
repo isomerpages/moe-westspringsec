@@ -4,14 +4,14 @@ permalink: /character-excellence/Co-Curricular-Activities/Infocomm-Computing/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-##### Key Programmes 2022
+##### **Key Programmes 2022**
 
 This year, our members went through the M5Go Prototyping Programme, using block-based coding language to make prototypes. They also went through the IMDA Game Development Roadmap using GameMaker, where they created their own 2D shooter game using GameMaker. 
 
 Our members also went on learning journeys to Headrock VR at Sentosa and New World Carnival at 313 Somerset, where they learnt more about VR and AR. Our Presidents attended the Infocomm Media Club Student Leadership Conference held at MBS
 
 
-##### Highlights for 2022
+##### **Highlights for 2022**
 
 Our members took part in various competitions throughout the year and achieved stellar results.
 
