@@ -4,7 +4,7 @@ permalink: /about-us/staff-achievements/
 description: ""
 third_nav_title: Our Achievements
 ---
-##### MOE Long Service Awards 2022
+##### **MOE Long Service Awards 2022**
 
 | Award | Recipient | 
 | -------- | -------- | 
@@ -28,7 +28,7 @@ third_nav_title: Our Achievements
 || Mdm. Tan Leng Leng
 | 25 years | Mdm. Teong Soh Cheow
 
-##### National Day Awards 
+##### **National Day Awards**
 
 | Award | Recipient | 
 | -------- | -------- | 
