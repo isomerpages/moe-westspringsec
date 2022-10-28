@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - School Calendar.md
       - For Parents.md
       - For Students.md
       - For Teachers.md
