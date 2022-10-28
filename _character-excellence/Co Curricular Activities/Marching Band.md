@@ -24,6 +24,6 @@ On top of that, the band has represented Singapore on the international platform
 
 This event is sanctioned by the World Association of Marching Show Bands (WAMSB), based in the United States. For their first venture in an international competition, the team clinched the 1st runner-up position for the senior division (aged 16-19) in the marching show band category. It is indeed an honour and privilege to be recognised in the international marching band scene! 
 
-Click [here](https://www.youtube.com/watch?v=8G2-PEI9gVs&t=306s) to view the WS Marching Band performance at SYF 2022.
+Click <a href="https://www.youtube.com/watch?v=8G2-PEI9gVs&t=306s" target="_blank">here</a> to view the WS Marching Band performance at SYF 2022.
 
 For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
