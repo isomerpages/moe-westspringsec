@@ -3,8 +3,6 @@ title: Learning for Life Programme
 permalink: /Character-Excellence/Learning-for-Life-Programme/
 description: ""
 ---
-
-
 ##### **Focus of West Spring LLP STAR**
 
 To inculcate in our students the values of **S**portsmanship, **T**eamwork **A**nd **R**esilience (STAR) through sports and music
@@ -31,4 +29,9 @@ To inculcate in our students the values of **S**portsmanship, **T**eamwork **
 *   Application of Workshop
 *   Differentiated approach for Lower and Upper Sec Athletes.
 
-For more information, please email us at  westspringss@moe.edu.sg
+For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
+
+
+
+
+
