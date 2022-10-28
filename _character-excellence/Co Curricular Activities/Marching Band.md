@@ -4,11 +4,11 @@ permalink: /character-excellence/Co-Curricular-Activities/Marching-Band/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-##### Key Programmes 2022
+##### **Key Programmes 2022**
 
 Our members have weekly training sessions, including sectionals. We also have an annual whole-band gathering.
 
-##### Highlights for 2022
+##### **Highlights for 2022**
 
 **Singapore Youth Festival 2022**
 
