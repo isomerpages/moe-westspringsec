@@ -18,6 +18,6 @@ Our teams have weekly training sessions throughout the year. This year, we parti
 ‘C’ Division Girls, ‘B’ Division Boys, ‘B’ Division Girls competitions
 
 
-Click [here](https://youtu.be/ZLBCp-i1ESo) to find out more about the CCA.
+Click <a href="https://youtu.be/ZLBCp-i1ESo" target="_blank">here</a> to find out more about the CCA.
 
 For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
