@@ -3,11 +3,7 @@ title: Applied Learning Programme
 permalink: /Academic-Excellence/Applied-Learning-Programme/
 description: ""
 ---
-
-
-
-
-**ALP Objective: for students to be critical media consumers and competent media producers**
+##### **ALP Objective: for students to be critical media consumers and competent media producers** #####
 
 **Secondary 1 – English-Language Public Speaking and Presentation**
 
