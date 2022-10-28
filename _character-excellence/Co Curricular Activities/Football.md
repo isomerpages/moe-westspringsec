@@ -4,7 +4,7 @@ permalink: /character-excellence/Co-Curricular-Activities/Football/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-##### Key Programmes 2022
+##### **Key Programmes 2022**
 
 Our footballers took part in 2 - 3 training sessions a week under the guidance of their coach.  We also had specially curated fitness programmes in partnership with commercial gym Grityard, where our footballers were regularly exposed to a variety of fitness drills to train their speed, agility and endurance.
 
@@ -13,7 +13,7 @@ This year, our footballers represented the school at the ‘B’ Division and �
 We also had CCA team bonding sessions to build friendships of a lifetime.
 
 
-##### Highlights for 2022
+##### **Highlights for 2022**
 
 **National School Games 2022 Achievements**
 
@@ -30,6 +30,6 @@ We also had CCA team bonding sessions to build friendships of a lifetime.
 * Mohamad Raihan Mohamad Rafiq - Represented Singapore in the 2022 McDonald’s Kanga Cup in Canberra, Australia
 
 
-Click [here](https://youtu.be/njIFzMzQ9TQ) to find out more about the CCA.
+Click <a href="https://youtu.be/njIFzMzQ9TQ" target="_blank">here</a> to find out more about the CCA.
 
 For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
