@@ -11,9 +11,9 @@ For more information on our academic programmes, click on the following:
     *  [Art Unit](/Academic-Excellence/Craft-and-Tech-Department/Art-Unit/)
     *   [Nutrition & Food Science Unit](/Academic-Excellence/Craft-and-Tech-Department/Nutrition-and-Food-Science-Unit/)
    
-3.  [English Language and Literature Department](/academic/English-Language-and-Literature-Department)
+3.  [English Language and Literature Department](/Academic-Excellence/English-Language-and-Literature-Department/)
 
-4. [Humanities Department](/academic/Humanities-Department)
+4. [Humanities Department](/Academic-Excellence/Humanities-Department/)
 
 5. [Mathematics Department](/academic/Mathematics-Department/Mathematics-Department)
     *  [Principles of Accounts Unit](/academic/Mathematics-Department/Principles-of-Accounts-Unit)
