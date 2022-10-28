@@ -4,7 +4,7 @@ permalink: /character-excellence/Co-Curricular-Activities/Festive-Drums/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-##### Key Programmes 2022
+##### **Key Programmes 2022**
 
 Our members took part in the following performances this year:
 
@@ -12,7 +12,7 @@ Our members took part in the following performances this year:
 * 2022 National Day Pre-Parade Performance
 * 2022 Teachers’ Day Celebration
 
-##### Highlights for 2022
+##### **Highlights for 2022**
 
 **National Day Parade 2022**
 
