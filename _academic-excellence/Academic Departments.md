@@ -15,9 +15,9 @@ For more information on our academic programmes, click on the following:
 
 4. [Humanities Department](/Academic-Excellence/Humanities-Department/)
 
-5. [Mathematics Department](/academic/Mathematics-Department/Mathematics-Department)
-    *  [Principles of Accounts Unit](/academic/Mathematics-Department/Principles-of-Accounts-Unit)
-7.  [Mother Tongue (Chinese) Department](/academic/Mother-Tongue-Chinese-Department)
+5. [Mathematics Department](/Academic-Excellence/Mathematics-Department/)
+    *  [Principles of Accounts Unit](/Academic-Excellence/Mathematics-Department/Principles-of-Accounts-Unit/)
+7.  [Mother Tongue (Chinese) Department](/Academic-Excellence/Mother-Tongue-Chinese-Department/)
 8.  [Mother Tongue(Malay) Department](/academic/Mother-Tongue-Malay-Department)
 9.  [Physical Education Department](/academic/Physical-Education-Department)
 10.  [Science Department](/academic/Science-Department)
