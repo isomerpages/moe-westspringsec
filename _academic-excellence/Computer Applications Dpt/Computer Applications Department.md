@@ -4,7 +4,6 @@ permalink: /Academic-Excellence/Computer-Applications-Department/
 description: ""
 third_nav_title: Computer Applications Dpt
 ---
-
 | Dept Name 	| Computer Applications 	|
 |---	|---	|
 | Key Programmes 	| Besides equipping our students with knowledge of computer fundamentals, our CPA curriculum involves students learning the various software: 	|
