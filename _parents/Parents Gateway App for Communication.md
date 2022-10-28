@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway App for Communication
-permalink: /parents/Parents-Gateway-App-for-Communication
+permalink: /parents/Parents-Gateway-App-for-Communication/
 description: ""
 ---
 **Instructional Guide To Download Parent Gateway Apps**
@@ -25,4 +25,3 @@ d. Enable ‘Allow Notifications’ to receive push notifications.
 ![](/images/Parents/Parent%20Gateway%20App/Parents-Gateway-3.png)
 ![](/images/Parents/Parent%20Gateway%20App/Parents-Gateway-4.png)
 
-**Parents Gateway 4**

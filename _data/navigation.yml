@@ -1,70 +1,56 @@
 logo: /images/WEST SPRING SEC - HiRes Sch Crest.jpg
 links:
   - title: About us
-    url: /about-us/School-Vision-Mission-Motto
+    url: /about-us/School-Vision-Mission-Values-Motto/
     sublinks:
-      - title: School Vision, Mission, Motto
-        url: /about-us/School-Vision-Mission-Motto
+      - title: Vision, Mission, Values, Motto
+        url: /about-us/School-Vision-Mission-Values-Motto/
       - title: School History
         url: /about-us/School-History
       - title: School Crest and School Song
         url: /about-us/School-Crest-and-School-Song
       - title: Principal’s Foreword
-        url: /about-us/Principal-Foreword
-      - title: School Leaders & Key Personnel
-        url: /about-us/School-Leaders-and-Key-Personnel
-      - title: 2022 Subject Teachers
-        url: /about-us/2022-Subject-Teachers
-      - title: Success Stories
-        url: /about-us/Success-Stories/CCA-Achievements
+        url: /about-wsss/Principal-Foreword/
+      - title: Our People
+        url: /about-us/School-Management-Committee/
+      - title: Our Achievements
+        url: /about-us/CCA-Achievements/
+      - title: WSSS Code of Conduct
+        url: /about-wsss/code-of-conduct/
       - title: WSSS Publications
-        url: /about-us/WSSS-Publications
-      - title: Terms of Use
-        url: /about-us/Terms-of-Use
+        url: /about-us/WSSS-Publications/
+      - title: WSSS Social Media
+        url: /about-wsss/social-media/
       - title: Report Vulnerability
         url: https://www.tech.gov.sg/report_vulnerability
-  - title: Programmes
-    url: /programmes/Character-and-Citizenship-Ed/Character-and-Citizenship-Education
+  - title: Character Excellence
+    url: /Character-Excellence/Character-and-Citizenship-Education/
     sublinks:
       - title: Character & Citizenship Ed
-        url: /programmes/Character-and-Citizenship-Ed/Character-and-Citizenship-Education
+        url: /Character-Excellence/Character-and-Citizenship-Education/
       - title: The Co-Curriculum
-        url: /programmes/Co-Curriculum/Applied-Learning-Programme
-      - title: Academic
-        url: /programmes/Academic
-      - title: "Personal Learning Device "
-        url: https://sites.google.com/moe.edu.sg/wssspdlp/home?authuser=0
-  - title: Parents
-    url: /resource/parents-information
+        url: /Character-Excellence/Co-Curricular-Activities-CCA/
+      - title: Co-Curricular Activities
+        url: /character-excellence/Co-Curricular-Activities/Student-Council/
+      - title: Learning for Life Programme
+        url: /Character-Excellence/Learning-for-Life-Programme/
+  - title: Academic Excellence
+    url: /Academic-Excellence/Applied-Learning-Programme/
     sublinks:
-      - title: Parents’ Information
-        url: /resource/parents-information
-      - title: Parents App for Communication
-        url: /parents/Parents-Gateway-App-for-Communication
-      - title: Parent Support Group (PSG)
-        url: /permalink/parents/Parent-Support-Group-PSG
-      - title: Personal Learning Device
-        url: https://sites.google.com/moe.edu.sg/wssspdlp/home?authuser=0
-      - title: Schoolbag.sg
-        url: https://www.schoolbag.sg/
-      - title: Cyber Wellness For Parents
-        url: https://www.westspringsec.moe.edu.sg/parents/Cyber-Wellness-For-Parents/
-  - title: Students
-    url: /students/Student-Learning-Space-SLS
+      - title: Applied Learning Programme
+        url: /Academic-Excellence/Applied-Learning-Programme/
+      - title: Academic Departments
+        url: /Academic-Excellence/Academic-Departments/
+  - title: Partners in Excellence
+    url: /partners-in-excellence/School-Advisory-Committee/
     sublinks:
-      - title: Student Learning Space (SLS)
-        url: /students/Student-Learning-Space-SLS
-      - title: Google Classroom
-        url: https://classroom.google.com/u/0/
-      - title: Homebased Learning (HBL)
-        url: /students/Home-Based-Learning
-      - title: Teachers' Google Sites
-        url: https://sites.google.com/moe.edu.sg/wssshbl
-      - title: School Library
-        url: /students/School-Library
+      - title: School Advisory Committee
+        url: /partners-in-excellence/School-Advisory-Committee/
+      - title: Parent Support Group
+        url: /parents/Parent-Support-Group-PSG/
+      - title: Alumni
+        url: https://m.facebook.com/groups/westspringsecondaryschoolalumni/
+      - title: School Bookshop
+        url: https://asencio.com.sg/
   - title: Links
     collection: links
-  - title: School Calendar
-    url: /School-Calendar
-  - title: Download Forms
-    url: /Download-Forms
