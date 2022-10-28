@@ -53,6 +53,6 @@ Social Media Prize
 * Lim Seng Zhong 
 
 
-Click [here](https://youtu.be/EmjpAHXfMMQ) to find out more about the CCA.
+Click <a href="https://youtu.be/EmjpAHXfMMQ" target="_blank">here</a> to find out more about the CCA.
 
 For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
