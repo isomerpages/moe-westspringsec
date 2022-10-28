@@ -3,13 +3,10 @@ title: Academic Departments
 permalink: /Academic-Excellence/Academic-Departments/
 description: ""
 ---
-
-
-
 For more information on our academic programmes, click on the following:
 
-1.  [Computer Applications Department](/academic/Computer-Applications-Dpt/Computer-Applications-Department)
-    *   [Elements of Business Skills Unit](/academic/Computer-Applications-Dpt/Elements-of-Business-Skills-Unit)
+1.  [Computer Applications Department](/Academic-Excellence/Computer-Applications-Department/)
+    *   [Elements of Business Skills Unit](/Academic-Excellence/Computer-Applications-Dpt/Elements-of-Business-Skills-Unit/)
 2.  [Craft and Tech Department](/academic/Craft-and-Tech-Department/Craft-and-Tech-Department)
     *  [Art Unit](/academic/Craft-and-Tech-Department/Art-Unit)
     *   [Nutrition & Food Science Unit](/academic/Craft-and-Tech-Department/Nutrition-and-Food-Science-Unit)
