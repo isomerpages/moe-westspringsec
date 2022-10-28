@@ -4,7 +4,7 @@ permalink: /character-excellence/Co-Curricular-Activities/Speech-And-Drama/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-##### Key Programmes 2022
+##### **Key Programmes 2022**
 
 Students learn a variety of skills throughout the year. Some of these skills include stage combat, delivery of monologues, musical theatre and fictional story telling using podcasts.
 
@@ -15,7 +15,7 @@ At the school level, emcees for the School Excellence Awards Ceremony, National 
 To better appreciate the development of the arts scene in Singapore, students also attended a backstage tour of the Esplanade. 
 
 
-##### Highlights for 2022
+##### **Highlights for 2022**
 
 **International Science Drama Competition 2022**
 
