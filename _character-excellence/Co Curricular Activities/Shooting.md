@@ -4,7 +4,7 @@ permalink: /character-excellence/Co-Curricular-Activities/Shooting/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-##### Key Programmes 2022
+##### **Key Programmes 2022**
 
 **Mental Skills Training for Shooters (In-Person & via Zoom)**
 
@@ -19,7 +19,7 @@ The club’s focus is the National School Games. We also participate in other co
 Physical Training (PT) is essential for shooters to be fitter and have the strength to persevere through long sessions of shoots and increase competition stamina. 
 
 
-##### Highlights for 2022
+##### **Highlights for 2022**
 
 **National School Games 2022 Achievements**
 
@@ -40,7 +40,7 @@ Physical Training (PT) is essential for shooters to be fitter and have the stren
 * Tan Qi Ya (Sec 3C/2022)
 * Yap Si Yin Agnes (Sec 3D/2022) 
 
-Click [here](https://circle.myactivesg.com/watch/west-spring-secondary-schools-shooting-team) to 
+Click <a href="https://circle.myactivesg.com/watch/west-spring-secondary-schools-shooting-team" target="_blank">here</a> to 
 find out more about the CCA.
 
 For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
