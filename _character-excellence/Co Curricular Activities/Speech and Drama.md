@@ -17,8 +17,7 @@ To better appreciate the development of the arts scene in Singapore, students al
 
 ##### **Highlights for 2022**
 
-**International Science Drama Competition 2022**
-
+**International Science Drama Competition 2022** 
 Attained Certificate of Participation 
 
 
