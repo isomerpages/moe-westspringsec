@@ -21,6 +21,6 @@ To better appreciate the development of the arts scene in Singapore, students al
 Attained Certificate of Participation 
 
 
-Click [here](https://youtu.be/1r1c7J8_ohU) to find out more about the CCA.
+Click <a href="https://youtu.be/1r1c7J8_ohU" target="_blank">here</a> to find out more about the CCA.
 
 For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
