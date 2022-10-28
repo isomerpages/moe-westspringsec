@@ -4,7 +4,7 @@ permalink: /character-excellence/Co-Curricular-Activities/Girl-Guides/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-##### Key Programmes 2022
+##### **Key Programmes 2022**
 
 Our Girl Guides participated in the following programmes this year:
 
@@ -16,7 +16,7 @@ Our Girl Guides participated in the following programmes this year:
 * Training (5-Point Program): a comprehensive programme that enables Girl Guides to develop leadership and life skills in 5 areas: Personal & Social Development, Home, Outdoor, Community and International skills
 
 
-##### Highlights for 2022
+##### **Highlights for 2022**
 
 **Company Achievements**
 
@@ -29,6 +29,6 @@ Our Girl Guides participated in the following programmes this year:
 
 * Tan Yi Ling was awarded the Baden Powell Award 2022, the highest award given out by the Chief Commissioner to a Girl Guide.
 
-Click [here](https://youtu.be/dxufXYYR6Ac) to find out more about the CCA.
+Click <a href="https://youtu.be/dxufXYYR6Ac" target="_blank">here</a> to find out more about the CCA.
 
 For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
