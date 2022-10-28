@@ -2,7 +2,7 @@ collections:
   about-wsss:
     output: true
     order:
-      - Vision, Mission, Values, Motto.md
+      - School Vision, Mission, Values, Motto.md
       - School History.md
       - School Crest and School Song.md
       - Principal’s Foreword.md
