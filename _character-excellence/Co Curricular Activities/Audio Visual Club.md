@@ -4,7 +4,7 @@ permalink: /character-excellence/Co-Curricular-Activities/Audio-Visual-Club/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-##### Key Programmes 2022
+##### **Key Programmes 2022**
 
 The club plans, coordinates and provides audio-visual aid (AVA) for school events including:
 
