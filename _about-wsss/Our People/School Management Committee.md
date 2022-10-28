@@ -15,7 +15,7 @@ third_nav_title: Our People
 | HOD English 	| Mdm Nora Bte Shahriya 	| nora_shahriya@moe.edu.sg 	|
 | HOD Guidance 	| Mr Sinkaram Philip Kumaran 	| sinkaram_philip_kumaran@moe.edu.sg 	|
 | HOD Humanities 	| Mdm Siti Zamiara Bte Saripi 	| siti_zamiara_saripi@moe.edu.sg 	|
-| HOD ICT / Computer Applications 	| Mdm Sherry Liew 	| liew_geok_may_sherry@moe.edu.sg 	|
+| HOD ICT 	| Mdm Sherry Liew 	| liew_geok_may_sherry@moe.edu.sg 	|
 | HOD Mathematics 	| Mrs Melissa Tan 	| ong_yee_ting_melissa@moe.edu.sg 	|
 | HOD Mother Tongue 	| Mdm Teo Chu Yue 	| teo_chu_yue@moe.edu.sg 	|
 | HOD PE & CCA 	| Mr Subhash Nadesan 	| subhash_nadesan@moe.edu.sg 	|
