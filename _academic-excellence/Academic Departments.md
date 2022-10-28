@@ -18,8 +18,8 @@ For more information on our academic programmes, click on the following:
 5. [Mathematics Department](/Academic-Excellence/Mathematics-Department/)
     *  [Principles of Accounts Unit](/Academic-Excellence/Mathematics-Department/Principles-of-Accounts-Unit/)
 7.  [Mother Tongue (Chinese) Department](/Academic-Excellence/Mother-Tongue-Chinese-Department/)
-8.  [Mother Tongue(Malay) Department](/academic/Mother-Tongue-Malay-Department)
-9.  [Physical Education Department](/academic/Physical-Education-Department)
-10.  [Science Department](/academic/Science-Department)
+8.  [Mother Tongue(Malay) Department](/Academic-Excellence/Mother-Tongue-Malay-Department/)
+9.  [Physical Education Department](/Academic-Excellence/Physical-Education-Department/)
+10.  [Science Department](/Academic-Excellence/Science-Department/)
 
 For more information, please email us at [westspringss.moe.edu.sg](http://westspringss.moe.edu.sg/).
