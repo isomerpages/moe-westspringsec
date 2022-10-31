@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Parents’ Information.md
       - Parents Gateway App for Communication.md
       - Parent Support Group (PSG).md
       - Cyber Wellness For Parents.md
