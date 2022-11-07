@@ -7,10 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: Information for Parents
-          description: Find out more!
-          url: /resource/parents-information
       background: /images/Hero.png
   - resources:
       title: Featured Posts
