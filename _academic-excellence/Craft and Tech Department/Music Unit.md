@@ -16,7 +16,6 @@ Our Lower Secondary General Music Programme at West Spring provides all students
 *   Music and Its Role in Society (instruments of various ethnic groups, instruments used at cultural events etc.)
     
 **Highlights of 2022**
-**
 
 1.  Level-wide Aesthetics Programmes
     
@@ -39,4 +38,3 @@ Our Lower Secondary General Music Programme at West Spring provides all students
 *   Sofya Eridani Mohamed Shaufi (Sec 3A/2022)
 *   Annabel Ang (Sec 3D/2022)
 *   Shia Jing Hui (Sec 4F/2022)
-    
