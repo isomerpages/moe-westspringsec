@@ -11,7 +11,7 @@ sections:
         - title: Information for Parents
           description: Find out more!
           url: /resource/parents-information
-      background: /images/Hero.png
+      background: /images/Hero 2.png
   - resources:
       title: Featured Posts
 ---
