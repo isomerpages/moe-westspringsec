@@ -13,5 +13,5 @@ sections:
           description: Find out more about what we offer!
           url: https://sites.google.com/view/wsssopenhouse2022/home
   - resources:
-      subtitle: Features
+      subtitle: Announcements
 ---
