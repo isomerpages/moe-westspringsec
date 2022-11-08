@@ -8,7 +8,10 @@ locations:
       - 61 Senja Road
       - Singapore 677737
       - ""
-    operating_hours: []
+    operating_hours:
+      - days: Mondays to Fridays
+        time: 6.45am to 6pm
+        description: Closed on Saturdays, Sundays and Public Holidays
     maps_link: https://mapcarta.com/W293503105
     title: West Spring Secondary School
 contacts:
