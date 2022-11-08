@@ -7,11 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: Information for Parents
-          description: Find out more!
-          url: /resource/parents-information
       background: /images/Hero.png
+      key_highlights:
+        - title: Open House 2022 Microsite
+          description: Find out more about what we offer!
+          url: https://sites.google.com/view/wsssopenhouse2022/home
   - resources:
-      title: Featured Posts
+      subtitle: Announcements
 ---
