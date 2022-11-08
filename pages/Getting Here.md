@@ -19,7 +19,5 @@ description: ""
 
 Take 972 / 972M from Bukit Panjang bus interchange (Alight at Senja Hawker Centre, Stop ID: 44811)
 
-Take 920 from Bukit Panjang bus interchange (Alight at Blk 638A, Stop ID: 44951)
- 
- 
- 
+Take 920 from Bukit Panjang bus interchange    
+(Alight at Blk 638A, Stop ID: 44951)
