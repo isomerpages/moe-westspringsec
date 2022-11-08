@@ -7,6 +7,8 @@ description: ""
 
 61 Senja Rd, Singapore 677737
 
+<a href="https://mapcarta.com/W293503105" target="_blank">Click for map</a>
+
 **Tel:** 6892 0369
 
 **Email:** [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
