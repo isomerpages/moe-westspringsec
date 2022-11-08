@@ -9,11 +9,11 @@ description: ""
 
 **Tel:** 6892 0369
 
-**Email:** westspringss@moe.edu.sg
+**Email:** [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
 
- **Nearest MRT station:** Bukit Panjang 
+ **Nearest MRT station:** Bukit Panjang Station
  
- **Nearest LRT station:** Jelapang
+ **Nearest LRT station:** Jelapang Station
  
 **Getting to us:**
 
