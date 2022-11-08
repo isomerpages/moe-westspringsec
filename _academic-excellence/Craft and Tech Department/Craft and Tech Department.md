@@ -1,10 +1,9 @@
 ---
 title: Craft and Tech Department
-permalink: /Academic-Excellence/Craft-and-Tech-Department/
+permalink: /academic-excellence/Craft-and-Tech-Department/
 description: ""
 third_nav_title: Craft and Tech Department
 ---
-
 |  Dept Name	| Craft and Tech 	|
 | -	| -	|
 | Key Programmes 	| Lower Secondary students have the hands-on experience in the design and making of acrylic stationery holders with electronics, simple wooden handheld mechanism toys and metal toy holders for their projects.
