@@ -23,22 +23,3 @@ Click [here](https://youtu.be/usmTjYPwSIY) for the video produced by the PSG EXC
 To join the PSG, scan the QR code below!
 
 ![](/images/Parents/Parent%20Support%20Group/wssspsg1.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
