@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero.png
+      background: /images/HERO1.png
       key_highlights:
         - title: Open House 2022 Microsite
           description: Find out more about what we offer!
