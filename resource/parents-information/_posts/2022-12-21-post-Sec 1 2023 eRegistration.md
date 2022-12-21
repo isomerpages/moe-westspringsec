@@ -38,3 +38,5 @@ How to appeal for my child to transfer to West Spring Secondary School? 
 3. **The link for the transfer form is as follows: [https://go.gov.sg/2023sec1appeal](https://go.gov.sg/2023sec1appeal)**
 
 4. Your child’s PSLE score must meet the school’s cut-off point (COP) of that posting year.
+
+Thank you.
