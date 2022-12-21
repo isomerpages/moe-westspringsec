@@ -8,7 +8,7 @@ image: ""
 ---
 Registration for Sec 1 Registration for West Spring Secondary School will be done through the following URL:
 
-https://wsss.edmension.com/
+[https://wsss.edmension.com/](https://wsss.edmension.com/)
 
 (Access to portal is from 22 Dec 9 am to 23 Dec 5 pm)
 
