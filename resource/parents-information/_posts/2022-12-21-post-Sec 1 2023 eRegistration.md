@@ -18,13 +18,14 @@ Your login details are as follows:
 
           (eg, if your NRIC is T1011234P, your user ID is “1234P”)
 
-           •         DOB: your date of birth in YYYYMMDD format
+•         DOB: your date of birth in YYYYMMDD format
 
   
 
 If you have difficulty with Secondary One registration, please email: [fauroni\_sukhaimi@moe.edu.sg](mailto:fauroni_sukhaimi@moe.edu.sg) or [tong\_hui\_min@moe.edu.sg](mailto:tong_hui_min@moe.edu.sg)
 
-Please read the attached FAQ for Sec 1 Registration.
+Please click here to read the FAQ for Sec 1 Registration.
+
 
 **Appeal to Transfer to WSSS** 
 
