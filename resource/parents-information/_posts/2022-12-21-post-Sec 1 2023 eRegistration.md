@@ -28,7 +28,7 @@ If you have difficulty with Secondary One registration, please email: [fauroni\
 
 
 For more information, please click below to read the FAQ.
-[FAQ for Sec 1 2023 Registration](/files/Parents'%20Information/FAQ%20for%20Secondary%20One%202023%20Registration.pdf)
+[FAQ for S1 2023 Registration](/files/Parents'%20Information/FAQ%20for%20Secondary%20One%202023%20Registration%20(21%20Dec).pdf)
 
 
 
