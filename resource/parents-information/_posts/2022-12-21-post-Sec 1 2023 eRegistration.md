@@ -20,13 +20,18 @@ Your login details are as follows:
 
 •         DOB: your date of birth in YYYYMMDD format
 
-  
+
+**Parents/Guardians are invited to meet with the Principal, key personnel and form teachers in school on Fri 6 Jan from 3.45 pm to 5.40 pm.**
+
 
 If you have difficulty with Secondary One registration, please email: [fauroni\_sukhaimi@moe.edu.sg](mailto:fauroni_sukhaimi@moe.edu.sg) or [tong\_hui\_min@moe.edu.sg](mailto:tong_hui_min@moe.edu.sg)
 
+
 For more information, please click below to read the FAQ.
 
-[FAQ for Sec 1 2023 Registration](/files/Parents'%20Information/FAQ%20for%20Secondary%20One%202023%20Registration.pdf)
+[FAQ for S1 2023 Registration](/files/Parents'%20Information/FAQ%20for%20Secondary%20One%202023%20Registration%20(21%20Dec).pdf)
+
+
 
 
 
