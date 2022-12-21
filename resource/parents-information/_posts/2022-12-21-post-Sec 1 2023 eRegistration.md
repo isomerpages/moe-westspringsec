@@ -25,10 +25,13 @@ Your login details are as follows:
 If you have difficulty with Secondary One registration, please email: [fauroni\_sukhaimi@moe.edu.sg](mailto:fauroni_sukhaimi@moe.edu.sg) or [tong\_hui\_min@moe.edu.sg](mailto:tong_hui_min@moe.edu.sg)
 
 For more information, please click below to read the FAQ.
+
 [FAQ for Sec 1 2023 Registration](/files/Parents'%20Information/FAQ%20for%20Secondary%20One%202023%20Registration.pdf)
 
 
-**Appeal to Transfer to WSSS** 
+
+
+**Appeal to Transfer to WSSS**
 
 How to appeal for my child to transfer to West Spring Secondary School? 
 
