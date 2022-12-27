@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/HERO1.png
       key_highlights:
-        - title: Open House 2022 Microsite
-          description: Find out more about what we offer!
-          url: https://sites.google.com/view/wsssopenhouse2022/home
+        - title: ""
+          description: ""
+          url: ""
   - resources:
       subtitle: Announcements
 ---
