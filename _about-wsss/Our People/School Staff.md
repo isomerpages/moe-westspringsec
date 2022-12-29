@@ -67,7 +67,6 @@ third_nav_title: Our People
 | Mathematics 	| Mr Kok Yeong Haur 	| kok_yeong_haur@moe.edu.sg 	|
 | Mathematics 	| Mr Liu Youhe 	| liu_youhe@moe.edu.sg 	||
 | Mathematics 	| Mr Marcus Sze 	| marcus_sze_kah_choon@moe.edu.sg 	|
-| Mathematics 	| Ms Hailey Lin Xiangna 	| lin_xiangna@moe.edu.sg 	|
 | Mathematics 	| Mr Tan Weicun 	| tan_weicun@moe.edu.sg 	|
 | Mathematics 	| Mr Liu Mun Kang 	| liu_mun_kang@moe.edu.sg 	|
 | Mathematics, History 	| Ms Koh Hui Li 	| koh_hui_li@moe.edu.sg 	|
