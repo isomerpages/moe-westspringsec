@@ -8,6 +8,7 @@ third_nav_title: Our People
 |---	|---	|---	|
 | Art 	| Mdm Seoh Siok Yin 	| seoh_siok_yin@moe.edu.sg 	|
 | Art 	| Ms Joyce Chia 	| chia_keh_ling@moe.edu.sg 	|
+| Art 	| Mr Andrew Chia 	| To be updated 	|
 | Chinese Language 	| Mdm Tan Pin Yin 	| tan_pin_yin@moe.edu.sg 	|
 | Chinese Language 	| Mdm Liu Dongmei 	| liu_dongmei@moe.edu.sg 	|
 | Chinese Language 	| Mdm Loh Yan Luan 	| loh_yan_luan@moe.edu.sg 	|
@@ -29,6 +30,7 @@ third_nav_title: Our People
 | English Language 	| Ms Victoria Chong 	| chong_soon_fei@moe.edu.sg 	|
 | English Language 	| Mdm Revathi D/O Rengasamy 	| revathi_rengasamy@moe.edu.sg 	|
 | English Language 	| Mrs Jasmine Foo 	| chuah_su_may_jasmine@moe.edu.sg 	|
+| English Language 	| Mdm Norhikmah 	| To be updated 	|
 | English Language, Computer Applications 	| Mdm Khairunnisa Zainal 	| khairunnisa_zainal@moe.edu.sg 	|
 | English Language, Elements of Business Skills 	| Mrs Shelia Wang 	| xie_shuxian_shelia@moe.edu.sg 	|
 | English Language, English Literature 	| Mdm Nora Bte Shahriya 	| nora_shahriya@moe.edu.sg 	|
@@ -51,6 +53,7 @@ third_nav_title: Our People
 | Humanities 	| Mrs Cheryl Liew 	| cheryl_koh_ye_hsia@moe.edu.sg 	|
 | Humanities 	| Ms Lydia Teng 	| lydia_teng_xiaoqian@moe.edu.sg 	||
 | Humanities 	| Ms Nurhafizahtunnisa Bte Haris 	| nurhafizahtunnisa_haris@moe.edu.sg 	|
+| Humanities 	| Ms Fazlin Bte Mohd Fadzuli 	| To be updated 	|
 | Humanities, English Literature 	| Ms Shobana D/O Nadaraja 	| shobana_nadaraja@moe.edu.sg 	|
 | Humanities, English Literature 	| Ms Sheralyn Koh 	| sheralyn_koh_jia_huey@moe.edu.sg 	|
 | Humanities, English Literature 	| Ms Jasmine Kao 	| kao_hui_ling@moe.edu.sg 	|
@@ -80,6 +83,7 @@ third_nav_title: Our People
 | Physical Education 	| Mr Sinkaram Philip Kumaran 	| sinkaram_philip_kumaran@moe.edu.sg 	|
 | Physical Education 	| Mr Subhash Nadesan 	| subhash_nadesan@moe.edu.sg 	||
 | Physical Education 	| Ms Tan Zhen Yan 	| tan_zhen_yan@moe.edu.sg 	|
+| Physical Education 	| Ms Nurulain 	| To be updated 	|
 | Physical Education, Elements of Business Skills 	| Mr Wang Wade 	| wang_wade_fengyin@moe.edu.sg 	|
 | Physical Education 	| Mdm Eve Tan 	| tan_poh_yun_evelyn@moe.edu.sg 	|
 | Principles of Accounts 	| Mdm Charlotte Chua 	| chua_soh_chin_charlotte@moe.edu.sg 	|
