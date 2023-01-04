@@ -3,13 +3,6 @@ title: Principal's Foreword
 permalink: /about-wsss/Principal-Foreword/
 description: ""
 ---
-
-<div style="float: right">
-	
-<img src="/images/About%20us/Principal's%20Foreword/Mrs-Belinda-Chan-166x300.png" />
-
-</div>
-
 West Spring Secondary has established itself as a popular school, attracting many students in the Bukit Panjang, Upper Bukit Timah and Choa Chu Kang areas.  We are grateful for the past efforts of the previous Principals and staff in building a strong foundation.  It is heartening to learn that the school has established a reputation for being a school with good discipline with a strong emphasis on holistic development in the community it is located.
 
 West Spring strives to provide an engaging academic programme and a strong student character and leadership development focus.  We aim to develop our students into Ladies and Gentlemen of Character and Learning.  We hope to provide a caring and conducive environment that will nurture them to be respectful, responsible and resilient individuals who have integrity and are able to care for themselves and others.  Character development is highly emphasised in the school with the belief that it is necessary for our students to be self-disciplined individuals and carry with them the appropriate mindset and attitudes for learning and living.
@@ -23,5 +16,3 @@ Mrs Belinda Chan
 Principal
 
 West Spring Secondary School
-
-
