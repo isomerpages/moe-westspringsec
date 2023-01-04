@@ -7,8 +7,8 @@ third_nav_title: Our People
 | Designation 	| Name 	| Email 	|
 |---	|---	|---	|
 | Principal 	| Mrs Belinda Chan 	| belinda_yong@schools.gov.sg 	|
-| Vice-Principal 	| Mr Siva Kumar 	| siva_kumar_vathumalai@schools.gov.sg 	|
-| Vice-Principal 	| Mrs Joy Ong 	| ong-sim_bee_lian@schools.gov.sg 	|
+| Vice-Principal 	| Mr V Siva Kumar 	| siva_kumar_vathumalai@schools.gov.sg 	|
+| Vice-Principal Administration	| Mrs Joy Ong 	| ong-sim_bee_lian@schools.gov.sg 	|
 | School Staff Developer 	| Mrs Doris Chong 	| teong_soh_cheow@moe.edu.sg 	|
 | HOD Character & Citizenship Education 	| Mr Marcus Sze 	| marcus_sze_kah_choon@moe.edu.sg 	|
 | HOD Craft and Tech 	| Mr Wong Weng Heng 	| wong_weng_heng@moe.edu.sg 	|
@@ -43,9 +43,10 @@ third_nav_title: Our People
 | ST Mathematics 	| Mr Muhammad Fahmy Babjee 	| muhammad_fahmy_babjee@moe.edu.sg 	|
 | ST POA 	| Mrs Juliet Tan 	| juliet_chan@moe.edu.sg 	|
 | Administration Manager 	| Mdm Lim Puay Lan 	| lim_puay_lan@moe.edu.sg 	|
+| Operations Manager 	| Mr Singh Sukhmindar 	|  	sukhmindar_singh@moe.edu.sg	|
 | Operations Manager 	| Mr Chia Kok Leong 	| To be updated 	|
 | School Counsellor 	| Mdm Grace Pang 	| pang_nien_cherh_grace@moe.edu.sg 	|
-| School Counsellor 	| Mr S. Raveendran 	| To be updated 	|
+| FAJ School Counsellor 	| Mr S. Raveendran 	| To be updated 	|
 | Special Educational Needs Officer 	| Mdm Kavita Padmanathan 	| kavitha_padmanathan@moe.edu.sg 	|
 
 
