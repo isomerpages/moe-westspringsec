@@ -41,9 +41,6 @@ third_nav_title: Our People
 | English Language, Humanities 	| Mdm Loke Wei May 	| loke_wei_may@moe.edu.sg 	||
 | English Language, Humanities 	| Mdm Siti Norahan 	| siti_norahan_moktar@moe.edu.sg 	|
 | English Language, Humanities 	| Ms Harliany Bte Hairon 	| harliany_hairon@moe.edu.sg 	|
-| Food and Nutrition Science 	| Mdm Puspawati Binte Rosli 	| puspawati_rosli@moe.edu.sg 	|
-| Food and Nutrition Science 	| Mdm Selena Binte Samat 	| selena_samat@moe.edu.sg 	|
-| Food and Nutrition Science 	| Ms Sri Wirdaningsih Binte Subari 	| sri_wirdaningsih_subari@moe.edu.sg 	|
 | Humanities, Elements of Business Skills, Principles of Accounts	| Mr Low Wai Hoong 	| low_wai_hoong@moe.edu.sg 	|
 | Humanities 	| Mr Mohamad Fadzly Bin Samsuri 	| mohamad_fadzly_samsuri@moe.edu.sg 	|
 | Humanities 	| Mdm Ruhaiza Bte Hasan 	| ruhaiza_hasan@moe.edu.sg 	|
@@ -79,6 +76,9 @@ third_nav_title: Our People
 | Mathematics, Science 	| Mr Soh Hong Wei 	| hong_wei_soh@moe.edu.sg 	|
 | Mathematics, Science 	| Ms Oen Hui Qin 	| oen_hui_qin@moe.edu.sg 	|
 | Music, English Language 	| Mrs Grace Chew 	| wong_yan_lei_grace@moe.edu.sg 	|
+| Nutrition and Food Science 	| Mdm Puspawati Binte Rosli 	| puspawati_rosli@moe.edu.sg 	|
+| Nutrition and Food Science 	| Mdm Selena Binte Samat 	| selena_samat@moe.edu.sg 	|
+| Nutrition and Food Science 	| Ms Sri Wirdaningsih Binte Subari 	| sri_wirdaningsih_subari@moe.edu.sg 	|
 | Physical Education 	| Mr Kelvin Poon 	| kelvin_poon_weng_hong@moe.edu.sg 	|
 | Physical Education 	| Mr Sinkaram Philip Kumaran 	| sinkaram_philip_kumaran@moe.edu.sg 	|
 | Physical Education 	| Mr Subhash Nadesan 	| subhash_nadesan@moe.edu.sg 	||
