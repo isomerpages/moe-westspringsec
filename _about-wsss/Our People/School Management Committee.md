@@ -42,10 +42,11 @@ third_nav_title: Our People
 | ST Humanities 	| Mrs Cheryl Liew 	| cheryl_koh_ye_hsia@moe.edu.sg 	|
 | ST Mathematics 	| Mr Muhammad Fahmy Babjee 	| muhammad_fahmy_babjee@moe.edu.sg 	|
 | ST POA 	| Mrs Juliet Tan 	| juliet_chan@moe.edu.sg 	|
-| Administration Manager 	| Mdm Lim Puay Lan 	| lim_puay_lan@schools.gov.sg 	|
+| Administration Manager 	| Mdm Lim Puay Lan 	| lim_puay_lan@moe.edu.sg 	|
 | Operations Manager 	| Mr Chia Kok Leong 	| To be updated 	|
 | School Counsellor 	| Mdm Grace Pang 	| pang_nien_cherh_grace@moe.edu.sg 	|
-| Special Educational Needs Officer 	| Mdm Kavita Padmanathan 	| kavitha_padmanathan@moe.edu.sg 	|
 | School Counsellor 	| Mr S. Raveendran 	| To be updated 	|
+| Special Educational Needs Officer 	| Mdm Kavita Padmanathan 	| kavitha_padmanathan@moe.edu.sg 	|
+
 
 For more information, please email us at [westspringss.moe.edu.sg](http://westspringss.moe.edu.sg/).
