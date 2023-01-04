@@ -4,7 +4,6 @@ permalink: /about-us/Key-Personnel/
 description: ""
 third_nav_title: Our People
 ---
-
 | Designation 	| Name 	| Email 	|
 |---	|---	|---	|
 | Principal 	| Mrs Belinda Chan 	| belinda_yong@schools.gov.sg 	|
@@ -39,7 +38,7 @@ third_nav_title: Our People
 | LT Chinese	| Mdm Tan Pin Yin 	|tan_pin_yin@moe.edu.sg 	|
 | ST Biology 	| Mdm Ho Soo Yin	| ho_soo_yin@moe.edu.sg 	||
 | ST English 	| Mdm Fauzana Bte Ismail 	| fauzana_ismail@moe.edu.sg 	|
-| ST Food & Nutrition Science 	| Mdm Selena Binte Samat 	| selena_samat@moe.edu.sg 	|
+| ST Nutrition & Food Science 	| Mdm Selena Binte Samat 	| selena_samat@moe.edu.sg 	|
 | ST Humanities 	| Mrs Cheryl Liew 	| cheryl_koh_ye_hsia@moe.edu.sg 	|
 | ST Mathematics 	| Mr Muhammad Fahmy Babjee 	| muhammad_fahmy_babjee@moe.edu.sg 	|
 | ST POA 	| Mrs Juliet Tan 	| juliet_chan@moe.edu.sg 	|
