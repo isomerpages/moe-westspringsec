@@ -32,9 +32,9 @@ third_nav_title: Our People
 | SH Mathematics 	| Mdm Sharon Koh 	| koh_wei_xin@moe.edu.sg 	|
 | SH PE & CCA 	| Mr Kelvin Poon 	| kelvin_poon_weng_hong@moe.edu.sg 	|
 | SH Science 	| Mdm Priscilla Yu 	| yu_mei_yi_priscilla@moe.edu.sg 	|
-| SH Student Management 	| Mdm Revathi Rengasamy 	| revathi_rengasamy@moe.edu.sg 	|
+| SH Student Management (Covering)	| Mdm Revathi Rengasamy 	| revathi_rengasamy@moe.edu.sg 	|
 | SH Student Wellbeing	| Mdm Nurhafizahtunnisa Haris 	| nurhafizahtunnisa_haris@moe.edu.sg 	|
-| SH VIA & Student Leadership	| Mr Fadzly Samsuri 	| mohamad_fadzly_samsuri@moe.edu.sg 	|
+| SH Student Leadership	& VIA | Mr Fadzly Samsuri 	| mohamad_fadzly_samsuri@moe.edu.sg 	|
 | LT Chinese	| Mdm Tan Pin Yin 	|tan_pin_yin@moe.edu.sg 	|
 | ST Biology 	| Mdm Ho Soo Yin	| ho_soo_yin@moe.edu.sg 	||
 | ST English 	| Mdm Fauzana Bte Ismail 	| fauzana_ismail@moe.edu.sg 	|
