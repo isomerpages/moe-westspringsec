@@ -38,6 +38,7 @@ third_nav_title: Our People
 | Humanities, English Literature 	| Ms Shobana D/O Nadaraja 	| shobana_nadaraja@moe.edu.sg 	|
 | Humanities, English Literature 	| Ms Sheralyn Koh 	| sheralyn_koh_jia_huey@moe.edu.sg 	|
 | Humanities, English Literature 	| Ms Jasmine Kao 	| kao_hui_ling@moe.edu.sg 	|
+| Humanities, POA 	| Mdm Charlotte Chua 	| chua_soh_chin_charlotte@moe.edu.sg 	|
 | Malay Language 	| Mdm Nur Alinah 	| nur_alinah_ali@moe.edu.sg 	|
 | Malay Language 	| Ms Nur Liyana Binte Osman 	| nur_liyana_osman@moe.edu.sg 	|
 | Malay Language 	| Ms Nuraisah Sman 	| nuraisah_sman@moe.edu.sg 	|
