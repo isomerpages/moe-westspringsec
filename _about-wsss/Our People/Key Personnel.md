@@ -4,6 +4,7 @@ permalink: /about-us/Key-Personnel/
 description: ""
 third_nav_title: Our People
 ---
+
 | Designation 	| Name 	| Email 	|
 |---	|---	|---	|
 | Principal 	| Mrs Belinda Chan 	| belinda_yong@schools.gov.sg 	|
