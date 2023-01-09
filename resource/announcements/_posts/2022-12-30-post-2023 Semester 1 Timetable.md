@@ -1,11 +1,13 @@
 ---
 title: 2023 Semester 1 Timetable
-permalink: /resource/announcements/permalink/
+permalink: /resource/announcements/2023-semester-1-timetable/
 date: 2022-12-30
 layout: post
 description: ""
 image: ""
 ---
+
+
 
 Dear Parents and Students
 
