@@ -11,6 +11,8 @@ description: ""
 
 <a href="https://workspace.google.com/dashboard" target="_blank">Student iCON Sign-in</a>
 
+<a href="https://wshub.edmension.com/" target="_blank">Student Hub</a>
+
 <a href="https://classroom.google.com/" target="_blank">Google Classroom</a>
 
 <a href="https://schoolibrary.moe.edu.sg/westspringsec" target="_blank">School Library OPAC</a>
