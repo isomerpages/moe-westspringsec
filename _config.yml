@@ -1,6 +1,6 @@
 title: West Spring Secondary School - Official School Website
 url: https://www.westspringsec.moe.edu.sg
-favicon: /images/WEST SPRING SEC - HiRes Sch Crest.jpg
+favicon: /images/Badge_HiRes.jpg
 colors:
   primary-color: "#0b4593"
   secondary-color: "#f5a623"
@@ -52,7 +52,7 @@ plugins:
 staging: https://moe-westspringsec-staging.netlify.app
 prod: https://moe-westspringsec-prod.netlify.app
 resources_name: resource
-shareicon: /images/WEST SPRING SEC - HiRes Sch Crest.jpg
+shareicon: /images/Badge_HiRes.jpg
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
