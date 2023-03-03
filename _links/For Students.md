@@ -13,8 +13,12 @@ description: ""
 
 <a href="https://wshub.edmension.com/" target="_blank">Student Hub</a>
 
+-----------------------------------------------------------------
+
+<a href="https://tinyurl.com/pdlphelp" target="_blank">ICT Helpdesk</a>
+
+<a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target="_blank">MySkillsFuture Portal</a>
+
 <a href="https://classroom.google.com/" target="_blank">Google Classroom</a>
 
 <a href="https://schoolibrary.moe.edu.sg/westspringsec" target="_blank">School Library OPAC</a>
-
-<a href="https://tinyurl.com/pdlphelp" target="_blank">ICT Helpdesk</a>
