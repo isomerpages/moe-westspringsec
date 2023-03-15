@@ -15,4 +15,5 @@ description: ""
 
 <a href="https://www.msf.gov.sg/media-room/Pages/FamilyMatters-Factsheet.aspx" target="_blank">FamilyMatters!</a>
 
-<a href="https://pg.moe.edu.sg/forms/sdf" target="_blank">Student Details Form (SDF)</a>
+<a href="https://pg.moe.edu.sg/forms/sdf" target="_blank">Student Details Form (SDF)</a> 
+You may use this form to update student/parent details with the school. However, you should still alert your child's/ward's form teacher that you have submitted an update.
