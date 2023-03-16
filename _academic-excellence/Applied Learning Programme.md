@@ -1,6 +1,6 @@
 ---
 title: Applied Learning Programme
-permalink: /Academic-Excellence/Applied-Learning-Programme/
+permalink: /academic-excellence/applied-learning-programme/
 description: ""
 ---
 ##### **ALP Objective: for students to be critical media consumers and competent media producers** #####

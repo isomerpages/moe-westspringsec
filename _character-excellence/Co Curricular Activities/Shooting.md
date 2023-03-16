@@ -1,6 +1,6 @@
 ---
 title: Shooting
-permalink: /character-excellence/Co-Curricular-Activities/Shooting/
+permalink: /character-excellence/co-curricular-activities/shooting/
 description: ""
 third_nav_title: Co Curricular Activities
 ---

@@ -1,6 +1,6 @@
 ---
 title: Student Learning Space (SLS)
-permalink: /students/Student-Learning-Space-SLS
+permalink: /students/student-learning-space-sls/
 description: ""
 ---
 **SLS Website: [https://learning.moe.edu.sg](https://learning.moe.edu.sg/)**

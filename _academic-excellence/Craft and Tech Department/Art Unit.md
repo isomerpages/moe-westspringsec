@@ -1,6 +1,6 @@
 ---
 title: Art Unit
-permalink: /Academic-Excellence/Craft-and-Tech-Department/Art-Unit/
+permalink: /academic-excellence/craft-and-tech-department/art-unit/
 description: ""
 third_nav_title: Craft and Tech Department
 ---

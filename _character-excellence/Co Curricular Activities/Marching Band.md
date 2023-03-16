@@ -1,6 +1,6 @@
 ---
 title: Marching Band
-permalink: /character-excellence/Co-Curricular-Activities/Marching-Band/
+permalink: /character-excellence/co-curricular-activities/marching-band/
 description: ""
 third_nav_title: Co Curricular Activities
 ---

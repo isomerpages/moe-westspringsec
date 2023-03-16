@@ -1,6 +1,6 @@
 ---
 title: Infocomm Technology (Computing)
-permalink: /character-excellence/Co-Curricular-Activities/Infocomm-Computing/
+permalink: /character-excellence/co-curricular-activities/infocomm-computing/
 description: ""
 third_nav_title: Co Curricular Activities
 ---

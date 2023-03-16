@@ -1,6 +1,6 @@
 ---
 title: Guzheng Ensemble
-permalink: /character-excellence/Co-Curricular-Activities/Guzheng/
+permalink: /character-excellence/co-curricular-activities/guzheng/
 description: ""
 third_nav_title: Co Curricular Activities
 ---

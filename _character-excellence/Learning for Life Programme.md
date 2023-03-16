@@ -1,6 +1,6 @@
 ---
 title: Learning for Life Programme
-permalink: /Character-Excellence/Learning-for-Life-Programme/
+permalink: /character-excellence/learning-for-life-programme/
 description: ""
 ---
 ##### **Focus of West Spring LLP STAR**

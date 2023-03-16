@@ -1,6 +1,6 @@
 ---
 title: Computer Applications Department
-permalink: /Academic-Excellence/Computer-Applications-Department/
+permalink: /academic-excellence/computer-applications-department/
 description: ""
 third_nav_title: Computer Applications Dpt
 ---

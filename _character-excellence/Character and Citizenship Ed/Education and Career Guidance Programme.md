@@ -1,6 +1,6 @@
 ---
 title: Education and Career Guidance Programme
-permalink: /Character-Excellence/Education-and-Career-Guidance-Programme/
+permalink: /character-excellence/education-and-career-guidance-programme/
 description: ""
 third_nav_title: Character and Citizenship Ed
 ---

@@ -1,53 +1,53 @@
 logo: /images/Badge_HiRes.jpg
 links:
   - title: About us
-    url: /about-us/School-Vision-Mission-Values-Motto/
+    url: /about-us/school-vision-mission-values-motto/
     sublinks:
       - title: Vision, Mission, Values, Motto
-        url: /about-us/School-Vision-Mission-Values-Motto/
+        url: /about-us/school-vision-mission-values-motto/
       - title: School History
-        url: /about-us/School-History
+        url: /about-us/school-history
       - title: School Crest and School Song
-        url: /about-us/School-Crest-and-School-Song
+        url: /about-us/school-crest-and-school-song
       - title: Principal’s Foreword
-        url: /about-wsss/Principal-Foreword/
+        url: /about-wsss/principal-foreword/
       - title: Our People
-        url: /about-us/Key-Personnel/
+        url: /about-us/key-personnel/
       - title: Our Achievements
-        url: /about-us/CCA-Achievements/
+        url: /about-us/cca-achievements/
       - title: WSSS Code of Conduct
         url: /about-wsss/code-of-conduct/
       - title: WSSS Publications
-        url: /about-us/WSSS-Publications/
+        url: /about-us/wsss-publications/
       - title: WSSS Social Media
         url: /about-wsss/social-media/
       - title: Report Vulnerability
         url: https://www.tech.gov.sg/report_vulnerability
   - title: Character Excellence
-    url: /Character-Excellence/Character-and-Citizenship-Education/
+    url: /character-excellence/character-and-citizenship-education/
     sublinks:
       - title: Character & Citizenship Ed
-        url: /Character-Excellence/Character-and-Citizenship-Education/
+        url: /character-excellence/character-and-citizenship-education/
       - title: The Co-Curriculum
-        url: /Character-Excellence/Co-Curricular-Activities-CCA/
+        url: /character-excellence/co-curricular-activities-cca/
       - title: Co-Curricular Activities
-        url: /character-excellence/Co-Curricular-Activities/Student-Council/
+        url: /character-excellence/co-curricular-activities/student-council/
       - title: Learning for Life Programme
-        url: /Character-Excellence/Learning-for-Life-Programme/
+        url: /character-excellence/learning-for-life-programme/
   - title: Academic Excellence
-    url: /Academic-Excellence/Applied-Learning-Programme/
+    url: /academic-excellence/applied-learning-programme/
     sublinks:
       - title: Applied Learning Programme
-        url: /Academic-Excellence/Applied-Learning-Programme/
+        url: /academic-excellence/applied-learning-programme/
       - title: Academic Departments
-        url: /Academic-Excellence/Academic-Departments/
+        url: /academic-excellence/academic-departments/
   - title: Partners in Excellence
-    url: /partners-in-excellence/School-Advisory-Committee/
+    url: /partners-in-excellence/school-advisory-committee/
     sublinks:
       - title: School Advisory Committee
-        url: /partners-in-excellence/School-Advisory-Committee/
+        url: /partners-in-excellence/school-advisory-committee/
       - title: Parent Support Group
-        url: /parents/Parent-Support-Group-PSG/
+        url: /parents/parent-support-group-psg/
       - title: Alumni
         url: https://m.facebook.com/groups/westspringsecondaryschoolalumni/
       - title: School Bookshop
@@ -55,4 +55,4 @@ links:
   - title: Links
     collection: links
   - title: Getting Here
-    url: /Getting-Here/
+    url: /getting-here/

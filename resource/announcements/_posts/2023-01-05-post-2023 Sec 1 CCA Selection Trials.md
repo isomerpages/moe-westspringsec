@@ -1,6 +1,6 @@
 ---
 title: 2023 Sec 1 CCA Selection Trials
-permalink: /resource/announcements/2023-Sec-CCA-Selection-Trials/
+permalink: /resource/announcements/2023-sec-cca-selection-trials/
 date: 2023-01-05
 layout: post
 description: ""

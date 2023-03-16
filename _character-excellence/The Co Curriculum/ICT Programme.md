@@ -1,6 +1,6 @@
 ---
 title: ICT Programme
-permalink: /Character-Excellence/ICT-Programme/
+permalink: /character-excellence/ict-programme/
 description: ""
 third_nav_title: The Co Curriculum
 ---

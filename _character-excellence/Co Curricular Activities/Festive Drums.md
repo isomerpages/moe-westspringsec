@@ -1,6 +1,6 @@
 ---
 title: Festive Drums
-permalink: /character-excellence/Co-Curricular-Activities/Festive-Drums/
+permalink: /character-excellence/co-curricular-activities/festive-drums/
 description: ""
 third_nav_title: Co Curricular Activities
 ---

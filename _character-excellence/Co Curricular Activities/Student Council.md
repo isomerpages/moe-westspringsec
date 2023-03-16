@@ -1,6 +1,6 @@
 ---
 title: Student Council
-permalink: /character-excellence/Co-Curricular-Activities/Student-Council/
+permalink: /character-excellence/co-curricular-activities/student-council/
 description: ""
 third_nav_title: Co Curricular Activities
 ---

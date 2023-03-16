@@ -1,6 +1,6 @@
 ---
 title: Humanities Department
-permalink: /Academic-Excellence/Humanities-Department/
+permalink: /academic-excellence/humanities-department/
 description: ""
 ---
 

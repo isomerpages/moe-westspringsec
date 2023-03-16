@@ -1,6 +1,6 @@
 ---
 title: Elements of Business Skills Unit
-permalink: /Academic-Excellence/Computer-Applications-Dpt/Elements-of-Business-Skills-Unit/
+permalink: /academic-excellence/computer-applications-dpt/elements-of-business-skills-unit/
 description: ""
 third_nav_title: Computer Applications Dpt
 ---

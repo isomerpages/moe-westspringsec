@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group (PSG)
-permalink: /parents/Parent-Support-Group-PSG/
+permalink: /parents/parent-support-group-psg/
 description: ""
 ---
 As we navigated out of the shadows of the COVID-19 pandemic in 2022, the PSG Executive Committee (EXCO) wanted this year’s activities to focus on the school’s mission of Shaping Character, Engaging Learners, Touching Lives.

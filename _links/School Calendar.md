@@ -1,6 +1,6 @@
 ---
 title: School Calendar
-permalink: /School-Calendar/
+permalink: /school-calendar/
 description: ""
 ---
 **Please note that event dates are subject to change.**

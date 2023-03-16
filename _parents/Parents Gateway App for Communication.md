@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway App for Communication
-permalink: /parents/Parents-Gateway-App-for-Communication/
+permalink: /parents/parents-gateway-app-for-communication/
 description: ""
 ---
 **Instructional Guide To Download Parent Gateway Apps**

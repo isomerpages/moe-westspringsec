@@ -1,6 +1,6 @@
 ---
 title: Special Needs Programme
-permalink: /Character-Excellence/Special-Needs-Programme/
+permalink: /character-excellence/special-needs-programme/
 description: ""
 third_nav_title: Character and Citizenship Ed
 ---

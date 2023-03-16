@@ -1,6 +1,6 @@
 ---
 title: Audio Visual Club
-permalink: /character-excellence/Co-Curricular-Activities/Audio-Visual-Club/
+permalink: /character-excellence/co-curricular-activities/audio-visual-club/
 description: ""
 third_nav_title: Co Curricular Activities
 ---

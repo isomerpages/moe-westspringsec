@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /Character-Excellence/Sexuality-Education/
+permalink: /character-excellence/sexuality-education/
 description: ""
 third_nav_title: Character and Citizenship Ed
 ---
