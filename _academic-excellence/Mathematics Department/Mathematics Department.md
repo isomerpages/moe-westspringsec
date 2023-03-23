@@ -1,6 +1,6 @@
 ---
 title: Mathematics Department
-permalink: /Academic-Excellence/Mathematics-Department/
+permalink: /academic-excellence/mathematics-department/
 description: ""
 third_nav_title: Mathematics Department
 ---

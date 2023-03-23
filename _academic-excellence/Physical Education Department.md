@@ -1,6 +1,6 @@
 ---
 title: Physical Education Department
-permalink: /Academic-Excellence/Physical-Education-Department/
+permalink: /academic-excellence/physical-education-department/
 description: ""
 ---
 

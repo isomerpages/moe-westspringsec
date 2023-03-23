@@ -1,6 +1,6 @@
 ---
 title: Key Personnel
-permalink: /about-us/Key-Personnel/
+permalink: /about-us/key-personnel/
 description: ""
 third_nav_title: Our People
 ---

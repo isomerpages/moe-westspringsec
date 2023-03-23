@@ -1,6 +1,6 @@
 ---
 title: Teachers
-permalink: /about-us/Teachers/
+permalink: /about-us/teachers/
 description: ""
 third_nav_title: Our People
 ---

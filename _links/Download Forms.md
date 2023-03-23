@@ -1,6 +1,6 @@
 ---
 title: Download Forms
-permalink: /Download-Forms/
+permalink: /download-forms/
 description: ""
 ---
 Group Personal Accident Insurance for Students

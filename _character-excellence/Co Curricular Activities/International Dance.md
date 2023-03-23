@@ -1,6 +1,6 @@
 ---
 title: International Dance
-permalink: /character-excellence/Co-Curricular-Activities/International-Dance/
+permalink: /character-excellence/co-curricular-activities/international-dance/
 description: ""
 third_nav_title: Co Curricular Activities
 ---

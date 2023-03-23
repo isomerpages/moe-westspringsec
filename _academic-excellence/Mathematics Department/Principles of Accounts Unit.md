@@ -1,6 +1,6 @@
 ---
 title: Principles of Accounts Unit
-permalink: /Academic-Excellence/Mathematics-Department/Principles-of-Accounts-Unit/
+permalink: /academic-excellence/mathematics-department/principles-of-accounts-unit/
 description: ""
 third_nav_title: Mathematics Department
 ---

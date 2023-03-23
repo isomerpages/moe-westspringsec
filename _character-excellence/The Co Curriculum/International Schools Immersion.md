@@ -1,6 +1,6 @@
 ---
 title: International Schools Immersion
-permalink: /Character-Excellence/International-Schools-Immersion/
+permalink: /character-excellence/international-schools-immersion/
 description: ""
 third_nav_title: The Co Curriculum
 ---

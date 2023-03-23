@@ -1,6 +1,6 @@
 ---
 title: Getting Here
-permalink: /Getting-Here/
+permalink: /getting-here/
 description: ""
 ---
 #### **West Spring Secondary School**

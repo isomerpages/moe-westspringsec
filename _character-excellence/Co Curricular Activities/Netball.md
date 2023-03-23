@@ -1,6 +1,6 @@
 ---
 title: Netball
-permalink: /character-excellence/Co-Curricular-Activities/Netball/
+permalink: /character-excellence/co-curricular-activities/netball/
 description: ""
 third_nav_title: Co Curricular Activities
 ---

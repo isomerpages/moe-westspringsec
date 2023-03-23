@@ -1,6 +1,6 @@
 ---
 title: National Cadet Corps (Land)
-permalink: /character-excellence/Co-Curricular-Activities/NCC/
+permalink: /character-excellence/co-curricular-activities/ncc/
 description: ""
 third_nav_title: Co Curricular Activities
 ---

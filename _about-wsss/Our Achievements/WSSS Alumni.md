@@ -1,6 +1,6 @@
 ---
 title: WSSS Alumni
-permalink: /about-us/WSSS-Alumni/
+permalink: /about-us/wsss-alumni/
 description: ""
 third_nav_title: Our Achievements
 ---

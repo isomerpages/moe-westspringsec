@@ -1,6 +1,6 @@
 ---
 title: Volleyball
-permalink: /character-excellence/Co-Curricular-Activities/Volleyball/
+permalink: /character-excellence/co-curricular-activities/volleyball/
 description: ""
 third_nav_title: Co Curricular Activities
 ---

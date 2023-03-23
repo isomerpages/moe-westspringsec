@@ -1,6 +1,6 @@
 ---
 title: Student Leadership Programme
-permalink: /Character-Excellence/Student-Leadership-Programme/
+permalink: /character-excellence/student-leadership-programme/
 description: ""
 third_nav_title: Character and Citizenship Ed
 ---

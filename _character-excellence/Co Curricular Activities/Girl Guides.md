@@ -1,6 +1,6 @@
 ---
 title: Girl Guides
-permalink: /character-excellence/Co-Curricular-Activities/Girl-Guides/
+permalink: /character-excellence/co-curricular-activities/girl-guides/
 description: ""
 third_nav_title: Co Curricular Activities
 ---

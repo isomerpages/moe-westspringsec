@@ -1,6 +1,6 @@
 ---
 title: School Library
-permalink: /students/School-Library
+permalink: /students/school-library/
 description: ""
 ---
 **School Library OPAC:**  [https://schoolibrary.moe.edu.sg/westspringsec](https://schoolibrary.moe.edu.sg/westspringsec)   

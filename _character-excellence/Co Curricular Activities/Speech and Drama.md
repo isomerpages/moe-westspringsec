@@ -1,6 +1,6 @@
 ---
 title: Speech and Drama
-permalink: /character-excellence/Co-Curricular-Activities/Speech-And-Drama/
+permalink: /character-excellence/co-curricular-activities/speech-and-drama/
 description: ""
 third_nav_title: Co Curricular Activities
 ---

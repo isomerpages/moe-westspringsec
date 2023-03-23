@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue (Malay) Department
-permalink: /Academic-Excellence/Mother-Tongue-Malay-Department/
+permalink: /academic-excellence/mother-tongue-malay-department/
 description: ""
 ---
 | Dept Name 	| Mother Tongue (Malay) 	|

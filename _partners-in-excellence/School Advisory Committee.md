@@ -1,6 +1,6 @@
 ---
 title: School Advisory Committee
-permalink: /partners-in-excellence/School-Advisory-Committee/
+permalink: /partners-in-excellence/school-advisory-committee/
 description: ""
 ---
 School Advisory Committee 2022

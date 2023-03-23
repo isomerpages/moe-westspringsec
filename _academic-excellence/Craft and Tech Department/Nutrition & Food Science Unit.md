@@ -1,6 +1,6 @@
 ---
 title: Nutrition & Food Science Unit
-permalink: /Academic-Excellence/Craft-and-Tech-Department/Nutrition-and-Food-Science-Unit/
+permalink: /academic-excellence/craft-and-tech-department/nutrition-and-food-science-unit/
 description: ""
 third_nav_title: Craft and Tech Department
 ---

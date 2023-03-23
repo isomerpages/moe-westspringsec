@@ -1,6 +1,6 @@
 ---
 title: Cyber Wellness Programme
-permalink: /Character-Excellence/Cyber-Wellness-Programme/
+permalink: /character-excellence/cyber-wellness-programme/
 description: ""
 third_nav_title: Character and Citizenship Ed
 ---

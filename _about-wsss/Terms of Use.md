@@ -1,6 +1,6 @@
 ---
 title: Terms of Use
-permalink: /about-us/Terms-of-Use
+permalink: /about-us/terms-of-use/
 description: ""
 ---
 Thank you for visiting **westspringsec.moe.edu.sg**. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
@@ -16,7 +16,7 @@ Thank you for visiting **westspringsec.moe.edu.sg**. By accessing and using thi
 
 **Privacy Policy**
 
-5.  Click here to review this [Web Site Privacy Statement](/Privacy-Statement)
+5.  Click here to review this [Web Site Privacy Statement](/privacy-statement)
 
 **Restrictions on Use of Materials**
 

@@ -49,8 +49,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-westspringsec-staging.netlify.app
-prod: https://moe-westspringsec-prod.netlify.app
+staging: https://staging.d31sqbu9117z8w.amplifyapp.com/
+prod: https://master.d31sqbu9117z8w.amplifyapp.com/
 resources_name: resource
 shareicon: /images/Badge_HiRes.jpg
 is_government: true

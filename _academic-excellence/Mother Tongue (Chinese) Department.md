@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue (Chinese) Department
-permalink: /Academic-Excellence/Mother-Tongue-Chinese-Department/
+permalink: /academic-excellence/mother-tongue-chinese-department/
 description: ""
 ---
 |  Dept Name	|  Mother Tongue (Chinese)	|

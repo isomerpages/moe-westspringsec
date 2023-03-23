@@ -1,6 +1,6 @@
 ---
 title: Music Unit
-permalink: /academic-excellence/Craft-and-Tech-Department/Music/
+permalink: /academic-excellence/craft-and-tech-department/music/
 description: ""
 third_nav_title: Craft and Tech Department
 ---

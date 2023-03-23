@@ -1,6 +1,6 @@
 ---
 title: Science Department
-permalink: /Academic-Excellence/Science-Department/
+permalink: /academic-excellence/science-department/
 description: ""
 ---
 

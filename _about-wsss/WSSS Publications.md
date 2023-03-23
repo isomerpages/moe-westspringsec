@@ -1,6 +1,6 @@
 ---
 title: WSSS Publications
-permalink: /about-us/WSSS-Publications/
+permalink: /about-us/wsss-publications/
 description: ""
 ---
 #### **West Spring Yearbooks**

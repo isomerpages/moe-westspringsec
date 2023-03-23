@@ -1,6 +1,6 @@
 ---
 title: Blended Learning
-permalink: /students/Blended-Learning/
+permalink: /students/blended-learning/
 description: ""
 ---
 ##### **Announcements for Blended Learning 2022**

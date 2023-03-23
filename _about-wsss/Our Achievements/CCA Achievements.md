@@ -1,6 +1,6 @@
 ---
 title: CCA Achievements
-permalink: /about-us/CCA-Achievements/
+permalink: /about-us/cca-achievements/
 description: ""
 third_nav_title: Our Achievements
 ---

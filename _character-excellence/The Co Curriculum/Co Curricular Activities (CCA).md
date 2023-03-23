@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activities (CCA)
-permalink: /Character-Excellence/Co-Curricular-Activities-CCA/
+permalink: /character-excellence/co-curricular-activities-cca/
 description: ""
 third_nav_title: The Co Curriculum
 ---

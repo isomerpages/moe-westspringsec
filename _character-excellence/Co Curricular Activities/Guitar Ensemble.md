@@ -1,6 +1,6 @@
 ---
 title: Guitar Ensemble
-permalink: /character-excellence/Co-Curricular-Activities/Guitar/
+permalink: /character-excellence/co-curricular-activities/guitar/
 description: ""
 third_nav_title: Co Curricular Activities
 ---

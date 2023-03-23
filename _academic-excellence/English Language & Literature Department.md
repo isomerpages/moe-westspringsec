@@ -1,6 +1,6 @@
 ---
 title: English Language & Literature Department
-permalink: /Academic-Excellence/English-Language-and-Literature-Department/
+permalink: /academic-excellence/english-language-and-literature-department/
 description: ""
 ---
 

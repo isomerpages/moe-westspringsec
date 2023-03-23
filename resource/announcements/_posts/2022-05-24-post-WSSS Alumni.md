@@ -1,6 +1,6 @@
 ---
 title: WSSS Alumni
-permalink: /resource/parents-information/WSSS-Alumni
+permalink: /resource/parents-information/wsss-alumni/
 date: 2022-05-24
 layout: post
 description: ""

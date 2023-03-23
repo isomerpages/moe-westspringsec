@@ -1,6 +1,6 @@
 ---
 title: Principal's Foreword
-permalink: /about-wsss/Principal-Foreword/
+permalink: /about-wsss/principal-foreword/
 description: ""
 ---
 West Spring Secondary has established itself as a popular school, attracting many students in the Bukit Panjang, Upper Bukit Timah and Choa Chu Kang areas.  We are grateful for the past efforts of the previous Principals and staff in building a strong foundation.  It is heartening to learn that the school has established a reputation for being a school with good discipline with a strong emphasis on holistic development in the community it is located.

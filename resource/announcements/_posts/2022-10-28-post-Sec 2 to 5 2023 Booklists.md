@@ -1,6 +1,6 @@
 ---
 title: Sec 2 to 5 2023 Booklists
-permalink: /resource/featured-posts/Sec-2-to-5-2023-Booklists/
+permalink: /resource/featured-posts/sec-2-to-5-2023-booklists/
 date: 2022-10-28
 layout: post
 description: ""

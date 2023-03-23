@@ -1,6 +1,6 @@
 ---
 title: Character and Citizenship Education
-permalink: /Character-Excellence/Character-and-Citizenship-Education/
+permalink: /character-excellence/character-and-citizenship-education/
 description: ""
 third_nav_title: Character and Citizenship Ed
 ---

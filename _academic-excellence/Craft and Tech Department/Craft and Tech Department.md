@@ -1,6 +1,6 @@
 ---
 title: Craft and Tech Department
-permalink: /academic-excellence/Craft-and-Tech-Department/
+permalink: /academic-excellence/craft-and-tech-department/
 description: ""
 third_nav_title: Craft and Tech Department
 ---
