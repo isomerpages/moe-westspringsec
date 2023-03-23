@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Sec 2 Parents and Students
+
+Thank you for attending our talk. Here are the presentation slides for the briefing.
+
