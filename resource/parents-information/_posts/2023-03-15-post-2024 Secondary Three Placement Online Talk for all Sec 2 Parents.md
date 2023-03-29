@@ -15,8 +15,9 @@ Dear Parents/Guardians of Sec 2 Students
 3. All parents/guardians, as well as students, are strongly encouraged to attend. Please do not hesitate to contact the form teacher should you need any further clarifications.
  
 4. Please click here for a list of FAQs. 
-* [FAQ for Sec 2 Express](/files/Parents'%20Information/2023%20S3%20Placement%20Briefing%20for%202Exp_FAQ.pdf)
-* [FAQ for Sec 2NA and 2NT](/files/Parents'%20Information/2023%20S3%20Placement%20Briefing%20for%202NA2NT_FAQ.pdf)
+* [FAQ for Sec 2 Express](/files/2023%20S3%20Placement%20Briefing%20for%202Exp_FAQ.pdf)
+* [FAQ for Sec 2NA and 2NT](/files/2023%20S3%20Placement%20Briefing%20for%202NA2NT_FAQ.pdf)
+
 5. We look forward to your continued support and partnership in the holistic development of our pupils.
 
 Thank you.
