@@ -22,4 +22,4 @@ Thank you for attending our talk. Here are the presentation slides and FAQ for t
 
 [FAQ for Sec 3 Express Placement (Post Briefing)](/files/faq%20for%20sec%203exp%20placement%20(post%20briefing).pdf)
 
-[FAQ for Sec 3 NA/NT Placement (Post Briefing)](/files/faq%20for%20sec%203nant%20placement%20(post%20briefing).pdf))
+[FAQ for Sec 3 NA/NT Placement (Post Briefing)](/files/faq%20for%20sec%203nant%20placement%20(post%20briefing).pdf)
