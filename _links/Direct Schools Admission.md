@@ -28,4 +28,8 @@ Our selection criteria, in general, are as follows:
 ●	Conduct and Attitude for Learning: Applicants should demonstrate evidence of good conduct in school, as well as a positive attitude for learning and demeanour  
 
 ![](/images/dsa-1%20screenshot.JPG)
-![](/images/dsa-2%20screenshot.JPG)
+![](/images/v2%20dsa-2.JPG)
+
+
+
+
