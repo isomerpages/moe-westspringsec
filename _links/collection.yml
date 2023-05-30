@@ -2,10 +2,10 @@ collections:
   links:
     output: true
     order:
-      - School Canteen.md
       - For Parents.md
       - For Students.md
       - For Teachers.md
       - Direct Schools Admission.md
       - School Calendar.md
       - Download Forms.md
+      - School Canteen.md
