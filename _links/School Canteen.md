@@ -1,6 +1,6 @@
 ---
 title: School Canteen
-permalink: /links/permalink/
+permalink: /links/school-canteen/
 description: ""
 ---
 Under Construction
