@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - School Canteen/.keep
       - For Parents.md
       - For Students.md
       - For Teachers.md
