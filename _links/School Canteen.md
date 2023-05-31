@@ -28,14 +28,15 @@ We are a single session secondary school with student enrolment of  1100 and sta
 * Applicants who adopt green practices are also preferred.
 
 **Application Procedure**
-* Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 *  [Application Form](/files/application%20form.pdf)
-* Attached the following documents together with the application form:
-* Photocopy of the NRIC (front and back).
-* List of proposed menu and pricing for all items.
-* Records of past catering/canteen experiences, if any.
-* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.
-* Submit the completed application form and documents by closing date via email OR to the School’s General Office.
+2. Attached the following documents together with the application form:
+*  Photocopy of the NRIC (front and back).
+*  List of proposed menu and pricing for all items.
+*  Records of past catering/canteen experiences, if any.
+*  Photocopy of relevant certificates such as Basic Food Hygiene Course, etc.
+
+3. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 * Address: 61 Senja Road, Singapore 677737
 * Contact No: 6892 0369
 * Email: westspringss@moe.edu.sg
