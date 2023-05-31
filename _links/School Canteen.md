@@ -11,7 +11,6 @@ West Spring Secondary School is inviting applicants to operate a food stall at o
 
 We are a single session secondary school with student enrolment of  1100 and staff strength of 130. There are currently 6 food stalls and 1 drink/snack stall at our school.
 
-**Criteria**
 
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
