@@ -45,4 +45,4 @@ We are a single session secondary school with student enrolment of  1100 and sta
 
 **Interview and Food Tasting**
 * Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
-* Successful applicant will be expected to commence operation of the stall on date as stated in TOL agreement.
+* Successful applicant will be expected to commence operation of the stall base on date stated in TOL agreement.
