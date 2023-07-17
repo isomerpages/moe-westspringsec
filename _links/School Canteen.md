@@ -40,7 +40,7 @@ We are a single session secondary school with student enrolment of  1100 and sta
 * Contact No: 6892 0369
 * Email: westspringss@moe.edu.sg
 * Contact Person: Mdm Lim Puay Lan or Mr Lerwin Nai
-* Closing date for Application: 14 July 2023, 12 noon.
+* Closing date for Application: 31 Aug 2023, 12 noon.
 * We regret that late applications will not be accepted.
 
 **Interview and Food Tasting**
