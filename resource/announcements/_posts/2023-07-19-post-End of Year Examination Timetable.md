@@ -6,3 +6,22 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Sec 123 parents and students
+
+As we approach the end of the academic year, it's time to gear up for the year-end examinations in term 4. 
+
+To help you prepare effectively, the timetables for the exams are provided below. Use these timetables as a reference to plan your revision timetable and ensure you cover all the necessary topics.
+
+Wishing you all the best for your year-end examinations!
+
+Best regards,
+Mr V Siva Kumar
+Vice-Principal
+
+[2023 S1 EOY Exam Timetable & Parent's Letter]()
+
+[2023 S2 EOY Exam Timetable & Parent's Letter]()
+
+[2023 S3 EOY Exam Timetable & Parent's Letter]()
+
+
