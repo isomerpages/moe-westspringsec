@@ -15,13 +15,13 @@ To help you prepare effectively, the timetables for the exams are provided below
 Wishing you all the best for your year-end examinations!
 
 Best regards,
+
 Mr V Siva Kumar
+
 Vice-Principal
 
-[2023 S1 EOY Exam Timetable & Parent's Letter]()
+[Sec 1 EOY Exam Timetable 2023](/files/2023%20s1%20eoy%20exam%20timetable%20&%20parent's%20letter.pdf)
 
-[2023 S2 EOY Exam Timetable & Parent's Letter]()
+[Sec 2 EOY Exam Timetable 2023](/files/2023%20s2%20eoy%20exam%20timetable%20&%20parent's%20letter.pdf)
 
-[2023 S3 EOY Exam Timetable & Parent's Letter]()
-
-
+[Sec 3 EOY Exam Timetable 2023](/files/2023%20s3%20eoy%20exam%20timetable%20&%20parent's%20letter.pdf)
