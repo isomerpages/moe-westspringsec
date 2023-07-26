@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - MIMS Computer Account.md
       - Student Learning Space (SLS).md
       - Blended Learning.md
       - School Library.md
