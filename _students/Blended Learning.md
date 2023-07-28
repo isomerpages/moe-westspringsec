@@ -5,9 +5,9 @@ description: ""
 ---
 ##### **Announcements for Blended Learning 2023**
 
-**Students’ HBL website: https://sites.google.com/moe.edu.sg/wsssbl/home
+**Students’ HBL website: [https://sites.google.com/moe.edu.sg/wsssbl/home](https://sites.google.com/moe.edu.sg/wsssbl/home)
 **
-(Please make sure that you are signed in to your Student iCON account to view the site.)
+**(Please make sure that you are signed in to your Student iCON account to view the site.)**
 
 
 **Learning Portals**
