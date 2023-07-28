@@ -3,19 +3,20 @@ title: Blended Learning
 permalink: /students/blended-learning/
 description: ""
 ---
-##### **Announcements for Blended Learning 2022**
+##### **Announcements for Blended Learning 2023**
 
-1.  Please read these slides dated 13 Jan 2022. (Blended Learning consists of both HBL and SIL)  
-  [WSSS Blended Learning Slides for Students 2022](/files/Students/HBL/WSSS-Blended-Learning-Slides-for-Students-2022.pdf)
+**Students’ HBL website: https://sites.google.com/moe.edu.sg/wsssbl/home
+**
+(Please make sure that you are signed in to your Student iCON account to view the site.)
+
+
 **Learning Portals**
 
 Student Learning Space (SLS) : [learning.moe.edu.sg](http://learning.moe.edu.sg/)
 
 Google Classroom: Access from your student iCON dashboard. (Please make sure that you are signed in to your Student iCON account.)
 
-Students’ HBL website: https://sites.google.com/moe.edu.sg/wsssbl/home
 
-(Please make sure that you are signed in to your Student iCON account to view the site.)
 
 **Student iCON**
 
@@ -28,6 +29,7 @@ Password reset: Go to [tinyurl.com/wssspdlp](http://tinyurl.com/wssspdlp) and 
 Opening Hours: 0730 to 1600 (Mon-Fri)
 
 Please provide us with your name, class, register number, contact number and the issues that you are facing.  
+
 
 **SLS Central Helpline**
 

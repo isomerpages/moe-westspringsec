@@ -3,6 +3,8 @@ title: For Students
 permalink: /links/for-students/
 description: ""
 ---
+<a href="https://www.westspringsec.moe.edu.sg/students/permalink/mims" target="_blank">Student iCON and MIMS Password</a>
+
 <a href="https://sites.google.com/moe.edu.sg/wssspdlp/home" target="_blank">West Spring PLD</a>
 
 <a href="https://sites.google.com/moe.edu.sg/wsssbl/home" target="_blank">West Spring Blended Learning</a>
