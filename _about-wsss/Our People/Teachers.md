@@ -68,5 +68,6 @@ third_nav_title: Our People
 | Science 	| Mr Prakash S/O Radakrishna 	| prakash_radakrishna@moe.edu.sg 	|
 | Science 	| Mr Siow Gim Onn 	| siow_gim_onn@moe.edu.sg 	|
 | Science, Computer Applications 	| Ms Koh Caihua 	| koh_caihua@moe.edu.sg 	|
+| Science, Computer Applications 	| Ms Jaylin Toh 	| jaylin_toh@moe.edu.sg 	|
 
 For more information, please email us at [westspringss@moe.edu.sg](mailto:westspringss@moe.edu.sg).
