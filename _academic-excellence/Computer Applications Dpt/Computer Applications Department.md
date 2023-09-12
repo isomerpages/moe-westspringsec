@@ -28,6 +28,7 @@ Congratulations to all past winners in the National Animation and Game-making (A
 | 2019 	| Guan Jiahong (Sec 3G)  My Favourite Gold Award 	| Ryan Ho (Sec 3G)  Sea Cleaning Bronze Award 	|
 | 2020 	| Jed Tan  My Future School Bronze Award 	| Guan Jiahong (Sec 3G)  Dungeon Escape Platinum Award 	|
 | 2021 	| Allegra Ferris Tan  How Coronavirus Affected Our Lives Bronze Award 	| Jed Tan (Sec 3G)  Battle the Virus Platinum Award 	|
-| 2022 	| Chew Hup Heng (Sec2), Sustainable Environment, Gold Award	| Kelvin (Sec 3G)  TracerRacer Bronze Award	|
+| 2022 	| Chew Hup Heng (Sec2), Sustainable Environment, Gold Award	| Kelvin Tan Jia Jin (Sec 3G)  TracerRacer Bronze Award	|
+| 2023 	| Chloe Chu Xi En (Sec2), Beware of Scams, Gold Award	| Dannon Wee Wen Xiong (Sec 3)  Health, Gold Award	|
 
 ![](/images/Academic/Computer%20Applications%20Dpt/photo_6248794326528275300_w.png)
