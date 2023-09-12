@@ -3,12 +3,12 @@ title: Student iCON and MIMS Password
 permalink: /students/permalink/mims/
 description: ""
 ---
-**Student iCON and MIMS Password**
-
+**About Student iCON and MIMS Password
+**
 
 Every student will have a student iCON account to log in to the computers in school and his/her Personal Learning Device. Student iCON account allows students to access Student Learning Space (SLS) and other learning platforms.
 
-**Details**:
+**Details:**
 
 Username: given_name@students.edu.sg (provided by school)
 
@@ -16,7 +16,7 @@ Password: This is called MIMS password which can be reset by student at the MIMS
 
 --------------
 
-**MIMS PORTAL: Go to https://mims.moe.gov.sg/sspr
+**MIMS PORTAL: Go to [https://mims.moe.gov.sg/sspr](https://mims.moe.gov.sg/sspr)
 
 MIMS Portal allows you to reset your MIMS password should you forget your password. Simply go to MIMS Portal and click FORGOT PASSWORD.
 
