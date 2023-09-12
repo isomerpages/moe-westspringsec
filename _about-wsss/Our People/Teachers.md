@@ -61,7 +61,6 @@ third_nav_title: Our People
 | Physical Education 	| Ms Nurulain 	| To be updated 	|
 | Physical Education, Elements of Business Skills 	| Mr Wang Wade 	| wang_wade_fengyin@moe.edu.sg 	|
 | Physical Education 	| Mdm Eve Tan 	| tan_poh_yun_evelyn@moe.edu.sg 	|
-| Principles of Accounts 	| Mdm Charlotte Chua 	| chua_soh_chin_charlotte@moe.edu.sg 	|
 | Science 	| Mdm Sharena Bte Mohamed 	| sharena_mohamed@moe.edu.sg 	|
 | Science 	| Mdm Zhou Siyang 	| zhou_siyang@moe.edu.sg 	|
 | Science 	| Ms Pauline Wan Hui Qing 	| pauline_wan_hui_qing@moe.edu.sg 	|
@@ -69,5 +68,6 @@ third_nav_title: Our People
 | Science 	| Mr Prakash S/O Radakrishna 	| prakash_radakrishna@moe.edu.sg 	|
 | Science 	| Mr Siow Gim Onn 	| siow_gim_onn@moe.edu.sg 	|
 | Science, Computer Applications 	| Ms Koh Caihua 	| koh_caihua@moe.edu.sg 	|
+| Science, Computer Applications 	| Ms Jaylin Toh 	| jaylin_toh@moe.edu.sg 	|
 
 For more information, please email us at [westspringss@moe.edu.sg](mailto:westspringss@moe.edu.sg).
