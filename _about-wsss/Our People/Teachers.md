@@ -61,7 +61,6 @@ third_nav_title: Our People
 | Physical Education 	| Ms Nurulain 	| To be updated 	|
 | Physical Education, Elements of Business Skills 	| Mr Wang Wade 	| wang_wade_fengyin@moe.edu.sg 	|
 | Physical Education 	| Mdm Eve Tan 	| tan_poh_yun_evelyn@moe.edu.sg 	|
-| Principles of Accounts 	| Mdm Charlotte Chua 	| chua_soh_chin_charlotte@moe.edu.sg 	|
 | Science 	| Mdm Sharena Bte Mohamed 	| sharena_mohamed@moe.edu.sg 	|
 | Science 	| Mdm Zhou Siyang 	| zhou_siyang@moe.edu.sg 	|
 | Science 	| Ms Pauline Wan Hui Qing 	| pauline_wan_hui_qing@moe.edu.sg 	|
