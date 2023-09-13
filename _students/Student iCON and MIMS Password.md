@@ -3,8 +3,7 @@ title: Student iCON and MIMS Password
 permalink: /students/permalink/mims/
 description: ""
 ---
-**About Student iCON and MIMS Password
-**
+**About Student iCON and MIMS Password**
 
 Every student will have a student iCON account to log in to the computers in school and his/her Personal Learning Device. Student iCON account allows students to access Student Learning Space (SLS) and other learning platforms.
 
