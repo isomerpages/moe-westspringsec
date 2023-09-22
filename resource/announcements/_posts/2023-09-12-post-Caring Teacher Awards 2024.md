@@ -1,6 +1,6 @@
 ---
 title: Caring Teacher Awards 2024
-permalink: /resource/announcements/permalink/
+permalink: /resource/announcements/cta2024/
 date: 2023-09-12
 layout: post
 description: ""
