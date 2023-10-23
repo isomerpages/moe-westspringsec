@@ -4,11 +4,11 @@ permalink: /about-us/key-personnel/
 description: ""
 third_nav_title: Our People
 ---
-
 | Designation 	| Name 	| Email 	|
 |---	|---	|---	|
 | Principal 	| Mrs Belinda Chan 	| belinda_yong@schools.gov.sg 	|
 | Vice-Principal 	| Mr V Siva Kumar 	| siva_kumar_vathumalai@schools.gov.sg 	|
+| Vice-Principal 	| Mr Chan Huan Jian Malvin 	| malvin_chan@schools.gov.sg 	|
 | Vice-Principal Administration	| Mrs Joy Ong 	| ong-sim_bee_lian@schools.gov.sg 	|
 | School Staff Developer 	| Mrs Doris Chong 	| teong_soh_cheow@moe.edu.sg 	|
 | HOD Character & Citizenship Education 	| Mr Marcus Sze 	| marcus_sze_kah_choon@moe.edu.sg 	|
