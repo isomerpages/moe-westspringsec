@@ -21,4 +21,4 @@ Instagram: @westspringsec
 
 Facebook: westspring.ss
 
-Thank you! 
+Thank you for your support!
