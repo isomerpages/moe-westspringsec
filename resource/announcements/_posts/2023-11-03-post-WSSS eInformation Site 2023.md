@@ -16,7 +16,9 @@ You can still find out more information about our school from our website and th
 If there are queries, do not hesitate to reach out at our email: westspringss@moe.edu.sg
 
 Do visit our social media pages as well to find out more about our programmes. 
+
 Instagram: @westspringsec
+
 Facebook: westspring.ss
 
 Thank you! 
