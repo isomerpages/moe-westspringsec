@@ -11,7 +11,7 @@ Dear parents and students
 
 West Spring Secondary School will not be holding an Open House this year as the school building is undergoing refresh & renovation works. 
 
-You can still find out more information about our school from our website and the e-Information Site that will be launched on 15 Nov 2023. 
+You can still find out more information about our school from our website and the e-Information Site that will be launched on 18 Nov 2023. 
 
 If there are queries, do not hesitate to reach out at our email: westspringss@moe.edu.sg
 
