@@ -7,12 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HERO1.png
+      background: /images/Website_Hero__2_.png
       key_highlights:
         - title: ""
           description: ""
           url: ""
+      variant: image
   - resources:
       subtitle: Announcements
 ---
-
