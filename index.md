@@ -4,13 +4,14 @@ title: West Spring Secondary School - Official School Website
 description: Official school website of West Spring Secondary School
 image: /images/Badge_HiRes.jpg
 permalink: /
-notification: ""
+notification: "West Spring Sec will not be holding a physical open house. Look
+  out for Info Site, launching 15 Nov. "
 sections:
   - hero:
       background: /images/Website_Hero__2_.png
       key_highlights:
-        - title: ""
-          description: ""
+        - title: Information Site
+          description: From 15 Nov 2023!
           url: ""
       variant: image
   - resources:
