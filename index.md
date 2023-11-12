@@ -8,7 +8,7 @@ notification: "West Spring Sec will not be holding a physical open house. Look
   out for Info Site, launching 15 Nov. "
 sections:
   - hero:
-      background: /images/Website_Hero__2_.png
+      background: /images/ebanner_1920x720.jpg
       key_highlights:
         - title: Information Site
           description: From 15 Nov 2023!
