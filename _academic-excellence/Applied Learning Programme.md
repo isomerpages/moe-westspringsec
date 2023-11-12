@@ -2,6 +2,7 @@
 title: Applied Learning Programme
 permalink: /academic-excellence/applied-learning-programme/
 description: ""
+variant: markdown
 ---
 ##### **ALP Objective: for students to be critical media consumers and competent media producers** #####
 
@@ -15,6 +16,6 @@ Our students learn the importance of identifying sources and to be literate in m
 
 **Student Journalism**
 
-ALP and Publications are embarking on a new project known as Students Journalism. In 2021, students volunteered to be involved in this project where they were guided to write on certain current topics that they felt passionate about and wished to present to their peers. Most of the recruitment and students’ training were done mainly by the ALP teachers. In 2022, we hope to launch the student journalism in the school to encourage more students to join in and speak up on current issues.
+ALP and Publications are embarking on a new project known as Students Journalism. Our students volunteered to be involved in this project where they were guided to write on certain current topics that they felt passionate about and wished to present to their peers. Most of the recruitment and students’ training were done mainly by the ALP teachers. In 2022, we launched the student journalism in the school to encourage more students to join in and speak up on current issues.
 
 For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
