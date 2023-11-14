@@ -15,7 +15,7 @@ sections:
           url: https://sites.google.com/moe.edu.sg/wsss-info-site-2023/home
       variant: center
       title: Leaders of Character, Learners for Life
-      subtitle: Shaping characters| Engaging Learners | Touching Lives
+      subtitle: Shaping Character | Engaging Learners | Touching Lives
   - resources:
       subtitle: Announcements
 ---
