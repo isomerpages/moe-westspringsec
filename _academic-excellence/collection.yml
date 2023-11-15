@@ -2,19 +2,19 @@ collections:
   academic-excellence:
     output: true
     order:
-      - Humanities Department/Humanities Department.md
-      - Humanities Department/.keep
       - Applied Learning Programme.md
       - Academic Departments.md
       - Computer Applications Dpt/.keep
       - Computer Applications Dpt/Computer Applications Department.md
       - Computer Applications Dpt/Elements of Business Skills Unit.md
-      - Craft and Tech Department/Craft and Tech Department.md
       - Craft and Tech Department/.keep
+      - Craft and Tech Department/Craft and Tech Department.md
       - Craft and Tech Department/Music Unit.md
       - Craft and Tech Department/Art Unit.md
       - Craft and Tech Department/Nutrition & Food Science Unit.md
       - English Language & Literature Department.md
+      - Humanities Department/.keep
+      - Humanities Department/Humanities Department.md
       - Mathematics Department/.keep
       - Mathematics Department/Mathematics Department.md
       - Mathematics Department/Principles of Accounts Unit.md
