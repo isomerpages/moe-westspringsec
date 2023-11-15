@@ -3,38 +3,32 @@ title: Music Unit
 permalink: /academic-excellence/craft-and-tech-department/music/
 description: ""
 third_nav_title: Craft and Tech Department
+variant: markdown
 ---
-**Key Programmes**
+**2023 Enrichment Workshop for Secondary 1**
 
-The Music Department focuses on student-centred activities as well as peer teaching to engage students and inculcate positive learning dispositions that help our students to become self-directed learners. Given their diverse musical tastes, students are given the opportunities to pursue a particular area of interest in the realm of music through the course of Music lessons.
+In line with West Spring’s emphasis on holistic education and aesthetics appreciation, Secondary 1 students attended an enrichment workshop where they learnt how to play the cajon. During the workshop, students grasped basic techniques of the cajon, and also learnt and worked together as a class to perform drumming patterns with accompanying music. The cajon workshop also enhanced their coordination, memorisation and observation skills when they demonstrated their learning by performing a song together at the end.
 
-Our Lower Secondary General Music Programme at West Spring provides all students with an all-rounded worldview of Music through the learning of:
+**2023 Enrichment Workshop for Secondary 2**
 
-*   Elementary Rudiments of Music Theory (note-reading, note values etc.)
-*   Ukulele
-*   Keyboard
-*   Music and Its Role in Society (instruments of various ethnic groups, instruments used at cultural events etc.)
-    
-**Highlights of 2022**
+The Secondary 2 students attended an enrichment workshop where they learnt how to dance. During the workshop, students built their confidence and teamwork as a class while they grasped basic techniques of hip hop, one of the most popular dance forms these days. In addition, learning the dance moves also allowed students to enhance their coordination, memorisation and observation skills, and demonstrate their learning by presenting a mini dance showcase together at the end.
 
-1.  Level-wide Aesthetics Programmes
-    
-2.  Secondary 1 - Cajon Enrichment Programme 
-    
-3.  Secondary 2 - Dance Enrichment Programme
-    
-4.  Participation in West Spring Got Talent! for Aesthetics Week 2022
-*   Chloe, Eun Rye, Mindy, Min En, Mythili, Rianne (Sec 1/2022) 
-*   Karlo Dominic, Sofya Eridani (Sec 3A/2022) 
-*   Briseis Ng (Sec 3B/2022) 
-*   Felicia Yee, Gabrielle Nicole, Yong Jing Ting (Sec 3C/2022)
-*   Annabel Ang (Sec 3D/2022)
-*   Ashley Chin, Kesrie Lee, Mojica Juan (Sec 4C/2022) 
-*   Shia Jing Hui (Sec 4F/2022) 
-    
+**2023 Aesthetics Learning Journeys for all levels**
 
-5.  Students offering Higher Music / ‘O’ Level Music
-*   Karlo Dominic Nadala Ferrer (Sec 3A/2022)
-*   Sofya Eridani Mohamed Shaufi (Sec 3A/2022)
-*   Annabel Ang (Sec 3D/2022)
-*   Shia Jing Hui (Sec 4F/2022)
+In line with West Spring’s emphasis on holistic education, our school embarked on the annual series of external learning journeys with the aim of introducing our students to various forms of aesthetics and performing arts. 
+
+  Learning Journeys to date:
+
+*   4 February 2023 - dance production at the Esplanade Theatre
+    
+*   25 April - indie concert at the Esplanade Concert Hall 
+    
+*   6 May 2023 - drama production at the Esplanade Theatre
+    
+*   26 August 2023 - indie concert at the Esplanade Annex Studio
+    
+Through these learning journeys, learning for students extended beyond the classroom and at the same time, they were able to broaden their horizons when they were exposed to various genres of performing arts beyond the familiar.
+
+**2023 Aesthetics Week Concer**t
+
+This annual concert aims to provide students with a platform to showcase their talents in the area of performing arts, be it playing a musical instrument, singing or dancing. Through the journey of auditions and rehearsals, this concert also provided students with the opportunities to build their self-confidence and resilience as a whole. In addition, the rest of the student population also benefited when they were exposed to the different forms of aesthetics and the performing arts during the showcase.
