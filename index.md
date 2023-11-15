@@ -13,7 +13,7 @@ sections:
         - title: Information Site
           description: Learn about West Spring Sec!
           url: https://sites.google.com/moe.edu.sg/wsss-info-site-2023/home
-      variant: center
+      variant: floating
       title: Leaders of Character, Learners for Life
       subtitle: Shaping Character | Engaging Learners | Touching Lives
   - resources:
