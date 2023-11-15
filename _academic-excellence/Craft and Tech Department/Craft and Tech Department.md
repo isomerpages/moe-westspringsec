@@ -3,14 +3,18 @@ title: Craft and Tech Department
 permalink: /academic-excellence/craft-and-tech-department/
 description: ""
 third_nav_title: Craft and Tech Department
+variant: markdown
 ---
-|  Dept Name	| Craft and Tech 	|
-| -	| -	|
-| Key Programmes 	| Lower Secondary students have the hands-on experience in the design and making of acrylic stationery holders with electronics, simple wooden handheld mechanism toys and metal toy holders for their projects.
-||The Upper Secondary students were given real life experience of the design thinking process through preparation for GCE coursework and learn about the applications of technology in structures, electronics, and mechanisms.
-| Highlights of 2022	| 1.  Learning of Sketchup 3D Design Software using customised resources prepared by D&T teachers
-|| 2.  Achievements in Singapore Polytechnic Toy Design Competition (Automata) 2022 : 3rd Prize, Merit Award, Consolation Award
- 
- ![](/images/Academic/Craft%20and%20Tech%20Department/photo_6248794326528275301_w.png)
+The Design & Technology curriculum in West Spring aims to promote creative design through fun learning to develop students to be passionate designers.
 
-For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/)
+In the early lower secondary, students learn the basics of sketching and drawing to apply to their design project. The lower secondary projects’ components include the design processes of generating and developing ideas, building mock-ups, creating sketch of developed idea and realising of prototypes.
+
+Secondary One : Design and Make a Light cum Pencil Holder 
+
+Secondary Two : Design and Make a Mechanism Toy
+  
+The Secondary Three students focussed on design journaling by applying design thinking processes. They also develop their drawing skills through using SketchUp software and prototype making skills in preparation for the GCE coursework in Secondary Four.
+  
+
+**Singapore Polytechnic Engineering Challenge**
+Selected Secondary 2 students participated in this year’s Engineering Challenge and attended a Planter’s workshop organised by Singapore Polytechnic. The purpose of the workshop was to foster an understanding of sustainable agriculture and environmental conservation.
