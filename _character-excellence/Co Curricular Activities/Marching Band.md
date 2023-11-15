@@ -3,27 +3,28 @@ title: Marching Band
 permalink: /character-excellence/co-curricular-activities/marching-band/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-##### **Key Programmes 2022**
+**Key Programmes**
 
-Our members have weekly training sessions, including sectionals. We also have an annual whole-band gathering.
+*   Weekly-focused sectional trainings
+    
+*   Whole band training sessions
+    
+*   Annual whole-band gatherings (e.g. Day camps, ECP trip, Band Graduation Party)
+    
+**Band Exchange with Queenstown Secondary School Band**
 
-##### **Highlights for 2022**
+This brief yet memorable exchange saw musicians from vastly different musical backgrounds coming together to perform for and with each other. Overall, the exchange was a rare opportunity and an eye-opener for both marching band and concert band members to perform in a more relaxed group setting. It was certainly an enriching experience and we look forward to build strong ties and plan for more collaborations in the future.
 
-**Singapore Youth Festival 2022**
+  
 
-2022 was the year that the West Spring Marching Band participated in a marching band show with the smallest number of performers. Due to Covid restrictions, we were only able to send 50 performers, compared to the usual 90. Nonetheless, the band was still able to sustain a winning streak of Certificate of Distinction in the SYF Arts Presentation of Marching Bands.
+**SYF 2023 Celebrations Festival Concert @ Esplanade**
 
-**NDP Observance Ceremony**
+The band’s colour guards team was selected by MOE Arts Education Branch to be featured in the Festival Concert at the Esplanade - Theatres by the Bay on 1 July 2023. Together with Queenstown Secondary School band and Malay dance group, our colour guards performed a rhythmic fusion of the popular Malay folk song “Di-Tanjong Katong ''.
 
-Celebrating NDP@Heartlands, the band, together with the school’s uniformed groups, took part in the National Day Parade Observation Ceremony held at the Bukit Panjang Community Centre on 7 August, in celebration of the nation’s 57th birthday.
+  
 
-**Malaysia International Virtual Band Championship**
+**Preparations for Singapore Youth Festival 2024**
 
-On top of that, the band has represented Singapore on the international platform in the Malaysia International Virtual Band Championships (MIVBC) 2022, a music competition featuring concert band, solo performers, colour guards and marching show bands from around the World. 
-
-This event is sanctioned by the World Association of Marching Show Bands (WAMSB), based in the United States. For their first venture in an international competition, the team clinched the 1st runner-up position for the senior division (aged 16-19) in the marching show band category. It is indeed an honour and privilege to be recognised in the international marching band scene! 
-
-Click <a href="https://www.youtube.com/watch?v=8G2-PEI9gVs&t=306s" target="_blank">here</a> to view the WS Marching Band performance at SYF 2022.
-
-For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
+2023 is a year of rejuvenation and recharge after the Covid period. The main focus of our band was to rebuild a strong marching and music (visual arts for colour guards) foundation. Our SYF music pieces can be heard in school from July 2023 onwards. We have geared up for early preparation for the upcoming SYF 2024!
