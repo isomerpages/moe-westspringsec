@@ -3,27 +3,31 @@ title: National Police Cadet Corps
 permalink: /character-excellence/co-curricular-activities/npcc/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-##### **Key Programmes 2022**
+West Spring Secondary School’s National Police Cadet Corps (NPCC) is dedicated to nurture youth leaders with integrity and discipline. Our key programmes are focused on this mission: To foster teamwork, discipline, and a strong sense of civic responsibility.
 
-Our cadets completed the following courses:
+  
 
-* Secondary 1: Police Procedures, Crime Prevention and Anti-Corruption courses
-* Secondary 2: Community Safe and Secure Programme, First Aid course, .22 Revolver Shoot and Non-Commissioned Officer Leadership Development Camp
-* Secondary 3: Police Youth Ambassador programme, Homefront Security course
+**Key Programmes**
 
-##### **Highlights for 2022**
+*   Policing Modules: Crime Prevention, Road Safety, SG Secure, Basic Law, Crime Scene Investigation, Anti-Corruption, Unarmed Tactics
+    
+*   Camps: Sec 1 Orientation Camp, Sec 2 Adventure Training Camp, Sec 2 Non-Commissioned Officers’ Camp
+    
+*   Parade: Police Day Parade, National Day Parade
+    
+*   Citizenry Outreach: Reduce@North-West CDC, Police Youth Ambassador Collaboration with Bukit Panjang NPC
+    
 
-**CCA Achievements**
+  
 
-* Achieved Gold for Unit Overall Proficiency Award (UOPA) 2021
-* West Spring NPCC clinched the 3rd place in the Jurong Division Anti-Scam Shield Challenge against 17 other secondary schools across the Bukit Batok, Bukit Panjang, Choa Chu Kang and Jurong areas.
+**CCA Highlights**
 
-**Individual Achievements**
-
-* SPF-NPCC award, which is the highest award a cadet can receive, was presented to Station Inspector Mathias Ow and Station Inspector Kevlyn Wong for their tireless contributions and dedication to the unit.
-
-
-Click <a href="https://youtu.be/HoK5x2kffOI" target="_blank">here</a> to find out more about the CCA.
-
-For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
+*   Unit Overall Proficiency Award (2022): Distinction 
+    
+*   Best Unit Cadet Award: Ooi Kai Xuan, Elaine Zhang Yi Ping
+    
+*   Station Inspector Promotion: Shen Ke En, Javier Lee Le Yang
+    
+*   Home Team Corps Award (Team Category): Ms. Siti Farhanum Nordin
