@@ -9,11 +9,11 @@ variant: markdown
 
 *   Weekly Practice on Friday from 1430 to 1730. 
     
-*   Took Part in the annual sec one orientation programme.
+*   Took Part in the annual Secondary One Orientation Programme.
     
 *   Performed for the school during the post SYF showcase.
     
-*   Took part in the Singapore Youth Festival Art Presentation (SYF) for Guitar Ensemble on 12th April 2023.
+*   Singapore Youth Festival Art Presentation (SYF) for Guitar Ensemble on 12th April 2023.
     
 
   
