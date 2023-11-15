@@ -3,11 +3,26 @@ title: International Dance
 permalink: /character-excellence/co-curricular-activities/international-dance/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-##### **Key Programmes 2022**
+**Key Programmes**
 
-Our dancers meet every Tuesday and Thursday afternoons for practices.  They were involved in performances for School Excellence Awards Ceremony and Teachers’ Day Celebration.
+The CCA aims to instil a great love for dance in students so that they can inspire self confidence, discipline and respect for themselves and others. They also learn the importance of teamwork, where they help one another to overcome challenges. Students may also develop the skills to compose creative and expressive statements through the art of performance.
 
-Click <a href="https://youtu.be/5kDmVgVZPCA" target="_blank">here</a> to find out more about the CCA.
+  
 
-For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
+**CCA Highlights**
+
+*   Secondary 1 Orientation Showcase
+    
+*   CNY Celebration Performance
+    
+*   SYF Art Presentation 2023 (Awarded the Certificate of Distinction)
+    
+*   SYF School Showcase
+    
+*   CDAC Event Performance at Singapore Chinese Cultural Centre
+    
+*   Teachers’ Day Performance
+    
+*   Secondary School Fairs Performance at Zhenghua Primary School
