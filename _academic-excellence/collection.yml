@@ -2,6 +2,7 @@ collections:
   academic-excellence:
     output: true
     order:
+      - Computer Applications Department.md
       - Applied Learning Programme.md
       - Academic Departments.md
       - Computer Applications Dpt/.keep
