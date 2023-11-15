@@ -16,6 +16,8 @@ sections:
       variant: floating
       title: Leaders of Character, Learners for Life
       subtitle: Shaping Character | Engaging Learners | Touching Lives
+      backgroundColor: gray
+      alignment: right
   - resources:
       subtitle: Announcements
 ---
