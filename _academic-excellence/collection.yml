@@ -2,6 +2,7 @@ collections:
   academic-excellence:
     output: true
     order:
+      - Humanities Department/Humanities Department.md
       - Humanities Department/.keep
       - Applied Learning Programme.md
       - Academic Departments.md
