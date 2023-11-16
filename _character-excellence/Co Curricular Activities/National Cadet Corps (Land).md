@@ -3,20 +3,24 @@ title: National Cadet Corps (Land)
 permalink: /character-excellence/co-curricular-activities/ncc/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-##### **Key Programmes 2022**
+**Camp Forge for Junior Cadets (Secondary 1)**
 
-This year, our cadets participated in Camp Steel (Secondary 2) and Camp Forge (Secondary 1). Our Secondary Three cadets completed the Senior Specialist Leaders Course. The Secondary 2 cadets helped in the school’s National Day decorations as part of their VIA. The cadets also took part in outdoor trekking
-and had a shooting experience.
+The main objectives of Camp FORGE are to instil core values and self-discipline as well as to build the character and confidence of our Junior Cadets.
 
+The acronym FORGE stands for Fun with friendship, Orientation with outdoor activities, Responsibility and resilience building, Grouping of the cadets from different units and Experiential learning.
 
-##### **Highlights for 2022**
+**Camp Steel for Senior Cadets (Secondary 2)**
 
-* Attained “Distinction” Award for Unit Recognition 2021.
-* MSG Lui Jia Lin (Sec 4B/2022) and MSG Rakin Kamaruzan (Sec 4C/2022) were awarded the NCC Outstanding Cadet Award (OCA) 2022.
-* This year’s school’s National Day Parade’s was led by NCC and the Parade Commander (PC) was Muhammad Mustaufiq.
+ The main objectives of Camp STEEL are to develop the character of NCC Senior Cadets and prepare them to become responsible and confident leaders.
 
+  
 
-Click <a href="https://youtu.be/HoK5x2kffOI" target="_blank">here</a> to find out more about the CCA.
+**NCC SPORTS CHAMPIONSHIP**
 
-For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
+NCC Sports Championship has been introduced to encourage NCC cadets to build up their physical fitness and to allow cadets to represent their school unit in competitions. These friendly competitions will allow cadets to discover their strengths and build positive connections with their teammates. Cadets will also get to strengthen their social emotional competencies through these sports.
+
+**Trekking to Singapore Quarry**
+
+Cadets build their resilience and fitness through trekking.

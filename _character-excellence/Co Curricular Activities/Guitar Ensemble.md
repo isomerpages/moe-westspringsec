@@ -3,11 +3,21 @@ title: Guitar Ensemble
 permalink: /character-excellence/co-curricular-activities/guitar/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-##### **Key Programmes 2022**
+**CCA Programmes**
 
-Our training sessions are conducted by professional guitarists. This year, the members were involved in the School Excellence Awards Ceremony pre-recorded performances
+*   Weekly Practice on Friday from 1430 to 1730. 
+    
+*   Took Part in the annual Secondary One Orientation Programme.
+    
+*   Performed for the school during the post SYF showcase.
+    
+*   Singapore Youth Festival Art Presentation (SYF) for Guitar Ensemble on 12th April 2023.
+    
 
-Click <a href="https://youtu.be/xj3Y4_YxSDw" target="_blank">here</a> to find out more about the CCA.
+  
 
-For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
+**CCA Highlights**
+
+*   Awarded the Certificate of Accomplishment for the Singapore Youth Festival Arts Presentation For Guitar Ensemble in 2023.

@@ -3,33 +3,37 @@ title: Football
 permalink: /character-excellence/co-curricular-activities/football/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-##### **Key Programmes 2022**
+**CCA Achievements**
 
-Our footballers took part in 2 - 3 training sessions a week under the guidance of their coach.  We also had specially curated fitness programmes in partnership with commercial gym Grityard, where our footballers were regularly exposed to a variety of fitness drills to train their speed, agility and endurance.
+  
+Nationwide Football Tournament - Muhammadiyah Welfare Cup 2023
+*   1st Placing in U-14
+    
+*   2nd Placing in U-14
+    
+National School Games 2023
 
-This year, our footballers represented the school at the ‘B’ Division and ‘C’ Division National School Games competitions. 
+*   ‘B’ Division - Qualified for Quarter-finals of League 2
+    
+*   ‘C’ Division - 4th Placing in the Finals of League 2
+    
+**CCA Key Programmes**
 
-We also had CCA team bonding sessions to build friendships of a lifetime.
+Character Development
 
+Other than equipping members with the necessary skills as a member of the Football CCA, there is also a huge emphasis on character building and moral values. One highlight that took place during the September holidays was our Football CCA Day Camp whereby our footballers were brought through the Goals for Success & Growth Mindset Workshop branded by veteran footballer Fandi Ahmad himself.
 
-##### **Highlights for 2022**
+  
+Team Building
 
-**National School Games 2022 Achievements**
+Our Football CCA members also look forward to bonding sessions where they can have some fun aside from training. These sessions typically take place once per semester. 
 
-‘C’ Division - 2nd placing in West Zone
+  
 
-**Individual Achievements / Representations in External Events / Clubs**
+**Individual Achievements - Representation in External Clubs**
 
-* Goh Tim Yang - JSSL Football Club
-* Mohammad Quraisy Mohammad Parizan - Hougang United
-* Akmal Mirza Mohammad Zamri - District West United
-* Yeo Boon Chin - Lion City Sailors Development Team
-* Iryan Muzafar Muhammad Iskandar - Lion City Sailors Academy
-* Mohd Irhan Hussaini Saifudin - Tasek Football Club
-* Mohamad Raihan Mohamad Rafiq - Represented Singapore in the 2022 McDonald’s Kanga Cup in Canberra, Australia
-
-
-Click <a href="https://youtu.be/njIFzMzQ9TQ" target="_blank">here</a> to find out more about the CCA.
-
-For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
+*   Yeo Boon Chin (Sec 3D/2023) - Lion City Sailors Development Centre
+    
+*   Fydeliq Putra Kylish (Sec 3E/2023) - Balestier Khalsa Football Club

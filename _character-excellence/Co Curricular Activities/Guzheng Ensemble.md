@@ -3,11 +3,22 @@ title: Guzheng Ensemble
 permalink: /character-excellence/co-curricular-activities/guzheng/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-##### **Key Programmes 2022**
+**Key Programmes**
 
-Our members meet for practice sessions every Tuesday and Friday afternoon. This year, they were involved in pre-recorded performances for Chinese New Year Celebration and School Excellence Awards Ceremony 
+The CCA aims to instil in students’ passion and interest in guzheng instruments and music. In addition, it hopes to promote character building, values inculcation and life skills through teamwork and discipline. 
 
-Click <a href="https://youtu.be/xvI44fyksL0" target="_blank">here</a> to find out more about the CCA.
+  
 
-For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
+**CCA Highlights**
+
+*   Secondary 1 Orientation Showcase
+    
+*   Chinese New Year Celebration Performance 
+    
+*   Singapore Youth Festival (SYF) Art Presentation 2023 (Awarded the Certificate of Distinction)
+    
+*   Post-SYF Showcase in school 
+    
+*   Chinese Development Assistance Council (CDAC) Event Performance at Singapore Chinese Cultural Centre

@@ -3,24 +3,12 @@ title: Speech and Drama
 permalink: /character-excellence/co-curricular-activities/speech-and-drama/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-##### **Key Programmes 2022**
+Students learn a variety of skills throughout the year. Some of these skills include voice projection, prop making, scriptwriting and storytelling using podcasts. 
 
-Students learn a variety of skills throughout the year. Some of these skills include stage combat, delivery of monologues, musical theatre and fictional story telling using podcasts.
+Students also took part in the Singapore Youth Festival competition and had obtained the Certificate of Accomplishment. They had taken up distinct roles in the competition such as actors, costume designers, stage managers, backstage crew and prop makers.  
 
-Students represented the school in two competitions this year. For the ‘International Science Drama’ competition, students produced their original scripts and took on distinct roles such as cast, sound director, video editor and props creators. Students also took part in ‘SYFgoesOnline!’ where they wrote and delivered their monologues in an engaging manner based on the given theme. 
-
-At the school level, emcees for the School Excellence Awards Ceremony, National Day Parade and Valediction Ceremony were selected from the CCA. We have also performed during Racial Harmony Day and Teachers’ Day Celebration. 
-
-To better appreciate the development of the arts scene in Singapore, students also attended a backstage tour of the Esplanade. 
-
-
-##### **Highlights for 2022**
-
-**International Science Drama Competition 2022** 
-Attained Certificate of Participation 
-
-
-Click <a href="https://youtu.be/1r1c7J8_ohU" target="_blank">here</a> to find out more about the CCA.
-
-For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
+At the school level, students had performed in school events such as Chinese New Year and Teachers’ Day, where students worked with one another closely to create a lively and engaging performance. 
+  
+To better appreciate the development of the arts scene in Singapore, students had also attended a performance, ‘Snow White & the Seven Dwarfs’.
