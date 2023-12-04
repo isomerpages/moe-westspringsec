@@ -8,7 +8,7 @@ variant: markdown
 | Department 	| Subject Teacher 	| Email 	|
 |---	|---	|---	|
 | Art 	| Mdm Seoh Siok Yin 	| seoh_siok_yin@moe.edu.sg 	|
-| Art 	| Mr Andrew Chia 	| To be updated 	|
+| Art 	| Mr Andrew Chia 	| andrew_chia_giap_meng@moe.edu.sg	|
 | Chinese Language 	| Mdm Liu Dongmei 	| liu_dongmei@moe.edu.sg 	|
 | Chinese Language 	| Mdm Loh Yan Luan 	| loh_yan_luan@moe.edu.sg 	|
 | Chinese Language 	| Mdm Wang Xiufang 	| wang_xiu_fang@moe.edu.sg 	|
@@ -33,7 +33,7 @@ variant: markdown
 | Humanities 	| Mr Emmanuel Devapragasam 	| emmanuel_devapragasam@moe.edu.sg 	|
 | Humanities 	| Mr Timothy Teh 	| teh_kar_keong_timothy@moe.edu.sg 	|
 | Humanities 	| Ms Lydia Teng 	| lydia_teng_xiaoqian@moe.edu.sg 	||
-| Humanities 	| Ms Fazlin Bte Mohd Fadzuli 	| To be updated 	|
+| Humanities 	| Ms Fazlin Bte Mohd Fadzuli 	| fazlin_mohd_fadzuli@moe.edu.sg	|
 | Humanities, English Literature 	| Ms Shobana D/O Nadaraja 	| shobana_nadaraja@moe.edu.sg 	|
 | Humanities, English Literature 	| Ms Sheralyn Koh 	| sheralyn_koh_jia_huey@moe.edu.sg 	|
 | Humanities, English Literature 	| Ms Jasmine Kao 	| kao_hui_ling@moe.edu.sg 	|
@@ -56,7 +56,7 @@ variant: markdown
 | Nutrition and Food Science 	| Ms Sri Wirdaningsih Binte Subari 	| sri_wirdaningsih_subari@moe.edu.sg 	|
 | Nutrition and Food Science 	| Ms Sharifah Nazihah W M Sulaiman 	| sharifah_nazihah_sulaiman@moe.edu.sg (ZHSS Teacher)	|
 | Physical Education 	| Ms Tan Zhen Yan 	| tan_zhen_yan@moe.edu.sg 	|
-| Physical Education 	| Ms Nurulain 	| To be updated 	|
+| Physical Education 	| Ms Nurulain 	| nurulain_a@moe.edu.sg 	|
 | Physical Education, Elements of Business Skills 	| Mr Wang Wade 	| wang_wade_fengyin@moe.edu.sg 	|
 | Physical Education 	| Mdm Eve Tan 	| tan_poh_yun_evelyn@moe.edu.sg 	|
 | Science 	| Mdm Zhou Siyang 	| zhou_siyang@moe.edu.sg 	|
@@ -64,7 +64,7 @@ variant: markdown
 | Science 	| Mr Prakash S/O Radakrishna 	| prakash_radakrishna@moe.edu.sg 	|
 | Science 	| Mr Siow Gim Onn 	| siow_gim_onn@moe.edu.sg 	|
 | Science 	| Ms Joey Goh Qinyuan | joey_goh_qinyuan@moe.edu.sg 	|
-| Science 	| Mr Jeffrey Ang | Email to be updated 	|
+| Science 	| Mr Jeffrey Ang | ang_jeffrey@moe.edu.sg	|
 
 
 For more information, please email us at [westspringss@moe.edu.sg](mailto:westspringss@moe.edu.sg).
