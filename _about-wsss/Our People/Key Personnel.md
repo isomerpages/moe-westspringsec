@@ -23,8 +23,8 @@ variant: markdown
 | HOD PE & CCA 	| Mr Subhash Nadesan 	| subhash_nadesan@moe.edu.sg 	|
 | HOD Science 	| Mr Chan Zhenrong 	| chan_zhenrong@moe.edu.sg 	|
 | YH Lower Secondary (Sec 1)	| Mr Fauroni Bin Sukhaimi 	| fauroni_sukhaimi@moe.edu.sg 	||
-| YH Upper Secondary (Sec 3)	| Mr Kok Yeong Haur 	| kok_yeong_haur@moe.edu.sg 	|
 | Assistant Year Head (Sec 2) 	| Ms Tong Hui Min 	| tong_hui_min@moe.edu.sg 	|
+| YH Upper Secondary (Sec 3)	| Mr Kok Yeong Haur 	| kok_yeong_haur@moe.edu.sg 	|
 | Assistant Year Head (Sec 45) 	| Ms Noor Faezah |  noor_faezah_noor_aziz@moe.edu.sg 	|
 | SH Art & Aesthetics	| Ms Joyce Chia 	| chia_keh_ling@moe.edu.sg 	|
 | SH English & EL Literature 	| Mdm Veronica Aw 	| aw_qin_yi@moe.edu.sg 	|
