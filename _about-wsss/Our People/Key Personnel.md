@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /about-us/key-personnel/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 | Designation 	| Name 	| Email 	|
 |---	|---	|---	|
@@ -27,7 +28,6 @@ third_nav_title: Our People
 | Assistant Year Head (Sec 3) 	| Mdm Siti Anisah 	| siti_anisah_abdul_rahim@moe.edu.sg 	|
 | SH Art & Aesthetics	| Ms Joyce Chia 	| chia_keh_ling@moe.edu.sg 	|
 | SH English & EL Literature 	| Mdm Veronica Aw 	| aw_qin_yi@moe.edu.sg 	|
-| SH History 	| Mr Wu Zonglun 	| wu_zonglun@moe.edu.sg 	|
 | SH ICT 	| Mrs Shelia Wang 	| xie_shuxian_shelia@moe.edu.sg 	|
 | SH Malay Language 	| Ms Noor Faezah 	| noor_faezah_noor_aziz@moe.edu.sg 	|
 | SH Mathematics 	| Mdm Sharon Koh 	| koh_wei_xin@moe.edu.sg 	|
