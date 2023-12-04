@@ -41,7 +41,7 @@ variant: markdown
 | ST English 	| Mdm Fauzana Bte Ismail 	| fauzana_ismail@moe.edu.sg 	|
 | ST Nutrition & Food Science 	| Mdm Selena Binte Samat 	| selena_samat@moe.edu.sg 	|
 | ST Social Studies 	| Mrs Cheryl Liew 	| cheryl_koh_ye_hsia@moe.edu.sg 	|
-| ST Mathematics 	| Mr Muhammad Fahmy Babjee 	| muhammad_fahmy_babjee@moe.edu.sg 	|
+| ST Mathematics 	| Mr Muhammad Fahmy Babjee | muhammad_fahmy_babjee@moe.edu.sg |
 | ST POA 	| Mrs Juliet Tan 	| juliet_chan@moe.edu.sg 	|
 | Administration Manager 	| Mdm Lim Puay Lan 	| lim_puay_lan@moe.edu.sg 	|
 | Operations Manager 	| Mr Singh Sukhmindar 	|  	sukhmindar_singh@moe.edu.sg	|
