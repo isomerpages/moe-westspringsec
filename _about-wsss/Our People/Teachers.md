@@ -3,6 +3,7 @@ title: Teachers
 permalink: /about-us/teachers/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 | Department 	| Subject Teacher 	| Email 	|
 |---	|---	|---	|
@@ -13,7 +14,6 @@ third_nav_title: Our People
 | Chinese Language 	| Mdm Wang Xiufang 	| wang_xiu_fang@moe.edu.sg 	|
 | Chinese Language 	| Mr Goh Se U 	| se_u_goh@moe.edu.sg 	|
 | Chinese Language 	| Dr Yee Wai Seng 	| yee_wai_seng@moe.edu.sg 	|
-| Chinese Language 	| Ms Lin Junyu 	| lin_junyu_b@moe.edu.sg 	|
 | Chinese Language 	| Mdm Yam Voon Chin 	| yam_voon_chin@moe.edu.sg 	|
 | Design and Technology 	| Mr Robert Teoh 	| teoh_hock_huat@moe.edu.sg 	|
 | Design and Technology 	| Mr Chua Leng Huat 	| chua_leng_huat@moe.edu.sg 	|
@@ -22,12 +22,11 @@ third_nav_title: Our People
 | English Language 	| Ms Victoria Chong 	| chong_soon_fei@moe.edu.sg 	|
 | English Language 	| Mdm Revathi D/O Rengasamy 	| revathi_rengasamy@moe.edu.sg 	|
 | English Language 	| Mrs Jasmine Foo 	| chuah_su_may_jasmine@moe.edu.sg 	|
-| English Language 	| Mdm Norhikmah 	| To be updated 	|
+| English Language 	| Mr Mohamed Nor Azlan Bin Ismail	| Email to be updated	|
 | English Language, Computer Applications 	| Mdm Khairunnisa Zainal 	| khairunnisa_zainal@moe.edu.sg 	|
 | English Language, English Literature 	| Mr Kelvin Zhong 	| zhong_rongdian_kelvin@moe.edu.sg 	|
 | English Language, English Literature 	| Ms Siti Farhanum Binte Nordin 	| siti_farhanum_nordin@moe.edu.sg 	|
 | English Language, English Literature 	| Ms Yeo Yi Hui 	| yeo_yihui@moe.edu.sg 	|
-| English Language, Humanities 	| Mdm Loke Wei May 	| loke_wei_may@moe.edu.sg 	|
 | English Language, Humanities 	| Mdm Siti Norahan 	| siti_norahan_moktar@moe.edu.sg 	|
 | English Language, Humanities 	| Ms Harliany Bte Hairon 	| harliany_hairon@moe.edu.sg 	|
 | Humanities 	| Mdm Ruhaiza Bte Hasan 	| ruhaiza_hasan@moe.edu.sg 	|
@@ -54,20 +53,18 @@ third_nav_title: Our People
 | Mathematics, Science 	| Mr Mok Kai Fore 	| mok_kai_fore@moe.edu.sg 	|
 | Mathematics, Science 	| Mr Soh Hong Wei 	| hong_wei_soh@moe.edu.sg 	|
 | Mathematics, Science 	| Ms Oen Hui Qin 	| oen_hui_qin@moe.edu.sg 	|
-| Music, English Language 	| Mrs Grace Chew 	| wong_yan_lei_grace@moe.edu.sg 	|
-| Nutrition and Food Science 	| Mdm Puspawati Binte Rosli 	| puspawati_rosli@moe.edu.sg 	|
 | Nutrition and Food Science 	| Ms Sri Wirdaningsih Binte Subari 	| sri_wirdaningsih_subari@moe.edu.sg 	|
+| Nutrition and Food Science 	| Ms Sharifah Nazihah W M Sulaiman 	| sharifah_nazihah_sulaiman@moe.edu.sg (ZHSS Teacher)	|
 | Physical Education 	| Ms Tan Zhen Yan 	| tan_zhen_yan@moe.edu.sg 	|
 | Physical Education 	| Ms Nurulain 	| To be updated 	|
 | Physical Education, Elements of Business Skills 	| Mr Wang Wade 	| wang_wade_fengyin@moe.edu.sg 	|
 | Physical Education 	| Mdm Eve Tan 	| tan_poh_yun_evelyn@moe.edu.sg 	|
-| Science 	| Mdm Sharena Bte Mohamed 	| sharena_mohamed@moe.edu.sg 	|
 | Science 	| Mdm Zhou Siyang 	| zhou_siyang@moe.edu.sg 	|
 | Science 	| Ms Pauline Wan Hui Qing 	| pauline_wan_hui_qing@moe.edu.sg 	|
-| Science 	| Mr Mohamed Munir 	| mohamed_munir_mohamed_ismail@moe.edu.sg 	|
 | Science 	| Mr Prakash S/O Radakrishna 	| prakash_radakrishna@moe.edu.sg 	|
 | Science 	| Mr Siow Gim Onn 	| siow_gim_onn@moe.edu.sg 	|
-| Science, Computer Applications 	| Ms Koh Caihua 	| koh_caihua@moe.edu.sg 	|
-| Science, Computer Applications 	| Ms Jaylin Toh 	| jaylin_toh@moe.edu.sg 	|
+| Science 	| Ms Joey Goh Qinyuan | joey_goh_qinyuan@moe.edu.sg 	|
+| Science 	| Mr Jeffrey Ang | Email to be updated 	|
+
 
 For more information, please email us at [westspringss@moe.edu.sg](mailto:westspringss@moe.edu.sg).
