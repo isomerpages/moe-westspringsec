@@ -15,6 +15,7 @@ variant: markdown
 | Chinese Language 	| Mr Goh Se U 	| se_u_goh@moe.edu.sg 	|
 | Chinese Language 	| Dr Yee Wai Seng 	| yee_wai_seng@moe.edu.sg 	|
 | Chinese Language 	| Mdm Yam Voon Chin 	| yam_voon_chin@moe.edu.sg 	|
+| Chinese Language 	| Ms Neo Han Wei Candy 	| neo_han_wei_candy@moe.edu.sg 	|
 | Design and Technology 	| Mr Robert Teoh 	| teoh_hock_huat@moe.edu.sg 	|
 | Design and Technology 	| Mr Chua Leng Huat 	| chua_leng_huat@moe.edu.sg 	|
 | English Language 	| Mr Israel Tan 	| israel_tan_tuck_heng@moe.edu.sg 	|
