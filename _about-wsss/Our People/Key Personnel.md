@@ -3,11 +3,11 @@ title: Key Personnel
 permalink: /about-us/key-personnel/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 | Designation 	| Name 	| Email 	|
 |---	|---	|---	|
 | Principal 	| Mrs Belinda Chan 	| belinda_yong@schools.gov.sg 	|
-| Vice-Principal 	| Mr V Siva Kumar 	| siva_kumar_vathumalai@schools.gov.sg 	|
 | Vice-Principal 	| Mr Chan Huan Jian Malvin 	| malvin_chan@schools.gov.sg 	|
 | Vice-Principal Administration	| Mrs Joy Ong 	| ong-sim_bee_lian@schools.gov.sg 	|
 | School Staff Developer 	| Mrs Doris Chong 	| teong_soh_cheow@moe.edu.sg 	|
@@ -21,13 +21,12 @@ third_nav_title: Our People
 | HOD Mother Tongue 	| Mdm Teo Chu Yue 	| teo_chu_yue@moe.edu.sg 	|
 | HOD PE & CCA 	| Mr Subhash Nadesan 	| subhash_nadesan@moe.edu.sg 	|
 | HOD Science 	| Mr Chan Zhenrong 	| chan_zhenrong@moe.edu.sg 	|
-| YH Lower Secondary (Sec 2)	| Mr Fauroni Bin Sukhaimi 	| fauroni_sukhaimi@moe.edu.sg 	||
-| YH Upper Secondary (Sec 45)	| Mr Kok Yeong Haur 	| kok_yeong_haur@moe.edu.sg 	|
-| Assistant Year Head (Sec 1) 	| Ms Tong Hui Min 	| tong_hui_min@moe.edu.sg 	|
-| Assistant Year Head (Sec 3) 	| Mdm Siti Anisah 	| siti_anisah_abdul_rahim@moe.edu.sg 	|
+| YH Lower Secondary (Sec 1)	| Mr Fauroni Bin Sukhaimi 	| fauroni_sukhaimi@moe.edu.sg 	||
+| Assistant Year Head (Sec 2) 	| Ms Tong Hui Min 	| tong_hui_min@moe.edu.sg 	|
+| YH Upper Secondary (Sec 3)	| Mr Kok Yeong Haur 	| kok_yeong_haur@moe.edu.sg 	|
+| Assistant Year Head (Sec 45) 	| Ms Noor Faezah |  noor_faezah_noor_aziz@moe.edu.sg 	|
 | SH Art & Aesthetics	| Ms Joyce Chia 	| chia_keh_ling@moe.edu.sg 	|
 | SH English & EL Literature 	| Mdm Veronica Aw 	| aw_qin_yi@moe.edu.sg 	|
-| SH History 	| Mr Wu Zonglun 	| wu_zonglun@moe.edu.sg 	|
 | SH ICT 	| Mrs Shelia Wang 	| xie_shuxian_shelia@moe.edu.sg 	|
 | SH Malay Language 	| Ms Noor Faezah 	| noor_faezah_noor_aziz@moe.edu.sg 	|
 | SH Mathematics 	| Mdm Sharon Koh 	| koh_wei_xin@moe.edu.sg 	|
@@ -41,7 +40,7 @@ third_nav_title: Our People
 | ST English 	| Mdm Fauzana Bte Ismail 	| fauzana_ismail@moe.edu.sg 	|
 | ST Nutrition & Food Science 	| Mdm Selena Binte Samat 	| selena_samat@moe.edu.sg 	|
 | ST Social Studies 	| Mrs Cheryl Liew 	| cheryl_koh_ye_hsia@moe.edu.sg 	|
-| ST Mathematics 	| Mr Muhammad Fahmy Babjee 	| muhammad_fahmy_babjee@moe.edu.sg 	|
+| ST Mathematics 	| Mr Muhammad Fahmy Babjee | muhammad_fahmy_babjee@moe.edu.sg |
 | ST POA 	| Mrs Juliet Tan 	| juliet_chan@moe.edu.sg 	|
 | Administration Manager 	| Mdm Lim Puay Lan 	| lim_puay_lan@moe.edu.sg 	|
 | Operations Manager 	| Mr Singh Sukhmindar 	|  	sukhmindar_singh@moe.edu.sg	|
