@@ -55,7 +55,7 @@ variant: markdown
 | Mathematics, Science 	| Mr Soh Hong Wei 	| hong_wei_soh@moe.edu.sg 	|
 | Mathematics, Science 	| Ms Oen Hui Qin 	| oen_hui_qin@moe.edu.sg 	|
 | Nutrition and Food Science 	| Ms Sri Wirdaningsih Binte Subari 	| sri_wirdaningsih_subari@moe.edu.sg 	|
-| Nutrition and Food Science 	| Ms Sharifah Nazihah W M Sulaiman 	| sharifah_nazihah_sulaiman@moe.edu.sg (ZHSS Teacher)	|
+| Nutrition and Food Science 	| Ms Sharifah Nazihah W M Sulaiman 	| sharifah_nazihah_sulaiman@moe.edu.sg	|
 | Physical Education 	| Ms Tan Zhen Yan 	| tan_zhen_yan@moe.edu.sg 	|
 | Physical Education 	| Ms Nurulain 	| nurulain_a@moe.edu.sg 	|
 | Physical Education, Elements of Business Skills 	| Mr Wang Wade 	| wang_wade_fengyin@moe.edu.sg 	|
