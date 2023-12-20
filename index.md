@@ -4,7 +4,7 @@ title: West Spring Secondary School - Official School Website
 description: Official school website of West Spring Secondary School
 image: /images/Badge_HiRes.jpg
 permalink: /
-notification: Sec 1 2024 E-registration opens on 21 Dec 2024!
+notification: Sec 1 2024 E-registration opens on 21 Dec 2023!
 sections:
   - hero:
       background: /images/Website_Hero__2_.png
