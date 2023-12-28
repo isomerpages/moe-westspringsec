@@ -2,10 +2,11 @@
 title: Download Forms
 permalink: /download-forms/
 description: ""
+variant: markdown
 ---
 Group Personal Accident Insurance for Students
 
-1. [Group Personal Accident (GPA) Product Factsheet 2023](/files/Download%20Forms/Group%20Personal%20Accident%20Factsheet%202023.pdf)
+1. [Product Fact Sheet 2024](/files/Product_Fact_Sheet_Year_2024.pdf)
 2. [Student GPA User Guide (eSubmission User Guide for Parents)](/files/Download%20Forms/Student-GPA-User-Guide-eSubmission-User-Guide-for-Parents.pdf)
 3. [Online Claims](https://studentgpa.incomegroupins.com.sg/#/)
 
