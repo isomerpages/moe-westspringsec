@@ -19,11 +19,10 @@ variant: markdown
 | Design and Technology 	| Mr Robert Teoh 	| teoh_hock_huat@moe.edu.sg 	|
 | Design and Technology 	| Mr Chua Leng Huat 	| chua_leng_huat@moe.edu.sg 	|
 | English Language 	| Mr Israel Tan 	| israel_tan_tuck_heng@moe.edu.sg 	|
-| English Language 	| Dr Chionh Yan Huay 	| chionh_yan_huay@moe.edu.sg 	|
 | English Language 	| Ms Victoria Chong 	| chong_soon_fei@moe.edu.sg 	|
 | English Language 	| Mdm Revathi D/O Rengasamy 	| revathi_rengasamy@moe.edu.sg 	|
 | English Language 	| Mrs Jasmine Foo 	| chuah_su_may_jasmine@moe.edu.sg 	|
-| English Language 	| Mr Mohamed Nor Azlan Bin Ismail	| Email to be updated	|
+| English Language 	| Mr Mohamed Nor Azlan Bin Ismail	| mohamed_nor_azlan_ismail@moe.edu.sg	|
 | English Language, Computer Applications 	| Mdm Khairunnisa Zainal 	| khairunnisa_zainal@moe.edu.sg 	|
 | English Language, English Literature 	| Mr Kelvin Zhong 	| zhong_rongdian_kelvin@moe.edu.sg 	|
 | English Language, English Literature 	| Ms Siti Farhanum Binte Nordin 	| siti_farhanum_nordin@moe.edu.sg 	|
