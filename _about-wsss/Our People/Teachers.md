@@ -23,7 +23,7 @@ variant: markdown
 | English Language 	| Ms Victoria Chong 	| chong_soon_fei@moe.edu.sg 	|
 | English Language 	| Mdm Revathi D/O Rengasamy 	| revathi_rengasamy@moe.edu.sg 	|
 | English Language 	| Mrs Jasmine Foo 	| chuah_su_may_jasmine@moe.edu.sg 	|
-| English Language 	| Mr Mohamed Nor Azlan Bin Ismail	| Email to be updated	|
+| English Language 	| Mr Mohamed Nor Azlan Bin Ismail	| Mohamed_Nor_Azlan_Ismail@moe.edu.sg	|
 | English Language, Computer Applications 	| Mdm Khairunnisa Zainal 	| khairunnisa_zainal@moe.edu.sg 	|
 | English Language, English Literature 	| Mr Kelvin Zhong 	| zhong_rongdian_kelvin@moe.edu.sg 	|
 | English Language, English Literature 	| Ms Siti Farhanum Binte Nordin 	| siti_farhanum_nordin@moe.edu.sg 	|
