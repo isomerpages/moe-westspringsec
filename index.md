@@ -18,6 +18,12 @@ sections:
         - title: Our school Vision, Mission and Values
           description: Find out more about us!
           url: https://www.westspringsec.moe.edu.sg/about-us/school-vision-mission-values/
+        - title: Announcements
+          description: Important Notifications
+          url: https://www.westspringsec.moe.edu.sg/resource/
+        - title: WSSS Instagram
+          description: Our school highlights!
+          url: https://www.instagram.com/westspringsec/
   - infopic:
       title: Leaders of Character
       subtitle: Vision
@@ -26,6 +32,7 @@ sections:
       button: Character Excellence
       url: https://www.westspringsec.moe.edu.sg/character-excellence/character-and-citizenship-education/
       alt: Image alt text
+      image: /images/Website_2024_photo_collage__2_.png
   - infopic:
       title: Learners for Life
       subtitle: Vision
@@ -34,6 +41,7 @@ sections:
       button: Learning Excellence
       url: https://www.westspringsec.moe.edu.sg/academic-excellence/applied-learning-programme/
       alt: Image alt text
+      image: /images/Website_2024_photo_collage.png
   - resources:
       subtitle: Announcements
 ---
