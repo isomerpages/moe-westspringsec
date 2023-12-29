@@ -14,6 +14,10 @@ sections:
       backgroundColor: gray
       alignment: right
       size: sm
+      key_highlights:
+        - title: Our school Vision, Mission and Values
+          description: "Find out more about us! "
+          url: ""
   - resources:
       subtitle: Announcements
 ---
