@@ -7,8 +7,8 @@ permalink: /
 notification: Welcome back to school on Tuesday, 2 Jan 2024!
 sections:
   - hero:
-      background: /images/ebanner_1920x720.jpg
-      variant: floating
+      background: /images/eBanner_2024__795_x_380_px_.png
+      variant: image
       title: Leaders of Character, Learners for Life
       subtitle: Shaping Character | Engaging Learners | Touching Lives
       backgroundColor: gray
