@@ -1,10 +1,10 @@
 logo: /images/Badge_HiRes.jpg
 links:
   - title: About us
-    url: /about-us/school-vision-mission-values-motto/
+    url: /about-us/school-vision-mission-values/
     sublinks:
-      - title: Vision, Mission, Values, Motto
-        url: /about-us/school-vision-mission-values-motto/
+      - title: Vision, Mission, Values
+        url: /about-us/school-vision-mission-values/
       - title: School History
         url: /about-us/school-history
       - title: School Crest and School Song
