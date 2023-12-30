@@ -1,6 +1,6 @@
 ---
 title: Sec 1 to 5 Principal's Welcome Letters 2024
-permalink: /resource/announcements/permalink/
+permalink: /resource/announcements/permalink/2024pwelcome/
 date: 2023-12-29
 layout: post
 description: ""

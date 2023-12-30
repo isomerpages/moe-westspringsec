@@ -1,6 +1,6 @@
 ---
 title: 2024 Semester 1 Timetable
-permalink: /resource/announcements/permalink/
+permalink: /resource/announcements/permalink/2024sem1tt/
 date: 2023-12-28
 layout: post
 description: ""

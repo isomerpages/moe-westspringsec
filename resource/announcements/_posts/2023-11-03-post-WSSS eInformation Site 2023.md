@@ -1,6 +1,6 @@
 ---
 title: WSSS eInformation Site 2023
-permalink: /resource/announcements/permalink/
+permalink: /resource/announcements/permalink/einfosite2023/
 date: 2023-11-03
 layout: post
 description: ""
