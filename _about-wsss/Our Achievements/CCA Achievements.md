@@ -3,29 +3,6 @@ title: CCA Achievements
 permalink: /about-us/cca-achievements/
 description: ""
 third_nav_title: Our Achievements
+variant: tiptap
 ---
-##### **CCA Achievements 2022**
-
-
-| CCA |  Achievement |
-| -------- | -------- |
-| Girl Guides     |    Puan Noor Aishah Award(Gold Award)
-||Baden Powell Award | 
-| NCC (Land) |    Distinction Outstanding Cadet Award |
-| NPCC | UOPA (Gold)
-|| SPF-NPCC Award |
-| NCDCC | UOPA (Gold)
-|| SCDF-NCDCC |
-|| Pinnacle Award||
-|Shooting | B Div Boys (2nd)
-||B Div Girls (4th)
-||C Div Girls (1st)
-||C Div Girls (Individual Champion)
-|Football | B Div (Zonal Quarterfinals)
-|| C Div (Zonal 1st Runners-Up) ||
-| Band - Marching     | Certificate of Distinction || 
-|Infocomm Technology (Computing) | StrITwise® Amazing Race (Outstanding Achievement)
-|| 3D-Tronics Micro-Controller Challenge (Presentation Award)
-|| 3D-Tronics Micro-Controller Challenge (Design Award)
-|| StrITwise(R) Mythic Trials Competition (3rd)
-|| StrITwise(R) Mythic Trials Competition (Social Media Prize)||
+<h5><strong>CCA Achievements 2023</strong></h5><table><tbody><tr><th rowspan="1" colspan="1"><p>CCA</p></th><th rowspan="1" colspan="1"><p>Achievement</p></th></tr><tr><td rowspan="1" colspan="1"><p>Badminton</p></td><td rowspan="1" colspan="1"><p>Quarter Finals, National School Games</p><p>West Zone, Top 8</p></td></tr><tr><td rowspan="1" colspan="1"><p>Football</p></td><td rowspan="1" colspan="1"><p><strong>Nationwide Football Tournament - Muhammadiyah Welfare Cup 2023</strong></p><ul><li><p>1st Placing in U-14</p></li><li><p>2nd Placing in U-14</p></li></ul><p></p><p><strong>National School Games 2023</strong></p><ul><li><p>‘B’ Division - Qualified for Quarter-finals of League 2</p></li></ul><p>‘C’ Division - 4th Placing in the Finals of League 2</p><p></p><p><strong>Individual Achievements - Representation in External Clubs</strong></p><ul><li><p>Yeo Boon Chin (Sec 3D/2023) - Lion City Sailors Development Centre</p></li><li><p>Fydeliq Putra Kylish (Sec 3E/2023) - Balestier Khalsa Football Club</p></li></ul></td></tr><tr><td rowspan="1" colspan="1"><p>Girl Guides</p></td><td rowspan="1" colspan="1"><p>Puan Noor Aishah Award(Gold Award)</p><p></p><p><strong>Individual Achievements</strong></p><p>Audrey Mel Paca (Sec 3C/2023), the Baden Powell Award 2023</p></td></tr><tr><td rowspan="1" colspan="1"><p>Guitar Ensemble</p></td><td rowspan="1" colspan="1"><p>SYF Arts Presentation 2023, Certificate of Accomplishment</p></td></tr><tr><td rowspan="1" colspan="1"><p>Guzheng Ensemble</p></td><td rowspan="1" colspan="1"><p>SYF Arts Presentation 2023, Certificate of Distinction</p></td></tr><tr><td rowspan="1" colspan="1"><p>Infocomm Club</p></td><td rowspan="1" colspan="1"><p>National Youth Tech Championship, 13th of 51 teams</p></td></tr><tr><td rowspan="1" colspan="1"><p>International Dance</p></td><td rowspan="1" colspan="1"><p>SYF Arts Presentation 2023, Certificate of Distinction</p></td></tr><tr><td rowspan="1" colspan="1"><p>Photography and Digital Media Club</p></td><td rowspan="1" colspan="1"><p>Commendation Award, EE Photo Challenge 2023</p></td></tr><tr><td rowspan="1" colspan="1"><p>Shooting</p></td><td rowspan="1" colspan="1"><p><strong>National School Games 2023 Achievements</strong></p><p></p><p><strong>‘B’ Division Boys Pistol Team: 2nd Runner- Up</strong></p><p>Loh Jian Hui (Sec 3A/ 2023)</p><p>Chuah Jun Hao (Sec 3D/2023)</p><p>Jayden Ng Le Tian (Sec 3D/2023)</p><p>Lim Fan Hao (Sec 3D/2023)</p><p>Loh Qi An (Sec 4A/2023)</p><p>Koh Bock Chow (Sec 4B/2023)&nbsp;</p><p><br><strong>‘B’ Division Girls Pistol Team: 2nd Runner- Up</strong></p><p>David Jaenel Rica Bomowey (Sec 3A/2023)</p><p>Sia Xin Ern Rylene (Sec 3D/2023)&nbsp;</p><p>Choo Xin Yi (Sec 4B/2023)</p><p>Tan Qi Ya (Sec 4C/2023)</p><p>Yee Cheng Ying Felicia (Sec 4C/2023)&nbsp;</p><p>Yap Si Yin Agnes (Sec 4D/2023)</p><p></p><p><strong>‘C’ Division Boys Pistol Team: 1st Runner- Up</strong></p><p>Mika Wong Jung Kay (Sec 2B / 2023)</p><p>Goh Jek Boon (Sec 2C / 2023)</p><p>Koh Ming Sheng (Sec 2D / 2023)</p><p>Kong Hao Zhe (Sec 1B/ 2023)</p><p>Chan Khoon Yu Darien (Sec 1E/ 2023)</p><p>Chow Shan Xi (Sec 1F/ 2023)</p><p></p><p><strong>‘C’ Division Girls Pistol Team: 1st Runner- Up</strong></p><p>Shermin aw ya Ru (2A/2023)</p><p>Erica Chia Xin Zhi (2B/2023)</p><p>Teo Wee Woon (2G/2023)</p><p>Tiffany Poon Si Kaye (1E/2023)</p><p>Sofea Qistina Binte Farain (1D/2023)</p><p>Olivia Teo Yan Ting (2A/2023)</p><p></p><p><strong>‘C’ Division Boys Pistol Individual: First Place</strong></p><p>Goh Jek Boon (Sec 2C/2023)</p><p><br>Sports Boy of the Year</p><p>Goh Jek Boon (Sec 2C/2023)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Speech and Drama Club</p></td><td rowspan="1" colspan="1"><p>SYF Arts Presentation 2023, Certificate of Accomplishment</p></td></tr></tbody></table><p></p>
