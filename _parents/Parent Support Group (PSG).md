@@ -2,24 +2,6 @@
 title: Parent Support Group (PSG)
 permalink: /parents/parent-support-group-psg/
 description: ""
+variant: tiptap
 ---
-As we navigated out of the shadows of the COVID-19 pandemic in 2022, the PSG Executive Committee (EXCO) wanted this year’s activities to focus on the school’s mission of Shaping Character, Engaging Learners, Touching Lives.
-
-**Resumption of weekly badminton sessions**   
-
-Parents and students were able to bond over a healthy game of badminton and learning from each other.  Each week, we saw about 30 participants having fun and staying healthy!
-
-
-**Appreciating our WSSS Teachers**
-
-A group of PSG parents and students came together to create something special for our teachers.  Over a crafts workshop session, parents and students put their artistic and sewing talent to good use and produced handsewn pencil cases and personalized handwritten "Thank You" notes.  These were presented to our teachers during the Teachers’ Day celebrations.  
-
-**Touching the lives of our graduating students**
-
-The PSG parents came together to prepare a special gift for the graduating Secondary 4 and 5 students – a handcrafted notebook with a personalized note from their parents/guardians!  These were presented to the students during their Valediction Day ceremony and many students were moved by the words of encouragement from their parents/guardians.
-
-Click [here](https://youtu.be/usmTjYPwSIY) for the video produced by the PSG EXCO for our graduating students. 
-
-To join the PSG, scan the QR code below!
-
-![](/images/Parents/Parent%20Support%20Group/wssspsg1.png)
+<p>PSG Executive Committee 2023 </p><table><tbody><tr><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Name</p></th></tr><tr><td rowspan="1" colspan="1"><p>Chairperson</p></td><td rowspan="1" colspan="1"><p>Mdm. Norazlin Jumadi</p></td></tr><tr><td rowspan="1" colspan="1"><p>Vice-Chairperson 1</p></td><td rowspan="1" colspan="1"><p>Mr. Henry Agus</p></td></tr><tr><td rowspan="1" colspan="1"><p>Vice-Chairperson 2</p></td><td rowspan="1" colspan="1"><p>Mdm. Audrey Lee</p></td></tr><tr><td rowspan="1" colspan="1"><p>Advisor</p></td><td rowspan="1" colspan="1"><p>Mdm. Jacqueline Koh</p></td></tr><tr><td rowspan="1" colspan="1"><p>Secretary</p></td><td rowspan="1" colspan="1"><p>Mdm. Low Lai Chui</p></td></tr><tr><td rowspan="1" colspan="1"><p>Treasurer</p></td><td rowspan="1" colspan="1"><p>Mr. Jimmy Wong</p></td></tr><tr><td rowspan="1" colspan="1"><p>Members</p></td><td rowspan="1" colspan="1"><p>Mdm. Kelly Lim </p><p>Mdm. Justine Lee</p><p>Mdm. Kate Swee</p></td></tr></tbody></table><p></p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/psg_2.png"></div><p></p>
