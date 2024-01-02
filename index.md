@@ -4,7 +4,7 @@ title: West Spring Secondary School - Official School Website
 description: Official school website of West Spring Secondary School
 image: /images/Badge_HiRes.jpg
 permalink: /
-notification: Welcome back to school on Tuesday, 2 Jan 2024!
+notification: ""
 sections:
   - hero:
       background: /images/eBanner_2024.png
