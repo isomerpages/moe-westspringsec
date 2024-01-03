@@ -3,36 +3,6 @@ title: Girl Guides
 permalink: /character-excellence/co-curricular-activities/girl-guides/
 description: ""
 third_nav_title: Co Curricular Activities
-variant: markdown
+variant: tiptap
 ---
-**Key Programmes**
-
-*   World Association of Girl Guides and Girl Scouts (WAGGGS) Leadership Development Program
-    
-*   ‘Free Being Me’ Programme (partnership with Dove self-esteem project and WAGGGS) 
-    
-*   Gardens by the Bay Ambassador Programme
-    
-*   [Singapore Anti-Narcotics Association](https://www.sana.org.sg/) (SANA) Programme
-    
-*   Kindness Badge Award (KBA) Programme
-    
-*   ASEAN Cybersecurity Skilling Programme (ASEAN CSP) in partnership with ASEAN Foundation
-    
-*   Training (5-Point Program): a comprehensive programme that enables Girl Guides to develop leadership and life skills in 5 areas: Personal & Social Development, Home, Outdoor, Community and International skills
-
-**Highlights**
-
-Company Achievements
-
-*   Puan Noor Aishah GOLD Award (Unit award 2022)
-    
-*   National Day Parade Official Marching Contingent 2023
-    
-*   Let’s go Camping 2023 
-    
-*   Guard of Honour for Girl Guides Singapore (HQ) Gala Dinner 
-
-Individual Achievements
-
-Audrey Mel Paca (Sec 3C/2023) was awarded the Baden Powell Award 2023, the highest award given out by the Chief Commissioner to a Girl Guide.**
+<p><strong>Key Programmes</strong></p><ul><li><p>World Association of Girl Guides and Girl Scouts (WAGGGS) Leadership Development Program</p></li><li><p>‘Free Being Me’ Programme (partnership with Dove self-esteem project and WAGGGS)</p></li><li><p>Gardens by the Bay Ambassador Programme</p></li><li><p><a href="https://www.sana.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Anti-Narcotics Association</a> (SANA) Programme</p></li><li><p>Kindness Badge Award (KBA) Programme</p></li><li><p>ASEAN Cybersecurity Skilling Programme (ASEAN CSP) in partnership with ASEAN Foundation</p></li><li><p>Training (5-Point Program): a comprehensive programme that enables Girl Guides to develop leadership and life skills in 5 areas: Personal &amp; Social Development, Home, Outdoor, Community and International skills</p></li></ul><p><strong>Highlights</strong></p><p>Company Achievements</p><ul><li><p>Puan Noor Aishah GOLD Award (Unit award 2022)</p></li><li><p>National Day Parade Official Marching Contingent 2023</p></li><li><p>Let’s go Camping 2023</p></li><li><p>Guard of Honour for Girl Guides Singapore (HQ) Gala Dinner</p></li></ul><p>Individual Achievements</p><p>Audrey Mel Paca (Sec 3C/2023) was awarded the Baden Powell Award 2023, the highest award given out by the Chief Commissioner to a Girl Guide.**</p>
