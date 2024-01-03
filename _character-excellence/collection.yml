@@ -2,7 +2,6 @@ collections:
   character-excellence:
     output: true
     order:
-      - CCA Schedule 2024.md
       - Character and Citizenship Ed/.keep
       - Character and Citizenship Ed/Character and Citizenship Education.md
       - Character and Citizenship Ed/Cyber Wellness Programme.md
@@ -31,4 +30,5 @@ collections:
       - Co Curricular Activities/Shooting.md
       - Co Curricular Activities/Speech and Drama.md
       - Co Curricular Activities/Volleyball.md
+      - CCA Schedule 2024.md
       - Learning for Life Programme.md
