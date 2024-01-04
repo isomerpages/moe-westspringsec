@@ -3,7 +3,7 @@ title: Volleyball
 permalink: /character-excellence/co-curricular-activities/volleyball/
 description: ""
 third_nav_title: Co Curricular Activities
-variant: markdown
+variant: tiptap
 ---
 The Volleyball team had participated in an external competition organised by JRT academy in June. 
 
