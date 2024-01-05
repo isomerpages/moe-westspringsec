@@ -3,6 +3,7 @@ title: Sexuality Education
 permalink: /character-excellence/sexuality-education/
 description: ""
 third_nav_title: Character and Citizenship Ed
+variant: markdown
 ---
 Sexuality Education (SEd) is one of the content areas of the MOE’s CCE 2021 Curriculum Frame. Students will learn about the physical, emotional, social and ethical dimensions of human sexuality in secondary schools. Parents can learn more about the MOE Sexuality Education and how you can support your child.
 
@@ -42,7 +43,7 @@ The 6 guiding principles of sexuality education are:
 
 **Sexuality Education Lessons:**
 
-At West Spring Secondary School, the following Sexuality Education lessons will be taught in&nbsp;2023:
+At West Spring Secondary School, the following Sexuality Education lessons will be taught in&nbsp;2024:
 
 **SECONDARY 1**
 
@@ -106,7 +107,7 @@ At West Spring Secondary School, the following Sexuality Education lessons will 
   #CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
   black;mso-border-style-alt:solid;mso-border-width-alt:.75pt;padding:0cm 2.25pt 0cm 2.25pt;
   height:222.75pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Term 2 Week 7</span></p></td></tr><tr style="mso-yfti-irow:2;height:210.0pt"><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
+  &quot;Times New Roman&quot;">Term 1 Week 6</span></p></td></tr><tr style="mso-yfti-irow:2;height:210.0pt"><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
   border-right:solid black 1.0pt;mso-border-top-alt:solid #CCCCCC .75pt;
   mso-border-left-alt:solid #CCCCCC .75pt;mso-border-top-alt:#CCCCCC;
   mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
@@ -132,7 +133,7 @@ At West Spring Secondary School, the following Sexuality Education lessons will 
   #CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
   black;mso-border-style-alt:solid;mso-border-width-alt:.75pt;padding:0cm 2.25pt 0cm 2.25pt;
   height:210.0pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Term 2 Week 8</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:103.65pt"><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
+  &quot;Times New Roman&quot;">Term 2 Week 5</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:103.65pt"><td valign="top" style="border-top:none;border-left:none;border-bottom:solid black 1.0pt;
   border-right:solid black 1.0pt;mso-border-top-alt:solid #CCCCCC .75pt;
   mso-border-left-alt:solid #CCCCCC .75pt;mso-border-top-alt:#CCCCCC;
   mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
@@ -159,7 +160,7 @@ At West Spring Secondary School, the following Sexuality Education lessons will 
   #CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
   black;mso-border-style-alt:solid;mso-border-width-alt:.75pt;padding:0cm 2.25pt 0cm 2.25pt;
   height:103.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Term 3 Week 3</span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;">Term 2 Week 8</span></p></td></tr></tbody></table>
 	
 
         
@@ -227,7 +228,7 @@ At West Spring Secondary School, the following Sexuality Education lessons will 
   #CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
   black;mso-border-style-alt:solid;mso-border-width-alt:.75pt;padding:0cm 2.25pt 0cm 2.25pt;
   height:81.15pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Term 2 Week 8</span></p></td></tr><tr style="mso-yfti-irow:2;height:150.75pt"><td width="78" valign="top" style="width:58.55pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;">Term 1 Week 5</span></p></td></tr><tr style="mso-yfti-irow:2;height:150.75pt"><td width="78" valign="top" style="width:58.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
   mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
@@ -253,7 +254,7 @@ At West Spring Secondary School, the following Sexuality Education lessons will 
   #CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
   black;mso-border-style-alt:solid;mso-border-width-alt:.75pt;padding:0cm 2.25pt 0cm 2.25pt;
   height:150.75pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Term 3 Week 5</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:206.25pt"><td width="78" valign="top" style="width:58.55pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;">Term 2 Week 5</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:206.25pt"><td width="78" valign="top" style="width:58.55pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
   mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
@@ -280,7 +281,7 @@ At West Spring Secondary School, the following Sexuality Education lessons will 
   #CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
   black;mso-border-style-alt:solid;mso-border-width-alt:.75pt;padding:0cm 2.25pt 0cm 2.25pt;
   height:206.25pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Term 3 Week 7</span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;">Term 2 Week 8</span></p></td></tr></tbody></table>
 	
 	
 
@@ -347,7 +348,7 @@ At West Spring Secondary School, the following Sexuality Education lessons will 
   #CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
   black;mso-border-style-alt:solid;mso-border-width-alt:.75pt;padding:0cm 2.25pt 0cm 2.25pt;
   height:181.5pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Term 2 Week 7</span></p></td></tr><tr style="mso-yfti-irow:2;height:117.15pt"><td width="88" valign="top" style="width:65.75pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;">Term 3 Week 3</span></p></td></tr><tr style="mso-yfti-irow:2;height:117.15pt"><td width="88" valign="top" style="width:65.75pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
   mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
@@ -377,7 +378,7 @@ At West Spring Secondary School, the following Sexuality Education lessons will 
   #CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
   black;mso-border-style-alt:solid;mso-border-width-alt:.75pt;padding:0cm 2.25pt 0cm 2.25pt;
   height:117.15pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Term 3 Week 3</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:262.5pt"><td width="88" valign="top" style="width:65.75pt;border-top:none;border-left:
+  &quot;Times New Roman&quot;">Term 3 Week 5</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:262.5pt"><td width="88" valign="top" style="width:65.75pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;
   mso-border-top-alt:#CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:
@@ -406,7 +407,7 @@ At West Spring Secondary School, the following Sexuality Education lessons will 
   #CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
   black;mso-border-style-alt:solid;mso-border-width-alt:.75pt;padding:0cm 2.25pt 0cm 2.25pt;
   height:262.5pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Term 3 Week 5</span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;">Term 3 Week 8</span></p></td></tr></tbody></table>
 	
 
 **SECONDARY 4**
@@ -501,7 +502,7 @@ At West Spring Secondary School, the following Sexuality Education lessons will 
   #CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
   black;mso-border-style-alt:solid;mso-border-width-alt:.75pt;padding:0cm 2.25pt 0cm 2.25pt;
   height:263.25pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Term 1 Week 9</span></p></td></tr><tr style="mso-yfti-irow:3;height:230.25pt"><td width="83" valign="top" style="width:61.9pt;border-top:none;border-left:none;
+  &quot;Times New Roman&quot;">Term 1 Week 10</span></p></td></tr><tr style="mso-yfti-irow:3;height:230.25pt"><td width="83" valign="top" style="width:61.9pt;border-top:none;border-left:none;
   border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
   solid #CCCCCC .75pt;mso-border-left-alt:solid #CCCCCC .75pt;mso-border-top-alt:
   #CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
@@ -555,7 +556,7 @@ At West Spring Secondary School, the following Sexuality Education lessons will 
   #CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
   black;mso-border-style-alt:solid;mso-border-width-alt:.75pt;padding:0cm 2.25pt 0cm 2.25pt;
   height:49.65pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Term 2 Week 8</span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;">Term 2 Week 9</span></p></td></tr></tbody></table>
 
 **SECONDARY 5**
 
@@ -618,7 +619,7 @@ At West Spring Secondary School, the following Sexuality Education lessons will 
   #CCCCCC;mso-border-left-alt:#CCCCCC;mso-border-bottom-alt:black;mso-border-right-alt:
   black;mso-border-style-alt:solid;mso-border-width-alt:.75pt;padding:0cm 2.25pt 0cm 2.25pt;
   height:199.5pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">Term 2 Week 6</span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;">Term 2 Week 4</span></p></td></tr></tbody></table>
 
 
 
@@ -632,7 +633,7 @@ _eTeens_ for Secondary 3 students is developed by the Health Promotion Board in 
 
 *   Skills on making responsible decisions, being assertive and how to say “no” to sexual advances and resist peer pressure.
 
-At West Spring Secondary School, the _eTeens_ programme will be implemented as follows in 2023:
+At West Spring Secondary School, the _eTeens_ programme will be implemented as follows in 2024:
 
 <table class="MsoNormalTable" border="1" cellspacing="3" cellpadding="0" width="653" style="width:490.1pt;mso-cellspacing:1.5pt;border:solid windowtext 1.0pt;
  mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
@@ -679,6 +680,6 @@ At West Spring Secondary School, the _eTeens_ programme will be implemented as f
   mso-bidi-font-family:Symbol;color:#222222"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#222222">Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making</span></p></td><td width="255" valign="top" style="width:191.25pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;background:#EAEAEA;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#222222">Term 1 Week 6</span></p></td></tr></tbody></table>
+  &quot;Times New Roman&quot;;color:#222222">Term 1 Week 5</span></p></td></tr></tbody></table>
 
 You may [click here](https://www.moe.gov.sg/-/media/files/programmes/eteens-programme-2017.pdf?la=en&amp;hash=4CB3A0CDB470B19D5182CDCBFA017B5C235D982F) for more information on _eTeens_ programme.
