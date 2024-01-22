@@ -1,15 +1,16 @@
 ---
-title: Student iCON and MIMS Password
+title: MIMS Account
 permalink: /students/permalink/mims/
 description: ""
+variant: markdown
 ---
-**About Student iCON and MIMS Password**
+**MIMS Account**
 
-Every student will have a student iCON account to log in to the computers in school and his/her Personal Learning Device. Student iCON account allows students to access Student Learning Space (SLS) and other learning platforms.
+Every student will have a MIMS account to log in to the computers in school and his/her Personal Learning Device. MIMS account allows students to access Student Learning Space (SLS) and other learning platforms.
 
 **Details:**
 
-Username: given_name@students.edu.sg (provided by school)
+Username: Your Student ICON Email address (xyz@students.edu.sg)
 
 Password: This is called MIMS password which can be reset by student at the MIMS Portal.
 
