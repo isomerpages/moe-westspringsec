@@ -1,0 +1,8 @@
+collections:
+  students:
+    output: true
+    order:
+      - Blended Learning.md
+      - MIMS Account.md
+      - School Library.md
+      - Student Learning Space (SLS).md

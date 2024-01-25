@@ -1,0 +1,20 @@
+collections:
+  about-wsss:
+    output: true
+    order:
+      - School Vision, Mission, Values.md
+      - School History.md
+      - School Crest and School Song.md
+      - Principal's Foreword.md
+      - Our People/.keep
+      - Our People/Key Personnel.md
+      - Our People/Teachers.md
+      - Our Achievements/.keep
+      - Our Achievements/CCA Achievements.md
+      - Our Achievements/Staff Achievements.md
+      - Our Achievements/WSSS Alumni.md
+      - WSSS Code of Conduct.md
+      - WSSS Publications.md
+      - WSSS Social Media.md
+      - Privacy Statement.md
+      - Terms of Use.md

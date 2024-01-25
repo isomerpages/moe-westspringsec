@@ -1,0 +1,5 @@
+collections:
+  partners-in-excellence:
+    output: true
+    order:
+      - School Advisory Committee.md

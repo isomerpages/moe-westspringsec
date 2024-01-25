@@ -1,0 +1,60 @@
+title: West Spring Secondary School - Official School Website
+url: https://www.westspringsec.moe.edu.sg
+favicon: /images/Badge_HiRes.jpg
+colors:
+  primary-color: "#000000"
+  secondary-color: "#f5a623"
+  media-colors:
+    - title: media-color-one
+      color: "#d0021b"
+    - title: media-color-two
+      color: "#f8e71c"
+    - title: media-color-three
+      color: "#4a4a4a"
+    - title: media-color-four
+      color: "#8b572a"
+    - title: media-color-five
+      color: "#dc6f10"
+description: Official school website of West Spring Secondary School
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d31sqbu9117z8w.amplifyapp.com/
+prod: https://master.d31sqbu9117z8w.amplifyapp.com/
+resources_name: resource
+shareicon: /images/Badge_HiRes.jpg
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
+google_analytics_ga4: ""

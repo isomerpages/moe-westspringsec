@@ -1,0 +1,34 @@
+collections:
+  character-excellence:
+    output: true
+    order:
+      - Character and Citizenship Ed/.keep
+      - Character and Citizenship Ed/Character and Citizenship Education.md
+      - Character and Citizenship Ed/Cyber Wellness Programme.md
+      - Character and Citizenship Ed/Education and Career Guidance Programme.md
+      - Character and Citizenship Ed/Student Leadership Programme.md
+      - Character and Citizenship Ed/Sexuality Education.md
+      - Character and Citizenship Ed/Special Needs Programme.md
+      - The Co Curriculum/.keep
+      - The Co Curriculum/Co Curricular Activities (CCA).md
+      - The Co Curriculum/ICT Programme.md
+      - The Co Curriculum/International Schools Immersion.md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Student Council.md
+      - Co Curricular Activities/Badminton.md
+      - Co Curricular Activities/Football.md
+      - Co Curricular Activities/Girl Guides.md
+      - Co Curricular Activities/Guitar Ensemble.md
+      - Co Curricular Activities/Guzheng Ensemble.md
+      - Co Curricular Activities/Infocomm Technology.md
+      - Co Curricular Activities/International Dance.md
+      - Co Curricular Activities/Marching Band.md
+      - Co Curricular Activities/National Cadet Corps (Land).md
+      - Co Curricular Activities/National Civil Defence Cadet Corps.md
+      - Co Curricular Activities/National Police Cadet Corps.md
+      - Co Curricular Activities/Netball.md
+      - Co Curricular Activities/Shooting.md
+      - Co Curricular Activities/Speech and Drama.md
+      - Co Curricular Activities/Volleyball.md
+      - CCA Schedule 2024.md
+      - Learning for Life Programme.md
