@@ -12,7 +12,7 @@ now open.&nbsp; Presented by the Speak Good English Movement and The Straits
 Times with the support of the Ministry of Education, the Award has two
 categories – the Teaching Award and the Leadership Award.&nbsp;</p>
 <p></p>
-<p>Nomination forms for the Teaching Award can be downloaded from <a rel="noopener noreferrer nofollow" target="_blank">http://goodenglish.org.sg/inspiring-teacher-of-english-</a>
+<p>Nomination forms for the Teaching Award can be downloaded from <a rel="noopener noreferrer nofollow" target="_blank">http://goodenglish.org.sg/inspiring-teacher-of-english-</a> 
 <a href="http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information" rel="noopener noreferrer nofollow" target="_blank">award/nomination-information.</a>The Award is open to all in-service teachers
 of English Language, including teachers of Literature in English and General
 Paper. All students, their parents, and teachers are invited to send in
