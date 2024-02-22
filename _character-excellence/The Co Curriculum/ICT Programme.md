@@ -163,3 +163,5 @@ Sec 2 Hands-on Sessions
 * Coding AI applications on RAISE Playground; a block-based programming platform that lets anyone use machine learning models, robotics, and AI engines to make projects.
 * Simple microcontroller programming with the micro:bit. 
 * Using the EF Smart AI Lens together with the micro:bit to build physical AI applications
+
+[Download the above information here](https://docs.google.com/presentation/d/1GWHPzBfOB21qpVOrnHCS55u6_qN_07f7NHBE6slI-_M/edit?usp=sharing)
