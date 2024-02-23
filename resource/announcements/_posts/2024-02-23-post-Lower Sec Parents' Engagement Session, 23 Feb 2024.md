@@ -15,7 +15,7 @@ variant: tiptap
 <p><a href="/files/Lower_Sec_Parents__Engagement_23_Feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Lower_Sec_Parents__Engagement_23_Feb_2024.pdf</a>
 </p>
 <p></p>
-<p>Thank you!</p>
+<p>Thank you.</p>
 <p>
 <br>
 </p>
