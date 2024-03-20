@@ -36,7 +36,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/drive/folders/1a_-OiqjP2HUyPoyWtJXM6GoapffgkuRX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Info of G3 Computing</a>
+<p><a href="https://drive.google.com/drive/folders/1a_-OiqjP2HUyPoyWtJXM6GoapffgkuRX?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Info on G3 Computing</a>
 </p>
 </li>
 </ul>
