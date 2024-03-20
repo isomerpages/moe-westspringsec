@@ -12,7 +12,7 @@ variant: tiptap
 2024.</p>
 <p>If there are any questions, please direct them to: <a href="mailto:westspringss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westspringss@moe.edu.sg</a>
 </p>
-<p><u>G1 &amp; G2 Resources: </u>
+<p><u>G1 &amp; G2 Resources:</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
