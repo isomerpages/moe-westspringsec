@@ -36,4 +36,3 @@ Thank you for attending our talk. Here are the presentation slides and FAQ for t
 [G1 & G2 Placement Q&A](/files/G1_G2_Placement_Q_A_20_3_24.pdf)
 
 [G1 & G2 FAQ Updated](/files/2024_S3_Placement_Briefing_for_G1_and_G2__NTNA__FAQ__Updated_.pdf)
-
