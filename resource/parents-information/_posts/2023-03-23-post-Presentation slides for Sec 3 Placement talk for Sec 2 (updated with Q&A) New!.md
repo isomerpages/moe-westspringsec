@@ -25,7 +25,7 @@ Thank you for attending our talk. Here are the presentation slides and FAQ for t
 
 **G3 Group**
 
-[G3 Placement Q&A](/files/G3_Placement_Q_A_20_3_24.pdf)
+[Q&A from G3 Zoom](/files/G3_Placement_Q_A_20_3_24.pdf)
 
 [Annex B: O-Level Computing Endorsement Form](/files/Annex_B___Endorsement_Form__26032024_.pdf)
 
@@ -33,6 +33,6 @@ Thank you for attending our talk. Here are the presentation slides and FAQ for t
 
 **G1 & G2 Group**
 
-[G1 & G2 Placement Q&A](/files/G1_G2_Placement_Q_A_20_3_24.pdf)
+[Q&A from G1 & G2 Zoom](/files/G1_G2_Placement_Q_A_20_3_24.pdf)
 
 [G1 & G2 FAQ Updated](/files/2024_S3_Placement_Briefing_for_G1_and_G2__NTNA__FAQ__Updated_.pdf)
