@@ -46,20 +46,31 @@ variant: tiptap
 <p><strong>G3 Group</strong>
 </p>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/G3_Placement_Q_A_20_3_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Q&amp;A from G3 Zoom session</a>
 </p>
-<p></p>
+</li>
+<li>
 <p><a href="/files/Annex_B___Endorsement_Form__26032024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B: O-Level Computing Endorsement Form</a>
 </p>
-<p></p>
+</li>
+<li>
 <p><a href="/files/4_Annex_C___FAQ_for_Centre_Based_Approach.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex C: FAQ for O-Level Computing</a>
 </p>
-<p></p>
+</li>
+</ul>
 <p></p>
 <p><strong>G1 &amp; G2 Group</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/G1_G2_Placement_Q_A_20_3_24.pdf" rel="noopener noreferrer nofollow" target="_blank">Q&amp;A from G1 &amp; G2 Zoom session</a>
 </p>
-<p></p>
+</li>
+<li>
 <p><a href="/files/2024_S3_Placement_Briefing_for_G1_and_G2__NT_NA__FAQ.pdf" rel="noopener noreferrer nofollow" target="_blank">Updated FAQ for G1 and G2</a>
 </p>
+</li>
+</ul>
+<p></p>
