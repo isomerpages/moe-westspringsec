@@ -233,7 +233,7 @@ in external clubs are encouraged to apply</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Aptitude and skills in Badminto&nbsp;</p>
+<p>Aptitude and skills in Badminton</p>
 </li>
 <li>
 <p>Academic Track Record</p>
