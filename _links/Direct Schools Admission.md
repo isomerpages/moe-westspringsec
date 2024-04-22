@@ -31,10 +31,12 @@ will monitor and motivate students to excel in their academic performance.</p>
 <p>In West Spring Secondary, the 3 talent areas under DSA-Sec are:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Badminton</strong>:</p>
+<p><strong>Badminton</strong>
+</p>
 </li>
 <li>
-<p><strong>Football</strong>:</p>
+<p><strong>Football</strong>
+</p>
 </li>
 <li>
 <p><strong>Shooting</strong>
@@ -168,7 +170,6 @@ clubs are encouraged to apply</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants are required to attend an interview and a selection trial.</p>
-<p>&nbsp;</p>
 <p><strong>Applicants will be selected based on the following:</strong>
 </p>
 <ul data-tight="true" class="tight">
