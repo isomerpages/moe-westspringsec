@@ -25,6 +25,14 @@ sections:
           description: Our school highlights!
           url: https://www.instagram.com/westspringsec/
   - infopic:
+      title: Partners in Excellence
+      subtitle: School Achievement
+      id: infopic
+      description: We have been awarded the North West Outstanding School Partner
+        Award 2024.
+      image: /images/West_Spring_Secondary_School___NW_Outstanding_School_Partner_Award_2024__Gold_.jpg
+      alt: Image alt text
+  - infopic:
       title: Leaders of Character
       subtitle: Vision
       id: infopic
