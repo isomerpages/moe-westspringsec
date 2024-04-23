@@ -18,12 +18,12 @@ sections:
         - title: Our school Vision, Mission and Values
           description: Find out more about us!
           url: https://www.westspringsec.moe.edu.sg/about-us/school-vision-mission-values/
-        - title: Announcements
-          description: Important Notifications
-          url: https://www.westspringsec.moe.edu.sg/resource/
         - title: WSSS Instagram
           description: Our school highlights!
           url: https://www.instagram.com/westspringsec/
+        - title: Open House 2024
+          description: Check out what's in store!
+          url: https://sites.google.com/moe.edu.sg/wssseinfo-site2024/home
   - infopic:
       title: Partners in Excellence
       subtitle: School Achievement
