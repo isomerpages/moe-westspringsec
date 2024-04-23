@@ -79,7 +79,7 @@ should demonstrate the commitment to serve others.</p>
 <p>Participate in the following talent development programmes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Student leadershipopportunities</p>
+<p>Student leadership opportunities</p>
 </li>
 <li>
 <p>Participate in National School Games</p>
