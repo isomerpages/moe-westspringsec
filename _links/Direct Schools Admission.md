@@ -135,7 +135,7 @@ training</p>
 <p>Participate in the following talent development programmes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;Student leadershipopportunities</p>
+<p>&nbsp;Student leadership opportunities</p>
 </li>
 <li>
 <p>Coaching of junior players</p>
@@ -194,7 +194,7 @@ clubs are encouraged to apply</p>
 <p>Participate in the following talent development programmes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Student leadershipopportunities</p>
+<p>Student leadership opportunities</p>
 </li>
 <li>
 <p>Participate in National School Games</p>
