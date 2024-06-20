@@ -46,15 +46,13 @@ snack.&nbsp;&nbsp;</p>
 <p>FT/Assembly periods have been shifted from Wednesdays to Thursdays.</p>
 </li>
 <li>
-<p>Blended learning subjects are shown in the blended learning schedule (E)
-Fridays.There are no blended learning for Sec 4 and Sec 5 in Semester 2.
-Sec45 will be notified to come back to school for timed-practices and GCE
-oral exams.</p>
+<p>Blended learning subjects are shown in the blended learning schedule for
+(E) Fridays.There is no blended learning for Sec 4 and Sec 5 in Semester
+2. Sec45 will be notified to come back to school on (E) Fridays for timed-practices
+and GCE oral exams.</p>
 </li>
 </ol>
-<p>
-<br>
-</p>
+<p></p>
 <p>Thank you.</p>
 <p>
 <br>
