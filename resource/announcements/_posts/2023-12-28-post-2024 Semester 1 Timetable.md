@@ -47,7 +47,7 @@ snack.&nbsp;&nbsp;</p>
 </li>
 <li>
 <p>Blended learning subjects are shown in the blended learning schedule for
-(E) Fridays.There is no blended learning for Sec 4 and Sec 5 in Semester
+(E) Fridays. There is no blended learning for Sec 4 and Sec 5 in Semester
 2. Sec45 will be notified to come back to school on (E) Fridays for timed-practices
 and GCE oral exams.</p>
 </li>
