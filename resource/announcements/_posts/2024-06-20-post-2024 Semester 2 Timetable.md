@@ -12,9 +12,10 @@ variant: tiptap
 <p>Please take note of your timetable for Semester 2 2024.</p>
 <p><a href="/files/21_June_v23__2024_Sem_2_Classes.pdf" rel="noopener noreferrer nofollow" target="_blank">(21 June) 2024 Sem 2 Class Timetables</a>
 </p>
-<p>*Please note 21 June is the latest version. If you have downloaded an
-earlier version, this new version consists of changes that only affect
-students from Sec 2E, 2F, and 2G. Sorry for the inconvenience caused.</p>
+<p>*Please note 21 June Class Timetable is the latest version. If you have
+downloaded an earlier version, this new version consists of changes that
+only affect students from Sec 2E, 2F, and 2G. Sorry for the inconvenience
+caused.</p>
 <p></p>
 <p><a href="/files/2024_Blended_Learning_TT_Sem_2__for_students_.pdf" rel="noopener noreferrer nofollow" target="_blank">(E) Fridays' Blended Learning Schedule for Sem 2 2024</a>
 <br>
