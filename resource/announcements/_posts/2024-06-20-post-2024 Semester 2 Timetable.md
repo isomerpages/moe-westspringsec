@@ -10,8 +10,13 @@ variant: tiptap
 <p>Dear students,</p>
 <p>Welcome back to school!</p>
 <p>Please take note of your timetable for Semester 2 2024.</p>
-<p><a href="/files/v23__2024_Sem_2_Classes.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sem 2 Class Timetable for all levels</a>
+<p><a href="/files/21_June_v23__2024_Sem_2_Classes.pdf" rel="noopener noreferrer nofollow" target="_blank">(21 June) 2024 Sem 2 Class Timetables</a>
 </p>
+<p>*Please note 21 June Class Timetable is the latest version. If you have
+downloaded an earlier version, this new version consists of changes that
+only affect students from Sec 2E, 2F, and 2G. Sorry for the inconvenience
+caused.</p>
+<p></p>
 <p><a href="/files/2024_Blended_Learning_TT_Sem_2__for_students_.pdf" rel="noopener noreferrer nofollow" target="_blank">(E) Fridays' Blended Learning Schedule for Sem 2 2024</a>
 <br>
 </p>
@@ -38,7 +43,7 @@ in the canteen for these breaks.&nbsp;</p>
 </li>
 <li>
 <p>Snack breaks remain the same. It is for 10 minutes starting at 9.30 am
-and 11.50am. Please remember to prepare your snack that is easily consumed
+and 11.50am. Please remember to prepare a snack that is easily consumed
 in the classroom. You are not allowed to go to the canteen to buy this
 snack.&nbsp;&nbsp;</p>
 </li>
@@ -46,10 +51,10 @@ snack.&nbsp;&nbsp;</p>
 <p>FT/Assembly periods have been shifted from Wednesdays to Thursdays.</p>
 </li>
 <li>
-<p>Blended learning subjects are shown in the blended learning schedule (E)
-Fridays.There are no blended learning for Sec 4 and Sec 5 in Semester 2.
-Sec45 will be notified to come back to school for timed-practices and GCE
-oral exams.</p>
+<p>Blended learning subjects on even week Fridays are shown in the blended
+learning schedule. There is no blended learning for Sec 4 and Sec 5 in
+Semester 2. Sec45s will be notified to come back to school for timed-practices
+and GCE oral exams.</p>
 </li>
 </ol>
 <p>
