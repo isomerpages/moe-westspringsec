@@ -322,7 +322,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Leadership</p>
+<p>SH Student Leadership (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jasmine Kao</p>
