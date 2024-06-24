@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -199,17 +204,6 @@ variant: tiptap
 <p>English Language, English Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kelvin Zhong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>zhong_rongdian_kelvin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English Language, English Literature</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Siti Farhanum Binte Nordin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,6 +245,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>English Language, Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yuki Yip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be confirmed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -276,17 +281,6 @@ variant: tiptap
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Timothy Teh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teh_kar_keong_timothy@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Lydia Teng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -302,17 +296,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>fazlin_mohd_fadzuli@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Humanities, English Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Shobana D/O Nadaraja</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>shobana_nadaraja@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -357,17 +340,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_alinah_ali@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Malay Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Liyana Binte Osman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nur_liyana_osman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -485,17 +457,6 @@ variant: tiptap
 <p>Mathematics, Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Soh Hong Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>hong_wei_soh@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics, Science</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Oen Hui Qin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -507,10 +468,10 @@ variant: tiptap
 <p>Nutrition and Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sri Wirdaningsih Binte Subari</p>
+<p>Ms Puspawati Rosli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sri_wirdaningsih_subari@moe.edu.sg</p>
+<p>puspawati_rosli@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -548,17 +509,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Physical Education, Elements of Business Skills</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Wang Wade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wang_wade_fengyin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -566,6 +516,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_poh_yun_evelyn@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Chieh Sern</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lin_chieh_sern@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -621,6 +582,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>joey_goh_qinyuan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Juliana Bte Adaham</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>juliana_adaham@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
