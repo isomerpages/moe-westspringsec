@@ -179,6 +179,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Susan Lopez</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>susan_lopez_nee_senanayake@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>English Language, Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,17 +230,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_norahan_moktar@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Susan Lopez</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>susan_lopez_nee_senanayake@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
