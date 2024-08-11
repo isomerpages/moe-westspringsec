@@ -10,5 +10,5 @@ variant: tiptap
 to do us proud with their achievements beyond the school.</p>
 <p><a href="/wsss-alumni/2017" rel="noopener noreferrer nofollow" target="_blank">2017</a> |
 <a href="/wsss-alumni/2018" rel="noopener noreferrer nofollow" target="_blank">2018</a>| <a href="/wsss-alumni/2019" rel="noopener noreferrer nofollow" target="_blank">2019</a> |
-<a href="/wsss-alumni/2020" rel="noopener noreferrer nofollow" target="_blank">2020</a>| <a href="/wsss-alumni/2022" rel="noopener noreferrer nofollow" target="_blank">2022</a>
+<a href="/wsss-alumni/2020" rel="noopener noreferrer nofollow" target="_blank">2020</a>| <a href="/wsss-alumni/2022" rel="noopener noreferrer nofollow" target="_blank">2022| 2023 | 2024</a>
 </p>
