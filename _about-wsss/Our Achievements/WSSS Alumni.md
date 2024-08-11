@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Our Achievements
 variant: tiptap
 ---
-<h5>“Challenges are what make life interesting and overcoming them is what makes life meaningful.” ~&nbsp;Joshua J. Marine</h5>
+<blockquote>
+<h4>“Challenges are what make life interesting and overcoming them is what makes life meaningful.” ~&nbsp;Joshua J. Marine</h4>
+</blockquote>
 <p>After graduating from West Spring Secondary School, our alumni continue
 to do us proud with their achievements beyond the school.</p>
 <p><a href="/wsss-alumni/2017" rel="noopener noreferrer nofollow" target="_blank">2017</a> |
