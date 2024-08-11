@@ -2,10 +2,10 @@ collections:
   wsss-alumni:
     output: true
     order:
-      - 2023.md
       - 2017.md
       - 2018.md
       - 2019.md
       - 2020.md
       - 2022.md
+      - 2023.md
       - 2024.md
