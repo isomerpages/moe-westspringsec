@@ -20,5 +20,16 @@ variant: tiptap
 may use this form to update student/parent details with the school. However,
 you should still alert your child's/ward's form teacher that you have submitted
 an update.</p>
+<p></p>
+<p>Other Resources</p>
+<ol data-tight="true" class="tight">
+<li>
 <p><a href="https://file.go.gov.sg/parent-guide-genai.pdf" rel="noopener noreferrer nofollow" target="_blank">A Parent's Guide to Using Generative AI tools for Learning</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Parent_Kit___Raising_A_Digitally_Smart_Child.pdf" rel="noopener nofollow" target="_blank">Parent Kit - Raising A Digitally Smart Child</a>
+</p>
+</li>
+</ol>
+<p></p>
