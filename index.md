@@ -24,6 +24,11 @@ sections:
         - title: Open House 2024
           description: Check out what's in store!
           url: https://sites.google.com/moe.edu.sg/wssseinfo-site2024/home
+  - infobar:
+      title: Announcement
+      id: infobar
+      description: In conjunction with the Teachers' Day celebrations, please note
+        that our General Office will be closed on 29 August. Thank you.
   - infopic:
       title: Partners in Excellence
       subtitle: School Achievement
