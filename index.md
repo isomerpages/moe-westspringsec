@@ -28,7 +28,8 @@ sections:
       title: Announcement
       id: infobar
       description: In conjunction with the Teachers' Day celebrations, please note
-        that our General Office will be closed on 29 August. Thank you.
+        that our General Office will be closed from 11.15am onwards on Thursday,
+        29 Aug 2024. Thank you.
   - infopic:
       title: Partners in Excellence
       subtitle: School Achievement
