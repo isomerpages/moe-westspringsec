@@ -32,7 +32,8 @@ an update.</p>
 </p>
 </li>
 <li>
-<p>Meet the Parents Session (MTPS) on Friday, 25 October 2024</p>
+<p><a href="/meet-the-parents-session" rel="noopener nofollow" target="_blank">Meet the Parents Session (MTPS) on Friday, 25 October 2024</a>
+</p>
 </li>
 </ol>
 <p></p>
