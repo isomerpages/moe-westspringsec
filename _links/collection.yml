@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Meet the Parents Session.md
       - For Parents.md
       - For Students.md
       - For Teachers.md
