@@ -31,5 +31,9 @@ an update.</p>
 <p><a href="/files/Parent_Kit___Raising_A_Digitally_Smart_Child.pdf" rel="noopener nofollow" target="_blank">Parent Kit - Raising A Digitally Smart Child</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.westspringsec.moe.edu.sg/meet-the-parents-session/" rel="noopener nofollow" target="_blank">Meet the Parents Session (MTPS) on Friday, 25 October 2024</a>
+</p>
+</li>
 </ol>
 <p></p>
