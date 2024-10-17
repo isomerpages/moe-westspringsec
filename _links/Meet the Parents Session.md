@@ -9,11 +9,14 @@ description: ""
 <p>Term 4's Meet-The-Parents-Session will be conducted on Friday, 25 Oct
 2024, 8am-3pm.</p>
 <p>Please click on the links below to make an appointment with the teacher.</p>
-<p>If you do not know your child/ward’s Form Teacher and/or Subject Teachers,
-please check the list of Form Teachers and Subject Teachers here.</p>
-<p>1. Sec 1 List of Form Teachers and Subject Teachers</p>
-<p>2. Sec 2 List of Form Teachers and Subject Teachers</p>
-<p>3. Sec 3 List of Form Teachers and Subject Teachers</p>
+<p>If you need to confirm your child/ward’s Form Teacher or Subject Teachers,
+please check the list of Form Teachers and Subject Teachers below.</p>
+<p>1. <a href="/files/Annex_List_of_Sec_1_FT___Subject_Teachers_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 List of Form Teachers and Subject Teachers</a>
+</p>
+<p>2. <a href="/files/Annex_List_of_Sec_2_FT___Subject_Teachers_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 List of Form Teachers and Subject Teachers</a>
+</p>
+<p>3. <a href="/files/Annex_List_of_Sec_3_FT___Subject_Teachers_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 List of Form Teachers and Subject Teachers</a>
+</p>
 <p>If you are unable to book a timeslot, please contact the teacher at his/her
 email address to arrange an alternate date and time.</p>
 <p>Thank you!</p>
