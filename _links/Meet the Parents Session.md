@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 ---
 <p>Dear Parents/Guardians,</p>
-<p>Term 4's Meet-The-Parents-Session will be conducted on Friday, 25 Oct
-2024, 8am-3pm.</p>
-<p>Please click on the MTPS Booking forms links in the table below to make
-an appointment with the teacher.</p>
-<p>If you need to confirm your child/ward’s Form Teacher or Subject Teachers,
-please check the list of Form Teachers and Subject Teachers below.</p>
+<p>Term 4's (face-to-face) Meet-The-Parents-Session (MTPS) will be conducted
+on Friday, 25 Oct 2024, 8am-3pm, in our school.</p>
+<p>Please click on the<strong> MTPS Booking forms links</strong> in the table
+below to make an appointment to meet your child's/ward's teachers.</p>
+<p>If you need to confirm the names of the Form Teachers or Subject Teachers,
+please check from the 3 links given below.</p>
 <p>1. <a href="/files/Annex_List_of_Sec_1_FT___Subject_Teachers_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 List of Form Teachers and Subject Teachers</a>
 </p>
 <p>2. <a href="/files/Annex_List_of_Sec_2_FT___Subject_Teachers_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 List of Form Teachers and Subject Teachers</a>
