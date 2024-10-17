@@ -17,6 +17,9 @@ please check from the 3 links given below.</p>
 </p>
 <p>3. <a href="/files/Annex_List_of_Sec_3_FT___Subject_Teachers_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 List of Form Teachers and Subject Teachers</a>
 </p>
+<p></p>
+<p>Please note that some teachers may be away or may not be available at
+certain slots due to other school duties.</p>
 <p>If you are unable to book a timeslot, please contact the teacher at his/her
 email address to arrange an alternate date and time.</p>
 <p>Thank you! We look forward to meeting you!</p>
