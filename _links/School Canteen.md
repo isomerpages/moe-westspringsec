@@ -2,14 +2,15 @@
 title: School Canteen
 permalink: /links/school-canteen/
 description: ""
+variant: markdown
 ---
 **Canteen Stall Advertisement**
 
-West Spring Secondary School is inviting applicants to operate a food stall at our school canteen. The stall should preferably sell Chinese Noodle Dishes (e.g., Yong Tau Foo, Vegetarian Noodles, Dry / Soup Noodles, etc.).
+West Spring Secondary School is inviting applicants to operate a food stall at our school canteen. The stall must sell Malay Rice Dishes.
 
 **Background**
 
-We are a single session secondary school with student enrolment of  1100 and staff strength of 130. There are currently 6 food stalls and 1 drink/snack stall at our school.
+We are a single session secondary school with student enrolment of  1100 and staff strength of 120. There are currently 6 food stalls and 1 drink/snack stall at our school.
 
 
 **Interest applicants must meet the following criteria:**
@@ -28,7 +29,7 @@ We are a single session secondary school with student enrolment of  1100 and sta
 
 **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-*  [Application Form](/files/application%20form.pdf)
+*  [Application Form](/files/Application_for_Canteen_Stall_in_Existing_School.pdf)
 2. Attached the following documents together with the application form:
 *  Photocopy of the NRIC (front and back).
 *  List of proposed menu and pricing for all items.
@@ -39,8 +40,8 @@ We are a single session secondary school with student enrolment of  1100 and sta
 * Address: 61 Senja Road, Singapore 677737
 * Contact No: 6892 0369
 * Email: westspringss@moe.edu.sg
-* Contact Person: Mdm Lim Puay Lan or Mr Lerwin Nai
-* Closing date for Application: 31 Aug 2023, 12 noon.
+* Contact Person: Mr Bala or Mr Lerwin Nai
+* Closing date for Application: 1 November 2024, 12pm.
 * We regret that late applications will not be accepted.
 
 **Interview and Food Tasting**
