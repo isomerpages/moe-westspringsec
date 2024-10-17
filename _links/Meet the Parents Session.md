@@ -19,7 +19,7 @@ please check from the 3 links given below.</p>
 </p>
 <p>If you are unable to book a timeslot, please contact the teacher at his/her
 email address to arrange an alternate date and time.</p>
-<p>Thank you!</p>
+<p>Thank you! We look forward to meeting you!</p>
 <p></p>
 <table style="minWidth: 125px">
 <colgroup>
