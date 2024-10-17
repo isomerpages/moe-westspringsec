@@ -4,11 +4,11 @@ permalink: /meet-the-parents-session/
 variant: tiptap
 description: ""
 ---
-<h4>Our new page is in the works and will be live soon!</h4>
 <p>Dear Parents/Guardians,</p>
 <p>Term 4's Meet-The-Parents-Session will be conducted on Friday, 25 Oct
 2024, 8am-3pm.</p>
-<p>Please click on the links below to make an appointment with the teacher.</p>
+<p>Please click on the MTPS Booking forms links in the table below to make
+an appointment with the teacher.</p>
 <p>If you need to confirm your child/ward’s Form Teacher or Subject Teachers,
 please check the list of Form Teachers and Subject Teachers below.</p>
 <p>1. <a href="/files/Annex_List_of_Sec_1_FT___Subject_Teachers_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 List of Form Teachers and Subject Teachers</a>
