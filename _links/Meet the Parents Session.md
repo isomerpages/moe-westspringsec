@@ -7,8 +7,8 @@ description: ""
 <p>Dear Parents/Guardians,</p>
 <p>Term 4's (face-to-face) Meet-The-Parents-Session (MTPS) will be conducted
 on Friday, 25 Oct 2024, 8am-3pm, in our school.</p>
-<p>Please click on the<strong> MTPS Booking forms links</strong> in the table
-below to make an appointment to meet your child's/ward's teachers.</p>
+<p>Please click on the<strong> </strong>teachers' names in the table below
+to book an appointment to meet your child's/ward's teachers.</p>
 <p>If you need to confirm the names of the Form Teachers or Subject Teachers,
 please check from the 3 links given below.</p>
 <p>1. <a href="/files/Annex_List_of_Sec_1_FT___Subject_Teachers_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 List of Form Teachers and Subject Teachers</a>
