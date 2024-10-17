@@ -234,8 +234,8 @@ email address to arrange an alternate date and time.</p>
 <p>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/forms/oZ0Nbk" class="in-cell-link" rel="noopener noreferrer nofollow" target="_blank"><u>Ms Victoria Chong</u></a>
-</p>
+<p>Ms Victoria Chong</p>
+<p>(Not available. Please email teacher.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.moe.edu.sg/forms/ePO7EN" rel="noopener noreferrer nofollow" target="_blank">chong_soon_fei@moe.edu.sg</a>
@@ -1018,8 +1018,8 @@ email address to arrange an alternate date and time.</p>
 <p>HOD English Language &amp; Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.moe.edu.sg/forms/eQpz76" class="in-cell-link" rel="noopener noreferrer nofollow" target="_blank"><u>Mdm Nora Shahriya</u></a>
-</p>
+<p>Mdm Nora Shahriya
+<br>(Teacher is not available. Please email teacher.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.moe.edu.sg/forms/ePO7EN" rel="noopener noreferrer nofollow" target="_blank">nora_shahriya@moe.edu.sg</a>
