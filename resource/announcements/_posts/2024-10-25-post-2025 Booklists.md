@@ -7,7 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear Parents/Guardians</p>
+<p>Dear Parents/Guardians,</p>
+<p></p>
 <p><strong>(a) Purchase of books for 2025.</strong>
 </p>
 <p>Our vendor is Asencio Pte Ltd | <a href="http://www.asenciobookshop.sg" rel="noopener noreferrer nofollow" target="_blank">www.asenciobookshop.sg</a>
@@ -23,7 +24,11 @@ on weekdays from 8am to 3pm.</p>
 will be taking in 2025.</p>
 </li>
 <li>
-<p>For enquiries, please email to <a href="mailto:westspring@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">westspring@asencio.com.sg</a> 
+<p>Sec 2 students must wait until Sec 3 placement confirmation before purchasing
+your new materials for 2025.</p>
+</li>
+<li>
+<p>For enquiries, please email to <a href="mailto:westspring@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">westspring@asencio.com.sg</a>
 </p>
 </li>
 <li>
