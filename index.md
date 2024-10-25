@@ -21,15 +21,9 @@ sections:
         - title: WSSS Instagram
           description: Our school highlights!
           url: https://www.instagram.com/westspringsec/
-        - title: Open House 2024
-          description: Check out what's in store!
+        - title: E-Open House 2024
+          description: Day of PSLE results 2024
           url: https://sites.google.com/moe.edu.sg/wssseinfo-site2024/home
-  - infobar:
-      title: Announcement
-      id: infobar
-      description: In conjunction with the Teachers' Day celebrations, please note
-        that our General Office will be closed from 11.15am onwards on Thursday,
-        29 Aug 2024. Thank you.
   - infopic:
       title: Partners in Excellence
       subtitle: School Achievement
@@ -58,4 +52,16 @@ sections:
       image: /images/Website_2024_photo_collage.png
   - resources:
       subtitle: Announcements
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: No Open House
+          date: 25 October 2024
+          announcement: Please note that WSSS will not be having a physical open house at
+            year-end. If you'd like to find out more about our school, please
+            visit the school website or our dedicated site for P6 students.
+          link_text: ""
+          link_url: ""
 ---
