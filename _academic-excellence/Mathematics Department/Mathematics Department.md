@@ -3,10 +3,30 @@ title: Mathematics Department
 permalink: /academic-excellence/mathematics-department/
 description: ""
 third_nav_title: Mathematics Department
-variant: markdown
+variant: tiptap
 ---
-**Questioning Technique**
-
-The Mathematics department’s pedagogical focus is the use of Questioning Techniques. Questioning has a crucial role in the process of learning as it stimulates and maintains interest and encourages our students to think and focus on the content. Through planned questioning, we steer our students’ thinking along a particular route to stimulate learning, to aid recall, and to challenge.
-
-In May 2023, our students took part in the 2023 Singapore Mathematical Olympiad (SMO) Junior and Senior category, and we are proud to announce that we achieved 1 Bronze Award and 3 Honourable Mentions in the Junior Category and 1 Silver Award and 1 Honourable Mention in the Senior Category!
+<p><strong>Key Programmes</strong>
+</p>
+<p>This year, the Mathematics department continued its emphasis on developing
+critical thinking through innovative questioning techniques and targeted
+training. We focused on preparing selected Secondary 1 and 2 students for
+the Singapore Mathematical Olympiad, where customised resources and training
+sessions were provided. We are proud that three of our students - Wong
+Zi Xian (2A), Ma Weizheng (2D), and Gwee Song Yan (1A) - earned Honourable
+Mentions in the Junior Category.</p>
+<p><strong>Professional Learning Team Projects</strong>
+</p>
+<p>Our commitment to enhancing pedagogical practices was demonstrated through
+three Professional Learning Team (PLT) projects. The “<em>Computational Thinking</em>”
+project guided students in breaking down complex math problems into manageable
+steps, using binary responses to create flowcharts that can be translated
+into Python code. Our “<em>What Type of Average?</em>” project leveraged
+Google Sheets and Variation Theory to explore averages, helping teachers
+assess student understanding through formative assessments. Lastly, “<em>Desmos Dynamics</em>”
+focused on harnessing Personal Learning Devices (PLDs) to integrate Desmos
+into lessons, making learning interactive and personalised.&nbsp;</p>
+<p>Through these initiatives, the Mathematics Department continues to foster
+a dynamic and engaging learning environment for our students.</p>
+<p>
+<br>
+</p>
