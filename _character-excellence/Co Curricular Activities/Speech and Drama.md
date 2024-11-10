@@ -3,12 +3,17 @@ title: Speech and Drama
 permalink: /character-excellence/co-curricular-activities/speech-and-drama/
 description: ""
 third_nav_title: Co Curricular Activities
-variant: markdown
+variant: tiptap
 ---
-Students learn a variety of skills throughout the year. Some of these skills include voice projection, prop making, scriptwriting and storytelling using podcasts. 
-
-Students also took part in the Singapore Youth Festival competition and had obtained the Certificate of Accomplishment. They had taken up distinct roles in the competition such as actors, costume designers, stage managers, backstage crew and prop makers.  
-
-At the school level, students had performed in school events such as Chinese New Year and Teachers’ Day, where students worked with one another closely to create a lively and engaging performance. 
-  
-To better appreciate the development of the arts scene in Singapore, students had also attended a performance, ‘Snow White & the Seven Dwarfs’.
+<p>The Speech and Drama Club is a dynamic platform where students cultivate
+a wide range of essential skills for theatrical performances. Key highlights
+include student-led productions that showcase both on-stage talent and
+behind-the-scenes expertise in sound production, props, and costume design.
+Members gain invaluable public speaking experience by emceeing major events
+such as the SEA Ceremony and the school open house, where they also present
+vibrant stage productions for various celebrations like Chinese New Year.
+Internal competitions in improvisation further encourage skill development,
+providing a supportive environment for students to shine. These experiences
+not only build confidence and performance skills but also foster a strong
+sense of community and collaboration, deepening students’ appreciation
+for the performing arts.</p>
