@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Humanities Department
 ---
-<p><strong><u>Historical Investigation (HI)</u> </strong>
+<p><strong><u>Historical Investigation (HI)</u></strong>
 </p>
 <p>Our lower secondary students had opportunities to appreciate the real-world
 application of historical knowledge and skills while helping them to acquire
@@ -18,7 +18,7 @@ the Chinatown Historic District as they discovered the multi-ethnic nature
 of this place. They also learnt more about the clans that are still around
 in Singapore as they had the opportunity to visit the Phoon Yue Clan Association
 as part of this learning journey.</p>
-<p><strong><u>Geographical Investigation (GI)</u> </strong>
+<p><strong><u>Geographical Investigation (GI)</u></strong>
 </p>
 <p>The GI fieldwork experience spurred our lower secondary students to go
 beyond the classroom to actively look for and gather data to address questions
