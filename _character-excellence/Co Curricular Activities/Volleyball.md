@@ -5,8 +5,16 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-The Volleyball team had participated in an external competition organised by JRT academy in June. 
-
-Our Secondary 2 Boys had emerged as the 1st Runner up in the competition.
-
-The team had also organised friendly matches with other schools from the various zones and represented our school in both the ‘B’ division and ‘C’ Division West Zone competitions.
+<ul>
+<li>
+<p>Participated in West Zone Volleyball ‘B’ Division 2024 competition</p>
+</li>
+<li>
+<p>Participated in Mini inter-school Volleyball competition organised by
+Chung Cheng High (Main) with 5 other schools</p>
+</li>
+<li>
+<p>Participated in National Volleyball ‘C’ Division 2024 competition</p>
+</li>
+</ul>
+<p></p>
