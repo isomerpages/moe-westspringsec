@@ -3,10 +3,20 @@ title: Student Council
 permalink: /character-excellence/co-curricular-activities/student-council/
 description: ""
 third_nav_title: Co Curricular Activities
-variant: markdown
+variant: tiptap
 ---
-This year, the student councillors had organised and ran a 4-day Secondary 1 Orientation programme at the start of the year. It was the first time that they ran the entire programme on their own.
-
-SpringFest also made its return this year. In conjunction with Teachers’ Day, the student councillors had planned a fun and meaningful carnival for everyone, from staff to students and even alumni, to participate.
-
-The student councillors also had a camp during the June holidays. It was the first time since the pandemic that they were able to experience a residential camp. It was an opportunity for the current batch of secondary two and three student councillors to get to know one another better and work together as one student council.
+<p>The Student Council at West Spring Secondary School operates under the
+TLC leadership model—Take Charge, Lead by Example, and Communicate Effectively—adapted
+from Kouzes and Posner's "The Leadership Challenge." This structure empowers
+students to step up, set positive examples, and maintain clear communication
+within the council and the wider school community.</p>
+<p>Council members give back to the school by organising events such as the
+EAS Appreciation Lunch to honour non-teaching staff and Teacher’s Day celebrations.
+They also play a crucial role in the Sec 1 Orientation, ensuring new students
+feel welcomed and integrated into school life.</p>
+<p>Additionally, the council embarks on impactful projects like planning
+the Student Leadership Academy, a three-day training programme that inducts
+top student leaders into the school’s leadership body. Through these initiatives,
+the Student Council exemplifies the core values of service, teamwork, and
+leadership, contributing significantly to the vibrant school culture at
+West Spring.</p>

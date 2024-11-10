@@ -3,24 +3,65 @@ title: National Cadet Corps (Land)
 permalink: /character-excellence/co-curricular-activities/ncc/
 description: ""
 third_nav_title: Co Curricular Activities
-variant: markdown
+variant: tiptap
 ---
-**Camp Forge for Junior Cadets (Secondary 1)**
-
-The main objectives of Camp FORGE are to instil core values and self-discipline as well as to build the character and confidence of our Junior Cadets.
-
-The acronym FORGE stands for Fun with friendship, Orientation with outdoor activities, Responsibility and resilience building, Grouping of the cadets from different units and Experiential learning.
-
-**Camp Steel for Senior Cadets (Secondary 2)**
-
- The main objectives of Camp STEEL are to develop the character of NCC Senior Cadets and prepare them to become responsible and confident leaders.
-
-  
-
-**NCC SPORTS CHAMPIONSHIP**
-
-NCC Sports Championship has been introduced to encourage NCC cadets to build up their physical fitness and to allow cadets to represent their school unit in competitions. These friendly competitions will allow cadets to discover their strengths and build positive connections with their teammates. Cadets will also get to strengthen their social emotional competencies through these sports.
-
-**Trekking to Singapore Quarry**
-
-Cadets build their resilience and fitness through trekking.
+<p><strong>Key Programmes</strong>
+</p>
+<ul>
+<li>
+<p>NCC Affirmation Ceremony for Junior Cadets</p>
+</li>
+<li>
+<p>Camp Forge for Junior Cadets, Camp Steel for Senior Cadets and Senior
+Specialist Leaders Course (SSLC) Camp for Cadet Leaders.</p>
+</li>
+<li>
+<p>Shooting Experience for Cadet Leaders (SAR 21 Familiarisation)</p>
+</li>
+<li>
+<p>Army Camp Visit to Kranji Camp.</p>
+</li>
+<li>
+<p>Laser Run&nbsp;</p>
+</li>
+<li>
+<p>Sports Championship. Junior Cadets qualified to the grand final to compete
+against units from other districts.</p>
+</li>
+<li>
+<p>Bukit Timah Hill Trekking</p>
+</li>
+<li>
+<p>National Camp (One representative)</p>
+</li>
+<li>
+<p>CPR-AED certification for Cadet Leaders</p>
+</li>
+<li>
+<p>Specialist Assessment&nbsp;</p>
+</li>
+<li>
+<p>Total Defence, VIA (Beach Cleaning)&nbsp;</p>
+</li>
+<li>
+<p>School National Day Parade</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Unit Achievement</strong>
+</p>
+<ul>
+<li>
+<p>Unit Recognition (UR): Attained Distinction for 2023</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Individual Achievement</strong>
+</p>
+<ul>
+<li>
+<p>Chua Zong Shao Asher (4C/2024) was awarded the Outstanding Cadet Award
+(OCA) 2024</p>
+</li>
+</ul>
+<p></p>

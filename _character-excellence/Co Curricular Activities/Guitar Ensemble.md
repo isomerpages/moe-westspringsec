@@ -3,21 +3,31 @@ title: Guitar Ensemble
 permalink: /character-excellence/co-curricular-activities/guitar/
 description: ""
 third_nav_title: Co Curricular Activities
-variant: markdown
+variant: tiptap
 ---
-**CCA Programmes**
-
-*   Weekly Practice on Friday from 1430 to 1730. 
-    
-*   Took Part in the annual Secondary One Orientation Programme.
-    
-*   Performed for the school during the post SYF showcase.
-    
-*   Singapore Youth Festival Art Presentation (SYF) for Guitar Ensemble on 12th April 2023.
-    
-
-  
-
-**CCA Highlights**
-
-*   Awarded the Certificate of Accomplishment for the Singapore Youth Festival Arts Presentation For Guitar Ensemble in 2023.
+<p><strong>Key Programmes</strong>
+</p>
+<p>The CCA aims to instil in students’ passion and interest in guitar music
+and different genres of music related to the instrument.</p>
+<p>In the midst of learning , students build character, instil positive values
+and learn about teamwork and discipline.&nbsp;</p>
+<p><strong>CCA Highlights</strong>
+</p>
+<ul>
+<li>
+<p>School Secondary 1 Orientation Showcase</p>
+</li>
+<li>
+<p>Chinese New Year Celebration Performance&nbsp;</p>
+</li>
+<li>
+<p>School Open House 2024</p>
+</li>
+<li>
+<p>2024 Handover Ceremony.</p>
+</li>
+<li>
+<p>SYF 2025 preparation</p>
+</li>
+</ul>
+<p></p>
