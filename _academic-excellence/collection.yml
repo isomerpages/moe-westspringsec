@@ -2,7 +2,6 @@ collections:
   academic-excellence:
     output: true
     order:
-      - Mathematics Department.md
       - Applied Learning Programme.md
       - Academic Departments.md
       - Computer Applications Department.md
@@ -16,6 +15,7 @@ collections:
       - Humanities Department/Elements of Business Skills Unit.md
       - Humanities Department/Geography, History and Social Studies.md
       - Humanities Department/Principles of Accounts Unit.md
+      - Mathematics Department.md
       - Mother Tongue (Chinese) Department.md
       - Mother Tongue (Malay) Department.md
       - Physical Education Department.md
