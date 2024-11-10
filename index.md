@@ -21,8 +21,8 @@ sections:
         - title: WSSS Instagram
           description: Our school highlights!
           url: https://www.instagram.com/westspringsec/
-        - title: E-Open House 2024
-          description: Day of PSLE results 2024
+        - title: P6 PSLE Microsite
+          description: Find out more! (from 15 Nov)
           url: https://sites.google.com/moe.edu.sg/wssseinfo-site2024/home
   - announcements:
       title: Announcements
