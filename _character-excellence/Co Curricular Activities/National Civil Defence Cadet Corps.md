@@ -3,23 +3,52 @@ title: National Civil Defence Cadet Corps
 permalink: /character-excellence/co-curricular-activities/ncdcc/
 description: ""
 third_nav_title: Co Curricular Activities
-variant: markdown
+variant: tiptap
 ---
-**Key Programmes**
-
-National Civil Defence Cadet Corps (NCDCC) is a National Uniformed Group under the purview of the Ministry of Education, the Ministry of Home Affairs, and the Singapore Civil Defence Force. West Spring NCDCC believes in developing and empowering our cadets to be equipped with life saving skills to respond effectively to emergencies. In 2023, in addition to equipping our cadets with essential life-saving skills, NCDCC cadets were involved in key programmes to showcase their resilience and tenacity in honing their footdrill skills. Cadets also had the opportunity to reach out and serve the Bukit Panjang residents through a VIA programme organised by West Spring National Police Cadet Corps (NPCC) to raise awareness on water conservation efforts. 
-
-  
-
-**CCA Highlights**
-
-*   2023 Precision Drill Challenge organised by NCDCC HQ (February 2023)
-    
-*   NCDCC Unit Day Camp (March 2023)
-    
-*   NCDCC Observance Ceremony (April 2023)
-    
-*   Uniformed Group combined VIA (May 2023)
-    
-*   2023 National Day Programme  (August 2023)
-    
+<p><strong>Key Programmes</strong>
+</p>
+<ul>
+<li>
+<p>NCDCC Affirmation Day</p>
+</li>
+<li>
+<p>National Day Parade</p>
+</li>
+<li>
+<p>Urban Adventure Civil Defence Challenge (UACDC)</p>
+</li>
+<li>
+<p><a href="https://www.sana.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Anti-Narcotics Association</a> (SANA)
+Programme</p>
+</li>
+<li>
+<p>Specialisation Course (Fire Safety, Medical Response, Urban Search and
+Rescue, Marine Fire and Rescue)</p>
+</li>
+<li>
+<p>Precision Drill Challenge (PDC)</p>
+</li>
+<li>
+<p>Unit Drill Instructor Course (UDI)</p>
+</li>
+<li>
+<p>NCDCC Service Month</p>
+</li>
+<li>
+<p>SCDF Parade</p>
+</li>
+<li>
+<p>National Camp</p>
+</li>
+<li>
+<p>Unit Overall Proficiency Achievement (UOPA) Distinction for 2023</p>
+</li>
+<li>
+<p>Foong Rui Tong Xandra and Izzan Syahmi Bin Muhammad Bahauddin were awarded
+the SCDF-NCDCC Pinnacle Award, in recognition of their exceptional leadership
+qualities and extensive contributions to West Spring and HQ NCDCC at the
+national level, the highest accolade that a cadet may receive in the uniform
+group.</p>
+</li>
+</ul>
+<p></p>
