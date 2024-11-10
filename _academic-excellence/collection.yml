@@ -2,6 +2,7 @@ collections:
   academic-excellence:
     output: true
     order:
+      - Mathematics Department.md
       - Applied Learning Programme.md
       - Academic Departments.md
       - Computer Applications Department.md
