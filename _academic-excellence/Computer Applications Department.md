@@ -2,25 +2,23 @@
 title: Computer Applications Department
 permalink: /academic-excellence/computer-applications-department/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-Through our CPA curriculum, students have explored diverse software applications, grasped essential programming concepts, and gained awareness of ethical, legal, and security issues related to computers.
-
-The syllabus focuses on four main goals:
-
-* Skill Development: Students honed their proficiency in using computer applications and hardware to accomplish tasks and communicate ideas effectively.
-* Ethical and Legal Understanding: Emphasis was placed on the importance of ethical, legal, and security considerations in the use of computers and ICT within society.   
-
-* Recognising ICT's Impact: Students acknowledged the significant influence of ICT on society and individuals and became well-equipped to navigate the digital landscape responsibly.
-
-* Problem-Solving Abilities: Alongside technical knowledge, students developed fundamental computational thinking and problem-solving skills to tackle future challenges.
-
-Congratulations to all the students for their dedication and hard work! With these essential skills and knowledge, they are prepared to make a positive impact in a rapidly evolving world. May their futures be filled with success and fulfillment!
-
-**Highlights**:
-
-Secondary 2 Animation Category:
-*   Chu Xi En Chloe (2G/2023) (Platinum Award)
-    
-Secondary 3 Game Category:
-*   Dannon Wee Wen Xiong (3C/2023) (Gold Award)
+<p>Our Computer Applications (CPA) curriculum provides students with fundamental
+skills for the digital age. They have learnt how to use tools such as Microsoft
+Office, Inkscape, and Openshot, as well as basic programming with Scratch.
+Along with these technological skills, students have gained an understanding
+of ethical, legal, and security concerns in technology.</p>
+<p>Secondary 4 students travelled to the Kim Chuan train terminal on March
+28, 2024, to examine train maintenance procedures, investigate technology
+advancements and speak with depot employees. This tour enhanced their knowledge
+of urban infrastructure and piqued their interest in sustainable mobility.</p>
+<p>We are also pleased to recognise our students' accomplishments at the
+National Animation and Game Making (AGM) Competition 2024. Jonas Poh from
+3B received a silver award for his game promotion.</p>
+<p><strong>Highlights</strong>:</p>
+<p>Secondary 3 Game Category:</p>
+<p>• POH PIN NGI, JONAS (3B/2024) (Silver Award)</p>
+<p>
+<br>
+</p>
