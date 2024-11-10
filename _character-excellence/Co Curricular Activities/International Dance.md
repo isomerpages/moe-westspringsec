@@ -26,7 +26,7 @@ compose creative and expressive statements through the art of performance.</p>
 <p>SYF Extravaganza (Performed at the Gardens by the Bay)</p>
 </li>
 <li>
-<p>Sea Ceremony 2024</p>
+<p>SEA Ceremony 2024</p>
 </li>
 <li>
 <p>School Open House 2024</p>
