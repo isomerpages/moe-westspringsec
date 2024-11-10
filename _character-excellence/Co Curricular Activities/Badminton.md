@@ -3,18 +3,43 @@ title: Badminton
 permalink: /character-excellence/co-curricular-activities/badminton/
 description: ""
 third_nav_title: Co Curricular Activities
-variant: markdown
+variant: tiptap
 ---
-**Key Programmes**
-
-*   Weekly training sessions
-    
-*   Participation in National Schools Games (NSG) in Term 1 for ‘B’ Division and in term 2 for ‘C’ Division
-    
-*   Farewell Ceremony for Sec 4 & 5 seniors
-    
-*   Team bonding as the year-end activity
-    
-*   Participation in friendly matches with other schools
-    
-*   Opportunities to play in external competitions
+<p><strong>Key Programmes</strong>
+</p>
+<ul>
+<li>
+<p>Weekly training sessions</p>
+</li>
+<li>
+<p>CCA Open House</p>
+</li>
+<li>
+<p>Participation in National Schools Games (NSG)</p>
+</li>
+<li>
+<p>Farewell for Sec 4 &amp; 5 Seniors</p>
+</li>
+<li>
+<p>Friendly matches with other schools</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Highlights</strong>
+</p>
+<ul>
+<li>
+<p>‘C’ Division Boys earned 2nd place in NSG 2024 (League 2)&nbsp;</p>
+</li>
+<li>
+<p>‘B’ Division Boys and Girls played in quarter-finals for NSG 2024</p>
+</li>
+<li>
+<p>Involvement of students to support WSSS sports programmes such as the
+inter-class games.&nbsp;</p>
+</li>
+<li>
+<p>CCA leaders went through training programmes under Student Leadership</p>
+</li>
+</ul>
+<p></p>
