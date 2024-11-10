@@ -29,12 +29,6 @@ this programme, we hope that students will be able to bond better with
 their friends!&nbsp;</p>
 <p><strong>2024 Chinese Language Unit Highlights</strong>
 </p>
-<ol>
-<li>
 <p>Participated in Create Your Own Newspaper Competition (编采比赛) (Sec 3 HCL)&nbsp;</p>
-</li>
-<li>
 <p>Participated in the Young Reporter News Challenge. (Sec 2 HCL)</p>
-</li>
-</ol>
 <p></p>
