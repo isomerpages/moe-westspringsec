@@ -36,7 +36,7 @@ was enjoyed by both teachers and students.</p>
 </p>
 <p>This was organised by PESTA for teachers to share their best practices
 at a national level. Our teachers shared our PLT project ‘Fun Fit with
-Bingo” and DI in PE. The sharing received good feedback and raving reviews
+Bingo' and DI in PE. The sharing received good feedback and raving reviews
 from participants. As part of our belief in growing and developing teachers,
 we will be sharing at other national platforms in 2025.</p>
 <p>
