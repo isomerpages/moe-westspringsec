@@ -40,6 +40,10 @@ Rescue, Marine Fire and Rescue)</p>
 <li>
 <p>National Camp</p>
 </li>
+</ul>
+<p><strong>Highlights</strong>
+</p>
+<ul>
 <li>
 <p>Unit Overall Proficiency Achievement (UOPA) Distinction for 2023</p>
 </li>
