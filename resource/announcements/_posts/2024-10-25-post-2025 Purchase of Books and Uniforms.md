@@ -72,5 +72,5 @@ it only when the price is released in early January.</p>
 <p>Our appointed vendor for School Uniforms (including PE Attire): IN-TREND
 UNIFORMS (<a href="http://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a>).
 Please click the link below for further details. Thank you.</p>
-<p><a href="/files/Information_for_Sale_of_Uniforms_2024_WSSS_1.pdf" rel="noopener nofollow" target="_blank">Information for Sale of Uniforms for WSSS</a>
+<p><a href="/files/Information_for_Sale_of_Uniforms_2024_WSSS_1.pdf" rel="noopener nofollow" target="_blank">Information for Sale of Uniforms for WSSS_1</a>
 </p>
