@@ -67,7 +67,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>B Division Boys (Air Pistol)</p>
-<p>Goh Jek Boon (Sec 3C)</p>
+<p>1st Runner up - Goh Jek Boon (Sec 3C)</p>
 </td>
 </tr>
 <tr>
@@ -101,17 +101,36 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>National Youth Tech Championships (4<sup>th</sup>)</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Joel Lo (Sec 3A)</p>
+</li>
+<li>
 <p>Ong Ze Kai (Sec 3A)</p>
+</li>
+<li>
 <p>Lim Yu Le (Sec 3C)</p>
+</li>
+<li>
 <p>Yau Yu Hang (Sec 3C)</p>
+</li>
+<li>
 <p>Lau Yibin (Sec 3E)</p>
 <p></p>
-<p></p>
+</li>
+</ul>
 <p>Schools Digital Media Awards (Viewer's Choice)</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Stephanie Fan (Sec 4C)</p>
+</li>
+<li>
 <p>Shen Yining (Sec 4F)</p>
+</li>
+<li>
 <p>Low Jia Yi (Sec 4A)</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
