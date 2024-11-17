@@ -16,13 +16,13 @@ sections:
       size: sm
       key_highlights:
         - title: Our school Vision, Mission and Values
-          description: Find out more about us!
+          description: Our Purpose and Principles
           url: https://www.westspringsec.moe.edu.sg/about-us/school-vision-mission-values/
         - title: WSSS Instagram
-          description: Our school highlights!
+          description: What makes us tick
           url: https://www.instagram.com/westspringsec/
         - title: P6 PSLE Microsite
-          description: Find out more! (from 15 Nov)
+          description: Be one of us
           url: https://sites.google.com/moe.edu.sg/wssseinfo-site2024/home
   - announcements:
       title: Announcements
@@ -35,6 +35,15 @@ sections:
             visit the school website or our dedicated site for P6 students.
           link_text: ""
           link_url: ""
+  - infopic:
+      title: Sustainable Practices
+      subtitle: School Achievement
+      id: infopic
+      description: West Spring Secondary School was awarded the Yellow Flame Award for
+        our sustainability efforts. We also received the Best 3R Award for ActS,
+        our ALP/PW.
+      button: Button Text
+      alt: Image alt text
   - infopic:
       title: Partners in Excellence
       subtitle: School Achievement
