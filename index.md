@@ -43,7 +43,7 @@ sections:
         our sustainability efforts. We also received the Best 3R Award for ActS,
         our ALP/PW.
       alt: Image alt text
-      image: /images/Yellow_Flame_Award_768x274.png
+      image: /images/WhatsApp_Image_2024_11_06_at_16_14_03.jpg
   - infopic:
       title: Partners in Excellence
       subtitle: School Achievement
