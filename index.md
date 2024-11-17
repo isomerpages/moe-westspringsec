@@ -36,7 +36,7 @@ sections:
           link_text: ""
           link_url: ""
   - infopic:
-      title: Sustainable Practices
+      title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
       id: infopic
       description: West Spring Secondary School was awarded the Yellow Flame Award for
