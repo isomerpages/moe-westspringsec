@@ -42,8 +42,8 @@ sections:
       description: West Spring Secondary School was awarded the Yellow Flame Award for
         our sustainability efforts. We also received the Best 3R Award for ActS,
         our ALP/PW.
-      button: Button Text
       alt: Image alt text
+      image: /images/Yellow_Flame_Award_768x274.png
   - infopic:
       title: Partners in Excellence
       subtitle: School Achievement
