@@ -67,7 +67,7 @@ it only when the price is released in early January.</p>
 <p></p>
 <p><strong>(b) Purchase of school uniforms</strong>
 </p>
-<p>Our vendor is IN-TREND UNIFORMS | <a href="http://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a> 
+<p>Our vendor is IN-TREND UNIFORMS | <a href="http://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a>
 </p>
 <p>You can opt to purchase school uniform</p>
 <p>1) Online (<a href="http://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a>)
@@ -86,7 +86,7 @@ it only when the price is released in early January.</p>
 <p>19, 20, 23, 26, 27 and 30 Dec from 9am to 3pm. (2025 Sec 2 to Sec 4 students)</p>
 </li>
 <li>
-<p>For students under FAS: 2 to 6 Dec, from 9am to 3pm (Please produce the
+<p>For students under FAS: 2 to 6 Dec, from 9am to 3pm. (Please produce the
 school FAS voucher upon your collection).</p>
 <p></p>
 </li>
