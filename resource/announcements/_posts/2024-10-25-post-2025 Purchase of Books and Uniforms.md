@@ -26,9 +26,7 @@ variant: tiptap
 <li>
 <p>For students under FAS, you are encouraged to collect your books from
 our school bookshop between 2 to 6 Dec, from 9am to 3pm.</p>
-</li>
-<li>
-<p>On</p>
+<p></p>
 </li>
 </ul>
 <p>Please refer to the correct links below for the booklists.</p>
@@ -69,8 +67,30 @@ it only when the price is released in early January.</p>
 <p></p>
 <p><strong>(b) Purchase of school uniforms</strong>
 </p>
-<p>Our appointed vendor for School Uniforms (including PE Attire): IN-TREND
-UNIFORMS (<a href="http://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a>).
-Please click the link below for further details. Thank you.</p>
+<p>Our vendor is IN-TREND UNIFORMS | <a href="http://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a> 
+</p>
+<p>You can opt to purchase school uniform</p>
+<p>1) Online (<a href="http://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank">www.intrenduniforms.com</a>)
+/ email (<a href="mailto:sales@itu.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@itu.com.sg</a>)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>18 Nov to 30 Nov</p>
+</li>
+</ul>
+<p>2) Onsite sale in school on weekdays, between</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>9 Dec to 13 Dec from 9am to 3pm. (2025 Sec 2 to Sec 4 students)</p>
+</li>
+<li>
+<p>19, 20, 23, 26, 27 and 30 Dec from 9am to 3pm. (2025 Sec 2 to Sec 4 students)</p>
+</li>
+<li>
+<p>For students under FAS: 2 to 6 Dec, from 9am to 3pm (Please produce the
+school FAS voucher upon your collection).</p>
+<p></p>
+</li>
+</ul>
+<p>Please click the link below for further details. Thank you.</p>
 <p><a href="/files/Information_for_Sale_of_Uniforms_2024_WSSS_1.pdf" rel="noopener nofollow" target="_blank">Information for Sale of Uniforms for WSSS_1</a>
 </p>
