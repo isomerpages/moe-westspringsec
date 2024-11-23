@@ -35,6 +35,14 @@ sections:
             visit the school website or our dedicated site for P6 students.
           link_text: ""
           link_url: ""
+        - title: SLS Downtime
+          date: 23 November 2024
+          announcement: To better meet user needs, the Singapore Student Learning Space
+            (SLS) will be temporarily unavailable during a system upgrade from
+            28 November 2024 (Thursday) until the evening of 29 November 2024
+            (Friday). Thank you for your understanding as we enhance the system.
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
