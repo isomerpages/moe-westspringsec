@@ -16,25 +16,15 @@ sections:
       size: sm
       key_highlights:
         - title: Our school Vision, Mission and Values
-          description: Our Purpose and Principles
+          description: ""
           url: https://www.westspringsec.moe.edu.sg/about-us/school-vision-mission-values/
         - title: WSSS Instagram
-          description: What makes us tick
+          description: ""
           url: https://www.instagram.com/westspringsec/
-        - title: P6 PSLE Microsite
-          description: Be one of us
-          url: https://sites.google.com/moe.edu.sg/wssseinfo-site2024/home
   - announcements:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: No Open House
-          date: 25 October 2024
-          announcement: Please note that WSSS will not be having a physical open house at
-            year-end. If you'd like to find out more about our school, please
-            visit the school website or our dedicated site for P6 students.
-          link_text: ""
-          link_url: ""
         - title: SLS Downtime
           date: 23 November 2024
           announcement: To better meet user needs, the Singapore Student Learning Space
