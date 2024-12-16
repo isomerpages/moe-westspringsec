@@ -34,6 +34,14 @@ sections:
             collection.  Thank you.
           link_text: ""
           link_url: ""
+        - title: 2025 Secondary 1
+          date: 16 December 2024
+          announcement: The West Spring community warmly welcomes you!  Please click the
+            link below to access important information for all Sec 1 students
+            posted to West Spring Secondary School and to complete the online
+            registration process. Thank you!
+          link_text: Click here
+          link_url: https://www.westspringsec.moe.edu.sg/2025-secondary-1-registration/
   - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
