@@ -13,6 +13,8 @@ variant: tiptap
 of choice. You are entering into a new and exciting phase of school life.
 At West Spring Secondary, your child/ward can look forward to a fruitful
 and enriching learning experience ahead!</p>
+<p><a href="/files/West_Spring_Secondary_School_2025_Sec_1_Registration_Information.pdf" rel="noopener noreferrer nofollow" target="_blank">[Click here for a downloadable version of this page]</a>
+</p>
 <p></p>
 <p><strong>OUR VISION, MISSION, MOTTO &amp; CORE VALUES</strong>
 </p>
@@ -327,7 +329,7 @@ School PE Attire</p>
 </p>
 <p>Please refer to the Orientation Programme on the <strong>3<sup>rd</sup> , 6<sup>th</sup> and 9<sup>th</sup> January 2025</strong>.
 More details will be made available nearer the date.
-<br> <a href="https://www.canva.com/design/DAGXHzDTtc8/Zj4bEhXxw5SWbbWNIsLTxA/view?utm_content=DAGXHzDTtc8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor" rel="noopener noreferrer nofollow" target="_blank"><u>2025 Orientation Booklet</u></a>
+<br><a href="https://www.canva.com/design/DAGXHzDTtc8/Zj4bEhXxw5SWbbWNIsLTxA/view?utm_content=DAGXHzDTtc8&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=editor" rel="noopener noreferrer nofollow" target="_blank"><u>2025 Orientation Booklet</u></a>
 </p>
 <p></p>
 <p></p>
@@ -452,6 +454,9 @@ safety at all times. Please see the maps below for more information.</p>
 <p><strong>For any concerns, please email our school at </strong><a href="https://www.westspringsec.moe.edu.sg/getting-here/westspringss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>westspringss@moe.edu.sg</u></a><strong>.and cc to the Secondary One Assistant Year Head, Ms Tong Hui Min at</strong> 
 <a href="https://www.westspringsec.moe.edu.sg/getting-here/westspringss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tong_hui_min@moe.edu.sg.</u>
 </a>
+</p>
+<p></p>
+<p><a href="/files/West_Spring_Secondary_School_2025_Sec_1_Registration_Information.pdf" rel="noopener noreferrer nofollow" target="_blank">[Click here for a downloadable version of this page]</a>
 </p>
 <h4>Thank you!</h4>
 <p>
