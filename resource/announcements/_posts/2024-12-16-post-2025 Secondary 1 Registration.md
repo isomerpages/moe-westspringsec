@@ -155,7 +155,7 @@ in school).</p>
 <td rowspan="1" colspan="1">
 <p><strong>Asencio Pte Ltd</strong>
 </p>
-<p><strong>Website: <a href="https://www.intrenduniforms.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://asencio.com.sg/</u></a></strong>
+<p><strong>Website: <a href="https://www.asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>https://asencio.com.sg/</u></a></strong>
 </p>
 <p>120 Hillview Avenue&nbsp; #05-02 Kewalram Hillview
 <br>Singapore 669594
