@@ -29,6 +29,7 @@ will be conducted online. Should you require additional information about
 the school, please refer to the school’s website (<a href="https://www.westspringsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.westspringsec.moe.edu.sg/</u></a>)
 or contact the school at 68920369.</p>
 <p></p>
+<hr>
 <h4><strong>Sec 1 Registration Day</strong></h4>
 <ol>
 <li>
@@ -50,6 +51,7 @@ This will allow you to complete the Sec 1 registration online. <strong>If you di
 you will still be required to complete the above registration form and
 notify West Spring Secondary School General Office should you be successful
 in your appeal.</p>
+<hr>
 <p></p>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
@@ -61,9 +63,8 @@ in your appeal.</p>
 <p>DSA students successfully allocated to their DSA schools <strong>will not be allowed to transfer to another school</strong>.
 They are expected to honor their commitment to the allocated DSA school
 for the entire duration of the programme.</p>
-<p>
-<br>
-</p>
+<hr>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p><strong>Subject-Based Banding (SBB): Offering subjects at a More Demanding Level&nbsp;</strong>
@@ -111,9 +112,8 @@ Full-SBB team for further clarification.&nbsp;</p>
 <p>Mr. Wong Weng Heng: <a href="https://sgmoe-my.sharepoint.com/:b:/g/personal/chan_zhenrong_schools_gov_sg/EWyYJU2ziKpGlxTgmT6s0W4BwpZd2bT1NW34laiNrMZJDQ?e=CnDLUb" rel="noopener noreferrer nofollow" target="_blank"><u>wong_weng_heng@moe.edu.sg</u></a>&nbsp;</p>
 </li>
 </ol>
-<p>
-<br>
-</p>
+<hr>
+<p></p>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p><strong>Purchase of School Uniform, PE Attire, Textbooks &amp; Stationery</strong>
@@ -163,6 +163,7 @@ in school).</p>
 <br>Tel: 80310502 (Text Message Only)
 <br>Enquiry E-mail: <a href="https://www.intrenduniforms.com/" rel="noopener noreferrer nofollow" target="_blank">westspring@asencio.com.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -171,13 +172,16 @@ in school).</p>
 </p>
 <ul>
 <li>
-<p><strong>Dates: </strong>19,20,23,26,27,30 Dec 2024</p>
+<p><strong>Dates: 19,20,23,26,27,30 Dec 2024</strong>
+</p>
 </li>
 <li>
-<p><strong>Time</strong>: 9.00am to 3.00pm</p>
+<p><strong>Time: 9.00am to 3.00pm</strong>
+</p>
 </li>
 <li>
-<p><strong>Venue</strong>: School Canteen</p>
+<p><strong>Venue: School Canteen</strong>
+</p>
 <p></p>
 </li>
 </ul>
@@ -188,14 +192,18 @@ in school).</p>
 <p>Students who are under the MOE/School-based FAS are also required to make
 an appointment with GO (General Office) to collect the required items either
 walk-in to the school or contact the school at 68920369.&nbsp;</p>
+<p></p>
 </li>
 <li>
 <p>&nbsp;Detailed instructions for the purchase can be found in the school
 website at this <strong><a href="https://www.westspringsec.moe.edu.sg/2025-booklists/" rel="noopener noreferrer nofollow" target="_blank"><u>link</u></a></strong>.</p>
+<p></p>
 </li>
 <li>
 <p><strong>For Sec 1 G1 &amp; G2 Students who has an option to choose G2 &amp; G3 subjects, parents should be receiving an offer letter by the school through Parents Gateway. Only purchase books if you have accepted the offer. Do also refer to the GO for confirmation of G2 &amp; G3 subjects before making a purchase of books. &nbsp;</strong>
+<a href="/files/2025_Sec_1_Booklist__West_Spring_Secondary_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Booklist (West Spring Secondary)</a>
 </p>
+<p></p>
 </li>
 <li>
 <p>For students who have an option to offer HMT or interested to appeal to
@@ -203,6 +211,7 @@ offer HCL, please do not make purchases of MT &amp; HMT books until your
 MT subject is confirmed after first week of school.</p>
 </li>
 </ul>
+<hr>
 <p></p>
 <h4><strong>Other Information</strong></h4>
 <p><strong>(A) Information for Financial Assistance Scheme (FAS) Application&nbsp;</strong>

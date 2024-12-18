@@ -25,15 +25,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Release of GCE N-Level results 2024
-          date: 16 December 2024
-          announcement: The GCE N-Level Results will be released on 16 Dec 2024.  Students
-            receiving results are to report to the school hall at 2pm, in full
-            or half uniform with proper grooming. If you have outstanding school
-            fees, please settle them at the General Office prior to results
-            collection.  Thank you.
-          link_text: ""
-          link_url: ""
         - title: 2025 Secondary 1
           date: 16 December 2024
           announcement: The West Spring community warmly welcomes you! You may now click
