@@ -54,16 +54,19 @@ it only when the price is released in early January.</p>
 <li>
 <p>Read more notes stated in the last page of the PDF itself.</p>
 <p>Thank you.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
+<p><a href="/files/2025_Sec_1_Booklist__West_Spring_Secondary_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Booklist (West Spring Secondary)</a>
+</p>
 <p><a href="/files/2025_Sec_2_Booklist__West_Spring_Secondary_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Booklist (West Spring Secondary)</a>
 </p>
 <p><a href="/files/2025_Sec_3_Booklist__West_Spring_Secondary_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Booklist (West Spring Secondary)</a>
 </p>
 <p><a href="/files/2025_Sec_4_Booklist__West_Spring_Secondary_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 4 Booklist (West Spring Secondary)</a>
 </p>
-<p>Sec 1 and 5 booklists will be available only after posting/N-Level results.</p>
+<p><a href="/files/2025_Sec_5_Booklist__West_Spring_Secondary_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 5 Booklist (West Spring Secondary)</a>
+</p>
 <p></p>
 <p><strong>(b) Purchase of school uniforms</strong>
 </p>
