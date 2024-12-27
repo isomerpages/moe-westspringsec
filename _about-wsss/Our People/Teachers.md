@@ -113,6 +113,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Yen Joe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be updated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Design and Technology</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,6 +201,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Li Bing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be updated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>English Language, Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -241,17 +263,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>harliany_hairon@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English Language, Humanities</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yuki Yip</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To be confirmed</p>
 </td>
 </tr>
 <tr>
@@ -336,10 +347,10 @@ variant: tiptap
 <p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Alinah</p>
+<p>Ms Nur Haziqah Binte Zainol</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_alinah_ali@moe.edu.sg</p>
+<p>nur_haziqah_zainol@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -347,10 +358,10 @@ variant: tiptap
 <p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Haziqah Binte Zainol</p>
+<p>Mr Abdul Jalil Bin Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_haziqah_zainol@moe.edu.sg</p>
+<p>To be updated</p>
 </td>
 </tr>
 <tr>
@@ -465,6 +476,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Music, English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Teo Kim Yung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be updated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Nutrition and Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -512,10 +534,10 @@ variant: tiptap
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Eve Tan</p>
+<p>Mr Jonathan Soh Cher Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_poh_yun_evelyn@moe.edu.sg</p>
+<p>To be updated</p>
 </td>
 </tr>
 <tr>
@@ -597,13 +619,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science</p>
+<p>Science, CPA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jeffrey Ang</p>
+<p>Mdm Liyana Bte Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_jeffrey_a@moe.edu.sg</p>
+<p>To be updated</p>
 </td>
 </tr>
 </tbody>
