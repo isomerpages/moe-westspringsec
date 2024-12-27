@@ -311,6 +311,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nur Iskandar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be updated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Humanities, English Literature</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -509,6 +520,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Nutrition and Food Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurul Ain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be updated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -615,6 +637,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>juliana_adaham@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Aishah Bte Abdul Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be updated</p>
 </td>
 </tr>
 <tr>
