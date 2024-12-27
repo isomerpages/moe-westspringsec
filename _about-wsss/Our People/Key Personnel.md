@@ -108,7 +108,7 @@ variant: tiptap
 <p>Mr Ho Wing Hong Jack</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To Be Updated</p>
+<p>ho_wing_hong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -285,17 +285,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_poh_yun_evelyn@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SH Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>--</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -482,7 +471,7 @@ variant: tiptap
 <p>Mr S. Raveendran</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>s_raveendran_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
