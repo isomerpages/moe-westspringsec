@@ -190,6 +190,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>YH Lower Secondary (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Raghuraman s/o Katherayson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be updated</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Assistant Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
