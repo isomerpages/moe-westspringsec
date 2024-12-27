@@ -61,10 +61,10 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Doris Chong</p>
+<p>Mr Victor Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teong_soh_cheow@moe.edu.sg</p>
+<p>chia_victor@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -105,10 +105,10 @@ variant: tiptap
 <p>HOD Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sinkaram Philip Kumaran</p>
+<p>Mr Ho Wing Hong Jack</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sinkaram_philip_kumaran@moe.edu.sg</p>
+<p>To Be Updated</p>
 </td>
 </tr>
 <tr>
@@ -248,7 +248,7 @@ variant: tiptap
 <p>SH Malay Language (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Liyana Osman</p>
+<p>Ms Nur Liyana Osman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nur_liyana_osman@moe.edu.sg</p>
@@ -270,10 +270,10 @@ variant: tiptap
 <p>SH Physical Education &amp; Co-Curricular Activities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>--</p>
+<p>Mdm Evelyn Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_poh_yun_evelyn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -281,10 +281,10 @@ variant: tiptap
 <p>SH Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Priscilla Yu</p>
+<p>--</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yu_mei_yi_priscilla@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -300,10 +300,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Wellbeing</p>
+<p>SH Learning for Life Programme &amp; Value in Action</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurhafizahtunnisa Haris</p>
+<p>Ms Nurhafizahtunnisa Haris</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nurhafizahtunnisa_haris@moe.edu.sg</p>
@@ -432,13 +432,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Singh Sukhmindar</p>
+<p>Mdm Julia Chia (AM2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sukhmindar_singh@moe.edu.sg</p>
+<p>julia_chia@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
