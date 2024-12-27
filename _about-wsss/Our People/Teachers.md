@@ -372,7 +372,7 @@ variant: tiptap
 <p>Mr Abdul Jalil Bin Ali</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>abdul_jalil_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -493,7 +493,7 @@ variant: tiptap
 <p>Ms Teo Kim Yung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>teo_kim_yung@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -559,7 +559,7 @@ variant: tiptap
 <p>Mr Jonathan Soh Cher Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>soh_cher_boon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -647,7 +647,7 @@ variant: tiptap
 <p>Ms Nur Aishah Bte Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>nur_aishah_abdul_rahman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -658,7 +658,7 @@ variant: tiptap
 <p>Mdm Liyana Bte Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>liyana_kamsani@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
