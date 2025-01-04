@@ -196,7 +196,7 @@ variant: tiptap
 <p>Mr Raghuraman s/o Katherayson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>raghuraman_katherayson@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
