@@ -25,15 +25,14 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2025 Secondary 1
-          date: 16 December 2024
-          announcement: The West Spring community warmly welcomes you! You may now click
-            the link below to access important information for all Sec 1
-            students posted to our school. Please note the online registration
-            opens only on 19 December. Parents must complete the online
-            registration process by 23 Dec, 5pm. Thank you!
-          link_text: Click here
-          link_url: https://www.westspringsec.moe.edu.sg/2025-secondary-1-registration/
+        - title: Release of GCE O-Level 2024 Results
+          date: 09 January 2025
+          announcement: The GCE O-Level results 2024 will be released on 10 January 2025.
+            Students receiving results are to report to the school hall by
+            2.30pm in full or half uniform and with proper grooming.   All the
+            best!
+          link_text: ""
+          link_url: ""
   - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
