@@ -5,34 +5,6 @@ description: ""
 third_nav_title: Character and Citizenship Ed
 variant: tiptap
 ---
-<h4>MOE SEXUALITY EDUCATION IN SCHOOLS</h4>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd) in schools
-aims to enable students to understand the physiological, social and emotional
-changes they experience as they mature, develop healthy and rewarding relationships
-with others, including those with members of the opposite sex, and make
-wise, informed and responsible decisions on sexuality matters. SEd is premised
-on the importance of the family as the basic unit of society. This means
-encouraging healthy, heterosexual marriages and stable nuclear family units
-with extended family support. The teaching and learning of SEd is based
-on respect for the values and beliefs of the different ethnic and religious
-communities in Singapore on sexuality issues.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>At West Spring Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
-</p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
-<p><strong>Secondary 1</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p>======</p>
 <p>Sexuality Education (SEd) is one of the content areas of the MOE’s CCE
 2021 Curriculum Frame. Students will learn about the physical, emotional,
 social and ethical dimensions of human sexuality in secondary schools.
