@@ -22,9 +22,20 @@ sections:
           description: ""
           url: https://www.instagram.com/westspringsec/
   - announcements:
-      title: Announcements & Updates
+      title: Announcements
       id: announcements
-      subtitle: Most recent
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: CCA Schedule 2025
+          date: 11 January 2025
+          announcement: CCA Schedule for 2025 has been updated.
+          link_text: CCA Schedule 2025
+          link_url: https://www.westspringsec.moe.edu.sg/cca-schedule-2025/
+        - title: Sec 1 CCA Briefing for Parents 2025
+          date: 11 January 2025
+          announcement: These are the slides from the CCA briefing session by HOD/PE & CCA.
+          link_text: Sec 1 CCA Briefing for Parents 2025
+          link_url: https://drive.google.com/file/d/1foYwxhrA0e79hT3n7IXlepDEq8XzEG_D/view?usp=drive_link
   - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
