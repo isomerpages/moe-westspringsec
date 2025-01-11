@@ -22,17 +22,9 @@ sections:
           description: ""
           url: https://www.instagram.com/westspringsec/
   - announcements:
-      title: Announcements
+      title: Announcements & Updates
       id: announcements
-      announcement_items:
-        - title: Release of GCE O-Level 2024 Results
-          date: 09 January 2025
-          announcement: The GCE O-Level results 2024 will be released on 10 January 2025.
-            Students receiving results are to report to the school hall by
-            2.30pm in full or half uniform and with proper grooming.   All the
-            best!
-          link_text: ""
-          link_url: ""
+      subtitle: Most recent
   - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
