@@ -22,9 +22,9 @@ sections:
           description: ""
           url: https://www.instagram.com/westspringsec/
   - announcements:
-      title: Announcements
+      title: Announcements & Updates
       id: announcements
-      subtitle: Add a list of announcements with dates
+      subtitle: Most Recent
       announcement_items:
         - title: CCA Schedule 2025
           date: 11 January 2025
