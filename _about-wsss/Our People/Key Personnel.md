@@ -179,7 +179,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH Lower Secondary (Sec 1)</p>
+<p>HOD Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Fauroni Sukhaimi</p>
@@ -201,17 +201,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tong Hui Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tong_hui_min@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>YH Upper Secondary (Sec 4)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -219,6 +208,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>kok_yeong_haur@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tong Hui Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tong_hui_min@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -479,7 +479,7 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kavita Padmanathan</p>
+<p>Mdm Kavitha Padmanathan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>kavitha_padmanathan@moe.edu.sg</p>
