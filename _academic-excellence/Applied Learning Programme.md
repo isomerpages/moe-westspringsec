@@ -35,10 +35,10 @@ They documented their Design Thinking journey through writing of reflections,
 creating infographics and presentations. Finally, our students advocated
 sustainability practices to the community such as the patrons of the nearby
 Senja Hawker Centre.</p>
-<p>To further enhance their understanding on sustainability, our students
-participated in a variety of learning journeys where they visited local
-businesses involved in environmental sustainability.</p>
-<p><strong>Area of focus</strong> - Environmental waste</p>
+<p>To further enhance their understanding on environmental sustainability,
+our students participated in a variety of learning journeys where they
+visited local businesses involved in environmental sustainability.</p>
+<p><strong>Area of focus</strong> - Environmental sustainability</p>
 <p><strong>Key Skills</strong> - Adaptive and inventive thinking skills, collaboration
 and communication skills
 <br>
@@ -48,12 +48,13 @@ and communication skills
 <p><strong>Focus</strong> - Advocacy on social sustainability within the community</p>
 <p>Through partnerships with Social Service Agencies and using the user-centric
 Design Thinking framework, our students developed innovative solutions
-to encourage address social sustainability needs of the elderly and children
-in the community. They documented their Design Thinking journey through
-writing of reflections, creating infographics and presentations.</p>
-<p>To further enhance their understanding on sustainability, our students
-participated in a social sustainability-related learning journeys where
-they visited local businesses involved in environmental sustainability.</p>
-<p><strong>Area of focus</strong> - Environmental waste</p>
+to address social sustainability needs of the elderly and children in the
+community. They documented their Design Thinking journey through writing
+of reflections, creating infographics and presentations. Our students also
+set up booths to raise awareness of the different social service agencies
+as part of the school's 25th anniversary celebrations.</p>
+<p>To further enhance their understanding on social sustainability, our students
+participated in a social sustainability-related learning journey.</p>
+<p><strong>Area of focus</strong> - Social sustainability</p>
 <p><strong>Key Skills</strong> - Adaptive and inventive thinking skills, collaboration
 and communication skills</p>
