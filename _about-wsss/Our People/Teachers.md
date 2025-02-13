@@ -545,17 +545,6 @@ variant: tiptap
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurulain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nurulain_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Physical Education</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Jonathan Soh Cher Boon</p>
 </td>
 <td rowspan="1" colspan="1">
