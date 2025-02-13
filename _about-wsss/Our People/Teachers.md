@@ -207,7 +207,7 @@ variant: tiptap
 <p>Ms Tan Li Bing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>tan_li_bing_c@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -215,7 +215,7 @@ variant: tiptap
 <p>English Language, Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Nor Azlan Bin Ismail</p>
+<p>Mr Mohamed Nor Azlan Bin Ismailm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohamed_nor_azlan_ismail@moe.edu.sg</p>
