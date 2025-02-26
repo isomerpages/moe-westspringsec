@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Blended Learning.md
+      - Home Based Learning.md
       - MIMS Account.md
       - School Library.md
       - Student Learning Space (SLS).md
