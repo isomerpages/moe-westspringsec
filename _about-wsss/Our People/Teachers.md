@@ -119,7 +119,7 @@ variant: tiptap
 <p>Ms Chua Yen Joe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>chua_yen_joe@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -317,7 +317,7 @@ variant: tiptap
 <p>Mr Nur Iskandar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>Nur_Iskandar_Putra_Mohamed@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -526,7 +526,7 @@ variant: tiptap
 <p>Ms Nurul Ain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated</p>
+<p>nurul_ain_samad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
