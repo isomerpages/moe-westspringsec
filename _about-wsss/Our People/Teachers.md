@@ -559,7 +559,7 @@ variant: tiptap
 <p>Mr Lim Chieh Sern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_chieh_sern@moe.edu.sg</p>
+<p>lim_chieh_sern@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
