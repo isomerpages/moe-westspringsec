@@ -14,8 +14,8 @@ description: ""
 <p>Please search for your child's/ward's subject teachers in the table below
 and click on his/her Booking Link to book an appointment to meet the teachers.</p>
 <p>If you need to confirm the names of the Form Teachers or Subject Teachers,
-please <a href="https://docs.google.com/spreadsheets/d/1PU4V3ZClhXpgPmLA1odAsz-j-54ZR112KhcBwI4BMZ8/edit?usp=sharing" rel="noopener nofollow" target="_blank">click here</a> You
-will need to find the teacher's name by LG or by class.</p>
+please <a href="https://docs.google.com/spreadsheets/d/1PU4V3ZClhXpgPmLA1odAsz-j-54ZR112KhcBwI4BMZ8/edit?usp=sharing" rel="noopener nofollow" target="_blank">click here</a> .
+You will need to find the teacher's name by LG or by class.</p>
 <p>Please note that some teachers may be away or may not be available at
 certain slots due to other school duties.</p>
 <p>If you are unable to book a timeslot, please contact the teacher at his/her
