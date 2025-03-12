@@ -16,7 +16,7 @@ The booking form will be activated from 15 March (Sat) 8am to 27 March
 certain slots due to other school duties.</p>
 <p>If you are unable to book a timeslot, please contact the teacher at his/her
 email address to arrange an alternate date and time.</p>
-<p><a href="/files/Annex_List_of_Sec_4_FTs_and_Subject_Teachers_2025__Sem1_.pdf" rel="noopener noreferrer nofollow" target="_blank">If you need to confirm the names of the Form Teachers or Subject Teachers, please click here. </a>
+<p><a href="/files/Annex_List_of_Sec_4_FTs_and_Subject_Teachers_2025__Sem1_.pdf" rel="noopener noreferrer nofollow" target="_blank">If you need to confirm the names of the Form Teachers or Subject Teachers, please click here.</a>
 </p>
 <p>Thank you! We look forward to meeting you!</p>
 <p></p>
