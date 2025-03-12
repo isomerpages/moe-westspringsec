@@ -4,24 +4,23 @@ permalink: /meet-the-parents-session/
 variant: tiptap
 description: ""
 ---
-<h4>This page is still work in progress and the booking links are not activated yet until the PG message is sent to all Sec 45 Parents and Guardians. Thank you.</h4>
-<hr>
-<p></p>
 <p>Dear Sec 45 Parents/Guardians,</p>
 <p>With reference to the PG message sent about MTPS, Meet-The-Parents-Session
 (MTPS) for Secondary 4 and 5 will be conducted in our school on Friday,
 28 March 2025, 2pm-5pm.</p>
 <p>Please search for your child's/ward's subject teachers in the table below
-and click on his/her Booking Link to book an appointment to meet the teachers.</p>
-<p>If you need to confirm the names of the Form Teachers or Subject Teachers,
-please <a href="https://docs.google.com/spreadsheets/d/1PU4V3ZClhXpgPmLA1odAsz-j-54ZR112KhcBwI4BMZ8/edit?usp=sharing" rel="noopener nofollow" target="_blank">click here</a> .
-You will need to find the teacher's name by LG or by class.</p>
+and click on his/her Booking Link to book an appointment to meet the teachers.
+The booking form will be activated from 15 March (Sat) 8am to 27 March
+(Thu) 10pm. Thank you.</p>
 <p>Please note that some teachers may be away or may not be available at
 certain slots due to other school duties.</p>
 <p>If you are unable to book a timeslot, please contact the teacher at his/her
 email address to arrange an alternate date and time.</p>
+<p><a href="/files/Annex_List_of_Sec_4_FTs_and_Subject_Teachers_2025__Sem1_.pdf" rel="noopener noreferrer nofollow" target="_blank">If you need to confirm the names of the Form Teachers or Subject Teachers, please click here.</a>
+</p>
 <p>Thank you! We look forward to meeting you!</p>
 <p></p>
+<h4>Booking Links Below! Please scroll the table to the right for teacher's email address)</h4>
 <table style="minWidth: 150px">
 <colgroup>
 <col>
@@ -50,7 +49,7 @@ email address to arrange an alternate date and time.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Booking Link (Pls scroll to the right for teacher's email address.</strong>
+<p><strong>Booking Link</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
