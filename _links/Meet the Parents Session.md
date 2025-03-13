@@ -566,7 +566,7 @@ email address to arrange an alternate date and time.</p>
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>G2</p>
+<p>G2/G3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm. Cheryl Koh Ye Hsia</p>
