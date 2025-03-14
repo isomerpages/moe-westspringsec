@@ -66,12 +66,11 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm. Seoh Siok Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J2ODOK</a>
+<p><a href="https://forms.moe.edu.sg/forms/J2ODOK" rel="noopener noreferrer nofollow" target="_blank"><u>https://forms.moe.edu.sg/forms/J2ODOK</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">seoh_siok_yin@moe.edu.sg</a>
-</p>
+<p>seoh_siok_yin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -88,12 +87,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Chia Keh Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J78Q0A</a>
+<p><a href="https://forms.moe.edu.sg/forms/J78Q0A" rel="noopener noreferrer nofollow" target="_blank"><u>https://forms.moe.edu.sg/forms/J78Q0A</u></a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chia_keh_ling@moe.edu.sg</a>
-</p>
+<p>chia_keh_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -110,12 +109,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Neo Han Wei Candy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/ozy4WD</a>
+<p><a href="https://forms.moe.edu.sg/forms/ozy4WD" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/ozy4WD</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">neo_han_wei_candy@moe.edu.sg</a>
-</p>
+<p>neo_han_wei_candy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -132,12 +131,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm Teo Chu Yue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDyRQ4</a>
+<p><a href="https://forms.moe.edu.sg/forms/eDyRQ4" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDyRQ4</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teo_chu_yue@moe.edu.sg</a>
-</p>
+<p>teo_chu_yue@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -154,12 +153,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr Goh Se U</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/Jqpqpg</a>
+<p><a href="https://forms.moe.edu.sg/forms/Jqpqpg" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/Jqpqpg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">se_u_goh@moe.edu.sg</a>
-</p>
+<p>se_u_goh@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -176,12 +175,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm. Liu Dongmei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JqpPqa</a>
+<p><a href="https://forms.moe.edu.sg/forms/JqpPqa" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JqpPqa</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">liu_dongmei@moe.edu.sg</a>
-</p>
+<p>liu_dongmei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -198,12 +197,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm. Loh Yan Luan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/ePOq1y</a>
+<p><a href="https://forms.moe.edu.sg/forms/ePOq1y" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/ePOq1y</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">loh_yan_luan@moe.edu.sg</a>
-</p>
+<p>loh_yan_luan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -220,12 +219,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm. Tan Pin Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vKL1L4</a>
+<p><a href="https://forms.moe.edu.sg/forms/vKL1L4" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vKL1L4</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_pin_yin@moe.edu.sg</a>
-</p>
+<p>tan_pin_yin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -242,12 +241,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr. Yee Wai Seng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vXR1jx</a>
+<p><a href="https://forms.moe.edu.sg/forms/vXR1jx" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vXR1jx</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">yee_wai_seng@moe.edu.sg</a>
-</p>
+<p>yee_wai_seng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -264,12 +263,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Tong Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/ePO1bg</a>
+<p><a href="https://forms.moe.edu.sg/forms/ePO1bg" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/ePO1bg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tong_hui_min@moe.edu.sg</a>
-</p>
+<p>tong_hui_min@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -286,12 +285,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm. Khairunnisa Zainal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vNBN1q</a>
+<p><a href="https://forms.moe.edu.sg/forms/vNBN1q" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vNBN1q</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">khairunnisa_zainal@moe.edu.sg</a>
-</p>
+<p>khairunnisa_zainal@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -308,12 +307,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm. Sherry Liew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oZ010D</a>
+<p><a href="https://forms.moe.edu.sg/forms/oZ010D" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oZ010D</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">liew_geok_may_sherry@moe.edu.sg</a>
-</p>
+<p>liew_geok_may_sherry@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -330,12 +329,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr. Wong Weng Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oOk1qq</a>
+<p><a href="https://forms.moe.edu.sg/forms/oOk1qq" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oOk1qq</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_weng_heng@moe.edu.sg</a>
-</p>
+<p>wong_weng_heng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -352,12 +351,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr. Teoh Hock Huat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vry3Yy</a>
+<p><a href="https://forms.moe.edu.sg/forms/vry3Yy" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vry3Yy</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teoh_hock_huat@moe.edu.sg</a>
-</p>
+<p>teoh_hock_huat@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -374,12 +373,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mrs Shelia Wang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oab10E</a>
+<p><a href="https://forms.moe.edu.sg/forms/oab10E" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oab10E</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">xie_shuxian_shelia@moe.edu.sg</a>
-</p>
+<p>xie_shuxian_shelia@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -396,12 +395,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm Chua Soh Chin Charlotte</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v88xQB</a>
+<p><a href="https://forms.moe.edu.sg/forms/v88xQB" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v88xQB</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_soh_chin_charlotte@moe.edu.sg</a>
-</p>
+<p>chua_soh_chin_charlotte@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -418,12 +417,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Revathi Rengasamy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JBBQ3K</a>
+<p><a href="https://forms.moe.edu.sg/forms/JBBQ3K" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JBBQ3K</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">revathi_rengasamy@moe.edu.sg</a>
-</p>
+<p>revathi_rengasamy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -440,12 +439,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm Siti Norahan Bte Moktar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JkyK1Z</a>
+<p><a href="https://forms.moe.edu.sg/forms/JkyK1Z" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JkyK1Z</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_norahan_moktar@moe.edu.sg</a>
-</p>
+<p>siti_norahan_moktar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -462,12 +461,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm. Nora Shahriya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J57PQZ</a>
+<p><a href="https://forms.moe.edu.sg/forms/J57PQZ" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J57PQZ</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nora_shahriya@moe.edu.sg</a>
-</p>
+<p>nora_shahriya@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -484,12 +483,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Jasmine Foo-Chuah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eQp1Wd</a>
+<p><a href="https://forms.moe.edu.sg/forms/eQp1Wd" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eQp1Wd</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chuah_su_may_jasmine@moe.edu.sg</a>
-</p>
+<p>chuah_su_may_jasmine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -506,12 +505,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms Veronica Aw</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JMzQNd</a>
+<p><a href="https://forms.moe.edu.sg/forms/JMzQNd" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JMzQNd</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">aw_qin_yi@moe.edu.sg</a>
-</p>
+<p>aw_qin_yi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -528,12 +527,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms Victoria Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vwZxpY</a>
+<p><a href="https://forms.moe.edu.sg/forms/vwZxpY" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vwZxpY</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chong_soon_fei@moe.edu.sg</a>
-</p>
+<p>chong_soon_fei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -550,12 +549,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm Nurhafizahtunnisa Haris</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/o1WBQk</a>
+<p><a href="https://forms.moe.edu.sg/forms/o1WBQk" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/o1WBQk</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurhafizahtunnisa_haris@moe.edu.sg</a>
-</p>
+<p>nurhafizahtunnisa_haris@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -566,18 +565,18 @@ email address to arrange an alternate date and time.</p>
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>G2</p>
+<p>G2/G3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm. Cheryl Koh Ye Hsia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/ozy94R</a>
+<p><a href="https://forms.moe.edu.sg/forms/ozy94R" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/ozy94R</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">cheryl_koh_ye_hsia@moe.edu.sg</a>
-</p>
+<p>cheryl_koh_ye_hsia@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -594,12 +593,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Fazlin Mohd Fadzuli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vEaQpO</a>
+<p><a href="https://forms.moe.edu.sg/forms/vEaQpO" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vEaQpO</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">fazlin_mohd_fadzuli@moe.edu.sg</a>
-</p>
+<p>fazlin_mohd_fadzuli@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -616,12 +615,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Harliany Hairon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J00L7k</a>
+<p><a href="https://forms.moe.edu.sg/forms/J00L7k" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J00L7k</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">harliany_hairon@moe.edu.sg</a>
-</p>
+<p>harliany_hairon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -638,12 +637,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Jasmine Kao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eLBQK8</a>
+<p><a href="https://forms.moe.edu.sg/forms/eLBQK8" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eLBQK8</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kao_hui_ling@moe.edu.sg</a>
-</p>
+<p>kao_hui_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -660,12 +659,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr. Mohamad Fadzly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/Jb010Z</a>
+<p><a href="https://forms.moe.edu.sg/forms/Jb010Z" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/Jb010Z</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mohamad_fadzly_samsuri@moe.edu.sg</a>
-</p>
+<p>mohamad_fadzly_samsuri@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -682,12 +681,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm. Ruhaiza Hasan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oxP2PZ</a>
+<p><a href="https://forms.moe.edu.sg/forms/oxP2PZ" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/oxP2PZ</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ruhaiza_hasan@moe.edu.sg</a>
-</p>
+<p>ruhaiza_hasan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -704,12 +703,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Teng Xiaoqian Lydia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/opZB85</a>
+<p><a href="https://forms.moe.edu.sg/forms/opZB85" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/opZB85</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lydia_teng_xiaoqian@moe.edu.sg</a>
-</p>
+<p>lydia_teng_xiaoqian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -726,12 +725,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm. Nur Haziqah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/opZBZj</a>
+<p><a href="https://forms.moe.edu.sg/forms/opZBZj" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/opZBZj</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_haziqah_zainol@moe.edu.sg</a>
-</p>
+<p>nur_haziqah_zainol@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -748,12 +747,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm Nur Liyana Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eg3O1N</a>
+<p><a href="https://forms.moe.edu.sg/forms/eg3O1N" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eg3O1N</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_liyana_osman@moe.edu.sg</a>
-</p>
+<p>nur_liyana_osman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -770,12 +769,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr. Abdul Jalil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J57Q76</a>
+<p><a href="https://forms.moe.edu.sg/forms/J57Q76" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J57Q76</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">abdul_jalil_ali@moe.edu.sg</a>
-</p>
+<p>abdul_jalil_ali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -792,12 +791,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Noor Faezah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vKL1N4</a>
+<p><a href="https://forms.moe.edu.sg/forms/vKL1N4" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vKL1N4</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">noor_faezah_noor_aziz@moe.edu.sg</a>
-</p>
+<p>noor_faezah_noor_aziz@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -814,12 +813,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr. Marcus Sze</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vj6z6m</a>
+<p><a href="https://forms.moe.edu.sg/forms/vj6z6m" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vj6z6m</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">marcus_sze_kah_choon@moe.edu.sg</a>
-</p>
+<p>marcus_sze_kah_choon@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -836,12 +835,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm Jolene Chong Yan Shin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eQp312</a>
+<p><a href="https://forms.moe.edu.sg/forms/eQp312" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eQp312</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chong_yann_shin@moe.edu.sg</a>
-</p>
+<p>chong_yann_shin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -858,12 +857,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr. Muhammad Fahmy Babjee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vRZ1ZQ</a>
+<p><a href="https://forms.moe.edu.sg/forms/vRZ1ZQ" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vRZ1ZQ</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">muhammad_fahmy_babjee@moe.edu.sg</a>
-</p>
+<p>muhammad_fahmy_babjee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -880,12 +879,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr. Tan Weicun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/Jmx1xq</a>
+<p><a href="https://forms.moe.edu.sg/forms/Jmx1xq" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/Jmx1xq</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_weicun@moe.edu.sg</a>
-</p>
+<p>tan_weicun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -902,12 +901,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms Lee Hwee Ling, Annie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/od21Kb</a>
+<p><a href="https://forms.moe.edu.sg/forms/od21Kb" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/od21Kb</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_hwee_ling_annie@moe.edu.sg</a>
-</p>
+<p>lee_hwee_ling_annie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -924,12 +923,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Oen Hui Qin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vNB13G</a>
+<p><a href="https://forms.moe.edu.sg/forms/vNB13G" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vNB13G</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">oen_hui_qin@moe.edu.sg</a>
-</p>
+<p>oen_hui_qin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -946,12 +945,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm. Ong Yee Ting Melissa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J57Q7N</a>
+<p><a href="https://forms.moe.edu.sg/forms/J57Q7N" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J57Q7N</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ong_yee_ting_melissa@moe.edu.sg</a>
-</p>
+<p>ong_yee_ting_melissa@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -968,12 +967,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr. Liu Youhe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J4zQzQ</a>
+<p><a href="https://forms.moe.edu.sg/forms/J4zQzQ" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J4zQzQ</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">liu_youhe@moe.edu.sg</a>
-</p>
+<p>liu_youhe@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -990,12 +989,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Lee Si Hui Eunice</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDyQWn</a>
+<p><a href="https://forms.moe.edu.sg/forms/eDyQWn" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eDyQWn</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_si_hui_eunice@moe.edu.sg</a>
-</p>
+<p>lee_si_hui_eunice@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1012,12 +1011,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr. Lim Chieh Sern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J2ODOq</a>
+<p><a href="https://forms.moe.edu.sg/forms/J2ODOq" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J2ODOq</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lim_chieh_sern@moe.edu.sg</a>
-</p>
+<p>lim_chieh_sern@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1034,12 +1033,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr. Subhash Nadesan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J69Q9k</a>
+<p><a href="https://forms.moe.edu.sg/forms/J69Q9k" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/J69Q9k</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">subhash_nadesan@moe.edu.sg</a>
-</p>
+<p>subhash_nadesan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1056,12 +1055,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Tan Poh Yun Evelyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/Jqpqyg</a>
+<p><a href="https://forms.moe.edu.sg/forms/Jqpqyg" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/Jqpqyg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_poh_yun_evelyn@moe.edu.sg</a>
-</p>
+<p>tan_poh_yun_evelyn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1078,12 +1077,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Tan Zhen Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v3OQg5</a>
+<p><a href="https://forms.moe.edu.sg/forms/v3OQg5" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v3OQg5</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_zhen_yan@moe.edu.sg</a>
-</p>
+<p>tan_zhen_yan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1100,12 +1099,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm Chua Soh Chin Charlotte</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v88xQB</a>
+<p><a href="https://forms.moe.edu.sg/forms/v88xQB" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v88xQB</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_soh_chin_charlotte@moe.edu.sg</a>
-</p>
+<p>chua_soh_chin_charlotte@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1122,12 +1121,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm. Juliet Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vKLa17</a>
+<p><a href="https://forms.moe.edu.sg/forms/vKLa17" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vKLa17</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">juliet_chan@moe.edu.sg</a>
-</p>
+<p>juliet_chan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1144,12 +1143,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr. Low Wai Hoong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vV515V</a>
+<p><a href="https://forms.moe.edu.sg/forms/vV515V" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vV515V</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">low_wai_hoong@moe.edu.sg</a>
-</p>
+<p>low_wai_hoong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1166,12 +1165,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr. Chan Zhenrong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vG2Q2Z</a>
+<p><a href="https://forms.moe.edu.sg/forms/vG2Q2Z" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vG2Q2Z</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chan_zhenrong@moe.edu.sg</a>
-</p>
+<p>chan_zhenrong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1188,12 +1187,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm. Liyana Binte Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v3O3QG</a>
+<p><a href="https://forms.moe.edu.sg/forms/v3O3QG" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v3O3QG</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">liyana_kamsani@moe.edu.sg</a>
-</p>
+<p>liyana_kamsani@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1210,12 +1209,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm. Nur Aishah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vG2nQq</a>
+<p><a href="https://forms.moe.edu.sg/forms/vG2nQq" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vG2nQq</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nur_aishah_abdul_rahman@moe.edu.sg</a>
-</p>
+<p>nur_aishah_abdul_rahman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1232,12 +1231,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr Prakash S/O Radakrishna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v3OQO5</a>
+<p><a href="https://forms.moe.edu.sg/forms/v3OQO5" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/v3OQO5</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">prakash_radakrishna@moe.edu.sg</a>
-</p>
+<p>prakash_radakrishna@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1254,12 +1253,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr. Mok Kai Fore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vWD1Dx</a>
+<p><a href="https://forms.moe.edu.sg/forms/vWD1Dx" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vWD1Dx</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mok_kai_fore@moe.edu.sg</a>
-</p>
+<p>mok_kai_fore@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1276,12 +1275,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms Pauline Wan Hui Qing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vY91wY</a>
+<p><a href="https://forms.moe.edu.sg/forms/vY91wY" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/vY91wY</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">pauline_wan_hui_qing@moe.edu.sg</a>
-</p>
+<p>pauline_wan_hui_qing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1298,12 +1297,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Juliana Adaham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/Jky17Q</a>
+<p><a href="https://forms.moe.edu.sg/forms/Jky17Q" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/Jky17Q</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">juliana_adaham@moe.edu.sg</a>
-</p>
+<p>juliana_adaham@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1320,12 +1319,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm Ho Soo Yin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JMzKQ8</a>
+<p><a href="https://forms.moe.edu.sg/forms/JMzKQ8" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JMzKQ8</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ho_soo_yin@moe.edu.sg</a>
-</p>
+<p>ho_soo_yin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1342,12 +1341,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mdm. Zhou Siyang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JBBQBK</a>
+<p><a href="https://forms.moe.edu.sg/forms/JBBQBK" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/JBBQBK</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zhou_siyang@moe.edu.sg</a>
-</p>
+<p>zhou_siyang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1364,12 +1363,12 @@ email address to arrange an alternate date and time.</p>
 <p>Mr Siow Gim Onn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/opZBZ5</a>
+<p><a href="https://forms.moe.edu.sg/forms/opZBZ5" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/opZBZ5</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siow_gim_onn@moe.edu.sg</a>
-</p>
+<p>siow_gim_onn@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1386,12 +1385,12 @@ email address to arrange an alternate date and time.</p>
 <p>Ms. Joey Goh Qinyuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eg31qD</a>
+<p><a href="https://forms.moe.edu.sg/forms/eg31qD" rel="noopener noreferrer nofollow" target="_blank">https://forms.moe.edu.sg/forms/eg31qD</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">joey_goh_qinyuan@moe.edu.sg</a>
-</p>
+<p>joey_goh_qinyuan@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
