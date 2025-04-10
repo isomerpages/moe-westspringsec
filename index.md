@@ -37,6 +37,15 @@ sections:
           link_text: Sec 1 CCA Briefing for Parents 2025
           link_url: https://drive.google.com/file/d/1foYwxhrA0e79hT3n7IXlepDEq8XzEG_D/view?usp=drive_link
   - infopic:
+      title: SpringFest 2025
+      subtitle: 24 MAY 2025
+      id: infopic
+      description: Come experience the energy and vibrancy of West Spring! Tickets
+        will be sold on day of event.  Sale proceeds will be donated to Care
+        Community Services Society.
+      image: /images/SpringFest_Poster_1.jpg
+      alt: Image alt text
+  - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
       id: infopic
