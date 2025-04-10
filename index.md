@@ -32,7 +32,7 @@ sections:
             welcome. Tickets will be sold on day of event.  Sale proceeds will
             be donated to Care Community Services Society.
           link_text: SpringFest '25
-          link_url: https://drive.google.com/file/d/1qTtGfcqViIPT_wcZ6V5RJ8D2f1HxomBs/view?usp=sharing
+          link_url: https://drive.google.com/file/d/1ohhhcITwwUaE79aFNCZVCi9hxzIUYU-H/view?usp=sharing
   - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
