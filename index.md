@@ -70,6 +70,4 @@ sections:
       image: /images/Website_2024_photo_collage.png
   - resources:
       subtitle: Announcements
-      title: SpringFest 2025
-      button: 24 MAY 2025
 ---
