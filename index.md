@@ -26,16 +26,13 @@ sections:
       id: announcements
       subtitle: Most Recent
       announcement_items:
-        - title: CCA Schedule 2025
-          date: 11 January 2025
-          announcement: CCA Schedule for 2025 has been updated.
-          link_text: CCA Schedule 2025
-          link_url: https://www.westspringsec.moe.edu.sg/cca-schedule-2025/
-        - title: Sec 1 CCA Briefing for Parents 2025
-          date: 11 January 2025
-          announcement: These are the slides from the CCA briefing session by HOD/PE & CCA.
-          link_text: Sec 1 CCA Briefing for Parents 2025
-          link_url: https://drive.google.com/file/d/1foYwxhrA0e79hT3n7IXlepDEq8XzEG_D/view?usp=drive_link
+        - title: SpringFest 2025
+          date: 24 May 2025
+          announcement: Come experience the energy and vibrancy of West Spring! All are
+            welcome. Tickets will be sold on day of event.  Sale proceeds will
+            be donated to Care Community Services Society.
+          link_text: SpringFest '25
+          link_url: https://drive.google.com/file/d/1ohhhcITwwUaE79aFNCZVCi9hxzIUYU-H/view?usp=sharing
   - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
