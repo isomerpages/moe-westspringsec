@@ -73,14 +73,6 @@ sections:
       url: https://www.westspringsec.moe.edu.sg/academic-excellence/applied-learning-programme/
       alt: Image alt text
       image: /images/Website_2024_photo_collage.png
-  - infopic:
-      title: WS25
-      subtitle: 30 April 2025
-      id: infopic
-      description: West Spring celebrate 25th anniversary on 28 April!
-      button: Button Text
-      image: /images/WS25.jpg
-      alt: Image alt text
   - resources:
       subtitle: Announcements
 ---
