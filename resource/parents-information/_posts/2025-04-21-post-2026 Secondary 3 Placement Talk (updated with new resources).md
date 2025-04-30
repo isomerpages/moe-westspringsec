@@ -1,5 +1,5 @@
 ---
-title: 2026 Secondary 3 Placement Talk (PreBriefing FAQ)
+title: 2026 Secondary 3 Placement Talk (updated with new resources)
 permalink: /2025-secondary-3-placement-talk-prebriefing-faq/
 date: 2025-04-21
 layout: post
