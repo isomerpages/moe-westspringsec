@@ -9,10 +9,11 @@ variant: tiptap
 ---
 <p>Dear Sec 2 Parents/Guardians,</p>
 <p></p>
-<p>Please find the resources that were shared during our placement session
-on 28 Apr 2025.</p>
-<p></p>
-<p>If you have any questions, please email them to <a href="mailto:westspringss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westspringss@moe.edu.sg</a>.</p>
+<p>Thank you for attending our 2026 Secondary 3 Placement Talk on 28 April
+2025.</p>
+<p>We appreciate your time and participation. Please find the shared resources
+attached for your reference. If you have any questions, feel free to email
+us at <a href="mailto:westspringss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westspringss@moe.edu.sg</a>.</p>
 <p></p>
 <p><strong><u>G1 &amp; G2 Resources:</u></strong>
 </p>
