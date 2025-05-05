@@ -26,11 +26,11 @@ sections:
       id: announcements
       subtitle: Most Recent
       announcement_items:
-        - title: WS25
-          date: 30 April 2025
-          announcement: West Spring celebrate 25th anniversary on 30 April!
-          link_text: WS25
-          link_url: https://drive.google.com/file/d/1Qo2a36HZfa--S_e3PGfWYzb67A2cYZhT/view?usp=sharing
+        - title: DSA Online Application
+          date: 05 May 2025
+          announcement: DSA Online Application (7 May 2025, 11am to 3 June 2025, 3pm)
+          link_text: DSA Online Application 2025
+          link_url: https://drive.google.com/file/d/1J8aoKscK1FUW4WsFQ9aeae62cIgdkpbB/view?usp=drive_link
         - title: SpringFest 2025
           date: 24 May 2025
           announcement: Come experience the energy and vibrancy of West Spring! All are
