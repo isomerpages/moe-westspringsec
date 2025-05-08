@@ -377,6 +377,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Malay Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sufianna Abas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sufianna_abas_b@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -505,17 +516,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>puspawati_rosli@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nutrition and Food Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Sharifah Nazihah W M Sulaiman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sharifah_nazihah_sulaiman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
