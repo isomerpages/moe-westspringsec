@@ -282,7 +282,7 @@ in external clubs are encouraged to apply</p>
 </table>
 <p><strong>Application Process</strong>
 </p>
-<p>6.	<strong>Online application (7 May 2025, 11am to 3 June 2025, 3pm) </strong>through
+<p>6. <strong>Online application (7 May 2025, 11am to 3 June 2025, 3pm) </strong>through
 the online DSA-Sec Portal. The application is free-of-charge and will be
 open from (7 May to 3 June). For more details, please refer to MOE website
 – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.
@@ -304,14 +304,14 @@ application period. Application closes on <strong>3 June (3pm)</strong>.Parents
 and students are encouraged to choose schools wisely based on the student’s
 aptitudes and strengths, bearing in mind the school’ academic and non-academic
 requirements, and the programmes available to develop the area of talent.</p>
-<p>10.	<strong>Trials, selection test, and interviews (July to August)</strong>.
+<p>10. <strong>Trials, selection test, and interviews (July to August)</strong>.
 You will receive notification from us by <strong>Fri 25 Jul 2025</strong>,
 if your child has been shortlisted to undergo Direct School Admission (DSA)
 selection trials/auditions/interviews. All applicants will receive their
 application outcomes by <strong>Thu 4 Sep 2025</strong>. Trials, selection
 tests and interviews will be conducted for shortlisted applicants in July
 to August. Shortlisted applicants will be notified of the dates and timings.</p>
-<p>11.	<strong>Notification of outcome by school (by 4 September 2025)</strong>.
+<p>11. <strong>Notification of outcome by school (by 4 September 2025)</strong>.
 Applicants will be notified of the outcomes by 4 September 2025. The school’s
 decision is final. The school reserves the right not to release the reasons
 for non-selection of applicants.</p>
