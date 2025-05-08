@@ -28,9 +28,10 @@ sections:
       announcement_items:
         - title: DSA Online Application
           date: 05 May 2025
-          announcement: DSA Online Application (7 May 2025, 11am to 3 June 2025, 3pm)
+          announcement: "DSA Online Application (7 May 2025, 11am to 3 June 2025,
+            3pm).  The information can be found here:"
           link_text: DSA Online Application 2025
-          link_url: https://drive.google.com/file/d/1J8aoKscK1FUW4WsFQ9aeae62cIgdkpbB/view?usp=drive_link
+          link_url: https://www.westspringsec.moe.edu.sg/links/dsa/
         - title: SpringFest 2025
           date: 24 May 2025
           announcement: Come experience the energy and vibrancy of West Spring! All are

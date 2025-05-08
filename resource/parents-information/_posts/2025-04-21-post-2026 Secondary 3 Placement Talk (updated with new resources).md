@@ -46,13 +46,15 @@ so yesterday:</p>
 <p><a href="https://go.gov.sg/2025s3feedback" rel="noopener nofollow" target="_blank">Link to feedback form</a>
 </p>
 <p></p>
-<p>The document from the session's Q&amp;A segment will only be ready and
-posted here by 6 May. Meanwhile, you can find the links to the pre-briefing
-FAQ.</p>
+<p>The documents from the session's Q&amp;A segment and pre-briefing FAQ:</p>
 <p></p>
 <p><a href="/files/2026_S3_Placement_Briefing_for_G3_FAQ.pdf" rel="noopener nofollow" target="_blank">2026 S3 Placement Briefing for G3_FAQ</a>
 </p>
 <p><a href="/files/2026_S3_Placement_Briefing_for_G1_and_G2_FAQ.pdf" rel="noopener nofollow" target="_blank">2026 S3 Placement Briefing for G1 and G2_FAQ</a>
+</p>
+<p><a href="/files/2026_Secondary_3_Placement_Talk_Q_A__G3_.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Placement Talk Q&amp;A (G3)</a>
+</p>
+<p><a href="/files/2026_Secondary_3_Placement_Talk_Q_A__G1__G2_.pdf" rel="noopener nofollow" target="_blank">2026 Secondary 3 Placement Talk Q&amp;A (G1, G2)</a>
 </p>
 <p></p>
 <p>Thank you!</p>
