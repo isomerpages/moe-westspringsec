@@ -48,7 +48,7 @@ in-charge. Nurturing each individual’s talent area, the school seeks to
 provide every DSA student with quality programmes, activities and opportunities
 to represent the school in competitions. Besides development in their talent
 area, we will monitor and motivate students to excel in their academic</p>
-<p>In West Spring Secondary, the 3 talent areas under DSA-Sec are:</p>
+<p>5. In West Spring Secondary, the 3 talent areas under DSA-Sec are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Badminton</strong>
