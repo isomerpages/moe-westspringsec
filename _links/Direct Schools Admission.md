@@ -5,31 +5,51 @@ description: ""
 variant: tiptap
 ---
 <h2>Direct Schools Admission (Background)</h2>
-<p>The DSA-Sec Exercise was first introduced in 2004 as part of MOE’s move
-towards a more flexible and broad-based education system. Under the DSA-Sec
-Exercise, schools will be able to select a percentage of their students
-for admission outside of the centralized posting system, via their own
-selection criteria. Parents and students are encouraged to choose schools
-wisely based on the student’s aptitudes and strengths, bearing in mind
-the schools’ academic and non-academic requirements, and the programmes
+<p>1.&nbsp;&nbsp;&nbsp; The DSA-Sec Exercise was first introduced in 2004
+as part of MOE’s move towards a more flexible and broad-based education
+system. Under the DSA-Sec Exercise, schools will be able to select a percentage
+of their students for admission outside of the centralized posting system,
+via their own selection criteria. Parents and students are encouraged to
+choose schools wisely based on the student’s aptitudes and strengths, bearing
+in mind the schools’ academic and non-academic requirements, and the programmes
 available to develop the area of talent.</p>
-<h2>DSA-Sec@WSSS (West Spring Secondary School)</h2>
-<p>West Spring Secondary School (WSSS) welcomes prospective students who
-demonstrate talent, passion and ability in our identified Sports talent
-categories. They are<strong> Badminton, Football and Shooting</strong>.
-Successful applicants will join WSSS in January 2025. <strong>Students who are keen to apply should possess a strong level of motivation and commitment to the talent area</strong>.
-While achievement level and mastery in their chosen area is key, we are
-also scouting for students who display strong potential in their areas
-of choice. Our DSA talents should also have the mind-set and learning disposition
-to cope well with other aspects of school life in WSSS.</p>
-<p>Students admitted into WSSS via DSA will have the opportunity to be trained
-and guided by professional coaches and experienced CCA Teachers in-charge.
-Nurturing everyone’s talent area, the school seeks to provide every DSA
-student with quality programmes, activities and opportunities to represent
-the school in competitions. Besides development in their talent area, we
-will monitor and motivate students to excel in their academic performance.</p>
+<p>&nbsp;2.&nbsp;&nbsp;&nbsp; From 2025, application for DSA-Sec can be submitted
+through the online DSA-Sec Portal. The application is free-of-charge and
+will be opened from May to June 2025. For more details, please refer to
+MOE website – <a href="www.moe.gov.sg/admissions/direct-admissions/dsa-sec" rel="noopener nofollow" target="_blank">www.moe.gov.sg/admissions/direct-admissions/dsa-sec</a>
+</p>
+<h2>DSA-Sec@ West Spring Secondary School</h2>
+<p>3.&nbsp;&nbsp;&nbsp; West Spring Secondary School(WSSS) welcomes prospective
+students who demonstrate talent, passion and ability in our identified
+Sports talent categories. They are Badminton, Football and Shooting. Successful
+applicants will join WSSS in January 2026. Students who are keen to apply
+should possess strong level of motivation and commitment to the talent
+area. While achievement level and mastery in their chosen area is key,
+we are also scouting for students who display strong potential in their
+areas of choice. Generally, students&nbsp; should have:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Growth mind-set and learning disposition to cope well with the Total curriculum
+offered in WSSS.</p>
+</li>
+<li>
+<p>Leadership potential to serve others</p>
+</li>
+<li>
+<p>Passion for life and learning</p>
+</li>
+<li>
+<p>Potential to contribute to the WSSS community</p>
+</li>
+</ul>
+<p>4. Students admitted into WSSS via DSA will have the opportunity to be
+trained and guided by professional coaches and experienced CCA Teachers
+in-charge. Nurturing each individual’s talent area, the school seeks to
+provide every DSA student with quality programmes, activities and opportunities
+to represent the school in competitions. Besides development in their talent
+area, we will monitor and motivate students to excel in their academic</p>
 <p>In West Spring Secondary, the 3 talent areas under DSA-Sec are:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Badminton</strong>
 </p>
@@ -42,20 +62,34 @@ will monitor and motivate students to excel in their academic performance.</p>
 <p><strong>Shooting</strong>
 </p>
 </li>
-</ol>
+</ul>
 <p>Our selection criteria, in general, are as follows:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Interest and Passion</strong>:
-Applicants should demonstrate a keen interest in and passion for their
-respective talent areas.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Talent and Aptitude</strong>:
-Applicants should demonstrate evidence of talent and/or aptitude in their
-talent area.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Conduct and Attitude for Learning</strong>:
-Applicants should demonstrate evidence of good conduct in school, as well
-as a positive attitude for learning and demeanour.&nbsp;</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Leadership</strong>: &nbsp;Applicants
-should demonstrate the commitment to serve others.</p>
-<table>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Interest and Passion</strong>: Applicants should demonstrate a
+keen interest in and passion for their respective talent areas</p>
+</li>
+<li>
+<p><strong>Talent and Aptitude</strong>: Applicants should demonstrate evidence
+of talent and/or aptitude in their talent area</p>
+</li>
+<li>
+<p><strong>Conduct and Attitude for Learning</strong>: Applicants should
+demonstrate evidence of good conduct in school, as well as a positive attitude
+for learning and demeanour&nbsp;</p>
+</li>
+<li>
+<p><strong>Leadership</strong>: &nbsp;Applicants should demonstrate the commitment
+to serve others</p>
+</li>
+</ul>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -73,7 +107,8 @@ should demonstrate the commitment to serve others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shooting</p>
+<p><strong>Shooting</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participate in the following talent development programmes:</p>
@@ -109,7 +144,7 @@ training</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants are required to attend an interview and a selection trial.</p>
+<p>Applicants are required to attend an interview and an audition (Jul/Aug)</p>
 <p><strong>Applicants will be selected based on the following:</strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -119,17 +154,15 @@ training</p>
 <p>Shooting Trial (Based on groupings and scores)</p>
 </li>
 <li>
-<p>Academic Track Record</p>
-</li>
-<li>
-<p>Conduct</p>
+<p>Track record of Academics and conduct in school</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Football</p>
+<p><strong>Football</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participate in the following talent development programmes:</p>
@@ -169,18 +202,17 @@ clubs are encouraged to apply</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants are required to attend an interview and a selection trial.</p>
+<p>Applicants are required to attend an interview and selection trial (Jul/Aug)</p>
 <p><strong>Applicants will be selected based on the following:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Aptitude in Football</p>
+<p><strong>Aptitude in Football</strong>
+</p>
 </li>
 <li>
-<p>Academic Track Record</p>
-</li>
-<li>
-<p>Conduct</p>
+<p><strong>Track record of Academic and Conduct in school</strong>
+</p>
 </li>
 </ul>
 <p>&nbsp;</p>
@@ -229,18 +261,17 @@ in external clubs are encouraged to apply</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants are required to attend an interview and a selection trial.</p>
+<p>Applicants are required to attend an interview and selection trial (Jul/Aug)</p>
 <p><strong>Applicants will be selected based on the following:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Aptitude and skills in Badminton</p>
+<p><strong>Aptitude in Badminton</strong>
+</p>
 </li>
 <li>
-<p>Academic Track Record</p>
-</li>
-<li>
-<p>Conduct</p>
+<p><strong>Conduct in school</strong>
+</p>
 </li>
 </ul>
 <p>&nbsp;</p>
@@ -249,4 +280,52 @@ in external clubs are encouraged to apply</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Application Process</strong>
+</p>
+<p>6.	<strong>Online application (7 May 2025, 11am to 3 June 2025, 3pm) </strong>through
+the online DSA-Sec Portal. The application is free-of-charge and will be
+open from (7 May to 3 June). For more details, please refer to MOE website
+– <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.
+Only one parent’s SingPass is needed to login to the portal. Find out how
+to register for a SingPass if you don’t have one - <a href="https://www.singpass.gov.sg/singpass/common/supportmain" rel="noopener noreferrer nofollow" target="_blank">https://www.singpass.gov.sg/singpass/common/supportmain</a>.
+Parents/ guardians who are unable to apply online can approach their child’s
+primary school for assistance. Applicants NOT studying in MOE mainstream
+primary schools, including Returning Singaporeans and International Students,
+will need to apply for a Registration Numbers (RGxxxxxxx) before they can
+apply through the DSA-Sec Portal – please refer to MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
+<p>7. There is no need to submit any supporting documents during the online
+application stage. Your child’s primary school records (for example, P5
+academic results, CCA, school-based activities, achievements or awards)
+will be automatically shared with the schools.</p>
+<p>8. An applicant can indicate up to 3 choices. A maximum of 2 choices for
+the same school under two different talent areas of that school.</p>
+<p>9. You can update, withdraw and re-submit your application during the
+application period. Application closes on <strong>3 June (3pm)</strong>.Parents
+and students are encouraged to choose schools wisely based on the student’s
+aptitudes and strengths, bearing in mind the school’ academic and non-academic
+requirements, and the programmes available to develop the area of talent.</p>
+<p>10.	<strong>Trials, selection test, and interviews (July to August)</strong>.
+You will receive notification from us by <strong>Fri 25 Jul 2025</strong>,
+if your child has been shortlisted to undergo Direct School Admission (DSA)
+selection trials/auditions/interviews. All applicants will receive their
+application outcomes by <strong>Thu 4 Sep 2025</strong>. Trials, selection
+tests and interviews will be conducted for shortlisted applicants in July
+to August. Shortlisted applicants will be notified of the dates and timings.</p>
+<p>11.	<strong>Notification of outcome by school (by 4 September 2025)</strong>.
+Applicants will be notified of the outcomes by 4 September 2025. The school’s
+decision is final. The school reserves the right not to release the reasons
+for non-selection of applicants.</p>
+<p>12. Meeting all the criteria does not guarantee the student will be shortlisted/given
+an offer.</p>
+<p>13. Parents and students are encouraged to choose schools wisely based
+on the student’s aptitudes and strengths, bearing in mind the schools’
+academic and non-academic requirements, and the programmes available to
+develop the area of talent.</p>
+<p>14. Please refer to the flow chart on the timeline and processes below:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2025.jpg">
+</div>
+<p>15. If you have any questions, please feel free to use the form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdJgXPV4Tr5KappL_ZFmHrvr8-hdatakujOoxN4J1V9uZTNzA/viewform?usp=dialog" rel="noopener nofollow" target="_blank">DSA: I have a question</a> and
+we will get back to you as soon as possible.</p>
+<p></p>
 <p></p>
