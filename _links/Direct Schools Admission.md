@@ -16,7 +16,7 @@ available to develop the area of talent.</p>
 <p>&nbsp;2.&nbsp;&nbsp;&nbsp; From 2025, application for DSA-Sec can be submitted
 through the online DSA-Sec Portal. The application is free-of-charge and
 will be opened from May to June 2025. For more details, please refer to
-MOE website – <a href="www.moe.gov.sg/admissions/direct-admissions/dsa-sec" rel="noopener nofollow" target="_blank">www.moe.gov.sg/admissions/direct-admissions/dsa-sec</a>
+MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>
 </p>
 <h2>DSA-Sec@ West Spring Secondary School</h2>
 <p>3.&nbsp;&nbsp;&nbsp; West Spring Secondary School(WSSS) welcomes prospective
@@ -286,8 +286,8 @@ in external clubs are encouraged to apply</p>
 the online DSA-Sec Portal. The application is free-of-charge and will be
 open from (7 May to 3 June). For more details, please refer to MOE website
 – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.
-Only one parent’s SingPass is needed to login to the portal. Find out how
-to register for a SingPass if you don’t have one - <a href="https://www.singpass.gov.sg/singpass/common/supportmain" rel="noopener noreferrer nofollow" target="_blank">https://www.singpass.gov.sg/singpass/common/supportmain</a>.
+Only one parent’s SingPass is needed to login to the portal. Find out
+<a href="https://ask.gov.sg/singpass/questions/clul27aq60028yisxifw2l2w3" rel="noopener nofollow" target="_blank">how to register for a SingPass</a>if you don’t have one - <a href="https://portal.singpass.gov.sg/home/ui/register/instructions" rel="noopener nofollow" target="_blank">https://portal.singpass.gov.sg/home/ui/register/instructions</a>.
 Parents/ guardians who are unable to apply online can approach their child’s
 primary school for assistance. Applicants NOT studying in MOE mainstream
 primary schools, including Returning Singaporeans and International Students,
