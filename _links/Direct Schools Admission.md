@@ -16,8 +16,8 @@ available to develop the area of talent.</p>
 <p>&nbsp;2.&nbsp;&nbsp;&nbsp; From 2025, application for DSA-Sec can be submitted
 through the online DSA-Sec Portal. The application is free-of-charge and
 will be opened from May to June 2025. For more details, please refer to
-MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.</p>
-<p>If you have any questions, please feel free to use the form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdJgXPV4Tr5KappL_ZFmHrvr8-hdatakujOoxN4J1V9uZTNzA/viewform?usp=dialog" rel="noopener nofollow" target="_blank">DSA: I have a question</a> and
+MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.
+If you have any questions, please feel free to use the form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdJgXPV4Tr5KappL_ZFmHrvr8-hdatakujOoxN4J1V9uZTNzA/viewform?usp=dialog" rel="noopener nofollow" target="_blank">DSA: I have a question</a> and
 we will get back to you as soon as possible.</p>
 <h2>DSA-Sec@ West Spring Secondary School</h2>
 <p>3.&nbsp;&nbsp;&nbsp; West Spring Secondary School(WSSS) welcomes prospective
