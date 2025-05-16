@@ -36,3 +36,7 @@ compose creative and expressive statements through the art of performance.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/INTERNATIONAL_DANCE___INFORMAL.jpg">
+</div>
+<p></p>
