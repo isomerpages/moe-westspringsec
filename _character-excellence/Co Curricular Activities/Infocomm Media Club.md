@@ -17,6 +17,10 @@ Technologies, Game Development with Game Maker, Python and Roblox programming.&n
 both Video and Comic Strip categories. Additionally, our Sec 3 students
 stood out as top 10 finalists in the National Youth Tech Championship,
 competing against 61 schools across Singapore.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/INFOCOMM_CLUB___INFORMAL.jpg">
+</div>
 <p>
 <br>
 </p>

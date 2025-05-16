@@ -13,6 +13,10 @@ with other schools provide valuable competitive experience.&nbsp;</p>
 National Schools Games (NSG). As a result of the boys’ hard work and dedication,
 the ‘B’ Division Boys capped off the year with an impressive 4th-place
 finish in League 1.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOOTBALL___INFORMAL.jpg">
+</div>
 <p>
 <br>
 </p>
