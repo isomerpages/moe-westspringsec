@@ -17,3 +17,7 @@ providing a supportive environment for students to shine. These experiences
 not only build confidence and performance skills but also foster a strong
 sense of community and collaboration, deepening students’ appreciation
 for the performing arts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SPEECH_AND_DRAMA_CLUB___INFORMAL.jpg">
+</div>
+<p></p>
