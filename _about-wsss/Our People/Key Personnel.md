@@ -31,7 +31,7 @@ variant: tiptap
 <p>Mrs Belinda Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>belinda_yong@schools.gov.sg</p>
+<p>westspringss@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ variant: tiptap
 <p>Mr Chan Huan Jian Malvin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>malvin_chan@schools.gov.sg</p>
+<p>westspringss@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ variant: tiptap
 <p>Mrs Joy Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong-sim_bee_lian@schools.gov.sg</p>
+<p>westspringss@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
