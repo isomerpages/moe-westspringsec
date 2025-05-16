@@ -20,3 +20,7 @@ the year, even during the off-season.</p>
 Reflection sessions allow shooters to track progress, share feedback with
 peers and coaches, and continuously improve both their performance and
 mindset.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHOOTING___INFORMAL.jpg">
+</div>
+<p></p>
