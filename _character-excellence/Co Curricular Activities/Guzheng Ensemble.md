@@ -27,3 +27,7 @@ inculcation and life-skills through teamwork and discipline.&nbsp;</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GUZHENG_ENSEMBLE___INFORMAL.jpg">
+</div>
+<p></p>
