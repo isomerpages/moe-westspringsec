@@ -20,3 +20,7 @@ top student leaders into the school’s leadership body. Through these initiativ
 the Student Council exemplifies the core values of service, teamwork, and
 leadership, contributing significantly to the vibrant school culture at
 West Spring.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STUDENT_COUNCIL___INFORMAL.jpg">
+</div>
+<p></p>
