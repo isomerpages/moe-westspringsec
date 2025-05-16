@@ -55,3 +55,7 @@ Social Development, Home, Outdoor, Community and International skills</p>
 </p>
 <p>Nurul Humairah Binte M Rahim (4B/2024) was awarded the Baden Powell Award
 2024, the highest award given out by the Chief Commissioner to a Girl Guide.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GIRL_GUIDES___INFORMAL.jpg">
+</div>
+<p></p>
