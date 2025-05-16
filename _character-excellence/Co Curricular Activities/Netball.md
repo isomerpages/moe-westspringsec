@@ -15,6 +15,10 @@ the quarter-finals in League 3 of the National School Games.&nbsp;</p>
 with schools like Jurong West Secondary School, fostering sportsmanship
 and team spirit. These experiences not only enhance the players' skills
 but also build lasting camaraderie.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NETBALL___INFORMAL.jpg">
+</div>
 <p>
 <br>
 </p>
