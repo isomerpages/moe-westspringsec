@@ -54,3 +54,7 @@ the SPF-NPCC Badge for their outstanding contribution to the unit and corp.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NATIONAL_POLICE_CADET_CORPS___INFORMAL.jpg">
+</div>
+<p></p>
