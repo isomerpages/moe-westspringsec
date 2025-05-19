@@ -16,9 +16,10 @@ The booking form will be available until 28 May (Wed) 10pm.</p>
 certain slots due to other school duties.</p>
 <p>If you are unable to book a timeslot, please contact the teacher at his/her
 email address to arrange an alternate date and time.</p>
-<p>If you need to confirm the names of the Form Teachers, please <a href="https://drive.google.com/file/d/1sS16rsxbA6NRUv1IMblItTtlmVVPv4F0/view?usp=drive_link" rel="noopener nofollow" target="_blank">click here</a>
+<p><a href="https://drive.google.com/file/d/1sS16rsxbA6NRUv1IMblItTtlmVVPv4F0/view?usp=drive_link" rel="noopener nofollow" target="_blank">If you need to confirm the names of the Form Teachers, please click here.</a>
 </p>
-<p></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1PU4V3ZClhXpgPmLA1odAsz-j-54ZR112KhcBwI4BMZ8/edit?gid=484181669#gid=484181669" rel="noopener noreferrer nofollow" target="_blank">If you need to confirm the names of the Subject Teachers, please click here.</a>
+</p>
 <p>Thank you! We look forward to meeting you together with your child/ward!</p>
 <h4>Booking Links Below! Please scroll the table to the right for teacher's email address)</h4>
 <table style="minWidth: 125px">
