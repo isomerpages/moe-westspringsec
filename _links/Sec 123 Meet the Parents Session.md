@@ -18,3 +18,5 @@ certain slots due to other school duties.</p>
 email address to arrange an alternate date and time.</p>
 <p>If you need to confirm the names of the Form Teachers, please</p>
 <p>Thank you! We look forward to meeting you together with your child/ward!</p>
+<h4>Booking Links Below! Please scroll the table to the right for teacher's email address)</h4>
+<p></p>
