@@ -16,3 +16,5 @@ The booking form will be available until 28 May (Wed) 10pm.</p>
 certain slots due to other school duties.</p>
 <p>If you are unable to book a timeslot, please contact the teacher at his/her
 email address to arrange an alternate date and time.</p>
+<p>If you need to confirm the names of the Form Teachers, please</p>
+<p>Thank you! We look forward to meeting you together with your child/ward!</p>
