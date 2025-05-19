@@ -1,5 +1,5 @@
 ---
-title: Meet the Parents Session
+title: Sec 45 Meet the Parents Session
 permalink: /meet-the-parents-session/
 variant: tiptap
 description: ""
