@@ -10,6 +10,8 @@ nurturing potential and celebrating excellence. As part of our commitment
 to attract and support outstanding students, we are proud to offer <strong>Sec 1 Scholarship Awards</strong> to
 deserving students who choose WSSS as their <strong>first choice</strong> during
 the <strong>Sec 1 Posting Exercise</strong>.</p>
+<p><em>*Awards are applicable for Singapore Citizen/ Singapore Permanent Resident only.</em>
+</p>
 <p><strong>🎓 Sec 1 Scholarship Award (Academic) For Top Performing G3 Students</strong>
 </p>
 <p>This award recognises students with strong academic ability and exemplary
