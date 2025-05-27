@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - WSSS Scholarships/.keep
       - For Parents.md
       - For Students.md
       - For Teachers.md
