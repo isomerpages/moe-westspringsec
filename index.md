@@ -26,19 +26,17 @@ sections:
       id: announcements
       subtitle: Most Recent
       announcement_items:
+        - title: WSSS Scholarships
+          date: 27 May 2025
+          announcement: Recognising Talent. Rewarding Excellence.
+          link_text: Learn more
+          link_url: https://www.westspringsec.moe.edu.sg/wsss-scholarships/
         - title: DSA Online Application
           date: 05 May 2025
           announcement: "DSA Online Application (7 May 2025, 11am to 3 June 2025,
             3pm).  The information can be found here:"
           link_text: DSA Online Application 2025
           link_url: https://www.westspringsec.moe.edu.sg/links/dsa/
-        - title: SpringFest 2025
-          date: 24 May 2025
-          announcement: Come experience the energy and vibrancy of West Spring! All are
-            welcome. Tickets will be sold on day of event.  Sale proceeds will
-            be donated to Care Community Services Society.
-          link_text: SpringFest '25
-          link_url: https://drive.google.com/file/d/1ohhhcITwwUaE79aFNCZVCi9hxzIUYU-H/view?usp=sharing
   - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement

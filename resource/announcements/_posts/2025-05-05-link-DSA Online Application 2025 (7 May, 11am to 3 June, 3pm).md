@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://drive.google.com/file/d/1J8aoKscK1FUW4WsFQ9aeae62cIgdkpbB/view?usp=sharing
+external: https://www.westspringsec.moe.edu.sg/links/dsa/
 ---
