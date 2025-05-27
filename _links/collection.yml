@@ -2,10 +2,10 @@ collections:
   links:
     output: true
     order:
-      - WSSS Scholarships.md
       - For Parents.md
       - For Students.md
       - For Teachers.md
+      - WSSS Scholarships.md
       - School Calendar.md
       - Download Forms.md
       - Direct Schools Admission.md
