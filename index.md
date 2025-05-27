@@ -29,8 +29,8 @@ sections:
         - title: WSSS Scholarships
           date: 27 May 2025
           announcement: Recognising Talent. Rewarding Excellence.
-          link_text: ""
-          link_url: ""
+          link_text: Learn more
+          link_url: https://www.westspringsec.moe.edu.sg/wsss-scholarships/
         - title: DSA Online Application
           date: 05 May 2025
           announcement: "DSA Online Application (7 May 2025, 11am to 3 June 2025,
