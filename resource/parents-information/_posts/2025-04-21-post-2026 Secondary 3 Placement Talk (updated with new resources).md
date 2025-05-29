@@ -19,12 +19,13 @@ us at <a href="mailto:westspringss@moe.edu.sg" rel="noopener noreferrer nofollow
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2026_Sec_3_G1G2_Placement_Briefing_for_Parents_28_Apr_Final.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 G1 &amp; G2 Placement Briefing Slides</a>
+<p><a href="https://drive.google.com/file/d/1kb3niovR-Hssxx8JI1KVmSkJWezovwxY/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec 3 G1 &amp; G2 Placement Briefing Slides</a>
 </p>
 </li>
 <li>
-<p><a href="/files/WSSS_Sec_3_Placement_ECG__G1_2_.pdf" rel="noopener nofollow" target="_blank">ECG Slides by ECG Counsellor (G1 &amp; G2)</a>
+<p><a href="https://drive.google.com/file/d/1gP0nLKhczMgDf4pXKFMcFDxQFwD7Jfd9/view?usp=drive_link" rel="noopener nofollow" target="_blank">ECG Slides by ECG Counsellor (G1 &amp; G2)</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p></p>
@@ -32,11 +33,11 @@ us at <a href="mailto:westspringss@moe.edu.sg" rel="noopener noreferrer nofollow
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2026_Sec_3_G3_Placement_Briefing_for_Parents_28_Apr_Final.pdf" rel="noopener nofollow" target="_blank">2026 Sec 3 G3 Placement Briefing Slides</a>
+<p><a href="https://drive.google.com/file/d/1KE4p-GCTnSnUhEfaG3EaHHJa-HmAetlO/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Sec 3 G3 Placement Briefing Slides</a>
 </p>
 </li>
 <li>
-<p><a href="/files/WSSS_Sec_3_Placement_ECG__G3_.pdf" rel="noopener nofollow" target="_blank">ECG Slides by ECG Counsellor (G3)</a>
+<p><a href="https://drive.google.com/file/d/1zgMXleU1T8IX-LLD0goFzlbdT74j46eL/view?usp=sharing" rel="noopener nofollow" target="_blank">ECG Slides by ECG Counsellor (G3)</a>
 </p>
 </li>
 </ul>
