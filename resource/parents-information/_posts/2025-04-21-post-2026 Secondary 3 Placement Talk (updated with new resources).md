@@ -23,8 +23,9 @@ us at <a href="mailto:westspringss@moe.edu.sg" rel="noopener noreferrer nofollow
 </p>
 </li>
 <li>
-<p><a href="/files/WSSS_Sec_3_Placement_ECG__G1_2_.pdf" rel="noopener nofollow" target="_blank">ECG Slides by ECG Counsellor (G1 &amp; G2)</a>
+<p><a href="https://drive.google.com/file/d/1gP0nLKhczMgDf4pXKFMcFDxQFwD7Jfd9/view?usp=drive_link" rel="noopener nofollow" target="_blank">ECG Slides by ECG Counsellor (G1 &amp; G2)</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p></p>
@@ -36,7 +37,7 @@ us at <a href="mailto:westspringss@moe.edu.sg" rel="noopener noreferrer nofollow
 </p>
 </li>
 <li>
-<p><a href="/files/WSSS_Sec_3_Placement_ECG__G3_.pdf" rel="noopener nofollow" target="_blank">ECG Slides by ECG Counsellor (G3)</a>
+<p><a href="https://drive.google.com/file/d/1zgMXleU1T8IX-LLD0goFzlbdT74j46eL/view?usp=sharing" rel="noopener nofollow" target="_blank">ECG Slides by ECG Counsellor (G3)</a>
 </p>
 </li>
 </ul>
