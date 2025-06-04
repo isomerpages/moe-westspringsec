@@ -2,7 +2,6 @@ collections:
   academic-excellence:
     output: true
     order:
-      - Mother Tongue Language (Malay) Department.md
       - Mother Tongue Language (Chinese) Department.md
       - Applied Learning Programme.md
       - Academic Departments.md
