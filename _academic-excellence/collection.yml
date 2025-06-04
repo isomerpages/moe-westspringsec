@@ -2,6 +2,7 @@ collections:
   academic-excellence:
     output: true
     order:
+      - Mother Tongue Language (Chinese) Departments.md
       - Applied Learning Programme.md
       - Academic Departments.md
       - Computer Applications Department.md
