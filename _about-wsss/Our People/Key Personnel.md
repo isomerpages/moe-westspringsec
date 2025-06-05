@@ -278,7 +278,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Physical Education &amp; Co-Curricular Activities</p>
+<p>SH Physical Education &amp; Co-Curricular Activities (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Evelyn Tan</p>
