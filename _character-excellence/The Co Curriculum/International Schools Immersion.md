@@ -24,8 +24,6 @@ Countries (Cities): Cambodia (Siem Reap), Vietnam (Ho Chi Minh City)
 *   Cambodia: Hun Sen High School
 *   Vietnam: Hong Duc Secondary School & High School
 
-![Cambodia2](/images/cambodia2.jpg)![](/images/cambodia5.jpg)![](/images/China.jpg)![](/images/Vietnam.jpg)
+![Cambodia2](/images/cambodia2.jpg)![](/images/China.jpg)![](/images/Vietnam.jpg)
 
 For more information, please email us at [westspringss@moe.edu.sg](westspringss@moe.edu.sg)
-
-
