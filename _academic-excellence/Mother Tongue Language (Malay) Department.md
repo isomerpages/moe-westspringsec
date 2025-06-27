@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Language (Malay) Department
-permalink: /academic-excellence/mother-tongue-malay-department/
+permalink: /academic-excellence/mother-tongue-language-malay-department/
 description: ""
 variant: tiptap
 ---

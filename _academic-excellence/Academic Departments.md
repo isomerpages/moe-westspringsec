@@ -20,7 +20,7 @@ For more information on our academic programmes, click on the following:
 
 5. [Mathematics Department](/academic-excellence/mathematics-department/)
     
-7.  [Mother Tongue (Chinese) Department](/Academic-Excellence/Mother-Tongue-Chinese-Department/)
-8.  [Mother Tongue(Malay) Department](/Academic-Excellence/Mother-Tongue-Malay-Department/)
+7.  [Mother Tongue Language (Chinese) Department](/academic-excellence/mother-tongue-language-chinese-department/)
+8.  [Mother Tongue Language (Malay) Department](/academic-excellence/mother-tongue-language-malay-department/)
 9.  [Physical Education Department](/academic-excellence/physical-education-department/)
 10.  [Science Department](/academic-excellence/science-department/)
