@@ -179,17 +179,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Special Projects</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Fauroni Sukhaimi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>fauroni_sukhaimi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>YH Lower Secondary (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -256,7 +245,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Malay Language (Covering)</p>
+<p>SH Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Liyana Osman</p>
@@ -322,7 +311,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Student Leadership (Covering)</p>
+<p>SH Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jasmine Kao</p>
@@ -476,7 +465,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
+<p>Senior Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kavitha Padmanathan</p>
