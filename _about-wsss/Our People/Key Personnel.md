@@ -443,6 +443,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kenneth Ho Jing Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Flexi-Adjunct School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
