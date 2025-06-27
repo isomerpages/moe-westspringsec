@@ -358,10 +358,10 @@ variant: tiptap
 <p>Humanities, English Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nornieyuniza bte Mohamad Yusuff</p>
+<p>Mdm Nornieyuniza Bte Mohamed Yusuf</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>nornieyuniza_mohamed_yusuf@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
