@@ -355,17 +355,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Fauzana Bte Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>fauzana_ismail@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ST Nutrition &amp; Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
