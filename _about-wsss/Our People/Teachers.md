@@ -116,10 +116,10 @@ variant: tiptap
 <p>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chua Yen Joe</p>
+<p>Ms Chong Yee Hau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_yen_joe@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -237,10 +237,10 @@ variant: tiptap
 <p>English Language, English Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Farhanum Binte Nordin</p>
+<p>Mr Seet Xuan Yang Derek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>siti_farhanum_nordin@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -263,6 +263,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>harliany_hairon@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language, Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Zi Xiang Gavin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -344,6 +355,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Humanities, English Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nornieyuniza Bte Mohamed Yusuf</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nornieyuniza_mohamed_yusuf@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Humanities, POA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -395,17 +417,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chong_yann_shin@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Eunice Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_si_hui_eunice@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -512,21 +523,10 @@ variant: tiptap
 <p>Nutrition and Food Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Puspawati Rosli</p>
+<p>Ms Magdalene Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>puspawati_rosli@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nutrition and Food Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nurul Ain</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>nurul_ain_samad@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
