@@ -22,6 +22,11 @@ variant: tiptap
 may use this form to update student/parent details with the school. However,
 you should still alert your child's/ward's form teacher that you have submitted
 an update.</p>
+<p><a href="https://drive.google.com/file/d/1C1lF3yF-EWN_NMrABs6vTsrKO6534v6b/view?usp=drive_link" rel="noopener nofollow" target="_blank">Parent Gateway (PG) Matters</a> There
+is a new Student Absence feature on Parents Gateway (PG) available from
+June 2025. With this feature you will be able to submit reasons for your
+child's absence, attach medical certificates and documents - all in the
+PG app.</p>
 <p></p>
 <p>Other Resources</p>
 <ol data-tight="true" class="tight">
