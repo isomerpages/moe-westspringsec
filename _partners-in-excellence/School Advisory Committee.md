@@ -4,7 +4,7 @@ permalink: /partners-in-excellence/school-advisory-committee/
 description: ""
 variant: tiptap
 ---
-<p>School Advisory Committee 2023 - 2024</p>
+<p>School Advisory Committee 2025 - 2027</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -64,7 +64,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Jagathishwaran s/o Rajo</p>
+<p>Mr. Kendrick Lau Tze Siang</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Veerappan S/O Swaminathan</p>
+<p>Mr. Veerappan S/O Swaminathan</p>
 </td>
 </tr>
 </tbody>
