@@ -27,7 +27,24 @@ variant: tiptap
 <p></p>
 <p><strong>Highlights</strong>
 </p>
+<p>2025</p>
 <ul>
+<li>
+<p>Our Badminton B Division Boys made history this year by finishing in the
+Top 4 of the West Zone and earning a spot in the Nationals Round for the
+first time ever. Their hard work, teamwork, and fighting spirit throughout
+the competition have made the school proud! This milestone sets a new benchmark
+for future batches to strive towards.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/B1_2025.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/B2_2025.jpg">
+</div>
+<p></p>
+<p>2024</p>
+</li>
 <li>
 <p>‘C’ Division Boys earned 2nd place in NSG 2024 (League 2)&nbsp;</p>
 </li>
