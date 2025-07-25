@@ -22,7 +22,6 @@ sections:
           description: ""
           url: https://www.instagram.com/westspringsec/
   - announcements:
-      title: Announcements & Updates
       id: announcements
       subtitle: Most Recent
       announcement_items:
