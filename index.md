@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/eBanner_2024.png
+      background: /images/B08A0023_720.png
       variant: image
       title: Leaders of Character, Learners for Life
       subtitle: Shaping Character | Engaging Learners | Touching Lives
