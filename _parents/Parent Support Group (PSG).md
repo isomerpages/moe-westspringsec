@@ -4,4 +4,14 @@ permalink: /parents/parent-support-group-psg/
 description: ""
 variant: tiptap
 ---
-<p>PSG Executive Committee 2023</p><table><tbody><tr><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Name</p></th></tr><tr><td rowspan="1" colspan="1"><p>Chairperson</p></td><td rowspan="1" colspan="1"><p>Mdm. Norazlin Jumadi</p></td></tr><tr><td rowspan="1" colspan="1"><p>Vice-Chairperson 1</p></td><td rowspan="1" colspan="1"><p>Mr. Henry Agus</p></td></tr><tr><td rowspan="1" colspan="1"><p>Vice-Chairperson 2</p></td><td rowspan="1" colspan="1"><p>Mdm. Audrey Lee</p></td></tr><tr><td rowspan="1" colspan="1"><p>Advisor</p></td><td rowspan="1" colspan="1"><p>Mdm. Jacqueline Koh</p></td></tr><tr><td rowspan="1" colspan="1"><p>Secretary</p></td><td rowspan="1" colspan="1"><p>Mdm. Low Lai Chui</p></td></tr><tr><td rowspan="1" colspan="1"><p>Treasurer</p></td><td rowspan="1" colspan="1"><p>Mr. Jimmy Wong</p></td></tr><tr><td rowspan="1" colspan="1"><p>Members</p></td><td rowspan="1" colspan="1"><p>Mdm. Kelly Lim</p><p>Mdm. Justine Lee</p><p>Mdm. Kate Swee</p></td></tr></tbody></table><p></p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/psg_2.png"></div><p></p>
+<p><strong>PSG Executive Committee</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PSG_EXCO.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_PSG_Poster.jpg">
+</div>
+<p></p>
