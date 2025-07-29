@@ -4,7 +4,7 @@ permalink: /parents/parent-support-group-psg/
 description: ""
 variant: tiptap
 ---
-<p><strong>PSG Executive Committee</strong>
+<p><strong><u>PSG Executive Committee</u></strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
