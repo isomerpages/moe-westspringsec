@@ -392,10 +392,10 @@ variant: tiptap
 <p>Malay Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sufianna Abas</p>
+<p>Mdm Syahirah Aiman Binte Abbas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sufianna_abas_b@moe.edu.sg</p>
+<p>syahirah_aiman_abbas_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -516,7 +516,7 @@ variant: tiptap
 <p>Ms Magdalene Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p>ho_ngai_kuen_magdalene@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
