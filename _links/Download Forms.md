@@ -12,4 +12,4 @@ Group Personal Accident Insurance for Students
 
 Other Forms
 
-4. [Leave of Absence Form](https://form.gov.sg/63bfb1fcbef23b0011f3ba7c )
+4. [Apply for Leave during term time](/files/2025_Application_for_Leave_During_Term.pdf)
