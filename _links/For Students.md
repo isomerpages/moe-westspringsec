@@ -8,7 +8,7 @@ variant: tiptap
 </p>
 <p><a href="/students/permalink/mims" rel="noopener noreferrer nofollow" target="_blank">Student iCON and MIMS Password</a>
 </p>
-<p><a href="https://sites.google.com/moe.edu.sg/wsssbl/home" rel="noopener noreferrer nofollow" target="_blank">West Spring Home-based Learning</a>
+<p><a href="https://sites.google.com/moe.edu.sg/wssshbl/home" rel="noopener noreferrer nofollow" target="_blank">West Spring Home-based Learning</a>
 </p>
 <p><a href="https://www.learning.moe.edu.sg/sls/index.html" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
 </p>
