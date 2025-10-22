@@ -322,10 +322,7 @@ an offer.</p>
 on the student’s aptitudes and strengths, bearing in mind the schools’
 academic and non-academic requirements, and the programmes available to
 develop the area of talent.</p>
-<p>14. Please refer to the flow chart on the timeline and processes below:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2025.jpg">
-</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
