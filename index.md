@@ -32,12 +32,12 @@ sections:
           link_url: https://www.westspringsec.moe.edu.sg/wsss-scholarships/
         - title: 2026 Booklists and Uniform
           date: 22 October 2025
-          announcement: Information on important dates and lists to refer to.
+          announcement: Important dates and lists to refer to.
           link_text: Learn more
           link_url: https://www.westspringsec.moe.edu.sg/2026-purchase-of-books-and-uniforms/
         - title: Sec 123 MTPS
           date: 22 October 2025
-          announcement: Please click the link below for more information.
+          announcement: Click the link below for more information.
           link_text: Learn more
           link_url: https://www.westspringsec.moe.edu.sg/sec-123-meet-the-parents-session/
   - infopic:
