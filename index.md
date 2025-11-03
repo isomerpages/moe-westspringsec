@@ -39,7 +39,7 @@ sections:
           date: 03 November 2025
           announcement: "Date: 21 Nov (Fri), 12pm – 1pm.   Registration will close on 18
             Nov."
-          link_text: Learn more
+          link_text: Registration details
           link_url: https://drive.google.com/file/d/1OPQpNDRYgItJmzNpmO4Md66BxgqshS9g/view?usp=drive_link
   - infopic:
       title: Yellow Flame Award - School Green Award
