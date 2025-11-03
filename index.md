@@ -35,11 +35,12 @@ sections:
           announcement: Important dates and lists to refer to.
           link_text: Learn more
           link_url: https://www.westspringsec.moe.edu.sg/2026-purchase-of-books-and-uniforms/
-        - title: Sec 123 MTPS
-          date: 22 October 2025
-          announcement: Click the link below for more information.
-          link_text: Learn more
-          link_url: https://www.westspringsec.moe.edu.sg/sec-123-meet-the-parents-session/
+        - title: Online Engagement Session with P6 Parents
+          date: 03 November 2025
+          announcement: "Date: 21 Nov (Fri), 12pm –
+            1pm   https://forms.moe.edu.sg/forms/eDW4On"
+          link_text: Learn More and Register by 18 Nov
+          link_url: https://drive.google.com/file/d/1OPQpNDRYgItJmzNpmO4Md66BxgqshS9g/view?usp=drive_link
   - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
