@@ -18,10 +18,13 @@ variant: tiptap
 <p>2) walk-in to our school bookshop on weekdays, between</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>17 Nov to 21 Nov from 9am to 3pm. (2026 Sec 2 to 4 students)</p>
+<p>17 Nov to 21 Nov from 9am to 3pm (2026 Sec 2 students)</p>
 </li>
 <li>
-<p>8 Dec to 12 Dec from 9am to 3pm. (2026 Sec 2 to 4 students)</p>
+<p>24 Nov to 28 Nov from 9am to 3pm (2026 Sec 3 and Sec 4 students)</p>
+</li>
+<li>
+<p>8 Dec to 12 Dec from 9am to 3pm (2026 Sec 2 to 4 students)</p>
 </li>
 <li>
 <p>For students under FAS, you are encouraged to collect your books from
