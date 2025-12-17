@@ -25,22 +25,22 @@ sections:
       id: announcements
       subtitle: Most Recent
       announcement_items:
-        - title: WSSS Scholarships
-          date: 27 May 2025
-          announcement: Recognising Talent. Rewarding Excellence.
-          link_text: Learn more
-          link_url: https://www.westspringsec.moe.edu.sg/wsss-scholarships/
+        - title: Sec 1 Registration 2026
+          date: 17 December 2025
+          announcement: West Spring Sec welcomes all Sec 1 students! Please click the link
+            to complete the registration process. Thank you.
+          link_text: Click here
+          link_url: https://www.westspringsec.moe.edu.sg/sec-1-registration-2026/
         - title: 2026 Booklists and Uniform
           date: 22 October 2025
           announcement: Important dates and lists to refer to.
           link_text: Learn more
           link_url: https://www.westspringsec.moe.edu.sg/2026-purchase-of-books-and-uniforms/
-        - title: Online Engagement Session with P6 Parents
-          date: 03 November 2025
-          announcement: "Date: 21 Nov (Fri), 12pm – 1pm.   Registration will close on 18
-            Nov."
-          link_text: Registration details
-          link_url: https://drive.google.com/file/d/1OPQpNDRYgItJmzNpmO4Md66BxgqshS9g/view?usp=drive_link
+        - title: WSSS Scholarships
+          date: 27 May 2025
+          announcement: Recognising Talent. Rewarding Excellence.
+          link_text: Learn more
+          link_url: https://www.westspringsec.moe.edu.sg/wsss-scholarships/
   - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
