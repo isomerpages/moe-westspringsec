@@ -59,7 +59,8 @@ it only when the price is released in early January.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1 booklist will be published at a later date.</p>
+<p><a href="/files/Booklist_for_Sec_1_2026.pdf" rel="noopener nofollow" target="_blank">Booklist for Sec 1 2026</a>
+</p>
 </li>
 <li>
 <p><a href="/files/West_Spring_2026___Sec_2.pdf" rel="noopener nofollow" target="_blank">Booklist for Sec 2 2026</a>
