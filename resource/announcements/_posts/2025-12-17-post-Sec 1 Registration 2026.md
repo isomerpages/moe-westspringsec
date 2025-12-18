@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Information for Sec 1 Registration 2026 </strong>
+<p><strong>Information for Sec 1 Registration 2026</strong>
 </p>
 <p><strong>(Click here to <a href="/files/2026_WSSS_Sec_1_Registration_Information.pdf" rel="noopener noreferrer nofollow" target="_blank">download PDF</a> version of this page)</strong>
 </p>
@@ -121,7 +121,7 @@ Full-SBB team for further clarification.&nbsp;</p>
 </p>
 <ol start="4">
 <li>
-<p><strong>Purchase of School Uniform, PE Attire, Textbooks &amp; Stationery<br> You are encouraged to make your orders online. Purchase can be done via online order (to opt for home delivery) or non online order (to purchase in school).</strong>
+<p><strong>Purchase of School Uniform, PE Attire, Textbooks &amp; Stationery<br>You are encouraged to make your orders online. Purchase can be done via online order (to opt for home delivery) or non online order (to purchase in school).</strong>
 </p>
 </li>
 </ol>
@@ -145,24 +145,24 @@ Full-SBB team for further clarification.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <p><strong>IN-TREND UNIFORMS</strong>
 </p>
-<p><strong>Website: <a href="https://www.westspringsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.intrenduniforms.com</u></a></strong>
+<p><strong>Website: <a href="https://www.intrenduniforms.com" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.intrenduniforms.com</u></a></strong>
 </p>
 <p>1 Kaki Bukit Road 1, #01-31 Enterprise One, Singapore 415934</p>
 <p>Tel: 67410930</p>
 <p>Fax: 67447689
-<br>Email: sales.@<a href="https://www.westspringsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">itu.com.sg</a>
+<br>Email: <a href="mailto:sales@itu.com.sg" rel="noopener noreferrer nofollow" target="_blank">sales@itu.com.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Asencio Pte Ltd</strong>
 </p>
-<p><strong>Website: &nbsp;<a href="https://www.westspringsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>www.asenciobookshop.sg</u></a></strong>
+<p><strong>Website: &nbsp;<a href="www.asenciobookshop.sg" rel="noopener noreferrer nofollow" target="_blank"><u>www.asenciobookshop.sg</u></a></strong>
 </p>
 <p>120 Hillview Avenue&nbsp; #05-02 Kewalram Hillview
 <br>Singapore 669594
 <br>Tel (Main Office): 67643102
 <br>Tel: 80310502 (Text Message Only)
-<br>Enquiry E-mail: <a href="https://www.westspringsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">westspring@asencio.com.sg</a>
+<br>Enquiry E-mail: <a href="mailto:westspring@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">westspring@asencio.com.sg</a>
 </p>
 </td>
 </tr>
@@ -174,7 +174,7 @@ Full-SBB team for further clarification.&nbsp;</p>
 <p><strong>Dates: </strong>18,19,22,23,26,29,30 Dec 2025</p>
 </li>
 <li>
-<p><strong>Time</strong>: 9.00am to 3.00pm</p>
+<p><strong>Time</strong>: 9.00am to 3.00pm (9am to 12 noon on 30 Dec only)</p>
 </li>
 <li>
 <p><strong>Venue</strong>: SRD Room 1, 2 and 3 (Level 1, Behind General Office)</p>
@@ -217,8 +217,7 @@ collection of&nbsp; 1 voucher for book and uniform purchases (MOE FAS).</p>
 <p>If you wish to apply or need more information for the MOE Financial Assistance
 Scheme, please submit the application via this link: <a href="https://www.westspringsec.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u></a>. <strong>Please submit the e-form application to MOE.&nbsp;</strong>
 </p>
-<p>For more information on FAS details, please refer to MOE website. (click
-<a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank"></a><strong><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>).</p>
+<p>For more information on FAS details, please refer to MOE website. (click <strong><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>).</p>
 <p></p>
 <ol start="2">
 <li>
@@ -405,9 +404,7 @@ School PE Attire</p>
 <td rowspan="1" colspan="1">
 <p>Applied Learning Program (ALP)</p>
 <p>
-<br>
-</p>
-<p><strong><u>Afternoon Program</u></strong>
+<br><strong><u>Afternoon Program</u></strong>
 </p>
 <p>CCA Showcase</p>
 <ul>

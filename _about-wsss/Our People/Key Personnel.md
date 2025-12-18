@@ -47,10 +47,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (Administration)</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Joy Ong</p>
+<p>Mdm Chong Keting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>westspringss@moe.edu.sg</p>
