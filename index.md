@@ -28,7 +28,7 @@ sections:
         - title: Sec 1 Registration 2026
           date: 17 December 2025
           announcement: West Spring Sec welcomes all Sec 1 students! Please click the link
-            to complete the registration process. Thank you.
+            to read more information. Thank you.
           link_text: Click here
           link_url: https://www.westspringsec.moe.edu.sg/sec-1-registration-2026/
         - title: 2026 Booklists and Uniform
