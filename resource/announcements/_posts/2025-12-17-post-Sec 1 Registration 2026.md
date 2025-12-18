@@ -174,7 +174,7 @@ Full-SBB team for further clarification.&nbsp;</p>
 <p><strong>Dates: </strong>18,19,22,23,26,29,30 Dec 2025</p>
 </li>
 <li>
-<p><strong>Time</strong>: 9.00am to 3.00pm</p>
+<p><strong>Time</strong>: 9.00am to 3.00pm (9am to 12 noon on 30 Dec only)</p>
 </li>
 <li>
 <p><strong>Venue</strong>: SRD Room 1, 2 and 3 (Level 1, Behind General Office)</p>
