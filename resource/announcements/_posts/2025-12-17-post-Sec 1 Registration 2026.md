@@ -38,11 +38,10 @@ or contact the school at 68920369.</p>
 </p>
 </li>
 </ol>
-<p>Please ensure you (Parent) have your Parents Gateway app to complete the
-Sec 1 online e-registration on <strong>Sec 1 Registration Day, 19th Dec 2025.</strong> After
-you have received your school posting, West Spring Secondary School should
-be automatically reflected on the Parents Gateway App and you will be able
-to receive notifications from our school.</p>
+<p>Please ensure that you (Parent) have your Parents Gateway app installed
+to complete the Sec 1 online e-registration on <strong>19th Dec 2025.</strong> Once
+the school posting is reflected in the app, a Parents Gateway notification
+will be sent after <strong><u>5.00pm</u></strong> for you to proceed.</p>
 <p>Our <strong>Secondary 1 Registration Exercise</strong> will be<strong> conducted online via Parents Gateway (PG)</strong>.
 Please click on <strong>“YES”</strong> to <strong>ensure successful registration</strong>.&nbsp;</p>
 <p>For students who intend to <strong>put in an appeal to another school</strong>,
