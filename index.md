@@ -25,12 +25,11 @@ sections:
       id: announcements
       subtitle: Most Recent
       announcement_items:
-        - title: Sec 1 Registration 2026
-          date: 17 December 2025
-          announcement: West Spring Sec welcomes all Sec 1 students! Please click the link
-            to read more information. Thank you.
-          link_text: Click here
-          link_url: https://www.westspringsec.moe.edu.sg/sec-1-registration-2026/
+        - title: 2026 Term 1 Principal's Welcome Letters
+          date: 30 December 2025
+          announcement: Letters to parents and semester 1 class timetable.
+          link_text: Find out more
+          link_url: /term-1-2026-welcome-back-to-school/
         - title: 2026 Booklists and Uniform
           date: 22 October 2025
           announcement: Important dates and lists to refer to.
