@@ -25,6 +25,11 @@ sections:
       id: announcements
       subtitle: Most Recent
       announcement_items:
+        - title: 2026 Term 1 Principal's Welcome Letters
+          date: 30 December 2025
+          announcement: Letters to parents and semester 1 class timetable.
+          link_text: Find out more
+          link_url: /term-1-2026-welcome-back-to-school/
         - title: 2026 Booklists and Uniform
           date: 22 October 2025
           announcement: Important dates and lists to refer to.
