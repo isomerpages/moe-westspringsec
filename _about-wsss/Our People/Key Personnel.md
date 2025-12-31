@@ -83,10 +83,10 @@ variant: tiptap
 <p>HOD Craft and Tech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Wong Weng Heng</p>
+<p>Mr Raghuraman s/o Katherayson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_weng_heng@moe.edu.sg</p>
+<p>raghuraman_katherayson@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -179,6 +179,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD Special Projects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sherry Liew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>liew_geok_may_sherry@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>YH Lower Secondary (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,6 +278,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SH Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Angela Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_hwee_shan_angela@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>SH Physical Education &amp; Co-Curricular Activities (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -318,6 +340,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>kao_hui_ling@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Student Wellbeing (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jacinthia Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loh_yan_luan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
