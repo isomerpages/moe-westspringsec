@@ -130,7 +130,7 @@ variant: tiptap
 <p>Ms Ong Chi Yen Crystal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_chi_yen_crystal@moe.edu.sg</p>
+<p>ong_chi_yen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
