@@ -182,7 +182,7 @@ variant: tiptap
 <p>HOD Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sherry Liew</p>
+<p>Mdm Sherry Liew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>liew_geok_may_sherry@moe.edu.sg</p>
@@ -190,18 +190,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH Lower Secondary (Sec 2)</p>
+<p>YH Lower Secondary (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Raghuraman s/o Katherayson</p>
+<p>Ms Melissa Tay Mui Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>raghuraman_katherayson@moe.edu.sg</p>
+<p>tay_mui_kheng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH Upper Secondary (Sec 4)</p>
+<p>YH Upper Secondary (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kok Yeong Haur</p>
@@ -212,7 +212,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 1)</p>
+<p>Assistant Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tong Hui Min</p>
@@ -223,7 +223,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Sec 3)</p>
+<p>Assistant Year Head (Sec 4/5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Noor Faezah</p>
@@ -281,7 +281,7 @@ variant: tiptap
 <p>SH Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Ang</p>
+<p>Ms Angela Ang Hwee Shan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ang_hwee_shan_angela@moe.edu.sg</p>
@@ -347,7 +347,7 @@ variant: tiptap
 <p>SH Student Wellbeing (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jacinthia Loh</p>
+<p>Mdm Loh Yan Luan Jacinthia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>loh_yan_luan@moe.edu.sg</p>
