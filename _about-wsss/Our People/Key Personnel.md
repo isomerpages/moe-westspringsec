@@ -281,7 +281,7 @@ variant: tiptap
 <p>SH Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Ang Hwee Shan</p>
+<p>Ms Ang Hwee Shan Angela</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ang_hwee_shan_angela@moe.edu.sg</p>
