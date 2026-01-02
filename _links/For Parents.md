@@ -6,8 +6,8 @@ variant: tiptap
 ---
 <p><a href="https://westspringsec.moe.edu.sg/resource/parents-information/" rel="noopener noreferrer nofollow" target="_blank">Parents Information</a>
 </p>
-<p><a href="https://docs.google.com/spreadsheets/d/1PU4V3ZClhXpgPmLA1odAsz-j-54ZR112KhcBwI4BMZ8/edit?gid=484181669#gid=484181669" rel="noopener noreferrer nofollow" target="_blank">Subject Teachers List</a>
-</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1PU4V3ZClhXpgPmLA1odAsz-j-54ZR112KhcBwI4BMZ8/edit?gid=484181669#gid=484181669" rel="noopener noreferrer nofollow" target="_blank">Subject Teachers List</a> (The
+list is currently being updated. Please check back later)</p>
 <p><a href="https://sites.google.com/moe.edu.sg/wssspdlp/home" rel="noopener noreferrer nofollow" target="_blank">West Spring PLD</a>
 </p>
 <p><a href="https://westspringsec.moe.edu.sg/parents/parent-support-group-psg/" rel="noopener noreferrer nofollow" target="_blank">Parent Support Group (PSG)</a>
