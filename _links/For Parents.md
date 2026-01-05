@@ -29,7 +29,7 @@ is a new Student Absence feature on Parents Gateway (PG) available from
 June 2025. With this feature you will be able to submit reasons for your
 child's absence, attach medical certificates and documents - all in the
 PG app.</p>
-<p><a href="https://go.gov.sg/westspringsalt" rel="noopener nofollow" target="_blank">Application of Leave during Term (ALT) for Overseas Travel </a>Parents
+<p><a href="https://go.gov.sg/westspringssalt" rel="noopener nofollow" target="_blank">Application of Leave during Term (ALT) for Overseas Travel </a>Parents
 are required to submit an Application of Leave during Term (ALT) for students
 who need to be absent from school due to overseas travel. Applications
 should be submitted via the link above, together with the relevant supporting
