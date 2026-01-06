@@ -16,6 +16,8 @@ variant: tiptap
 </p>
 <p><a href="https://westspringsec.moe.edu.sg/parents/cyber-wellness-for-parents/" rel="noopener noreferrer nofollow" target="_blank">Cyber Wellness For Parents</a>
 </p>
+<p><a href="/group-personal-accident-gpa-insurance-plan-for-students/" rel="noopener nofollow" target="_blank">Group Personal Accident (GPA) Insurance Plan for Students</a>
+</p>
 <p><a href="https://www.msf.gov.sg/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">Ministry of Social and Family Development</a>
 </p>
 <p><a href="https://www.msf.gov.sg/media-room/Pages/FamilyMatters-Factsheet.aspx" rel="noopener noreferrer nofollow" target="_blank">FamilyMatters!</a>
