@@ -25,8 +25,7 @@ Exercise
 <p><strong>Eligibility Criteria (2nd Tranche):</strong>
 <br>✅ Achieve at least <strong>Very Good conduct grade</strong> in Semester
 2
-<br>✅ Ranked within the <strong>Top 10% of the cohort</strong> for overall academic
-results</p>
+<br>✅ Continued good performance in overall academic results</p>
 <p><strong>Award Amount:</strong>
 <br>🎁 <strong>Up to $500 per student</strong> (funded by the School Advisory
 Committee)</p>
