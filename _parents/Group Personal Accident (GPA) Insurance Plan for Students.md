@@ -15,8 +15,7 @@ scheme. As private hospitals charge significantly higher medical costs,
 there may be more out-of-pocket expenses for parents/guardians as there
 are caps to the MOE GPA insurance. Please note that all claims are subject
 to the policy terms and conditions.</p>
-<p>Information on claims, FAQs and other details pertaining to the GPA Insurance
-Plan for Students can be found <a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p>Insurance claims submissions are to be submitted electronically.&nbsp;
-Parents are to submit their claims online and check the claims status
+<p>Information on claims and details pertaining to the GPA Insurance Plan
+for Students can be found <a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Parents are to submit their claims online and check the claims status
 <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener nofollow" target="_blank">here</a>.</p>
