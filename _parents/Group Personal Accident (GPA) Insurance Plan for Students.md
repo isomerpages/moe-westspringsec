@@ -16,6 +16,6 @@ there may be more out-of-pocket expenses for parents/guardians as there
 are caps to the MOE GPA insurance. Please note that all claims are subject
 to the policy terms and conditions.</p>
 <p>Information on claims and details pertaining to the GPA Insurance Plan
-for Students can be found <a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+for Students can be found <a href="https://drive.google.com/file/d/12FVc_5QszwaFv8hSAe8E85HgBn8fMgdE/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>Parents are to submit their claims online and check the claims status
 <a href="https://studentgpa.incomegroupins.com.sg" rel="noopener nofollow" target="_blank">here</a>.</p>
