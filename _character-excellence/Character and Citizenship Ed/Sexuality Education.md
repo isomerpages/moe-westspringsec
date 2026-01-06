@@ -78,7 +78,7 @@ repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p><strong>At West Spring Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
-<p><strong>2026Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <h4><strong>Secondary 1</strong></h4>
 <table style="minWidth: 125px">
