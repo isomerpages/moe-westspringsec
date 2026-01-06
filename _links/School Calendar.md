@@ -8,6 +8,6 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
-<p>Please <a href="https://docs.google.com/document/d/1_VWC7b57GSurU8Y-T11a-g7yREWtwAmp/edit?usp=sharing&amp;ouid=107572185402249682266&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">click this link</a> to
+<p>Please <a href="https://docs.google.com/document/d/1xVcMltNH626owUKHHwUjrVjEB6-_2jjm/edit?usp=sharing&amp;ouid=115628954706861784186&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">click this link</a> to
 view the School's Calendar of Activities for 2025.</p>
 <p>Thank you.</p>
