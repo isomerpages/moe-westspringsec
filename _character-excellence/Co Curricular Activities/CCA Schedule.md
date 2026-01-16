@@ -505,19 +505,24 @@ only.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers in charge</p>
+<p><strong>Teachers in charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Target group</p>
+<p><strong>Target group</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Training Day</p>
+<p><strong>Training Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Remarks</p>
+<p><strong>Remarks</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -633,19 +638,24 @@ only.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers in charge</p>
+<p><strong>Teachers in charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Target group</p>
+<p><strong>Target group</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Training Day</p>
+<p><strong>Training Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Remarks</p>
+<p><strong>Remarks</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -811,19 +821,24 @@ only.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers in charge</p>
+<p><strong>Teachers in charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Target group</p>
+<p><strong>Target group</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Training Day</p>
+<p><strong>Training Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Remarks</p>
+<p><strong>Remarks</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -1006,19 +1021,24 @@ only.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teachers in charge</p>
+<p><strong>Teachers in charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Target group</p>
+<p><strong>Target group</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Training Day</p>
+<p><strong>Training Day</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Remarks</p>
+<p><strong>Remarks</strong>
+</p>
 </td>
 </tr>
 <tr>
