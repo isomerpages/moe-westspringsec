@@ -41,13 +41,13 @@ Exercise
 <br>✅ Held <strong>leadership roles at school level</strong> in primary school
 <br>(e.g. Prefects, UG Leaders – <em>exclude class roles or CCA captains</em>)</p>
 <p><strong>Eligibility Criteria (2nd Tranche):</strong>
-<br>✅ Achieve at least <strong>Very Good conduct grade</strong> in Semester
+<br>✅ Achieve at least <strong>Very Good grade in Conduct</strong> for Semester
 2
-<br>✅ Demonstrate leadership through roles such as:
-<br>• Class Chairperson / Vice-Chairperson
-<br>• Peer Support Leader
-<br>• Student Councillor
-<br>• Other equivalent appointments</p>
+<br>✅ Demonstrate leadership qualities by holding appointments such as Class
+Chairperson, Class Vice-Chairperson, Peer Support Leader, Student Councilor
+or similar position
+<br>
+</p>
 <p><strong>Award Amount:</strong>
 <br>🎁 <strong>Up to $500 per student</strong> (funded by the School Advisory
 Committee)</p>
