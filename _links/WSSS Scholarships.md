@@ -33,13 +33,13 @@ Committee)</p>
 <p><strong>🌱 Sec 1 Scholarship Award (Leadership) For Students with Strong Leadership Qualities</strong>
 </p>
 <p>(Available to students from <strong>G1, G2, and G3</strong>)</p>
-<p>This award honours students who have demonstrated exceptional leadership
+<p>This award honors students who have demonstrated exceptional leadership
 both in primary school and during their first year at WSSS.</p>
 <p><strong>Eligibility Criteria (1st Tranche):</strong>
 <br>✅ Selected WSSS as <strong>first choice</strong> during the Sec 1 Posting
 Exercise
-<br>✅ Held <strong>leadership roles at school level</strong> in primary school
-<br>(e.g. Prefects, UG Leaders – <em>exclude class roles or CCA captains</em>)</p>
+<br>✅ Held leadership roles at school level in primary school (CCA Chairpersons/Captains
+and Prefects)</p>
 <p><strong>Eligibility Criteria (2nd Tranche):</strong>
 <br>✅ Achieve at least <strong>Very Good grade in Conduct</strong> for Semester
 2
