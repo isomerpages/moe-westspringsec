@@ -25,21 +25,21 @@ sections:
       id: announcements
       subtitle: Most Recent
       announcement_items:
+        - title: WSSS Scholarships
+          date: 06 February 2026
+          announcement: Recognising Talent. Rewarding Excellence.
+          link_text: Learn more
+          link_url: https://www.westspringsec.moe.edu.sg/wsss-scholarships/
         - title: 2026 Term 1 Principal's Welcome Letters
           date: 30 December 2025
           announcement: Letters to parents and semester 1 class timetable.
           link_text: Find out more
           link_url: /term-1-2026-welcome-back-to-school/
-        - title: 2026 Booklists and Uniform
-          date: 22 October 2025
-          announcement: Important dates and lists to refer to.
+        - title: Sec 1 Parent Engagement
+          date: 06 February 2026
+          announcement: Sec 1 Parent Engagement - Learning Structures
           link_text: Learn more
-          link_url: https://www.westspringsec.moe.edu.sg/2026-purchase-of-books-and-uniforms/
-        - title: WSSS Scholarships
-          date: 27 May 2025
-          announcement: Recognising Talent. Rewarding Excellence.
-          link_text: Learn more
-          link_url: https://www.westspringsec.moe.edu.sg/wsss-scholarships/
+          link_url: https://drive.google.com/file/d/1OPQpNDRYgItJmzNpmO4Md66BxgqshS9g/view?usp=drive_link
   - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
