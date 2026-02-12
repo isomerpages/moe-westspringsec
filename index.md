@@ -39,7 +39,7 @@ sections:
           date: 06 February 2026
           announcement: Sec 1 Parent Engagement - Learning Structures
           link_text: Learn more
-          link_url: https://drive.google.com/file/d/1OPQpNDRYgItJmzNpmO4Md66BxgqshS9g/view?usp=drive_link
+          link_url: /sec-1-parents-engagement-session-6-feb-2026-5pm/
   - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
