@@ -18,9 +18,7 @@ variant: tiptap
 </p>
 <p><a href="/group-personal-accident-gpa-insurance-plan-for-students/" rel="noopener nofollow" target="_blank">Group Personal Accident (GPA) Insurance Plan for Students</a>
 </p>
-<p><a href="https://www.msf.gov.sg/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">Ministry of Social and Family Development</a>
-</p>
-<p><a href="https://www.msf.gov.sg/media-room/Pages/FamilyMatters-Factsheet.aspx" rel="noopener noreferrer nofollow" target="_blank">FamilyMatters!</a>
+<p><a href="https://www.msf.gov.sg/what-we-do/index/support-families-and-parents#" rel="noopener noreferrer nofollow" target="_blank">Ministry of Social and Family Development</a>
 </p>
 <p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">Student Details Form (SDF)</a> You
 may use this form to update student/parent details with the school. However,
