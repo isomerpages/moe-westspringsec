@@ -33,7 +33,6 @@ Shi and Zhenghua Community Club, to support residents in need by distributing
 essential groceries.</p>
 <p>Through these efforts, the PSG helps strengthen the school–home partnership,
 supporting the holistic development of every West Spring student.</p>
-<p></p>
 <p><strong><u>PSG Executive Committee</u></strong>
 </p>
 <div class="isomer-image-wrapper">
