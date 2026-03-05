@@ -4,13 +4,11 @@ permalink: /parents/parent-support-group-psg/
 description: ""
 variant: tiptap
 ---
-<p><strong>*********** Welcome to West Spring Parents Support Group (PSG) ***********</strong>
+<p><strong>Welcome to West Spring Parents Support Group (PSG)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/psg_image1.png">
 </div>
-<p><strong>Parent Support Group (PSG)</strong>
-</p>
 <p>The Parent Support Group (PSG) plays a vital role in building strong partnerships
 between the school and the parent community. As valued partners in education,
 PSG members work closely with the school to foster open communication and
