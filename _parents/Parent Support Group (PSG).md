@@ -39,7 +39,7 @@ supporting the holistic development of every West Spring student.</p>
 <p><strong><u>PSG Executive Committee</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="psg5 2026" src="/images/psg_image5.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="psg5 2026" src="/images/psg_image5.jpg">
 </div>
 <p><strong>WSSS ‘Our Shared Commitment’</strong>
 </p>
@@ -47,7 +47,7 @@ supporting the holistic development of every West Spring student.</p>
 partnership is built on mutual trust, communication, and shared responsibility
 in guiding our students’ growth.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="psg3 2026" src="/images/psg_image2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="psg3 2026" src="/images/psg_image2.png">
 </div>
 <p><strong>Resources for Parents</strong>
 </p>
