@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><a href="https://westspringsec.moe.edu.sg/resource/parents-information/" rel="noopener noreferrer nofollow" target="_blank">Parents Information</a>
 </p>
-<p><a href="https://docs.google.com/spreadsheets/d/1FSkeozvEgAmgeABa0tOVFMwnWGnULH04/edit?usp=sharing&amp;ouid=115628954706861784186&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Form Teachers List</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1FSkeozvEgAmgeABa0tOVFMwnWGnULH04/edit?usp=drive_link&amp;ouid=115628954706861784186&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">Form Teachers List</a>
 </p>
 <p><a href="https://docs.google.com/spreadsheets/d/1fQF_nOEkMrunNDrK6-xhhIq2wR0M0LW5JsPoo_6jGyg/edit?usp=sharing" rel="noopener nofollow" target="_blank">Subject Teachers 2026</a>
 </p>
