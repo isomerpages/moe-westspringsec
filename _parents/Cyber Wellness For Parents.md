@@ -25,10 +25,10 @@ Here are some useful resources to help you as parents to reinforce Cyber Wellne
  
  1. Cyber Wellness for your child 
  
- [Cyber Wellness Parents Kit]()
+ [Cyber Wellness Parents Kit](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
  
 2. A parent's guide to to keeping children safe and smart online
 
-[Safe and Smart Online Parenting]()
+[Saffe and Smart Online Parenting](https://www.digitalforlife.gov.sg/learn/resources/all-resources/be-safe-smart-and-kind-online?utm_source=google&utm_medium=cpc&utm_term=OnlineSafety-Overall_Generic&utm_content=TX-TX-NA-NA-NA-Resources&utm_campaign=SEMDfLBrand_Resources&gad_source=1&gad_campaignid=21962581414&gbraid=0AAAAAqs2dkfPnGPT26cqNjiw200ucVcGb&gclid=CjwKCAiAqprNBhB6EiwAMe3yhmFjY503ceWug88W33Tkkd61bwnDcTgxgBaGfK9zI3U7GgIZNAibkxoCDNwQAvD_BwE)
 
 For more information, please email us at [westspringss@moe.edu.sg](http://westspringss.moe.edu.sg/).
