@@ -4,7 +4,7 @@ permalink: /parents/parent-support-group-psg/
 description: ""
 variant: tiptap
 ---
-<p><strong>Welcome to West Spring Parents Support Group (PSG)</strong>
+<p><strong>                 Welcome to West Spring Parents Support Group (PSG)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="psg1 2026" src="/images/psg_image1.png">
@@ -82,7 +82,6 @@ register.</p>
 ensure that our records are up to date.&nbsp;&nbsp;</p>
 <p><strong>Highlights from Our PSG Activities</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="psg4 2026" src="/images/psg_image3.jpg">
 </div>
