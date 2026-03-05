@@ -2,6 +2,7 @@
 title: Cyber Wellness For Parents
 permalink: /parents/cyber-wellness-for-parents/
 description: ""
+variant: markdown
 ---
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. Cyber Wellness also involves being a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.
 
