@@ -510,17 +510,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nutrition and Food Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Magdalene Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ho_ngai_kuen_magdalene@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
