@@ -46,7 +46,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/13aSsH2dblmC2mr6b18aQYVS2DQLBhbxj/view?usp=drive_link" rel="noopener nofollow" target="_blank">2026 Semester 1 Term 2 Class Timetable</a>
+<p><a href="https://drive.google.com/file/d/1bwLrmEIJgLDnK7X5_tpd5FrLSFsxXGik/view?usp=sharing" rel="noopener nofollow" target="_blank">2026 Semester 1 Term 2 Class Timetable</a>
 </p>
 </li>
 <li>
