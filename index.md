@@ -25,6 +25,11 @@ sections:
       id: announcements
       subtitle: Most Recent
       announcement_items:
+        - title: 2026 Term 2 Principal's Welcome Letters
+          date: 24 March 2026
+          announcement: Letters to parents and term 2 class timetable.
+          link_text: Learn more
+          link_url: /term-2-2026-welcome-back-to-school/
         - title: Sec 1 Parent Engagement
           date: 06 February 2026
           announcement: Sec 1 Parent Engagement - Learning Structures
@@ -35,11 +40,6 @@ sections:
           announcement: Recognising Talent. Rewarding Excellence.
           link_text: Learn more
           link_url: https://www.westspringsec.moe.edu.sg/wsss-scholarships/
-        - title: 2026 Term 1 Principal's Welcome Letters
-          date: 30 December 2025
-          announcement: Letters to parents and semester 1 class timetable.
-          link_text: Find out more
-          link_url: /term-1-2026-welcome-back-to-school/
   - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
