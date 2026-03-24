@@ -23,37 +23,35 @@ variant: tiptap
 </ul>
 <p>Have a good term of learnings!
 <br>Regards</p>
-<p>West Spring Secondary</p>
-<p></p>
+<p>West Spring Secondary School</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2026_T1_Sec_1_Principal_s_Welcome_Letter.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter to all Sec 1 (T2 2026)</a>
+<p><a href="/files/Sec_1_Principal_s_Welcome_Letter__T2_2026_.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter to all Sec 1 (T2 2026)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2026_T1_Sec2_Principal_s_Welcome_Letter.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter to all Sec 2 (T2 2026)</a>
+<p><a href="/files/Sec_2_Principal_s_Welcome_Letter__T2_2026_.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter to all Sec 2 (T2 2026)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2026_T1_Sec3_Principal_s_Welcome_Letter.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter to all Sec 3 (T2 2026)</a>
+<p><a href="/files/Sec_3_Principal_s_Welcome_Letter__T2_2026_.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter to all Sec 3 (T2 2026)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2026_T1_Sec45_Principal_s_Welcome_Letter.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter to all Sec 45 (T2 2026)</a>
+<p><a href="/files/Sec_45_Principal_s_Welcome_Letter__T2_2026_.pdf" rel="noopener nofollow" target="_blank">Principal's Welcome Letter to all Sec 45 (T2 2026)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Annex_A___Assessment_Policy.pdf" rel="noopener nofollow" target="_blank">Attire and Grooming Term 2 2026</a>
+<p><a href="/files/Attire_and_Grooming_2026__T2_2026_.pdf" rel="noopener nofollow" target="_blank">Attire and Grooming Term 2 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Annex_B___MOE_s_Refreshed_Guidelines_for_School_Home_Partnership___WSSS_Our_Shared_Commitment.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Term 2 HBL Timetable</a>
+<p><a href="/files/2026_Sem_1__Term_2__Class_Timetable.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Term 2 Class Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/v5_5__2026_Sem_1_Classes.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Term 2 Class Timetable</a>
+<p><a href="/files/HBL_Timetable__T2_2026_.pdf" rel="noopener nofollow" target="_blank">2026 Semester 1 Term 2 HBL Timetable</a>
 </p>
-<p></p>
 </li>
 </ol>
 <p></p>
