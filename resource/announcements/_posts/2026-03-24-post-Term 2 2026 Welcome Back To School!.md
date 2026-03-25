@@ -30,7 +30,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1gUuktvyqneekv6UkwhNRWguocgufd4ma/view?usp=drive_link" rel="noopener nofollow" target="_blank">Principal's Welcome Letter to all Sec 2 (T2 2026)</a>
+<p><a href="https://drive.google.com/file/d/1ncGuZS9w-9HMdOFp7-VtUcpSVVTzs2WV/view?usp=drive_link" rel="noopener nofollow" target="_blank">Principal's Welcome Letter to all Sec 2 (T2 2026)</a>
 </p>
 </li>
 <li>
