@@ -56,4 +56,4 @@ so:</p>
 <p></p>
 <p>Thank you!</p>
 <p>Best regards,
-<br>West Spring Secondary</p>
+<br>West Spring Secondary School</p>
