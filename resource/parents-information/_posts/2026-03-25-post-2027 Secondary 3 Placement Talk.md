@@ -47,13 +47,15 @@ are any questions, please direct them to:</p>
 so:</p>
 <p><a href="https://go.gov.sg/feedbacks3placement" rel="noopener nofollow" target="_blank"><u>Feedback form</u></a>
 </p>
-<p>The document from the session's Q&amp;A segment will be posted here by
-31 March. Document for Pre-briefing FAQ:</p>
+<p>The documents from the pre-briefing FAQ and session's Q&amp;A segment:</p>
 <p><a href="https://drive.google.com/file/d/12NzL5BnebIQHGEbaGPn6SJYuYMPvQVGD/view?usp=drive_link" rel="noopener nofollow" target="_blank">2027 S3 Placement Briefing for G3_FAQ</a>
 </p>
 <p><a href="https://drive.google.com/file/d/199hmTphr9X56jN21DXsYeDdNyaJkkJDH/view?usp=drive_link" rel="noopener nofollow" target="_blank">2027 S3 Placement Briefing for G1 and G2_FAQ</a>
 </p>
-<p></p>
+<p><a href="https://drive.google.com/file/d/1bik1vIyjRriMYphGrGBvWVs38y0uHL8M/view?usp=drive_link" rel="noopener nofollow" target="_blank">2027 S3 Placement Briefing for G3_Q&amp;A</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1TpQ8EflmFrrlBii2FyMNkP5fAYvQFh3U/view?usp=drive_link" rel="noopener nofollow" target="_blank">2027 S3 Placement Briefing for G1 and G2_Q&amp;A</a>
+</p>
 <p>Thank you!</p>
 <p>Best regards,
 <br>West Spring Secondary School</p>
