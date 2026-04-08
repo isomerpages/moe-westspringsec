@@ -35,6 +35,10 @@ relations. Our students honed their skills in critical thinking and brainstormin
 as they presented their proposed solutions to real-world problems. In the
 3-day workshop, students would gain meaningful experiences as they debated
 against each other for the position of the best speaker.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Congrats to our Sec 4 students who garnered two awards in the HCI Model UN 2026!" src="/images/Model_UN.jpg">
+</div>
 <p>
 <br>
 </p>
