@@ -143,22 +143,12 @@ passion for Football</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants who are in the
 primary school football team or training in external clubs are encouraged
 to apply.</p>
+<p></p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
 <hr>
-<p>-Applicants must be medically fit to participate in sports / physical
-activities</p>
-<p>- Applicants must demonstrate strong technical proficiency in fundamental
-football skills.</p>
-<p>Applicants should exhibit the ability to work collaboratively within a
-competitive team environment</p>
-<p>- Applicants should demonstrate exemplary behaviour and a positive attitude
-towards learning.</p>
-<p>- Applicants should have relevant football experience. Previous participation
-in school teams, clubs, or national age-group programmes participation
-and achievements in inter-school or national competitions would strengthen
-applications.</p>
+<p>then applications.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;&nbsp;&nbsp;&nbsp; Applicants are required to attend an interview
@@ -238,6 +228,7 @@ the applicants.</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong proficiency in singing</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Substantial experience in
 vocal performance</p>
+<p>●&nbsp;&nbsp;&nbsp;</p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
@@ -264,47 +255,91 @@ during the audition.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Application Process</strong>
-</p>
-<p>6. <strong>Online application (7 May 2025, 11am to 3 June 2025, 3pm) </strong>through
-the online DSA-Sec Portal. The application is free-of-charge and will be
-open from (7 May to 3 June). For more details, please refer to MOE website
-– <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.
-Only one parent’s SingPass is needed to login to the portal. Find out
-<a href="https://ask.gov.sg/singpass/questions/clul27aq60028yisxifw2l2w3" rel="noopener nofollow" target="_blank">how to register for a SingPass</a>if you don’t have one - <a href="https://portal.singpass.gov.sg/home/ui/register/instructions" rel="noopener nofollow" target="_blank">https://portal.singpass.gov.sg/home/ui/register/instructions</a>.
+<p><strong>Application Process</strong>&nbsp;</p>
+<ol start="6">
+<li>
+<p><strong>Online application (6 May – 2 Jun 2026)</strong> Application for
+DSA-Sec can be submitted through the online DSA-Sec Portal. The application
+is free-of-charge and will be open from 6 May 2026, 11am to 2 Jun 2026,
+4.30pm. For more details, please refer to MOE website – www.moe.gov.sg/dsa-sec.
 Parents/ guardians who are unable to apply online can approach their child’s
 primary school for assistance. Applicants NOT studying in MOE mainstream
 primary schools, including Returning Singaporeans and International Students,
 will need to apply for a Registration Numbers (RGxxxxxxx) before they can
-apply through the DSA-Sec Portal – please refer to MOE website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>.</p>
-<p>7. There is no need to submit any supporting documents during the online
+apply through the DSA-Sec Portal – please refer to MOE website at: <em><a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nmsdsa-sec-application</u></a></em>.&nbsp;</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="7">
+<li>
+<p>There is no need to submit any supporting documents during the online
 application stage. Your child’s primary school records (for example, P5
-academic results, CCA, school-based activities, achievements or awards)
-will be automatically shared with the schools.</p>
-<p>8. An applicant can indicate up to 3 choices. A maximum of 2 choices for
-the same school under two different talent areas of that school.</p>
-<p>9. You can update, withdraw and re-submit your application during the
-application period. Application closes on <strong>3 June (3pm)</strong>.Parents
-and students are encouraged to choose schools wisely based on the student’s
-aptitudes and strengths, bearing in mind the school’ academic and non-academic
-requirements, and the programmes available to develop the area of talent.</p>
-<p>10. <strong>Trials, selection test, and interviews (July to August)</strong>.
-You will receive notification from us by <strong>Fri 25 Jul 2025</strong>,
+academic results, CCA, school-based activities, achievements, or awards)
+will be automatically shared with the schools.&nbsp;</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="8">
+<li>
+<p>An applicant can indicate up to 3 choices. A maximum of 2 choices for
+the same school under two different talent areas of that school.&nbsp;</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="9">
+<li>
+<p>You can update, withdraw, and re-submit your application during the application
+period. Application for DSA-Sec can be submitted through the online DSA-Sec
+Portal. <strong>The application is free-of-charge and will be open from 6 May 2026, 11am to 2 Jun 2026, 4.30pm.</strong> For
+more details, please refer to MOE website – <a href="http://www.moe.gov.sg/dsa-sec" class="Hyperlink SCXW262800583 BCX0" rel="noreferrer noopener" target="_blank"><u>www.moe.gov.sg/dsa-sec</u></a>.&nbsp;</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="10">
+<li>
+<p>&nbsp;<strong>Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the school’ academic and non-academic requirements, and the programmes available to develop the area of talent.</strong>&nbsp;</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="11">
+<li>
+<p><strong>Trials, selection test, and interviews (July to August).</strong> You
+will receive notification from us by <strong>Fri 10 Jul 2026</strong>,
 if your child has been shortlisted to undergo Direct School Admission (DSA)
-selection trials/auditions/interviews. All applicants will receive their
-application outcomes by <strong>Thu 4 Sep 2025</strong>. Trials, selection
-tests and interviews will be conducted for shortlisted applicants in July
-to August. Shortlisted applicants will be notified of the dates and timings.</p>
-<p>11. <strong>Notification of outcome by school (by 4 September 2025)</strong>.
-Applicants will be notified of the outcomes by 4 September 2025. The school’s
+selection trials/auditions/interviews.&nbsp;&nbsp;</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="12">
+<li>
+<p><strong>Notification of outcome by school (between 17-28 Aug).</strong> Applicants
+will be notified of the outcomes between 17-28 August 2026. The school’s
 decision is final. The school reserves the right not to release the reasons
-for non-selection of applicants.</p>
-<p>12. Meeting all the criteria does not guarantee the student will be shortlisted/given
-an offer.</p>
-<p>13. Parents and students are encouraged to choose schools wisely based
-on the student’s aptitudes and strengths, bearing in mind the schools’
-academic and non-academic requirements, and the programmes available to
-develop the area of talent.</p>
+for non-selection of applicants.&nbsp;</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="13">
+<li>
+<p>Meeting all the criteria does not guarantee the student will be shortlisted/given
+an offer.&nbsp;</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="14">
+<li>
+<p>Students who are successfully admitted to the school via DSA are required
+to honour their commitment to the school and participate in the activities
+related to the talent they are selected for from year 1-4.&nbsp;</p>
+</li>
+</ol>
+<p>&nbsp;</p>
+<ol start="15">
+<li>
+<p>&nbsp;For further enquiries, please email <a href="mailto:westspringss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>westspringss@moe.edu.sg</u></a>.&nbsp;&nbsp;</p>
+</li>
+</ol>
+<p>&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
