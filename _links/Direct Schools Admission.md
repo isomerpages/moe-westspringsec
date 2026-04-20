@@ -112,9 +112,8 @@ assessing the potential of the applicants.</p>
 <p>&nbsp;</p>
 <p><strong>Applicants will be selected based on the following:</strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strength test (weight of Pistol)</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shooting Trial (Based on groupings
-and scores)</p>
+<p>●Strength test (weight of Pistol)</p>
+<p>●Shooting Trial (Based on groupings and scores)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -136,26 +135,21 @@ and scores)</p>
 <p>•&nbsp; External football competitions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medically fit for physical
-activities</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate aptitude in, and
-passion for Football</p>
+<p>●Medically fit for physical activities</p>
+<p>●Demonstrate aptitude in, and passion for Football</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants who are in the
 primary school football team or training in external clubs are encouraged
 to apply.</p>
-<p></p>
-<p>Applicants who do not have prior experience may also apply. The school
+<p>●Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
 <hr>
-<p>then applications.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp;&nbsp; Applicants are required to attend an interview
+<p>&nbsp;&nbsp;&nbsp;&nbsp; ●Applicants are required to attend an interview
 and selection trial( Jul/Aug)</p>
 <p>&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants will be asked to demonstrate
-skills pertaining to football.</p>
+<p>●Applicants will be asked to demonstrate skills pertaining to football.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -170,21 +164,16 @@ skills pertaining to football.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participate in the following talent development programmes:</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student
-leadership opportunities</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate
-in National School Games</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coaching
-of Junior Players</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; External
-School competitions</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Planning
-and organisation of intra and&nbsp;</p>
+<p>●Student leadership opportunities</p>
+<p>●Participate in National School Games</p>
+<p>●Coaching of Junior Players</p>
+<p>●External School competitions</p>
+<p>●Planning and organisation of intra and&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; inter-class
 programmes or inter-school&nbsp;&nbsp;</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; friendly
 games.</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Day camps</p>
+<p>●Day camps</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medically fit for physical
@@ -194,7 +183,6 @@ in Badminton.</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants who are in the
 primary school Badminton team&nbsp; or training in external clubs are encouraged
 to apply.</p>
-<p>&nbsp;</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants who do not have
 prior experience may also apply. The school will assess applicants based
 on the selection criteria, which may include assessing the potential of
@@ -219,17 +207,15 @@ the applicants.</p>
 <td rowspan="1" colspan="1">
 <p>Participate in the following talent development programmes:</p>
 <p>&nbsp;</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in the SYF Arts Presentations</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; External school competitions</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coaching of juniors / beginner singers</p>
+<p>●Participate in the SYF Arts Presentations</p>
+<p>●External school competitions</p>
+<p>●Coaching of juniors / beginner singers</p>
 <p>Student leadership opportunities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong proficiency in singing</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Substantial experience in
-vocal performance</p>
-<p>●&nbsp;&nbsp;&nbsp;</p>
-<p>Applicants who do not have prior experience may also apply. The school
+<p>●Strong proficiency in singing</p>
+<p>●Substantial experience in vocal performance</p>
+<p>●Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
 <hr>
