@@ -5,87 +5,58 @@ description: ""
 variant: tiptap
 ---
 <h2>Direct Schools Admission (Background)</h2>
-<p>1.&nbsp;&nbsp;&nbsp; The DSA-Sec Exercise was first introduced in 2004
-as part of MOE’s move towards a more flexible and broad-based education
-system. Under the DSA-Sec Exercise, schools will be able to select a percentage
-of their students for admission outside of the centralized posting system,
-via their own selection criteria. Parents and students are encouraged to
-choose schools wisely based on the student’s aptitudes and strengths, bearing
-in mind the schools’ academic and non-academic requirements, and the programmes
+<p>1. The DSA-Sec Exercise was first introduced in 2004 as part of MOE’s
+move towards a more flexible and broad-based education system. Under the
+DSA-Sec Exercise, schools will be able to select a percentage of their
+students for admission outside of the centralized posting system, via their
+own selection criteria. Parents and students are encouraged to choose schools
+wisely based on the student’s aptitudes and strengths, bearing in mind
+the schools’ academic and non-academic requirements, and the programmes
 available to develop the area of talent.</p>
-<p>&nbsp;2.&nbsp;&nbsp;&nbsp; From 2025, application for DSA-Sec can be submitted
-through the online DSA-Sec Portal. The application is free-of-charge and
-will be opened from May to June 2025. For more details, please refer to
-MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/secondary/dsa</a>.
-If you have any questions, please feel free to use the form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdJgXPV4Tr5KappL_ZFmHrvr8-hdatakujOoxN4J1V9uZTNzA/viewform?usp=dialog" rel="noopener nofollow" target="_blank">DSA: I have a question</a> and
-we will get back to you as soon as possible.</p>
+<p>2. From 2026, application for DSA-Sec can be submitted through the online
+DSA-Sec Portal. The application is free-of-charge and will be opened from
+May to June 2026. For more details, please refer to MOE website – www.moe.gov.sg/admissions/direct-admissions/dsa-sec.</p>
+<p></p>
 <h2>DSA-Sec@ West Spring Secondary School</h2>
-<p>3.&nbsp;&nbsp;&nbsp; West Spring Secondary School(WSSS) welcomes prospective
-students who demonstrate talent, passion and ability in our identified
-Sports talent categories. They are Badminton, Football and Shooting. Successful
-applicants will join WSSS in January 2026. Students who are keen to apply
-should possess strong level of motivation and commitment to the talent
-area. While achievement level and mastery in their chosen area is key,
-we are also scouting for students who display strong potential in their
-areas of choice. Generally, students&nbsp; should have:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Growth mind-set and learning disposition to cope well with the Total curriculum
-offered in WSSS.</p>
-</li>
-<li>
-<p>Leadership potential to serve others</p>
-</li>
-<li>
-<p>Passion for life and learning</p>
-</li>
-<li>
-<p>Potential to contribute to the WSSS community</p>
-</li>
-</ul>
+<p>3. West Spring Secondary School(WSSS) welcomes prospective students who
+demonstrate talent, passion, and ability in our identified Sports and Performing
+Arts talent categories. They are Badminton, Football, Shooting and Choir.
+Successful applicants will join WSSS in January 2027. Students who are
+keen to apply should possess strong level of motivation and commitment
+to the talent area. While achievement level and mastery in their chosen
+area is key, we are also scouting for students who display strong potential
+in their areas of choice. Generally, students should have:</p>
+<p>● Growth mind-set and learning disposition to cope well with the Total
+curriculum offered in WSSS.</p>
+<p>● Leadership potential to serve others</p>
+<p>● Passion for life and learning</p>
+<p>● Potential to contribute to the WSSS community</p>
 <p>4. Students admitted into WSSS via DSA will have the opportunity to be
 trained and guided by professional coaches and experienced CCA Teachers
 in-charge. Nurturing each individual’s talent area, the school seeks to
-provide every DSA student with quality programmes, activities and opportunities
+provide every DSA student with quality programmes, activities, and opportunities
 to represent the school in competitions. Besides development in their talent
-area, we will monitor and motivate students to excel in their academic</p>
-<p>5. In West Spring Secondary, the 3 talent areas under DSA-Sec are:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Badminton</strong>
-</p>
-</li>
-<li>
-<p><strong>Football</strong>
-</p>
-</li>
-<li>
-<p><strong>Shooting</strong>
-</p>
-</li>
-</ul>
+area, we will monitor and motivate students to excel in their academic
+performance.</p>
+<p>5. In West Spring Secondary, the 4 talent areas under DSA-Sec are:</p>
+<p>● Badminton;</p>
+<p>● Football;</p>
+<p>● Shooting;</p>
+<p>● Choir.</p>
 <p>Our selection criteria, in general, are as follows:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Interest and Passion</strong>: Applicants should demonstrate a
-keen interest in and passion for their respective talent areas</p>
-</li>
-<li>
-<p><strong>Talent and Aptitude</strong>: Applicants should demonstrate evidence
-of talent and/or aptitude in their talent area</p>
-</li>
-<li>
-<p><strong>Conduct and Attitude for Learning</strong>: Applicants should
-demonstrate evidence of good conduct in school, as well as a positive attitude
-for learning and demeanour&nbsp;</p>
-</li>
-<li>
-<p><strong>Leadership</strong>: &nbsp;Applicants should demonstrate the commitment
-to serve others</p>
-</li>
-</ul>
-<table style="minWidth: 100px">
+<p>● Interest and Passion: Applicants should demonstrate a keen interest
+in and passion for their respective talent areas</p>
+<p>● Talent and Aptitude: Applicants should demonstrate evidence of talent
+and/or aptitude in their talent area</p>
+<p>● Conduct and Attitude for Learning: Applicants Obtain a Conduct Grade
+of ‘Good’ or better in Primary 5 (Overall) &amp; Primary 6 (Mid-year)</p>
+<p>● Leadership: Applicants should role model good values and demonstrate
+the commitment to serve others.</p>
+<p></p>
+<table style="minWidth: 150px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -105,6 +76,12 @@ to serve others</p>
 <td rowspan="1" colspan="1">
 <h4>Selection Process</h4>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -113,51 +90,37 @@ to serve others</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participate in the following talent development programmes:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Student leadership opportunities</p>
-</li>
-<li>
-<p>Participate in National School Games</p>
-</li>
-<li>
-<p>Coaching Junior Players</p>
-</li>
-<li>
-<p>External School competitions</p>
-</li>
-</ul>
+<p>• Student leadership opportunities</p>
+<p>• Participate in National School Games</p>
+<p>• Coaching Junior Players</p>
+<p>• External School competitions</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Medically fit for physical activities</p>
-</li>
-<li>
-<p>Perfect vision or,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Should applicants suffer
-from Myopia: the conditions must be correctable to 20/20 and less than
-500 degrees when uncorrected.</p>
-</li>
-<li>
-<p>Experience in shooting sports participation in primary school or external
-training</p>
-</li>
-</ul>
+<p>● Medically fit for physical activities</p>
+<p>● Perfect vision or,</p>
+<p>● Should applicants suffer from Myopia: the conditions must be correctable
+to 20/20 and less than 500 degrees when uncorrected.</p>
+<p>● Experience in shooting sports participation or external training</p>
+<p>● Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants are required to attend an interview and an audition (Jul/Aug)</p>
-<p><strong>Applicants will be selected based on the following:</strong>&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Strength test (weight of Pistol)</p>
-</li>
-<li>
-<p>Shooting Trial (Based on groupings and scores)</p>
-</li>
-<li>
-<p>Track record of Academics and conduct in school</p>
-</li>
-</ul>
+<p>Applicants are required to attend an interview and selection trial (Jul/Aug)</p>
+<p>&nbsp;</p>
+<p><strong>Applicants will be selected based on the following:</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strength test (weight of Pistol)</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shooting Trial (Based on groupings
+and scores)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -167,56 +130,48 @@ training</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participate in the following talent development programmes:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>&nbsp;Student leadership opportunities</p>
-</li>
-<li>
-<p>Coaching of junior players</p>
-</li>
-<li>
-<p>Day camps and workshops</p>
-</li>
-<li>
-<p>Planning and organisation of intra and inter class programmes&nbsp;</p>
-</li>
-<li>
-<p>National School Games</p>
-</li>
-<li>
-<p>External school competitions</p>
-</li>
-</ul>
+<p>•&nbsp; Student leadership opportunities</p>
+<p>•&nbsp; Coaching of junior players</p>
+<p>•&nbsp; National School Games (NSG)</p>
+<p>•&nbsp; External football competitions</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Medically fit for physical activities</p>
-</li>
-<li>
-<p>Demonstrate aptitude in, and passion for Football</p>
-</li>
-<li>
-<p>Students who are in the primary schoolfootball team or training in external
-clubs are encouraged to apply</p>
-</li>
-</ul>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medically fit for physical
+activities</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate aptitude in, and
+passion for Football</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants who are in the
+primary school football team or training in external clubs are encouraged
+to apply.</p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp;the potential of the applicants.</p>
+<hr>
+<p>-Applicants must be medically fit to participate in sports / physical
+activities</p>
+<p>- Applicants must demonstrate strong technical proficiency in fundamental
+football skills.</p>
+<p>Applicants should exhibit the ability to work collaboratively within a
+competitive team environment</p>
+<p>- Applicants should demonstrate exemplary behaviour and a positive attitude
+towards learning.</p>
+<p>- Applicants should have relevant football experience. Previous participation
+in school teams, clubs, or national age-group programmes participation
+and achievements in inter-school or national competitions would strengthen
+applications.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Applicants are required to attend an interview and selection trial (Jul/Aug)</p>
-<p><strong>Applicants will be selected based on the following:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Aptitude in Football</strong>
-</p>
-</li>
-<li>
-<p><strong>Track record of Academic and Conduct in school</strong>
-</p>
-</li>
-</ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; Applicants are required to attend an interview
+and selection trial( Jul/Aug)</p>
 <p>&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants will be asked to demonstrate
+skills pertaining to football.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -225,58 +180,87 @@ clubs are encouraged to apply</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participate in the following talent development programmes:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Student leadership opportunities</p>
-</li>
-<li>
-<p>Participate in National School Games</p>
-</li>
-<li>
-<p>Coaching of Junior Players</p>
-</li>
-<li>
-<p>External School competitions</p>
-</li>
-<li>
-<p>Planning and organisation of intra and&nbsp;inter-class programmes or
-inter-school&nbsp;&nbsp;friendly games</p>
-</li>
-<li>
-<p>Day camps</p>
-</li>
-</ul>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student
+leadership opportunities</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate
+in National School Games</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coaching
+of Junior Players</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; External
+School competitions</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Planning
+and organisation of intra and&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; inter-class
+programmes or inter-school&nbsp;&nbsp;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; friendly
+games.</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Day camps</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Medically fit for strenuous physical activities.</p>
-</li>
-<li>
-<p>Demonstrate aptitude and passion in Badminton</p>
-</li>
-<li>
-<p>Students who are in the primary school Badminton team &nbsp;or training
-in external clubs are encouraged to apply</p>
-</li>
-</ul>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Medically fit for physical
+activities.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Demonstrate aptitude and passion
+in Badminton.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants who are in the
+primary school Badminton team&nbsp; or training in external clubs are encouraged
+to apply.</p>
+<p>&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applicants who do not have
+prior experience may also apply. The school will assess applicants based
+on the selection criteria, which may include assessing the potential of
+the applicants.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants are required to attend an interview and selection trial (Jul/Aug)</p>
-<p><strong>Applicants will be selected based on the following:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Aptitude in Badminton</strong>
-</p>
-</li>
-<li>
-<p><strong>Conduct in school</strong>
-</p>
-</li>
-</ul>
+<p>● Applicants will be asked to demonstrate skills pertaining to Badminton.</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participate in the following talent development programmes:</p>
+<p>&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Participate in the SYF Arts Presentations</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; External school competitions</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coaching of juniors / beginner singers</p>
+<p>Student leadership opportunities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong proficiency in <a rel="noopener noreferrer nofollow" target="_blank">singing</a><a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[MC(1]</a>&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Substantial experience in
+vocal performance</p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
+<hr>
+<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[MC(1]</a>For proficiency in ‘voice’, I have changed
+ti to ‘singing’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applicants are required to attend an audition and interview conducted
+in school (July / Aug).</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<p>Applicants may also bring along relevant exam certificates and testimonials
+during the audition.</p>
+<p>&nbsp;</p>
+<p>Applicants will be selected based on the following:</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aptitude in singing / vocal performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
