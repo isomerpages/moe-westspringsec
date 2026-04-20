@@ -145,7 +145,7 @@ primary school football team or training in external clubs are encouraged
 to apply.</p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
-assessing <a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[1]</a>&nbsp;the potential of the applicants.</p>
+assessing the potential of the applicants.</p>
 <hr>
 <p>-Applicants must be medically fit to participate in sports / physical
 activities</p>
@@ -235,15 +235,14 @@ the applicants.</p>
 <p>Student leadership opportunities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong proficiency in <a rel="noopener noreferrer nofollow" target="_blank">singing</a><a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[MC(1]</a>&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strong proficiency in singing</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Substantial experience in
 vocal performance</p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
 assessing the potential of the applicants.</p>
 <hr>
-<p>&nbsp;<a href="#_msoanchor_1" class="msocomoff" rel="noopener noreferrer nofollow" target="_blank">[MC(1]</a>For proficiency in ‘voice’, I have changed
-ti to ‘singing’</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applicants are required to attend an audition and interview conducted
