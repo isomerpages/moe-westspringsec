@@ -28,7 +28,7 @@ sections:
         - title: Direct School Admission
           date: 21 April 2026
           announcement: Resources for Direct School Admission DSA 2026
-          link_text: More details
+          link_text: More details here
           link_url: https://www.westspringsec.moe.edu.sg/links/dsa/
         - title: 2026 Term 2 Principal's Welcome Letters
           date: 24 March 2026
