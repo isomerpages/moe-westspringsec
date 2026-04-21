@@ -40,6 +40,11 @@ sections:
           announcement: Recognising Talent. Rewarding Excellence.
           link_text: Learn more
           link_url: https://www.westspringsec.moe.edu.sg/wsss-scholarships/
+        - title: Direct School Admission
+          date: 21 April 2026
+          announcement: Resources for Direct School Admission DSA 2026
+          link_text: Learn more
+          link_url: https://www.westspringsec.moe.edu.sg/links/dsa/
   - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
