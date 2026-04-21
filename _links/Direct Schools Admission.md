@@ -107,11 +107,12 @@ a Conduct Grade of ‘Good’ or better in Primary 5 (Overall) &amp; Primary
 and demonstrate the commitment to serve others.</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2026p1s.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2026p1s2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2026p2s.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2026p2s2.png">
 </div>
 <h4><strong>Application Process</strong></h4>
 <ol data-tight="true" class="tight">
