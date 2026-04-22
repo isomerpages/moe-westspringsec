@@ -27,10 +27,10 @@ sections:
       announcement_items:
         - title: Direct School Admission (DSA)
           date: 21 April 2026
-          announcement: West Spring Secondary welcomes students with passion and talent in
-            Badminton, Football, Shooting and Choir. We value both proven
-            achievement and strong potential. If you are motivated and committed
-            to your discipline, we want to hear from you.
+          announcement: West Spring Secondary School welcomes students with passion and
+            talent in Badminton, Football, Shooting and Choir. We value both
+            proven achievement and strong potential. If you are motivated and
+            committed to your discipline, we want to hear from you.
           link_text: Application details
           link_url: https://www.westspringsec.moe.edu.sg/links/dsa/
         - title: WSSS Scholarships
