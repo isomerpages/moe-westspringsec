@@ -611,7 +611,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science, CPA</p>
+<p>Science, FCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Liyana Bte Kamsani</p>
