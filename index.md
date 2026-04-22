@@ -33,11 +33,6 @@ sections:
             to your discipline, we want to hear from you.
           link_text: Application details
           link_url: https://www.westspringsec.moe.edu.sg/links/dsa/
-        - title: 2026 Term 2 Principal's Welcome Letters
-          date: 24 March 2026
-          announcement: Letters to parents and term 2 class timetable.
-          link_text: Learn more
-          link_url: /term-2-2026-welcome-back-to-school/
         - title: WSSS Scholarships
           date: 06 February 2026
           announcement: Recognising Talent. Rewarding Excellence.
