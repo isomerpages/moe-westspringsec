@@ -7,12 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/B08A0023_720.png
-      variant: image
+      background: /images/B08A0023_720_x6_169.png
+      variant: floating
       title: Leaders of Character, Learners for Life
-      subtitle: Shaping Character | Engaging Learners | Touching Lives
+      subtitle: A vibrant school where students grow in confidence, find purpose and
+        care for others through engaging learning, meaningful experiences and a
+        strong community
       backgroundColor: gray
-      alignment: right
+      alignment: left
       size: sm
       key_highlights:
         - title: Our school Vision, Mission and Values
