@@ -15,7 +15,7 @@ sections:
         strong community
       backgroundColor: gray
       alignment: left
-      size: md
+      size: sm
       key_highlights:
         - title: Our school Vision, Mission and Values
           description: ""
