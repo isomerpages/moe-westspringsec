@@ -41,6 +41,16 @@ sections:
           link_text: Learn more
           link_url: https://www.westspringsec.moe.edu.sg/wsss-scholarships/
   - infopic:
+      title: Discover DSA@WSSS
+      subtitle: Direct School Admission
+      id: infopic
+      description: Pathways for students to pursue passion while growing in character
+        and confidence. Badminton . Choir . Football . Shooting
+      button: more details
+      url: https://www.westspringsec.moe.edu.sg/links/dsa/
+      image: /images/shooting_3.jpg
+      alt: Image alt text
+  - infopic:
       title: Yellow Flame Award - School Green Award
       subtitle: School Achievement
       id: infopic
