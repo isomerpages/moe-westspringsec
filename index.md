@@ -44,8 +44,9 @@ sections:
       title: Discover DSA@WSSS
       subtitle: Direct School Admission
       id: infopic
-      description: Pathways for students to pursue passion while growing in character
-        and confidence. Badminton . Choir . Football . Shooting
+      description: Pathways for motivated and committed  students to pursue passion
+        while growing in character and confidence. Badminton | Choir | Football
+        | Shooting
       button: more details
       url: https://www.westspringsec.moe.edu.sg/links/dsa/
       image: /images/shooting_3.jpg
