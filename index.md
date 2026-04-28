@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/B08A0023_720_x6.png
-      variant: floating
+      variant: side
       title: Leaders of Character, Learners for Life
       subtitle: A vibrant school where students grow in confidence, find purpose and
         care for others through engaging learning, meaningful experiences and a
