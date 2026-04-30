@@ -52,23 +52,6 @@ sections:
       image: /images/shooting_3.jpg
       alt: Image alt text
   - infopic:
-      title: Yellow Flame Award - School Green Award
-      subtitle: School Achievement
-      id: infopic
-      description: West Spring Secondary School was awarded the Yellow Flame Award for
-        our sustainability efforts. We also received the Best 3R Award for ActS,
-        our ALP/PW.
-      alt: Image alt text
-      image: /images/WhatsApp_Image_2024_11_06_at_16_14_03.jpg
-  - infopic:
-      title: Partners in Excellence
-      subtitle: School Achievement
-      id: infopic
-      description: We have been awarded the North West Outstanding School Partner
-        Award 2024.
-      image: /images/West_Spring_Secondary_School___NW_Outstanding_School_Partner_Award_2024__Gold_.jpg
-      alt: Image alt text
-  - infopic:
       title: Leaders of Character
       subtitle: Vision
       id: infopic
