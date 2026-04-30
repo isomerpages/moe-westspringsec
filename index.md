@@ -7,12 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/B08A0023_720.png
+      background: /images/B08A0023_720_x6trsb9.png
       variant: image
       title: Leaders of Character, Learners for Life
-      subtitle: Shaping Character | Engaging Learners | Touching Lives
+      subtitle: A vibrant school where students grow in confidence, find purpose and
+        care for others through engaging learning, meaningful experiences and a
+        strong community
       backgroundColor: gray
-      alignment: right
+      alignment: left
       size: sm
       key_highlights:
         - title: Our school Vision, Mission and Values
@@ -39,21 +41,15 @@ sections:
           link_text: Learn more
           link_url: https://www.westspringsec.moe.edu.sg/wsss-scholarships/
   - infopic:
-      title: Yellow Flame Award - School Green Award
-      subtitle: School Achievement
+      title: Discover DSA@WSSS
+      subtitle: Direct School Admission
       id: infopic
-      description: West Spring Secondary School was awarded the Yellow Flame Award for
-        our sustainability efforts. We also received the Best 3R Award for ActS,
-        our ALP/PW.
-      alt: Image alt text
-      image: /images/WhatsApp_Image_2024_11_06_at_16_14_03.jpg
-  - infopic:
-      title: Partners in Excellence
-      subtitle: School Achievement
-      id: infopic
-      description: We have been awarded the North West Outstanding School Partner
-        Award 2024.
-      image: /images/West_Spring_Secondary_School___NW_Outstanding_School_Partner_Award_2024__Gold_.jpg
+      description: Pathways for motivated and committed  students to pursue passion
+        while growing in character and confidence. Badminton | Choir | Football
+        | Shooting
+      button: more details
+      url: https://www.westspringsec.moe.edu.sg/links/dsa/
+      image: /images/shooting_3.jpg
       alt: Image alt text
   - infopic:
       title: Leaders of Character
