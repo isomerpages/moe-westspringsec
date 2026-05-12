@@ -8,7 +8,7 @@ description: ""
 </p>
 <p>With reference to the PG message sent about the Meet-The-Parents-Session
 (MTPS) for Secondary 1, 2 and 3, MTPS will be conducted in our school on
-Tuesday, 28 October 2025, 8 am - 1 pm.</p>
+Tuesday, 28 October 2026, 8 am - 1 pm.</p>
 <p>Please search for your child's/ward's subject teachers in the table below
 and click on his/her Booking Link to book an appointment to meet the teachers.
 The booking form will be available until 27 October (Mon) 5pm.</p>
