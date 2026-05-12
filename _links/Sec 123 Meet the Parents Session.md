@@ -21,7 +21,7 @@ email address to arrange an alternate date and time.</p>
 <p><a href="https://docs.google.com/spreadsheets/d/1fQF_nOEkMrunNDrK6-xhhIq2wR0M0LW5JsPoo_6jGyg/edit?gid=0#gid=0" rel="noopener noreferrer nofollow" target="_blank">If you need to confirm the names of the Subject Teachers, please click here.</a>
 </p>
 <p>We look forward to meeting you together with your child/ward.</p>
-<h4>Booking Links Below! Please scroll the table to the right for teacher's email address)</h4>
+<h4>Booking Links Below! Please scroll the table to the right for teacher's email address</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
