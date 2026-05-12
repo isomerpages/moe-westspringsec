@@ -16,9 +16,9 @@ The booking form will be available until 27 October (Mon) 5pm.</p>
 certain slots due to other school duties.</p>
 <p>If you are unable to book a timeslot, please contact the teacher at his/her
 email address to arrange an alternate date and time.</p>
-<p><a href="https://drive.google.com/file/d/1jhOGFF1T_tK1K-I6ycvqutHHCRAz5EUH/view?usp=drive_link" rel="noopener nofollow" target="_blank">If you need to confirm the names of the Form Teachers, please click here.</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1FSkeozvEgAmgeABa0tOVFMwnWGnULH04/edit?gid=229698373#gid=229698373" rel="noopener nofollow" target="_blank">If you need to confirm the names of the Form Teachers, please click here.</a>
 </p>
-<p><a href="https://docs.google.com/spreadsheets/d/1PU4V3ZClhXpgPmLA1odAsz-j-54ZR112KhcBwI4BMZ8/edit?gid=484181669#gid=484181669" rel="noopener noreferrer nofollow" target="_blank">If you need to confirm the names of the Subject Teachers, please click here.</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1fQF_nOEkMrunNDrK6-xhhIq2wR0M0LW5JsPoo_6jGyg/edit?gid=0#gid=0" rel="noopener noreferrer nofollow" target="_blank">If you need to confirm the names of the Subject Teachers, please click here.</a>
 </p>
 <p>Thank you! We look forward to meeting you together with your child/ward!</p>
 <h4>Booking Links Below! Please scroll the table to the right for teacher's email address)</h4>
