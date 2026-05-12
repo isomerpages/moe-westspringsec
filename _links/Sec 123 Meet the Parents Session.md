@@ -6,12 +6,12 @@ description: ""
 ---
 <p><strong>Dear Sec 1,2,3 Parents/Guardians,</strong>
 </p>
-<p>With reference to the PG message sent about the Meet-The-Parents-Session
-(MTPS) for Secondary 1, 2 and 3, MTPS will be conducted in our school on
-Tuesday, 28 October 2026, 8 am - 1 pm.</p>
-<p>Please search for your child's/ward's subject teachers in the table below
-and click on his/her Booking Link to book an appointment to meet the teachers.
-The booking form will be available until 27 October (Mon) 5pm.</p>
+<p>&nbsp;With reference to the PG message sent on our T2W10 Meet-The-Parents-Session
+(MTPS) for Secondary 1, 2 and 3, MTPS will be conducted in our school on <strong>29 May 2026 (Friday), 8am - 12pm</strong>.</p>
+<p>Please search for your child's/ward's subject teachers using the link
+below and click on his/her Booking Link to book an appointment to meet
+the teachers. The booking form will open <strong>from 18 May (for Priority booking) and 20 May (for General booking)</strong>.
+All parents may book until <strong>26 May (Tue) 6pm</strong>.</p>
 <p>Please note that some teachers may be away or may not be available at
 certain slots due to other school duties.</p>
 <p>If you are unable to book a timeslot, please contact the teacher at his/her
