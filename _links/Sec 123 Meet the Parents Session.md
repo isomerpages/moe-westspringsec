@@ -1569,7 +1569,7 @@ email address to arrange an alternate date and time.</p>
 <p>Mr.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nur Iskandar (FAJT) (till Sem 1)</p>
+<p>Mr Nur Iskandar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.moe.edu.sg/forms/vrYLAQ" class="in-cell-link" rel="noopener noreferrer nofollow" target="_blank"><u>https://forms.moe.edu.sg/forms/vrYLAQ</u></a>
