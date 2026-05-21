@@ -16,7 +16,7 @@ All parents may book until <strong>26 May (Tue) 6pm</strong>.</p>
 certain slots due to other school duties.</p>
 <p>If you are unable to book a timeslot, please contact the teacher at his/her
 email address to arrange an alternate date and time.</p>
-<p><a href="https://docs.google.com/spreadsheets/d/1FSkeozvEgAmgeABa0tOVFMwnWGnULH04/edit?gid=229698373#gid=229698373" rel="noopener nofollow" target="_blank">If you need to confirm the names of the Form Teachers, please click here.</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1HhtMgCGFGhPMBzc_IJ29AAj-1NHThWeK/edit?usp=drive_link&amp;ouid=115628954706861784186&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">If you need to confirm the names of the Form Teachers, please click here.</a>
 </p>
 <p><a href="https://docs.google.com/spreadsheets/d/1fQF_nOEkMrunNDrK6-xhhIq2wR0M0LW5JsPoo_6jGyg/edit?gid=0#gid=0" rel="noopener noreferrer nofollow" target="_blank">If you need to confirm the names of the Subject Teachers, please click here.</a>
 </p>
