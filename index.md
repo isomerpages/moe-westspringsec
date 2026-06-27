@@ -27,14 +27,11 @@ sections:
       id: announcements
       subtitle: Most Recent
       announcement_items:
-        - title: Direct School Admission (DSA)
-          date: 21 April 2026
-          announcement: West Spring Secondary School welcomes students with passion and
-            talent in Badminton, Football, Shooting and Choir. We value both
-            proven achievement and strong potential. If you are motivated and
-            committed to your discipline, we want to hear from you.
-          link_text: Application details
-          link_url: https://www.westspringsec.moe.edu.sg/links/dsa/
+        - title: Semester 2 2026
+          date: 27 June 2026
+          announcement: Welcome back to school!
+          link_text: Class Timetable
+          link_url: /semester-2-2026-welcome-back-to-school/
         - title: WSSS Scholarships
           date: 06 February 2026
           announcement: Recognising Talent. Rewarding Excellence.
