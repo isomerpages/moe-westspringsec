@@ -748,7 +748,7 @@ assertiveness, negotiation to say 'no' to peer pressure)</p>
 healthy way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 5</p>
+<p>Term 3 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -761,7 +761,7 @@ of a risky situation by applying skills of assertiveness and responsible
 decision-making</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 6</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 </tbody>
@@ -779,6 +779,4 @@ of the year via Parents Gateway.</p>
 out of the <strong><em>eTeens</em> programme</strong> need to complete an
 opt-out form. This form will be communicated to parents at the start of
 the year via Parents Gateway.</p>
-<p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 68920369
-for discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p></p>
