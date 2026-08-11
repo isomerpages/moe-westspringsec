@@ -27,6 +27,11 @@ sections:
       id: announcements
       subtitle: Most Recent
       announcement_items:
+        - title: EOY Exam Time-table
+          date: 31 July 2026
+          announcement: EOY Exam Time-table for S1, S2 and S3 and Parent's Letter
+          link_text: More Details
+          link_url: /2026-eoy-exam-timetable/
         - title: Semester 2 2026
           date: 27 June 2026
           announcement: Welcome back to school!
