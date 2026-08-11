@@ -6,7 +6,9 @@ variant: markdown
 ---
 **Canteen Stall Advertisement**
 
-West Spring Secondary School is inviting applicants to operate a food stall at our school canteen. The stall must sell Malay Rice Dishes.
+**Closing Date for Application: 25 September 2026, 12pm**
+
+West Spring Secondary School invites applicants to operate food stalls at our school canteen. The stalls must sell noodle dishes, specifically 1 Malay Noodle stall and 1 Chinese/Korean/Japanese Noodle stall.
 
 **Background**
 
