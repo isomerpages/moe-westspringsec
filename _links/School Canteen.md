@@ -18,7 +18,7 @@ We are a single session secondary school with student enrolment of  1100 and sta
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Applicants must be able to provide good service and quality food, with prices determined in consultation with the school.
-* Applicants must be able to provide cooked food that meets the health and nutritional standards set by the Health Promotion Board (HPB) under the Healthy Meals in Schools Programme (HMSP) guidelines. (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+* Applicants must be able to provide cooked food that meets the health and nutritional standards set by the Health Promotion Board (HPB) under the Healthy Meals in Schools Programme (HMSP) guidelines [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).
 * Applicants must maintain high standards of food safety and personal hygiene.
 * Applicants must be healthy and fit to operate the stall.
 
