@@ -37,6 +37,11 @@ sections:
           announcement: Recognising Talent. Rewarding Excellence.
           link_text: Learn more
           link_url: https://www.westspringsec.moe.edu.sg/wsss-scholarships/
+        - title: EOY Exam Time-table
+          date: 31 July 2026
+          announcement: EOY Exam Time-table for S1, S2 and S3
+          link_text: More Details
+          link_url: /2026-eoy-exam-timetable/
   - infopic:
       title: Discover DSA@WSSS
       subtitle: Direct School Admission
