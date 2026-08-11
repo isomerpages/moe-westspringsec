@@ -28,8 +28,7 @@ We are a single session secondary school with student enrolment of  1100 and sta
 * Applicants who adopt green practices are also preferred.
 
 **Application Procedure**
-1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
-*  [Application Form](/files/Application_for_Canteen_Stall_in_Existing_School.pdf)
+1. Download and complete the [Application Form](https://drive.google.com/file/d/11lm6pvW3EXLIA36YkCy64KfWmyIsXqkk/view?usp=sharing). You may also request for a hardcopy from the School’s General Office.
 2. Attached the following documents together with the application form:
 *  Photocopy of the NRIC (front and back).
 *  List of proposed menu and pricing for all items.
