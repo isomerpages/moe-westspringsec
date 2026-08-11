@@ -25,9 +25,9 @@ We are a single session secondary school with student enrolment of  1100 and sta
 **Applicants must also fulfil the following criteria:**
 
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
-* Possess catering experience or experience operating in a school environment.
-* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
-* Applicants who adopt green practices are also preferred.
+* Applicants must have catering experience or experience operating in a school environment.
+* The successful applicant is required to apply for a food stall licence from the Singapore Food Agency (SFA).
+* Applicants must adopt green practices.
 
 **Application Procedure**
 1. Download and complete the [Application Form](https://drive.google.com/file/d/11lm6pvW3EXLIA36YkCy64KfWmyIsXqkk/view?usp=sharing). You may also request for a hardcopy from the School’s General Office.
